@@ -30,12 +30,14 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | --- |
 | [3M](https://3m.wd1.myworkdayjobs.com/pt-BR/Search) |
 | [Accenture](https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0) |
+| [Adobe](https://careers.adobe.com/us/en/c/other-jobs) |
 | [Agi](https://jobs.kenoby.com/agi) |
 | [Ágora Investimentos](https://www.linkedin.com/company/agorainvestimentos/jobs/) |
 | [Alelo](https://jobs.kenoby.com/alelo) |
 | [Alura](https://grupoalura.gupy.io/) |
 | [Ambev](https://ambev.gupy.io/) |
 | [Ambev Tech](https://ambevtech.gupy.io/) |
+| [ANBIMA](https://anbima.gupy.io/) |
 | [B2W (Americanas, Submarino e Shoptime)](https://b2w.gupy.io/) |
 | [Banco ABC](https://abcbrasil.gupy.io/) |
 | [Banco Bari](https://bancobari.gupy.io/) |
@@ -57,6 +59,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Centauro](https://jobs.kenoby.com/centauro) |
 | [Cielo](https://cielo.gupy.io/) |
 | [ClearSale](https://jobs.kenoby.com/clearsale) |
+| [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/) |
+| [Coca-Cola FEMSA Brasil](https://trabalheconosco.vagas.com.br/femsa/oportunidades) |
+| [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
 | [Crefisa](https://crefisaesuasempresasparceiras.gupy.io/) |
@@ -73,6 +78,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EMS](https://ems.gupy.io/) |
 | [Energisa (Corp)](https://jobs.kenoby.com/grupoenergisa) |
 | [Energisa (Tecnologia)](https://jobs.kenoby.com/grupoenergisatecnologia) |
+| [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Genial Investimentos](https://genial.gupy.io/) |
 | [Getnet](https://getnet.gupy.io/) |
 | [Globo](https://globo.gupy.io/) |
@@ -85,6 +91,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Habib's](https://habibs.gupy.io/) |
 | [Hering](https://jobs.kenoby.com/ciahering) |
 | [Hotmart](https://jobs.kenoby.com/hotmart) |
+| [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Itaú](https://vemproitau.gupy.io/) |
 | [KPMG](https://jobs.kenoby.com/Kpmg) |
 | [Livelo](https://livelo.gupy.io/) |
@@ -94,6 +101,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [MadeiraMadeira](https://madeiracarreira.gupy.io/) |
 | [McDonalds](https://jobs.kenoby.com/mcdonalds) |
 | [Meliuz](https://meliuz.gupy.io/) |
+| [Microsoft](https://careers.microsoft.com/us/en/search-results) |
 | [MJV](https://jobs.kenoby.com/mjv/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
