@@ -40,9 +40,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ambev](https://ambev.gupy.io/) |
 | [Ambev Tech](https://ambevtech.gupy.io/) |
 | [ANBIMA](https://anbima.gupy.io/) |
-| [B2W (Americanas, Submarino e Shoptime)](https://b2w.gupy.io/) |
 | [Banco ABC](https://abcbrasil.gupy.io/) |
-| [Banco Bari](https://bancobari.gupy.io/) |
 | [Banco BV](https://jobs.lever.co/bv) |
 | [Banco Daycoval](https://bancodaycoval.gupy.io/) |
 | [Banco Fibra](https://bancofibra.gupy.io/) |
@@ -68,11 +66,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
-| [Crefisa](https://crefisaesuasempresasparceiras.gupy.io/) |
 | [CVC Corp](https://cvccorp.gupy.io/) |
 | [CVP (Caixa Vida e Previdência)](https://caixavidaeprevidencia.gupy.io/) |
 | [Dasa Tecnologia](https://dasatecnologia.gupy.io/) |
-| [DATAB](https://datab.gupy.io/) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
 | [Digio](https://digio.gupy.io/) |
 | [Dotz](https://jobs.kenoby.com/dotz) |
@@ -92,7 +88,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Carrefour](https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br/) |
 | [Grupo L'Occitane](https://sejaloccitane.gupy.io/) |
 | [Gupy](https://vempra.gupy.io/) |
-| [Habib's](https://habibs.gupy.io/) |
 | [Hering](https://jobs.kenoby.com/ciahering) |
 | [Hotmart](https://jobs.kenoby.com/hotmart) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
@@ -100,7 +95,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [KPMG](https://jobs.kenoby.com/Kpmg) |
 | [Livelo](https://livelo.gupy.io/) |
 | [Localiza](https://jobs.kenoby.com/localiza/) |
-| [Localiza](https://localizavagas.gupy.io/) |
 | [Loggi](https://apply.workable.com/loggi) |
 | [MadeiraMadeira](https://madeiracarreira.gupy.io/) |
 | [McDonalds](https://jobs.kenoby.com/mcdonalds) |
@@ -112,7 +106,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nestle](https://nestle.gupy.io/) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
-| [Original](https://somosoriginal.gupy.io/) |
 | [PagSeguro](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
 | [Porto Seguro](https://jobs.kenoby.com/porto-seguro/) |
