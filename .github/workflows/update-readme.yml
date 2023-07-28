@@ -1,5 +1,5 @@
 name: 'Update files'
-run-name: 'Updating companies.csv and README.md'
+run-name: 'Updating career-websites.csv and README.md'
 
 on:
   push:
@@ -25,15 +25,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f src/py/requirements.txt ]; then pip install -r src/py/requirements.txt; fi
 
       - name: Github Checkout
         uses: actions/checkout@v3
 
-      - name: Build README
-        run: python script.py
+      - name: Build README.md
+        run: python src/py/update-readme.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update files (README and companies.csv)
+          commit_message: Update files (career-websites.csv and README.md)
