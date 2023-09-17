@@ -34,7 +34,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [3M](https://3m.wd1.myworkdayjobs.com/pt-BR/Search) |
 | [Accenture](https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0) |
 | [Adobe](https://careers.adobe.com/us/en/c/other-jobs) |
-| [Agi](https://jobs.kenoby.com/agi) |
+| [Agi](https://agibank.gupy.io/) |
 | [Alelo](https://jobs.kenoby.com/alelo) |
 | [Alura](https://grupoalura.gupy.io/) |
 | [Ambev](https://ambev.gupy.io/) |
@@ -103,7 +103,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [MJV](https://jobs.kenoby.com/mjv/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
-| [Nestle](https://nestle.gupy.io/) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [PagSeguro](https://pagseguro.gupy.io/) |
