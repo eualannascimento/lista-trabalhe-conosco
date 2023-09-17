@@ -35,7 +35,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Accenture](https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0) |
 | [Adobe](https://careers.adobe.com/us/en/c/other-jobs) |
 | [Agi](https://agibank.gupy.io/) |
-| [Alelo](https://jobs.kenoby.com/alelo) |
+| [Alelo](https://vagas.alelo.com.br/jobs) |
 | [Alura](https://grupoalura.gupy.io/) |
 | [Ambev](https://ambev.gupy.io/) |
 | [Ambev Tech](https://ambevtech.gupy.io/) |
@@ -48,19 +48,18 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco Mercantil](https://mercantil.gupy.io/) |
 | [Banco Ourinvest](https://bancoourinvest.gupy.io) |
 | [Banco Pan](https://boards.greenhouse.io/bancopan) |
-| [Banco Rodobens](https://jobs.kenoby.com/rodobens) |
-| [Banco Sofisa](https://jobs.kenoby.com/bancosofisa) |
+| [Banco Rodobens](https://rodobenscarreiras.gupy.io/) |
+| [Banco Sofisa](https://bancosofisa.gupy.io/) |
 | [banQi](https://banqi.gupy.io/) |
 | [BMG](https://bmg.gupy.io/) |
 | [BMW Group Brasil](https://bmw.gupy.io/) |
 | [Brasilprev](https://brasilprev.gupy.io/) |
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
-| [Cacau Show](https://jobs.kenoby.com/cacaushow) |
-| [Centauro](https://jobs.kenoby.com/centauro) |
-| [Centauro](https://jobs.kenoby.com/centauro) |
+| [Cacau Show](https://cacaushow.gupy.io/) |
+| [Centauro](https://centaurotalentos.gupy.io/) |
 | [Cielo](https://cielo.gupy.io/) |
-| [ClearSale](https://jobs.kenoby.com/clearsale) |
+| [ClearSale](https://clearsale.gupy.io/) |
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/) |
 | [Coca-Cola FEMSA Brasil](https://trabalheconosco.vagas.com.br/femsa/oportunidades) |
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
@@ -71,13 +70,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Dasa Tecnologia](https://dasatecnologia.gupy.io/) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
 | [Digio](https://digio.gupy.io/) |
-| [Dotz](https://jobs.kenoby.com/dotz) |
+| [Dotz](https://dotz.gupy.io/) |
 | [Ebanx](https://boards.greenhouse.io/ebanx) |
 | [Elo](https://vempraelo.gupy.io/) |
 | [Embraer](https://embraer.gupy.io/) |
 | [EMS](https://ems.gupy.io/) |
-| [Energisa (Corp)](https://jobs.kenoby.com/grupoenergisa) |
-| [Energisa (Tecnologia)](https://jobs.kenoby.com/grupoenergisatecnologia) |
+| [Energisa (Corp)](https://grupoenergisa.gupy.io/) |
+| [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Genial Investimentos](https://genial.gupy.io/) |
 | [Getnet](https://getnet.gupy.io/) |
@@ -88,26 +87,26 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Carrefour](https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br/) |
 | [Grupo L'Occitane](https://sejaloccitane.gupy.io/) |
 | [Gupy](https://vempra.gupy.io/) |
-| [Hering](https://jobs.kenoby.com/ciahering) |
-| [Hotmart](https://jobs.kenoby.com/hotmart) |
+| [Hering](https://ciahering.gupy.io/) |
+| [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Itaú](https://vemproitau.gupy.io/) |
-| [KPMG](https://jobs.kenoby.com/Kpmg) |
+| [KPMG Brasil](https://kpmgbrasil.gupy.io/) |
 | [Livelo](https://livelo.gupy.io/) |
-| [Localiza](https://jobs.kenoby.com/localiza/) |
+| [Localiza](https://localiza.gupy.io/) |
 | [Loggi](https://apply.workable.com/loggi) |
-| [MadeiraMadeira](https://madeiracarreira.gupy.io/) |
-| [McDonalds](https://jobs.kenoby.com/mcdonalds) |
+| [McDonalds (Corporativo)](https://corporativomc.gupy.io/) |
+| [McDonalds (Restaurante)](https://restaurantemc.gupy.io/) |
 | [Meliuz](https://meliuz.gupy.io/) |
-| [Microsoft](https://careers.microsoft.com/us/en/search-results) |
-| [MJV](https://jobs.kenoby.com/mjv/) |
+| [MJV](https://mjvcarreiras.gupy.io/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [PagSeguro](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
-| [Porto Seguro](https://jobs.kenoby.com/porto-seguro/) |
+| [Pede Pronto](https://jobs.pedepronto.com.br/jobs) |
+| [Porto](https://porto.gupy.io/) |
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io/) |
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
 | [QUOD](https://vempraquod.gupy.io/) |
@@ -117,12 +116,14 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rede](https://vemprarede.gupy.io/) |
 | [Safra](https://venhasersafra.gupy.io/) |
 | [Santander](https://santanderbrasil.gupy.io/) |
+| [Scania Latin America](https://scania.gupy.io/) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
 | [TakeBlip](https://takeblip.gupy.io/) |
-| [TIVIT](https://jobs.kenoby.com/tivit) |
-| [Toyota Brasil](https://jobs.kenoby.com/toyota) |
-| [Unimed Brasil](https://jobs.kenoby.com/unimeddobrasil) |
+| [TIVIT](https://tivit.gupy.io/) |
+| [Toyota Brasil](https://toyotabrasil.gupy.io/) |
+| [Unimed Brasil](https://unimed-brasil.gupy.io/) |
+| [Veloe](https://vagas.veloe.com.br/jobs) |
 | [Via](https://viavarejo.gupy.io/) |
 | [Via (Corporativo)](https://corporativovia.gupy.io/) |
 | [Via (HUB)](https://viahub.gupy.io/) |
@@ -131,4 +132,3 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [VR](https://vr.gupy.io/) |
 | [will bank](https://vemserwill.gupy.io/) |
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
-| [Zé Delivery](https://jobs.kenoby.com/zedelivery) |
