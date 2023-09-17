@@ -2,8 +2,11 @@
 import requests
 import pandas as pd
 import urllib.request
+import urllib.error
 from datetime import date
 import IPython.display as display
+import socket
+from requests.exceptions import ConnectionError
 
 # Import career-websites.csv to DataFrame
 carrer_websites_df = pd.read_csv('src/csv/career-websites.csv', encoding='utf-8')
@@ -20,7 +23,7 @@ def verify_website_status(url):
             if response.status_code == 200:
                 return '1'
         except requests.exceptions.HTTPError:
-            try:            
+            try:
                 response = urllib.request.urlopen(url)
                 if response.getcode() == 200:
                     return '1'
@@ -28,6 +31,14 @@ def verify_website_status(url):
                     return '0'
             except urllib.error.URLError:
                 return '0'
+            except socket.gaierror:
+                return '0'  # Trate socket.gaierror aqui
+        except ConnectionError:
+            return '0'  # Trate ConnectionError aqui
+    except socket.gaierror:
+        return '0'  # Trate socket.gaierror aqui
+    except requests.exceptions.ConnectionError:
+        return '0'  # Trate socket.gaierror aqui
 
 # Loop through the 'Site' column of the DataFrame and call the `verify_website_status` function on each URL
 for index, row in carrer_websites_df.iterrows():
