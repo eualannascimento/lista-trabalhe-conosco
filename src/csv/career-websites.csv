@@ -64,8 +64,8 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Localiza,Locação,Gupy,https://localiza.gupy.io/,11/09/2023,1
 26/02/2023,Loggi,Logística,Workable,https://apply.workable.com/loggi,11/09/2023,1
 26/02/2023,MadeiraMadeira,Varejo,Gupy,https://madeiracarreira.gupy.io/,11/09/2023,1
-26/02/2023,McDonalds (Restaurante),Restaurante,Gupy,https://restaurantemc.gupy.io/,11/09/2023,1
 26/02/2023,McDonalds (Corporativo),Restaurante,Gupy,https://corporativomc.gupy.io/,11/09/2023,1
+26/02/2023,McDonalds (Restaurante),Restaurante,Gupy,https://restaurantemc.gupy.io/,11/09/2023,1
 26/02/2023,Meliuz,Recompensas,Gupy,https://meliuz.gupy.io/,11/09/2023,1
 27/03/2022,Microsoft,Tecnologia,Plataforma Própria,https://careers.microsoft.com/us/en/search-results,11/09/2023,1
 26/02/2023,MJV,Consultoria,Gupy,https://mjvcarreiras.gupy.io/,11/09/2023,1
@@ -75,6 +75,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Nubank,Banco,Greenhouse,https://boards.greenhouse.io/nubank,11/09/2023,1
 26/02/2023,PagSeguro,Banco,Gupy,https://pagseguro.gupy.io/,11/09/2023,1
 26/02/2023,Paschoalotto,Gestão de Relacionamentos,Gupy,https://paschoalotto.gupy.io/,11/09/2023,1
+17/09/2023,Pede Pronto,Entregas,Bizneo,https://jobs.pedepronto.com.br/jobs,17/09/2023,1
 26/02/2023,Porto,Seguradora,Gupy,https://porto.gupy.io/,11/09/2023,1
 26/02/2023,Positivo Tecnologia,Tecnologia,Gupy,https://positivotecnologia.gupy.io/,11/09/2023,1
 26/02/2023,Quinto Andar,Imoveis,Workable,https://apply.workable.com/quintoandar/,11/09/2023,1
@@ -91,6 +92,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,TIVIT,Tecnologia,Gupy,https://tivit.gupy.io/,11/09/2023,1
 26/02/2023,Toyota Brasil,Automóvel,Gupy,https://toyotabrasil.gupy.io/,11/09/2023,1
 26/02/2023,Unimed Brasil,Saúde,Gupy,https://unimed-brasil.gupy.io/,11/09/2023,1
+17/09/2023,Veloe,Tags,Bizneo,https://vagas.veloe.com.br/jobs,17/09/2023,1
 26/02/2023,Via,Varejo,Gupy,https://viavarejo.gupy.io/,11/09/2023,1
 26/02/2023,Via (Corporativo),Varejo,Gupy,https://corporativovia.gupy.io/,11/09/2023,1
 26/02/2023,Via (HUB),Varejo,Gupy,https://viahub.gupy.io/,11/09/2023,1
@@ -99,6 +101,3 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,VR,Benefícios,Gupy,https://vr.gupy.io/,11/09/2023,1
 26/02/2023,will bank,Banco,Gupy,https://vemserwill.gupy.io/,11/09/2023,1
 26/02/2023,XP Inc,Banco,Greenhouse,https://boards.greenhouse.io/xpinc,11/09/2023,1
-26/02/2023,Zé Delivery,Entregas,Kenoby,https://jobs.kenoby.com/zedelivery,11/09/2023,0
-17/09/2023,Pede Pronto,Entregas,Bizneo,https://jobs.pedepronto.com.br/jobs,17/09/2023,1
-17/09/2023,Veloe,Tags,Bizneo,https://vagas.veloe.com.br/jobs,17/09/2023,1
