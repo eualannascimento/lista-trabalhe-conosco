@@ -95,11 +95,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Livelo](https://livelo.gupy.io/) |
 | [Localiza](https://localiza.gupy.io/) |
 | [Loggi](https://apply.workable.com/loggi) |
-| [MadeiraMadeira](https://madeiracarreira.gupy.io/) |
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io/) |
 | [McDonalds (Restaurante)](https://restaurantemc.gupy.io/) |
 | [Meliuz](https://meliuz.gupy.io/) |
-| [Microsoft](https://careers.microsoft.com/us/en/search-results) |
 | [MJV](https://mjvcarreiras.gupy.io/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
@@ -118,6 +116,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rede](https://vemprarede.gupy.io/) |
 | [Safra](https://venhasersafra.gupy.io/) |
 | [Santander](https://santanderbrasil.gupy.io/) |
+| [Scania Latin America](https://scania.gupy.io/) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
 | [TakeBlip](https://takeblip.gupy.io/) |
