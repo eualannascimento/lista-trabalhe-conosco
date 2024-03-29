@@ -41,6 +41,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ambev Tech](https://ambevtech.gupy.io/) |
 | [ANBIMA](https://anbima.gupy.io/) |
 | [Banco ABC](https://abcbrasil.gupy.io/) |
+| [Banco Alfa](https://alfa.gupy.io/) |
 | [Banco BV](https://jobs.lever.co/bv) |
 | [Banco Daycoval](https://bancodaycoval.gupy.io/) |
 | [Banco Fibra](https://bancofibra.gupy.io/) |
@@ -119,6 +120,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Scania Latin America](https://scania.gupy.io/) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
+| [Swift](https://swift.gupy.io/) |
 | [TakeBlip](https://takeblip.gupy.io/) |
 | [TIVIT](https://tivit.gupy.io/) |
 | [Toyota Brasil](https://toyotabrasil.gupy.io/) |
