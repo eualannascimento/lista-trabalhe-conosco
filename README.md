@@ -99,6 +99,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io/) |
 | [McDonalds (Restaurante)](https://restaurantemc.gupy.io/) |
 | [Meliuz](https://meliuz.gupy.io/) |
+| [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io/) |
 | [MJV](https://mjvcarreiras.gupy.io/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
@@ -106,7 +107,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [PagSeguro](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
-| [Pede Pronto](https://jobs.pedepronto.com.br/jobs) |
 | [Porto](https://porto.gupy.io/) |
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io/) |
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
@@ -115,6 +115,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
 | [Rede](https://vemprarede.gupy.io/) |
+| [Renault do Brasil](https://renaultbrasil.gupy.io/) |
 | [Safra](https://venhasersafra.gupy.io/) |
 | [Santander](https://santanderbrasil.gupy.io/) |
 | [Scania Latin America](https://scania.gupy.io/) |
@@ -124,6 +125,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [TakeBlip](https://takeblip.gupy.io/) |
 | [TIVIT](https://tivit.gupy.io/) |
 | [Toyota Brasil](https://toyotabrasil.gupy.io/) |
+| [Tractian](https://tractian.com/carreiras/vagas) |
 | [Unimed Brasil](https://unimed-brasil.gupy.io/) |
 | [Veloe](https://vagas.veloe.com.br/jobs) |
 | [Via](https://viavarejo.gupy.io/) |
