@@ -52,13 +52,16 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco Rodobens](https://rodobenscarreiras.gupy.io/) |
 | [Banco Sofisa](https://bancosofisa.gupy.io/) |
 | [banQi](https://banqi.gupy.io/) |
+| [Bayer](https://bayer.eightfold.ai/careers?la=pt) |
 | [BMG](https://bmg.gupy.io/) |
 | [BMW Group Brasil](https://bmw.gupy.io/) |
 | [Brasilprev](https://brasilprev.gupy.io/) |
+| [BTG](https://carreiras.btgpactual.com/vagas) |
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
 | [Cacau Show](https://cacaushow.gupy.io/) |
 | [Centauro](https://centaurotalentos.gupy.io/) |
+| [CI&T](https://jobs.lever.co/ciandt) |
 | [Cielo](https://cielo.gupy.io/) |
 | [ClearSale](https://clearsale.gupy.io/) |
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/) |
@@ -106,7 +109,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io/) |
 | [McDonalds (Restaurante)](https://restaurantemc.gupy.io/) |
 | [Meliuz](https://meliuz.gupy.io/) |
+| [Mercado Livre](https://mercadolibre.eightfold.ai/careers?la=pt) |
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io/) |
+| [Microsoft](https://jobs.careers.microsoft.com/global/en/search) |
 | [MJV](https://mjvcarreiras.gupy.io/) |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
 | [Neon](https://jobs.lever.co/neon) |
@@ -126,6 +131,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
+| [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
 | [Santander](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers) |
 | [Scania Latin America](https://scania.gupy.io/) |
 | [Sicredi](https://sicredi.gupy.io/) |
