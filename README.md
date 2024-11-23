@@ -79,7 +79,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EMS](https://ems.gupy.io/) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io/) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
-| [Epic Games](https://www.epicgames.com/site/pt-BR/careers/jobs?country=Brazil&page=1) |
 | [Fanatee](https://fanatee.com/#careers) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [FURIA](https://99jobs.com/furia/jobs) |
@@ -95,6 +94,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Gupy](https://vempra.gupy.io/) |
 | [Hering](https://ciahering.gupy.io/) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
+| [iFood](https://boards.greenhouse.io/ifoodcarreiras) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Itaú](https://vemproitau.gupy.io/) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io/) |
@@ -126,7 +126,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
-| [Santander](https://santanderbrasil.gupy.io/) |
+| [Santander](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers) |
 | [Scania Latin America](https://scania.gupy.io/) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
