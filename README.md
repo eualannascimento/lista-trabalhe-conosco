@@ -97,7 +97,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Gupy](https://vempra.gupy.io/) |
 | [Hering](https://ciahering.gupy.io/) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
-| [iFood](https://boards.greenhouse.io/ifoodcarreiras) |
+| [iFood](https://job-boards.greenhouse.io/ifoodcarreiras) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Itaú](https://vemproitau.gupy.io/) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io/) |
