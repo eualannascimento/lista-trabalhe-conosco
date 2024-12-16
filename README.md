@@ -52,6 +52,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco Rodobens](https://rodobenscarreiras.gupy.io/) |
 | [Banco Sofisa](https://bancosofisa.gupy.io/) |
 | [banQi](https://banqi.gupy.io/) |
+| [Bauducco](https://bauducco.gupy.io/) |
 | [Bayer](https://bayer.eightfold.ai/careers?la=pt) |
 | [BMG](https://bmg.gupy.io/) |
 | [BMW Group Brasil](https://bmw.gupy.io/) |
