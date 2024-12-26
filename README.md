@@ -73,6 +73,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [CVC Corp](https://cvccorp.gupy.io/) |
 | [CVP (Caixa Vida e Previdência)](https://caixavidaeprevidencia.gupy.io/) |
 | [Dasa Tecnologia](https://dasatecnologia.gupy.io/) |
+| [Daycoval DayCambio](https://daycambio.gupy.io/) |
+| [Daycoval DayCred](https://daycred.gupy.io/) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
 | [Digio](https://digio.gupy.io/) |
 | [Dotz](https://dotz.gupy.io/) |
@@ -129,6 +131,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
 | [Rede](https://vemprarede.gupy.io/) |
+| [Renault do Brasil](https://renaultbrasil.gupy.io/) |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
