@@ -156,6 +156,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Vivo](https://vivo.gupy.io/) |
 | [Vivo Digital](https://vivodigital.gupy.io/) |
 | [VR](https://vr.gupy.io/) |
+| [VTEX](https://job-boards.greenhouse.io/vtex) |
 | [webedia](https://webedia.gupy.io/) |
 | [will bank](https://vemserwill.gupy.io/) |
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
