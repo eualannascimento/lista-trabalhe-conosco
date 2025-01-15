@@ -87,6 +87,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
 | [Fanatee](https://fanatee.com/#careers) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
+| [Figma](https://boards.greenhouse.io/figma) |
 | [FURIA](https://99jobs.com/furia/jobs) |
 | [Gamers Club](https://gamersclub.gupy.io/) |
 | [Garena](https://careers.garena.com/global/careers) |
@@ -131,7 +132,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
 | [Rede](https://vemprarede.gupy.io/) |
-| [Renault do Brasil](https://renaultbrasil.gupy.io/) |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
@@ -155,7 +155,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Via (HUB)](https://viahub.gupy.io/) |
 | [Vivo](https://vivo.gupy.io/) |
 | [Vivo Digital](https://vivodigital.gupy.io/) |
-| [VR](https://vr.gupy.io/) |
 | [VTEX](https://job-boards.greenhouse.io/vtex) |
 | [webedia](https://webedia.gupy.io/) |
 | [will bank](https://vemserwill.gupy.io/) |
