@@ -58,6 +58,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [BMW Group Brasil](https://bmw.gupy.io/) |
 | [Brasilprev](https://brasilprev.gupy.io/) |
 | [BTG](https://carreiras.btgpactual.com/vagas) |
+| [BTG Pactual](https://boards.greenhouse.io/btgpactual) |
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
 | [Cacau Show](https://cacaushow.gupy.io/) |
