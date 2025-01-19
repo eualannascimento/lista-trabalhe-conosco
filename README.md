@@ -125,6 +125,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [PagSeguro](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
+| [PicPay](https://boards.greenhouse.io/picpay) |
 | [Porto](https://porto.gupy.io/) |
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io/) |
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
