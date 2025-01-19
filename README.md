@@ -39,6 +39,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Alura](https://grupoalura.gupy.io/) |
 | [Ambev](https://ambev.gupy.io/) |
 | [Ambev Tech](https://ambevtech.gupy.io/) |
+| [Americanas S.A.](https://americanas.gupy.io/) |
 | [ANBIMA](https://anbima.gupy.io/) |
 | [Banco ABC](https://abcbrasil.gupy.io/) |
 | [Banco Alfa](https://alfa.gupy.io/) |
@@ -123,7 +124,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Neon](https://jobs.lever.co/neon) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
-| [PagSeguro](https://pagseguro.gupy.io/) |
+| [PagSeguro (PagBank)](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
 | [PicPay](https://boards.greenhouse.io/picpay) |
 | [Porto](https://porto.gupy.io/) |
