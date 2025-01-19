@@ -2,7 +2,9 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,3M,Indústria Química,Workday,https://3m.wd1.myworkdayjobs.com/pt-BR/Search,13/01/2025,1
 26/02/2023,Accenture,Consultoria,Accenture,https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0,13/01/2025,1
 27/03/2022,Adobe,Software,Plataforma Própria,https://careers.adobe.com/us/en/c/other-jobs,13/01/2025,1
-26/02/2023,Agi,Banco,Gupy,https://agibank.gupy.io/,13/01/2025,1
+26/02/2023,Agibank (Comercial),Banco,Gupy,https://agibank.gupy.io/,13/01/2025,1
+13/01/2025,Agibank (Corporativo),Banco,Gupy,https://corporativo-agibank.gupy.io/,13/01/2025,1
+13/01/2025,Agibank (Tecnologia),Banco,Gupy,https://tecnologia-agibank.gupy.io/,13/01/2025,1
 26/02/2023,Alelo,Benefícios,Bizneo,https://vagas.alelo.com.br/jobs,13/01/2025,1
 26/02/2023,Alura,Educação,Gupy,https://grupoalura.gupy.io/,13/01/2025,1
 26/02/2023,Ambev,Bebidas,Gupy,https://ambev.gupy.io/,13/01/2025,1
@@ -26,7 +28,6 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,BMG,Banco,Gupy,https://bmg.gupy.io/,13/01/2025,1
 26/02/2023,BMW Group Brasil,Automóvel,Gupy,https://bmw.gupy.io/,13/01/2025,1
 26/02/2023,Brasilprev,Seguradora,Gupy,https://brasilprev.gupy.io/,13/01/2025,1
-22/11/2024,BTG,Banco,btgpactual,https://carreiras.btgpactual.com/vagas,13/01/2025,1
 19/01/2023,BTG Pactual,Banco,Greenhouse,https://boards.greenhouse.io/btgpactual,19/01/2025,1
 26/02/2023,C&A,Varejo,Gupy,https://cea.gupy.io/,13/01/2025,1
 26/02/2023,C6 Bank,Banco,Greenhouse,https://boards.greenhouse.io/c6bank,13/01/2025,1
