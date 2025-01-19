@@ -96,6 +96,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Globo](https://globo.gupy.io/) |
 | [GOL Linhas Aéreas](https://golcarreiras.gupy.io/) |
 | [GPA](https://digitalgpa.gupy.io/) |
+| [Greenhouse](https://job-boards.greenhouse.io/greenhouse) |
 | [Grupo Boticário](https://grupoboticario.gupy.io/) |
 | [Grupo Carrefour](https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br/) |
 | [Grupo L'Occitane](https://sejaloccitane.gupy.io/) |
