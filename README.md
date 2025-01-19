@@ -31,7 +31,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 
 | Nome da Empresa (+ Link do Trabalhe Conosco) |
 | --- |
-| [3M](https://3m.wd1.myworkdayjobs.com/pt-BR/Search) |
+| [3M](https://3m.wd1.myworkdayjobs.com/Search) |
 | [Accenture](https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0) |
 | [Adobe](https://careers.adobe.com/us/en/c/other-jobs) |
 | [Agibank (Comercial)](https://agibank.gupy.io/) |
@@ -128,7 +128,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io/) |
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/search) |
 | [MJV](https://mjvcarreiras.gupy.io/) |
-| [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/pt-BR/NaturaCarreiras) |
+| [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaCarreiras) |
 | [Neon](https://jobs.lever.co/neon) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
@@ -140,7 +140,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
 | [QUOD](https://vempraquod.gupy.io/) |
 | [Raizen](https://genteraizen.gupy.io/) |
-| [Razer](https://razer.wd3.myworkdayjobs.com/en-US/Careers) |
+| [Razer](https://razer.wd3.myworkdayjobs.com/Careers) |
 | [RD Station](https://boards.greenhouse.io/rdstation) |
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
@@ -149,7 +149,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
-| [Santander](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers) |
+| [Santander](https://santander.wd3.myworkdayjobs.com/SantanderCareers) |
 | [Scania Latin America](https://scania.gupy.io/) |
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) |
 | [Sicredi](https://sicredi.gupy.io/) |
