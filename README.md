@@ -70,7 +70,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [CI&T](https://jobs.lever.co/ciandt) |
 | [Cielo](https://cielo.gupy.io/) |
 | [ClearSale](https://clearsale.gupy.io/) |
-| [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/) |
+| [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
 | [Coca-Cola FEMSA Brasil](https://trabalheconosco.vagas.com.br/femsa/oportunidades) |
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
 | [Creditas](https://job-boards.greenhouse.io/creditas) |
@@ -128,7 +128,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io/) |
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/search) |
 | [MJV](https://mjvcarreiras.gupy.io/) |
-| [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaAndCoCareers) |
+| [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/pt-BR/NaturaCarreiras) |
 | [Neon](https://jobs.lever.co/neon) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
@@ -140,7 +140,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
 | [QUOD](https://vempraquod.gupy.io/) |
 | [Raizen](https://genteraizen.gupy.io/) |
-| [Razer](https://razer.wd3.myworkdayjobs.com/Careers) |
+| [Razer](https://razer.wd3.myworkdayjobs.com/en-US/Careers) |
 | [RD Station](https://boards.greenhouse.io/rdstation) |
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
