@@ -63,6 +63,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
 | [Cacau Show](https://cacaushow.gupy.io/) |
+| [Caju](https://caju.gupy.io) |
 | [Centauro](https://centaurotalentos.gupy.io/) |
 | [CI&T](https://jobs.lever.co/ciandt) |
 | [Cielo](https://cielo.gupy.io/) |
@@ -70,6 +71,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/) |
 | [Coca-Cola FEMSA Brasil](https://trabalheconosco.vagas.com.br/femsa/oportunidades) |
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
+| [Creditas](https://job-boards.greenhouse.io/creditas) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
 | [CVC Corp](https://cvccorp.gupy.io/) |
@@ -87,6 +89,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EMS](https://ems.gupy.io/) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io/) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
+| [Experian](https://careers.smartrecruiters.com/experian) |
 | [Fanatee](https://fanatee.com/#careers) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Figma](https://boards.greenhouse.io/figma) |
@@ -105,8 +108,12 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Hering](https://ciahering.gupy.io/) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
 | [iFood](https://job-boards.greenhouse.io/ifoodcarreiras) |
+| [ília](https://boards.greenhouse.io/ilia) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
+| [Inter](https://boards.greenhouse.io/inter) |
+| [Isaac](https://boards.greenhouse.io/isaac) |
 | [Itaú](https://vemproitau.gupy.io/) |
+| [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io/) |
 | [LevelUp](https://trampos.co/level-up) |
 | [Livelo](https://livelo.gupy.io/) |
@@ -133,6 +140,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [QUOD](https://vempraquod.gupy.io/) |
 | [Raizen](https://genteraizen.gupy.io/) |
 | [Razer](https://razer.wd3.myworkdayjobs.com/Careers) |
+| [RD Station](https://boards.greenhouse.io/rdstation) |
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
 | [Rede](https://vemprarede.gupy.io/) |
@@ -161,5 +169,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Vivo Digital](https://vivodigital.gupy.io/) |
 | [VTEX](https://job-boards.greenhouse.io/vtex) |
 | [webedia](https://webedia.gupy.io/) |
+| [Wellhub (GymPass)](https://boards.greenhouse.io/gympass) |
 | [will bank](https://vemserwill.gupy.io/) |
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
