@@ -90,7 +90,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EMS](https://ems.gupy.io/) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io/) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
-| [Experian](https://careers.smartrecruiters.com/experian) |
 | [Fanatee](https://fanatee.com/#careers) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Figma](https://boards.greenhouse.io/figma) |
@@ -151,6 +150,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
 | [Santander](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers) |
 | [Scania Latin America](https://scania.gupy.io/) |
+| [Serasa Experian](https://careers.smartrecruiters.com/experian) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
 | [Swift](https://swift.gupy.io/) |
