@@ -59,6 +59,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Bayer](https://bayer.eightfold.ai/careers?la=pt) |
 | [BMG](https://bmg.gupy.io/) |
 | [BMW Group Brasil](https://bmw.gupy.io/) |
+| [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) |
 | [Brasilprev](https://brasilprev.gupy.io/) |
 | [BTG Pactual](https://boards.greenhouse.io/btgpactual) |
 | [C&A](https://cea.gupy.io/) |
