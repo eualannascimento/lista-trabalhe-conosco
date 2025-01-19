@@ -34,7 +34,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [3M](https://3m.wd1.myworkdayjobs.com/pt-BR/Search) |
 | [Accenture](https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0) |
 | [Adobe](https://careers.adobe.com/us/en/c/other-jobs) |
-| [Agi](https://agibank.gupy.io/) |
+| [Agibank (Comercial)](https://agibank.gupy.io/) |
+| [Agibank (Corporativo)](https://corporativo-agibank.gupy.io/) |
+| [Agibank (Tecnologia)](https://tecnologia-agibank.gupy.io/) |
 | [Alelo](https://vagas.alelo.com.br/jobs) |
 | [Alura](https://grupoalura.gupy.io/) |
 | [Ambev](https://ambev.gupy.io/) |
@@ -58,7 +60,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [BMG](https://bmg.gupy.io/) |
 | [BMW Group Brasil](https://bmw.gupy.io/) |
 | [Brasilprev](https://brasilprev.gupy.io/) |
-| [BTG](https://carreiras.btgpactual.com/vagas) |
 | [BTG Pactual](https://boards.greenhouse.io/btgpactual) |
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
