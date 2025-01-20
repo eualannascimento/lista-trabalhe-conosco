@@ -167,7 +167,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io) |
 | [McDonalds (Restaurante)](https://restaurantemc.gupy.io) |
 | [Meliuz](https://meliuz.gupy.io) |
-| [Mercado Livre](https://mercadolibre.eightfold.ai/careers?la=pt) |
 | [Mercado Livre](https://mercadolibre.eightfold.ai/careers) |
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io) |
 | [Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
