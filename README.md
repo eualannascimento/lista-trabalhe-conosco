@@ -49,6 +49,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ambev Tech](https://ambevtech.gupy.io) |
 | [American Express](https://aexp.eightfold.ai/careers?hl=en) |
 | [Americanas S.A.](https://americanas.gupy.io) |
+| [Amil](https://career19.sapsf.com/careers?company=amilassist) |
 | [ANBIMA](https://anbima.gupy.io) |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) |
 | [Banco ABC](https://abcbrasil.gupy.io) |
