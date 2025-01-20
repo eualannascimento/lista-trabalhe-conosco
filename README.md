@@ -104,6 +104,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EMS](https://ems.gupy.io) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) |
+| [Faber-Castell](https://fabercastell.gupy.io/) |
 | [Fanatee](https://fanatee.com/#careers) |
 | [FedEx](https://fedex.wd1.myworkdayjobs.com/FXE-EU_External) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
@@ -143,6 +144,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [LG Electronics do Brasil LTDA](https://lge.gupy.io) |
 | [Livelo](https://livelo.gupy.io) |
 | [Localiza](https://localiza.gupy.io) |
+| [Loft](https://loft.gupy.io/) |
 | [Loggi](https://apply.workable.com/loggi) |
 | [Lojas Renner S.A.](https://encantech.gupy.io) |
 | [LOUD](https://loud.gupy.io) |
@@ -195,6 +197,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sony Interactive Entertainment Global](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal) |
 | [Sony Music](https://sonymusic.gupy.io) |
 | [Swift](https://swift.gupy.io) |
+| [Sympla](https://sympla.inhire.app/vagas) |
+| [T4F | Time for Fun](https://t4f.gupy.io/) |
 | [TakeBlip](https://takeblip.gupy.io) |
 | [Tapps Games](https://tapps.gupy.io) |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) |
