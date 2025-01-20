@@ -65,7 +65,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco Sofisa](https://bancosofisa.gupy.io) |
 | [banQi](https://banqi.gupy.io) |
 | [Bauducco](https://bauducco.gupy.io) |
-| [Bayer](https://bayer.eightfold.ai/careers?la=pt) |
 | [Bayer](https://bayer.eightfold.ai/careers) |
 | [Blizzard](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers) |
 | [BMG](https://bmg.gupy.io) |
@@ -224,7 +223,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Tapps Games](https://tapps.gupy.io) |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) |
 | [TIVIT](https://tivit.gupy.io) |
-| [Toyota Brasil](https://toyotabrasil.gupy.io) |
 | [Toyota Brasil](https://toyotabrasil.gupy.io) |
 | [Tractian](https://tractian.com/carreiras/vagas) |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) |
