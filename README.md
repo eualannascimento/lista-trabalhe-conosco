@@ -181,6 +181,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [OXXO](https://oxxo.eightfold.ai/careers) |
 | [PagSeguro (PagBank)](https://pagseguro.gupy.io) |
 | [Paschoalotto](https://paschoalotto.gupy.io) |
+| [Payclip](https://payclip.bamboohr.com/careers) |
 | [Petz](https://petz.gupy.io) |
 | [Pfizer](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers) |
 | [PicPay](https://boards.greenhouse.io/picpay) |
