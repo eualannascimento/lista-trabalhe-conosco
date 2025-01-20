@@ -5,7 +5,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Accor,Hospitalidade,SmartRecruiters,https://api.smartrecruiters.com/v1/companies/accor/postings,19/01/2025,1
 19/01/2025,Acer,Eletrônicos,SuccessFactors,https://career10.successfactors.com/career?company=acerincorp,19/01/2025,1
 19/01/2025,Aché,Farmacêutica,Gupy,https://vagasache.gupy.io/,19/01/2025,1
-19/01/2025,Adobe,Tecnologia,Workday,https://adobe.wd5.myworkdayjobs.com/external_experienced/jobs,19/01/2025,1
+19/01/2025,Adobe,Tecnologia,Workday,https://adobe.wd5.myworkdayjobs.com/external_experienced,19/01/2025,1
 26/02/2023,Agibank (Comercial),Banco,Gupy,https://agibank.gupy.io,20/01/2025,1
 13/01/2025,Agibank (Corporativo),Banco,Gupy,https://corporativo-agibank.gupy.io,20/01/2025,1
 13/01/2025,Agibank (Tecnologia),Banco,Gupy,https://tecnologia-agibank.gupy.io,20/01/2025,1
@@ -35,7 +35,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 15/12/2024,Bauducco,Alimentos,Gupy,https://bauducco.gupy.io,20/01/2025,1
 22/11/2024,Bayer,Saúde,eightfold,https://bayer.eightfold.ai/careers?la=pt,20/01/2025,1
 19/01/2025,Bayer,Farmacêutica,Eightfold,https://bayer.eightfold.ai/careers,19/01/2025,1
-19/01/2025,Blizzard,Entretenimento,Workday,https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job,19/01/2025,1
+19/01/2025,Blizzard,Entretenimento,Workday,https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers,19/01/2025,1
 26/02/2023,BMG,Banco,Gupy,https://bmg.gupy.io,20/01/2025,1
 26/02/2023,BMW Group Brasil,Automóvel,Gupy,https://bmw.gupy.io,20/01/2025,1
 19/01/2025,BNY Mellon,Financeiro,Eightfold,https://bnymellon.eightfold.ai/careers,19/01/2025,1
@@ -211,3 +211,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Yamaha,Automotivo,Gupy,https://yamaha.gupy.io,19/01/2025,1
 19/01/2025,Youse,Seguros,Gupy,https://vagas-youse.gupy.io,19/01/2025,1
 19/01/2025,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation,20/01/2025,1
+20/01/2025,Salesforce,Tecnologia,Workday,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site,19/01/2025,1
+20/01/2025,Embraer,Aeronáutica,Gupy,https://embraer.gupy.io/,19/01/2025,1
+20/01/2025,TransUnion,Financeiro,Workday,https://transunion.wd5.myworkdayjobs.com/TransUnion,19/01/2025,1
+20/01/2025,Kimberly Clark,Produtos de Consumo,Workday,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL,19/01/2025,1
