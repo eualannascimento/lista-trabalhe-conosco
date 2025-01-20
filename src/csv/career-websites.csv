@@ -3,10 +3,12 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,AB InBev,Bebidas,Greenhouse,https://job-boards.greenhouse.io/abinbev,20/01/2025,1
 26/02/2023,Accenture,Consultoria,Accenture,https://www.accenture.com/pt-pt/careers/jobsearch?clp=1&jk=&sb=1&pg=1&vw=1&is_rj=0,20/01/2025,1
 27/03/2022,Adobe,Software,Plataforma Própria,https://careers.adobe.com/us/en/c/other-jobs,20/01/2025,1
+19/01/2025,Adobe,Tecnologia,Workday,https://adobe.wd5.myworkdayjobs.com/external_experienced/jobs,19/01/2025,1
 26/02/2023,Agibank (Comercial),Banco,Gupy,https://agibank.gupy.io/,20/01/2025,1
 13/01/2025,Agibank (Corporativo),Banco,Gupy,https://corporativo-agibank.gupy.io/,20/01/2025,1
 13/01/2025,Agibank (Tecnologia),Banco,Gupy,https://tecnologia-agibank.gupy.io/,20/01/2025,1
 26/02/2023,Alelo,Benefícios,Bizneo,https://vagas.alelo.com.br/jobs,20/01/2025,1
+19/01/2025,Alice,Healthtech,InHire,https://alice.inhire.app/vagas,19/01/2025,1
 26/02/2023,Alura,Educação,Gupy,https://grupoalura.gupy.io/,20/01/2025,1
 26/02/2023,Ambev,Bebidas,Gupy,https://ambev.gupy.io/,20/01/2025,1
 26/02/2023,Ambev Tech,Tecnologia,Gupy,https://ambevtech.gupy.io/,20/01/2025,1
@@ -30,6 +32,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,BMW Group Brasil,Automóvel,Gupy,https://bmw.gupy.io/,20/01/2025,1
 19/01/2025,Bosch Group,Tecnologia,SmartRecruiters,https://careers.smartrecruiters.com/BoschGroup,20/01/2025,1
 26/02/2023,Brasilprev,Seguradora,Gupy,https://brasilprev.gupy.io/,20/01/2025,1
+19/01/2025,Braskem,Indústria,OracleCloud,https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions,19/01/2025,1
 19/01/2023,BTG Pactual,Banco,Greenhouse,https://boards.greenhouse.io/btgpactual,20/01/2025,1
 26/02/2023,C&A,Varejo,Gupy,https://cea.gupy.io/,20/01/2025,1
 26/02/2023,C6 Bank,Banco,Greenhouse,https://boards.greenhouse.io/c6bank,20/01/2025,1
@@ -64,6 +67,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Dotz,Benefícios,Gupy,https://dotz.gupy.io/,20/01/2025,1
 01/09/2024,DRUID Creative Gaming,Games,Gupy,https://druid.gupy.io/,20/01/2025,1
 26/02/2023,Ebanx,Soluções de Pagamento,Greenhouse,https://boards.greenhouse.io/ebanx,20/01/2025,1
+19/01/2025,Elgin,Eletrodomésticos,Gupy,https://sejaelgin.gupy.io/,19/01/2025,1
 26/02/2023,Elo,Soluções de Pagamento,Gupy,https://vempraelo.gupy.io/,20/01/2025,1
 26/02/2023,Embraer,Viagens,Gupy,https://embraer.gupy.io/,20/01/2025,1
 26/02/2023,EMS,Farmacia,Gupy,https://ems.gupy.io/,20/01/2025,1
@@ -77,6 +81,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 01/09/2024,Gamers Club,Games,Gupy,https://gamersclub.gupy.io/,20/01/2025,1
 01/09/2024,Garena,Games,Garena,https://careers.garena.com/global/careers,20/01/2025,1
 26/02/2023,Genial Investimentos,Corretora,Gupy,https://genial.gupy.io/,20/01/2025,1
+19/01/2025,Gerdau,Indústria,Sap SuccessFactors,https://career19.sapsf.com/careers?company=gerdauacos,19/01/2025,1
 26/02/2023,Globo,Televisão,Gupy,https://globo.gupy.io/,20/01/2025,1
 26/02/2023,GOL Linhas Aéreas,Viagens,Gupy,https://golcarreiras.gupy.io/,20/01/2025,1
 26/02/2023,GPA,Varejo,Gupy,https://digitalgpa.gupy.io/,20/01/2025,1
@@ -86,7 +91,12 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Grupo Despegar (Decolar.com),Viagens,Lever,https://jobs.lever.co/despegar,20/01/2025,1
 26/02/2023,Grupo L'Occitane,Cosméticos,Gupy,https://sejaloccitane.gupy.io/,20/01/2025,1
 26/02/2023,Gupy,Recrutamento,Gupy,https://vempra.gupy.io/,20/01/2025,1
+19/01/2025,Hapvida NotreDame Intermédica,Saúde,Gupy,https://hapvidandi.gupy.io/,19/01/2025,1
+19/01/2025,Hapvida NotreDame Intermédica,Saúde,InfoJobs,https://hapvidandi.pandape.infojobs.com.br/,19/01/2025,1
 26/02/2023,Hering,Varejo,Gupy,https://ciahering.gupy.io/,20/01/2025,1
+19/01/2025,Honda,Automotivo,Gupy,https://honda.gupy.io/,19/01/2025,1
+19/01/2025,Hospital Albert Einstein,Saúde,SuccessFactors,https://career8.successfactors.com/career?company=C0001240283P,19/01/2025,1
+19/01/2025,Hospital Sírio-Libanês,Saúde,Sap SuccessFactors,https://career19.sapsf.com/careers?company=sociedad02,19/01/2025,1
 26/02/2023,Hotmart,Tecnologia,Greenhouse,https://boards.eu.greenhouse.io/hotmartcareersbr,20/01/2025,1
 22/11/2024,iFood,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/ifoodcarreiras,20/01/2025,1
 19/01/2025,ília,Tecnologia,Greenhouse,https://boards.greenhouse.io/ilia,20/01/2025,1
@@ -95,14 +105,17 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Isaac,Financeiro,Greenhouse,https://boards.greenhouse.io/isaac,20/01/2025,1
 26/02/2023,Itaú,Banco,Gupy,https://vemproitau.gupy.io/,20/01/2025,1
 19/01/2025,JusBrasil,Tecnologia,Greenhouse,https://boards.greenhouse.io/jusbrasil,20/01/2025,1
+19/01/2025,Kiwify,Tecnologia,InHire,https://kiwify.inhire.app/vagas,19/01/2025,1
 26/02/2023,KPMG Brasil,Consultoria,Gupy,https://kpmgbrasil.gupy.io/,20/01/2025,1
 19/01/2025,L'Occitane,Cosméticos,Gupy,https://sejaloccitane.gupy.io/,20/01/2025,1
 01/09/2024,LevelUp,Games,trampos,https://trampos.co/level-up,20/01/2025,1
+19/01/2025,LG Electronics do Brasil LTDA,Eletrônicos,Gupy,https://lge.gupy.io/,19/01/2025,1
 26/02/2023,Livelo,Recompensas,Gupy,https://livelo.gupy.io/,20/01/2025,1
 26/02/2023,Localiza,Locação,Gupy,https://localiza.gupy.io/,20/01/2025,1
 26/02/2023,Loggi,Logística,Workable,https://apply.workable.com/loggi,20/01/2025,1
 19/01/2025,Lojas Renner S.A.,Varejo,Gupy,https://encantech.gupy.io/,20/01/2025,1
 01/09/2024,LOUD,Games,Gupy,https://loud.gupy.io/,20/01/2025,1
+19/01/2025,MasterClass,Entretenimento,Greenhouse,https://boards.greenhouse.io/masterclass,19/01/2025,1
 26/02/2023,McDonalds (Corporativo),Restaurante,Gupy,https://corporativomc.gupy.io/,20/01/2025,1
 26/02/2023,McDonalds (Restaurante),Restaurante,Gupy,https://restaurantemc.gupy.io/,20/01/2025,1
 26/02/2023,Meliuz,Recompensas,Gupy,https://meliuz.gupy.io/,20/01/2025,1
@@ -132,12 +145,14 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,RD Station,Tecnologia,Greenhouse,https://boards.greenhouse.io/rdstation,20/01/2025,1
 26/02/2023,RecargaPay,Tecnologia,Workable,https://apply.workable.com/recargapay/,20/01/2025,1
 26/02/2023,Record,Televisão,Gupy,https://recordtv.gupy.io/,20/01/2025,1
+19/01/2025,Red Bull,Bebidas,RedBull,https://jobs.redbull.com/br-pt,19/01/2025,1
 26/02/2023,Rede,Soluções de Pagamento,Gupy,https://vemprarede.gupy.io/,20/01/2025,1
 19/01/2025,Rede Dor,Saude,Vagas.com.br,https://trabalheconosco.vagas.com.br/rededor,20/01/2025,1
 01/09/2024,Riot Games,Games,Riot,https://www.riotgames.com/pt-br/trabalhe-conosco#job-list,20/01/2025,1
 19/01/2025,Roche,Farmacia,Workday,https://roche.wd3.myworkdayjobs.com/roche-ext/,20/01/2025,1
 01/09/2024,Rockstar Games,Games,Rockstar Games,https://www.rockstargames.com/careers/openings,20/01/2025,1
 05/07/2023,Safra,Banco,Gupy,https://venhasersafra.gupy.io/,20/01/2025,1
+19/01/2025,Sami,Saúde,Gupy,https://oisami.gupy.io/,19/01/2025,1
 19/01/2025,Samsung,Eletrônicos,Workday,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,20/01/2025,1
 22/11/2024,Sanofi,Saúde,Workday,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers,20/01/2025,1
 26/02/2023,Santander,Banco,Workday,https://santander.wd3.myworkdayjobs.com/SantanderCareers,20/01/2025,1
@@ -154,6 +169,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 01/09/2024,Team Liquid,Games,Team Liquid,https://careers.teamliquid.com/#jobs,20/01/2025,1
 26/02/2023,TIVIT,Tecnologia,Gupy,https://tivit.gupy.io/,20/01/2025,1
 26/02/2023,Toyota Brasil,Automóvel,Gupy,https://toyotabrasil.gupy.io/,20/01/2025,1
+19/01/2025,Toyota Brasil,Automotivo,Gupy,https://toyotabrasil.gupy.io/,19/01/2025,1
 30/03/2024,Tractian,Indústria,Gupy,https://tractian.com/carreiras/vagas,20/01/2025,1
 01/09/2024,Transperfect Gaming,Games,Transperfect Gaming,https://gaming.transperfect.com/careers,20/01/2025,1
 26/02/2023,Unimed Brasil,Saúde,Gupy,https://unimed-brasil.gupy.io/,20/01/2025,1
@@ -169,22 +185,6 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,WeWork,Espaços de Trabalho,Workday,https://wework.wd1.myworkdayjobs.com/weworkfranchise,20/01/2025,1
 26/02/2023,will bank,Banco,Gupy,https://vemserwill.gupy.io/,20/01/2025,1
 26/02/2023,XP Inc,Banco,Greenhouse,https://boards.greenhouse.io/xpinc,20/01/2025,1
-19/01/2025,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation,20/01/2025,1
-19/01/2025,Braskem,Indústria,OracleCloud,https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions,19/01/2025,1
-19/01/2025,Gerdau,Indústria,Sap SuccessFactors,https://career19.sapsf.com/careers?company=gerdauacos,19/01/2025,1
-19/01/2025,Adobe,Tecnologia,Workday,https://adobe.wd5.myworkdayjobs.com/external_experienced/jobs,19/01/2025,1
-19/01/2025,Sami,Saúde,Gupy,https://oisami.gupy.io/,19/01/2025,1
-19/01/2025,Hospital Sírio-Libanês,Saúde,Sap SuccessFactors,https://career19.sapsf.com/careers?company=sociedad02,19/01/2025,1
-19/01/2025,Hospital Albert Einstein,Saúde,SuccessFactors,https://career8.successfactors.com/career?company=C0001240283P,19/01/2025,1
-19/01/2025,Red Bull,Bebidas,RedBull,https://jobs.redbull.com/br-pt,19/01/2025,1
-19/01/2025,Kiwify,Tecnologia,InHire,https://kiwify.inhire.app/vagas,19/01/2025,1
-19/01/2025,MasterClass,Entretenimento,Greenhouse,https://boards.greenhouse.io/masterclass,19/01/2025,1
-19/01/2025,Toyota Brasil,Automotivo,Gupy,https://toyotabrasil.gupy.io/,19/01/2025,1
-19/01/2025,Elgin,Eletrodomésticos,Gupy,https://sejaelgin.gupy.io/,19/01/2025,1
-19/01/2025,LG Electronics do Brasil LTDA,Eletrônicos,Gupy,https://lge.gupy.io/,19/01/2025,1
-19/01/2025,Hapvida NotreDame Intermédica,Saúde,Gupy,https://hapvidandi.gupy.io/,19/01/2025,1
-19/01/2025,Hapvida NotreDame Intermédica,Saúde,InfoJobs,https://hapvidandi.pandape.infojobs.com.br/,19/01/2025,1
-19/01/2025,Alice,Healthtech,InHire,https://alice.inhire.app/vagas,19/01/2025,1
-19/01/2025,Youse,Seguros,Gupy,https://vagas-youse.gupy.io/,19/01/2025,1
 19/01/2025,Yamaha,Automotivo,Gupy,https://yamaha.gupy.io/,19/01/2025,1
-19/01/2025,Honda,Automotivo,Gupy,https://honda.gupy.io/,19/01/2025,1
+19/01/2025,Youse,Seguros,Gupy,https://vagas-youse.gupy.io/,19/01/2025,1
+19/01/2025,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation,20/01/2025,1
