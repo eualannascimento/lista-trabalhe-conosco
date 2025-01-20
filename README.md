@@ -235,6 +235,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Via (HUB)](https://viahub.gupy.io) |
 | [Vivo](https://vivo.gupy.io) |
 | [Vivo Digital](https://vivodigital.gupy.io) |
+| [Votorantim Cimentos](https://votorantimcimentos.gupy.io/) |
 | [VTEX](https://job-boards.greenhouse.io/vtex) |
 | [webedia](https://webedia.gupy.io) |
 | [Wellhub (GymPass)](https://boards.greenhouse.io/gympass) |
