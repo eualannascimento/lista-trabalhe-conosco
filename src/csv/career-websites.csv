@@ -80,6 +80,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Elgin,Eletrodomésticos,Gupy,https://sejaelgin.gupy.io,19/01/2025,1
 26/02/2023,Elo,Soluções de Pagamento,Gupy,https://vempraelo.gupy.io,20/01/2025,1
 26/02/2023,Embraer,Viagens,Gupy,https://embraer.gupy.io,20/01/2025,1
+20/01/2025,Embraer,Aeronáutica,Gupy,https://embraer.gupy.io/,19/01/2025,1
 26/02/2023,EMS,Farmacia,Gupy,https://ems.gupy.io,20/01/2025,1
 26/02/2023,Energisa (Corp),Energia,Gupy,https://grupoenergisa.gupy.io,20/01/2025,1
 26/02/2023,Energisa (Tecnologia),Energia,Gupy,https://energisatech.gupy.io,20/01/2025,1
@@ -118,6 +119,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Itaú,Banco,Gupy,https://vemproitau.gupy.io,20/01/2025,1
 19/01/2025,John Deere,Engenharia,Eightfold,https://johndeere.eightfold.ai/careers,19/01/2025,1
 19/01/2025,JusBrasil,Tecnologia,Greenhouse,https://boards.greenhouse.io/jusbrasil,20/01/2025,1
+20/01/2025,Kimberly Clark,Produtos de Consumo,Workday,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL,19/01/2025,1
 19/01/2025,Kiwify,Tecnologia,InHire,https://kiwify.inhire.app/vagas,19/01/2025,1
 26/02/2023,KPMG Brasil,Consultoria,Gupy,https://kpmgbrasil.gupy.io,20/01/2025,1
 19/01/2025,L'Occitane,Cosméticos,Gupy,https://sejaloccitane.gupy.io,20/01/2025,1
@@ -170,6 +172,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Roche,Farmacia,Workday,https://roche.wd3.myworkdayjobs.com/roche-ext,20/01/2025,1
 01/09/2024,Rockstar Games,Games,Rockstar Games,https://www.rockstargames.com/careers/openings,20/01/2025,1
 05/07/2023,Safra,Banco,Gupy,https://venhasersafra.gupy.io,20/01/2025,1
+20/01/2025,Salesforce,Tecnologia,Workday,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site,19/01/2025,1
 19/01/2025,Sami,Saúde,Gupy,https://oisami.gupy.io,19/01/2025,1
 19/01/2025,Samsung,Eletrônicos,Workday,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,20/01/2025,1
 22/11/2024,Sanofi,Saúde,Workday,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers,20/01/2025,1
@@ -194,6 +197,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Toyota Brasil,Automotivo,Gupy,https://toyotabrasil.gupy.io,19/01/2025,1
 30/03/2024,Tractian,Indústria,Gupy,https://tractian.com/carreiras/vagas,20/01/2025,1
 01/09/2024,Transperfect Gaming,Games,Transperfect Gaming,https://gaming.transperfect.com/careers,20/01/2025,1
+20/01/2025,TransUnion,Financeiro,Workday,https://transunion.wd5.myworkdayjobs.com/TransUnion,19/01/2025,1
 26/02/2023,Unimed Brasil,Saúde,Gupy,https://unimed-brasil.gupy.io,20/01/2025,1
 19/01/2025,Vale,Mineração,Eightfold,https://vale.eightfold.ai/careers,19/01/2025,1
 17/09/2023,Veloe,Tags,Bizneo,https://vagas.veloe.com.br/jobs,20/01/2025,1
@@ -211,7 +215,3 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Yamaha,Automotivo,Gupy,https://yamaha.gupy.io,19/01/2025,1
 19/01/2025,Youse,Seguros,Gupy,https://vagas-youse.gupy.io,19/01/2025,1
 19/01/2025,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation,20/01/2025,1
-20/01/2025,Salesforce,Tecnologia,Workday,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site,19/01/2025,1
-20/01/2025,Embraer,Aeronáutica,Gupy,https://embraer.gupy.io/,19/01/2025,1
-20/01/2025,TransUnion,Financeiro,Workday,https://transunion.wd5.myworkdayjobs.com/TransUnion,19/01/2025,1
-20/01/2025,Kimberly Clark,Produtos de Consumo,Workday,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL,19/01/2025,1

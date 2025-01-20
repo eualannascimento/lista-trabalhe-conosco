@@ -37,7 +37,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Accor](https://api.smartrecruiters.com/v1/companies/accor/postings) |
 | [Acer](https://career10.successfactors.com/career?company=acerincorp) |
 | [Aché](https://vagasache.gupy.io/) |
-| [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/jobs) |
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) |
 | [Agibank (Comercial)](https://agibank.gupy.io) |
 | [Agibank (Corporativo)](https://corporativo-agibank.gupy.io) |
 | [Agibank (Tecnologia)](https://tecnologia-agibank.gupy.io) |
@@ -67,7 +67,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Bauducco](https://bauducco.gupy.io) |
 | [Bayer](https://bayer.eightfold.ai/careers?la=pt) |
 | [Bayer](https://bayer.eightfold.ai/careers) |
-| [Blizzard](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job) |
+| [Blizzard](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers) |
 | [BMG](https://bmg.gupy.io) |
 | [BMW Group Brasil](https://bmw.gupy.io) |
 | [BNY Mellon](https://bnymellon.eightfold.ai/careers) |
@@ -112,6 +112,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Elgin](https://sejaelgin.gupy.io) |
 | [Elo](https://vempraelo.gupy.io) |
 | [Embraer](https://embraer.gupy.io) |
+| [Embraer](https://embraer.gupy.io/) |
 | [EMS](https://ems.gupy.io) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) |
@@ -150,6 +151,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Itaú](https://vemproitau.gupy.io) |
 | [John Deere](https://johndeere.eightfold.ai/careers) |
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
+| [Kimberly Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
 | [Kiwify](https://kiwify.inhire.app/vagas) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [L'Occitane](https://sejaloccitane.gupy.io) |
@@ -202,6 +204,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io) |
+| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
 | [Sami](https://oisami.gupy.io) |
 | [Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
@@ -226,6 +229,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Toyota Brasil](https://toyotabrasil.gupy.io) |
 | [Tractian](https://tractian.com/carreiras/vagas) |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) |
+| [TransUnion](https://transunion.wd5.myworkdayjobs.com/TransUnion) |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) |
 | [Vale](https://vale.eightfold.ai/careers) |
 | [Veloe](https://vagas.veloe.com.br/jobs) |
