@@ -64,6 +64,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [BTG Pactual](https://boards.greenhouse.io/btgpactual) |
 | [C&A](https://cea.gupy.io/) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
+| [Cabify](https://job-boards.greenhouse.io/cabify) |
 | [Cacau Show](https://cacaushow.gupy.io/) |
 | [Caju](https://caju.gupy.io) |
 | [Centauro](https://centaurotalentos.gupy.io/) |
@@ -71,7 +72,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Cielo](https://cielo.gupy.io/) |
 | [ClearSale](https://clearsale.gupy.io/) |
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
-| [Coca-Cola FEMSA Brasil](https://trabalheconosco.vagas.com.br/femsa/oportunidades) |
+| [Coca-Cola Femsa BR](https://cocacolafemsabr.gupy.io/) |
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400/) |
 | [Creditas](https://job-boards.greenhouse.io/creditas) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
@@ -79,6 +80,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [CVC Corp](https://cvccorp.gupy.io/) |
 | [CVP (Caixa Vida e Previdência)](https://caixavidaeprevidencia.gupy.io/) |
 | [Dasa Tecnologia](https://dasatecnologia.gupy.io/) |
+| [Databricks](https://job-boards.greenhouse.io/databricks) |
 | [Daycoval DayCambio](https://daycambio.gupy.io/) |
 | [Daycoval DayCred](https://daycred.gupy.io/) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
@@ -92,6 +94,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Energisa (Corp)](https://grupoenergisa.gupy.io/) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io/) |
 | [Fanatee](https://fanatee.com/#careers) |
+| [FedEx](https://fedex.wd1.myworkdayjobs.com/FXE-EU_External) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Figma](https://boards.greenhouse.io/figma) |
 | [FURIA](https://99jobs.com/furia/jobs) |
@@ -134,9 +137,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [PagSeguro (PagBank)](https://pagseguro.gupy.io/) |
 | [Paschoalotto](https://paschoalotto.gupy.io/) |
+| [Pfizer](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers) |
 | [PicPay](https://boards.greenhouse.io/picpay) |
 | [Porto](https://porto.gupy.io/) |
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io/) |
+| [Posto Ipiranga](https://ipiranga.gupy.io/) |
 | [Quinto Andar](https://apply.workable.com/quintoandar/) |
 | [QUOD](https://vempraquod.gupy.io/) |
 | [Raizen](https://genteraizen.gupy.io/) |
@@ -145,7 +150,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [RecargaPay](https://apply.workable.com/recargapay/) |
 | [Record](https://recordtv.gupy.io/) |
 | [Rede](https://vemprarede.gupy.io/) |
+| [Rede Dor](https://trabalheconosco.vagas.com.br/rededor) |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
+| [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext/) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io/) |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
@@ -154,6 +161,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) |
 | [Sicredi](https://sicredi.gupy.io/) |
 | [Sinch](https://apply.workable.com/sinch/) |
+| [Sony Global](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers) |
+| [Sony Interactive Entertainment Global](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal) |
+| [Sony Music](https://sonymusic.gupy.io/) |
 | [Swift](https://swift.gupy.io/) |
 | [TakeBlip](https://takeblip.gupy.io/) |
 | [Tapps Games](https://tapps.gupy.io/) |

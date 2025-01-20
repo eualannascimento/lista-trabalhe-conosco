@@ -32,6 +32,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2023,BTG Pactual,Banco,Greenhouse,https://boards.greenhouse.io/btgpactual,19/01/2025,1
 26/02/2023,C&A,Varejo,Gupy,https://cea.gupy.io/,13/01/2025,1
 26/02/2023,C6 Bank,Banco,Greenhouse,https://boards.greenhouse.io/c6bank,13/01/2025,1
+19/01/2025,Cabify,Transporte,Greenhouse,https://job-boards.greenhouse.io/cabify,19/01/2025,1
 26/02/2023,Cacau Show,Varejo,Gupy,https://cacaushow.gupy.io/,13/01/2025,1
 19/01/2025,Caju,Benefícios,Gupy,https://caju.gupy.io,19/01/2025,1
 26/02/2023,Centauro,Varejo,Gupy,https://centaurotalentos.gupy.io/,13/01/2025,1
@@ -47,6 +48,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,CVC Corp,Viagens,Gupy,https://cvccorp.gupy.io/,13/01/2025,1
 26/02/2023,CVP (Caixa Vida e Previdência),Seguradora,Gupy,https://caixavidaeprevidencia.gupy.io/,13/01/2025,1
 26/02/2023,Dasa Tecnologia,Saúde,Gupy,https://dasatecnologia.gupy.io/,13/01/2025,1
+19/01/2025,Databricks,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/databricks,19/01/2025,1
 26/12/2024,Daycoval DayCambio,Banco,Gupy,https://daycambio.gupy.io/,13/01/2025,1
 26/12/2024,Daycoval DayCred,Banco,Gupy,https://daycred.gupy.io/,13/01/2025,1
 26/02/2023,DiDi (99),Tecnologia,iCIMS,https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479,13/01/2025,1
@@ -60,6 +62,7 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Energisa (Corp),Energia,Gupy,https://grupoenergisa.gupy.io/,13/01/2025,1
 26/02/2023,Energisa (Tecnologia),Energia,Gupy,https://energisatech.gupy.io/,13/01/2025,1
 01/09/2024,Fanatee,Games,Fanatee,https://fanatee.com/#careers,13/01/2025,1
+19/01/2025,FedEx,Logística,Workday,https://fedex.wd1.myworkdayjobs.com/FXE-EU_External,19/01/2025,1
 27/03/2022,FGV - Fundação Getulio Vargas,Ensino,Plataforma Própria,https://trabalheconosco.fgv.br/vagas,13/01/2025,1
 15/01/2025,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma,15/01/2025,1
 01/09/2024,FURIA,Games,99jobs,https://99jobs.com/furia/jobs,13/01/2025,1
@@ -102,9 +105,11 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,Nubank,Banco,Greenhouse,https://boards.greenhouse.io/nubank,13/01/2025,1
 26/02/2023,PagSeguro (PagBank),Banco,Gupy,https://pagseguro.gupy.io/,13/01/2025,1
 26/02/2023,Paschoalotto,Gestão de Relacionamentos,Gupy,https://paschoalotto.gupy.io/,13/01/2025,1
+19/01/2025,Pfizer,Farmacia,Workday,https://pfizer.wd1.myworkdayjobs.com/PfizerCareers,19/01/2025,1
 19/01/2025,PicPay,Tecnologia,Greenhouse,https://boards.greenhouse.io/picpay,19/01/2025,1
 26/02/2023,Porto,Seguradora,Gupy,https://porto.gupy.io/,13/01/2025,1
 26/02/2023,Positivo Tecnologia,Tecnologia,Gupy,https://positivotecnologia.gupy.io/,13/01/2025,1
+19/01/2025,Posto Ipiranga,Combustíveis,Gupy,https://ipiranga.gupy.io/,19/01/2025,1
 26/02/2023,Quinto Andar,Imoveis,Workable,https://apply.workable.com/quintoandar/,13/01/2025,1
 26/02/2023,QUOD,Birô de Crédito,Gupy,https://vempraquod.gupy.io/,13/01/2025,1
 26/02/2023,Raizen,Energia,Gupy,https://genteraizen.gupy.io/,13/01/2025,1
@@ -113,7 +118,9 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 26/02/2023,RecargaPay,Tecnologia,Workable,https://apply.workable.com/recargapay/,13/01/2025,1
 26/02/2023,Record,Televisão,Gupy,https://recordtv.gupy.io/,13/01/2025,1
 26/02/2023,Rede,Soluções de Pagamento,Gupy,https://vemprarede.gupy.io/,13/01/2025,1
+19/01/2025,Rede Dor,Saude,Vagas.com.br,https://trabalheconosco.vagas.com.br/rededor,19/01/2025,1
 01/09/2024,Riot Games,Games,Riot,https://www.riotgames.com/pt-br/trabalhe-conosco#job-list,13/01/2025,1
+19/01/2025,Roche,Farmacia,Workday,https://roche.wd3.myworkdayjobs.com/roche-ext/,19/01/2025,1
 01/09/2024,Rockstar Games,Games,Rockstar Games,https://www.rockstargames.com/careers/openings,13/01/2025,1
 05/07/2023,Safra,Banco,Gupy,https://venhasersafra.gupy.io/,13/01/2025,1
 22/11/2024,Sanofi,Saúde,Workday,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers,13/01/2025,1
@@ -122,6 +129,9 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Serasa Experian,Tecnologia,SmartRecruiters,https://careers.smartrecruiters.com/experian,19/01/2025,1
 26/02/2023,Sicredi,Cooperativa,Gupy,https://sicredi.gupy.io/,13/01/2025,1
 26/02/2023,Sinch,Tecnologia,Workable,https://apply.workable.com/sinch/,13/01/2025,1
+19/01/2025,Sony Global,Entretenimento,Workday,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers,19/01/2025,1
+19/01/2025,Sony Interactive Entertainment Global,Entretenimento,Greenhouse,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal,19/01/2025,1
+19/01/2025,Sony Music,Entretenimento,Gupy,https://sonymusic.gupy.io/,19/01/2025,1
 18/09/2023,Swift,Alimentos,Gupy,https://swift.gupy.io/,13/01/2025,1
 26/02/2023,TakeBlip,Tecnologia,Gupy,https://takeblip.gupy.io/,13/01/2025,1
 01/09/2024,Tapps Games,Games,Gupy,https://tapps.gupy.io/,13/01/2025,1
@@ -142,13 +152,3 @@ Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data do Statu
 19/01/2025,Wellhub (GymPass),Saúde,Greenhouse,https://boards.greenhouse.io/gympass,19/01/2025,1
 26/02/2023,will bank,Banco,Gupy,https://vemserwill.gupy.io/,13/01/2025,1
 26/02/2023,XP Inc,Banco,Greenhouse,https://boards.greenhouse.io/xpinc,13/01/2025,1
-19/01/2025,Posto Ipiranga,Combustíveis,Gupy,https://ipiranga.gupy.io/,19/01/2025,1
-19/01/2025,Cabify,Transporte,Greenhouse,https://job-boards.greenhouse.io/cabify,19/01/2025,1
-19/01/2025,FedEx,Logística,Workday,https://fedex.wd1.myworkdayjobs.com/FXE-EU_External,19/01/2025,1
-19/01/2025,Roche,Farmacia,Workday,https://roche.wd3.myworkdayjobs.com/roche-ext/,19/01/2025,1
-19/01/2025,Pfizer,Farmacia,Workday,https://pfizer.wd1.myworkdayjobs.com/PfizerCareers,19/01/2025,1
-19/01/2025,Sony Music,Entretenimento,Gupy,https://sonymusic.gupy.io/,19/01/2025,1
-19/01/2025,Sony Interactive Entertainment Global,Entretenimento,Greenhouse,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal,19/01/2025,1
-19/01/2025,Sony Global,Entretenimento,Workday,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers,19/01/2025,1
-19/01/2025,Databricks,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/databricks,19/01/2025,1
-19/01/2025,Rede Dor,Saude,Vagas.com.br,https://trabalheconosco.vagas.com.br/rededor,19/01/2025,1
