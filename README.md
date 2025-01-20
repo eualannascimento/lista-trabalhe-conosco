@@ -41,7 +41,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Agibank (Comercial)](https://agibank.gupy.io) |
 | [Agibank (Corporativo)](https://corporativo-agibank.gupy.io) |
 | [Agibank (Tecnologia)](https://tecnologia-agibank.gupy.io) |
-| [Airbnb](https://boards-api.greenhouse.io/v1/boards/airbnb/jobs) |
+| [Airbnb](https://boards.greenhouse.io/airbnb) |
 | [Alelo](https://vagas.alelo.com.br/jobs) |
 | [Alice](https://alice.inhire.app/vagas) |
 | [Alura](https://grupoalura.gupy.io) |
