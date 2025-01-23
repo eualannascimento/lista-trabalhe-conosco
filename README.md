@@ -212,6 +212,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sicredi](https://sicredi.gupy.io) |
 | [Siemens](https://siemens.eightfold.ai/careers) |
 | [Sinch](https://apply.workable.com/sinch) |
+| [SONDA](https://career8.successfactors.com/career?company=SONDAP) |
 | [Sony Global](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers) |
 | [Sony Interactive Entertainment Global](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal) |
 | [Sony Music](https://sonymusic.gupy.io) |
