@@ -34,6 +34,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [3M](https://3m.wd1.myworkdayjobs.com/Search) |
 | [AB InBev](https://job-boards.greenhouse.io/abinbev) |
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers) |
+| [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers) |
 | [Accor](https://api.smartrecruiters.com/v1/companies/accor/postings) |
 | [Acer](https://career10.successfactors.com/career?company=acerincorp) |
 | [Aché](https://vagasache.gupy.io/) |
@@ -52,6 +53,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Amil](https://career19.sapsf.com/careers?company=amilassist) |
 | [ANBIMA](https://anbima.gupy.io) |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) |
+| [Avanade](https://www.avanade.com/pt-br/career/search-jobs) |
 | [Banco ABC](https://abcbrasil.gupy.io) |
 | [Banco Alfa](https://alfa.gupy.io) |
 | [Banco BV](https://jobs.lever.co/bv) |
@@ -74,12 +76,14 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Brasilprev](https://brasilprev.gupy.io) |
 | [Braskem](https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions) |
 | [BRF](https://brf.wd5.myworkdayjobs.com/TalentsBRF) |
+| [BRF](https://talents.brf.com/) |
 | [BTG Pactual](https://boards.greenhouse.io/btgpactual) |
 | [C&A](https://cea.gupy.io) |
 | [C6 Bank](https://boards.greenhouse.io/c6bank) |
 | [Cabify](https://job-boards.greenhouse.io/cabify) |
 | [Cacau Show](https://cacaushow.gupy.io) |
 | [Caju](https://caju.gupy.io) |
+| [Capco](https://boards.greenhouse.io/capco) |
 | [Capco](https://boards.greenhouse.io/capco) |
 | [Centauro](https://centaurotalentos.gupy.io) |
 | [CI&T](https://jobs.lever.co/ciandt) |
@@ -88,6 +92,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
 | [Coca-Cola Femsa BR](https://cocacolafemsabr.gupy.io) |
 | [Colgate-Palmolive](https://jobs.colgate.com/go/View-All-Jobs/8506400) |
+| [Cortex](https://cortex.gupy.io/) |
 | [Cortex](https://cortex.gupy.io/) |
 | [Creditas](https://job-boards.greenhouse.io/creditas) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
@@ -105,17 +110,22 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Daycoval DayCred](https://daycred.gupy.io) |
 | [Decathlon](https://carreirasdecathlon.gupy.io) |
 | [Deloitte](https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join) |
+| [Deloitte](https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
 | [Digio](https://digio.gupy.io) |
 | [Dotz](https://dotz.gupy.io) |
 | [DRUID Creative Gaming](https://druid.gupy.io) |
 | [Duolingo](https://boards.greenhouse.io/duolingo) |
+| [Duolingo](https://careers.duolingo.com/#careers) |
 | [Eaton](https://eaton.eightfold.ai/careers) |
 | [Ebanx](https://boards.greenhouse.io/ebanx) |
 | [Efí Bank](https://sejaefi.gupy.io/) |
+| [Efí Bank](https://sejaefi.gupy.io/) |
+| [Eightfold](https://pepsico.eightfold.ai/careers) |
 | [Elgin](https://sejaelgin.gupy.io) |
 | [Elo](https://vempraelo.gupy.io) |
 | [Embraer](https://embraer.gupy.io) |
+| [Embraer](https://embraer.gupy.io/) |
 | [EMS](https://ems.gupy.io) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) |
@@ -126,14 +136,20 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
 | [Figma](https://boards.greenhouse.io/figma) |
 | [FIS Global](https://fisglobal.wd5.myworkdayjobs.com/Careers) |
+| [FIS Global](https://careers.fisglobal.com/us/en/search-results) |
 | [Flash](https://flash.inhire.app/vagas) |
+| [Flash](https://flash.inhire.app/vagas) |
+| [Ford](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) |
 | [Ford](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) |
 | [FURIA](https://furia.gupy.io) |
 | [Gamers Club](https://gamersclub.gupy.io) |
 | [Garena](https://careers.garena.com/global/careers) |
 | [GE Aerospace](https://careers.geaerospace.com/global/en/search-results) |
+| [GE Aerospace](https://careers.geaerospace.com/global/en/search-results) |
+| [GE Vernova](https://careers.gevernova.com/global/en/search-results) |
 | [GE Vernova](https://careers.gevernova.com/global/en/search-results) |
 | [General Mills](https://generalmills.wd5.myworkdayjobs.com/External) |
+| [General Mills](https://careers.generalmills.com/careers/jobs) |
 | [Genial Investimentos](https://genial.gupy.io) |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) |
 | [Globo](https://globo.gupy.io) |
@@ -145,7 +161,10 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Despegar (Decolar.com)](https://jobs.lever.co/despegar) |
 | [Grupo L'Occitane](https://sejaloccitane.gupy.io) |
 | [Grupo Primo](https://jobs.quickin.io/grupo-primo/jobs) |
+| [Grupo Primo](https://jobs.quickin.io/grupo-primo/jobs) |
 | [Gupy](https://vempra.gupy.io) |
+| [Gupy](https://vempra.gupy.io/) |
+| [Gupy Tech](https://tech-career.gupy.io/) |
 | [Gupy Tech](https://tech-career.gupy.io/) |
 | [Hapvida NotreDame Intermédica](https://hapvidandi.gupy.io) |
 | [Hapvida NotreDame Intermédica](https://hapvidandi.pandape.infojobs.com.br) |
@@ -155,22 +174,29 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Hospital Sírio-Libanês](https://career19.sapsf.com/careers?company=sociedad02) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
 | [IBM](https://ibmglobal.avature.net/pt_BR/careers) |
+| [IBM](https://ibmglobal.avature.net/pt_BR/careers) |
 | [iFood](https://job-boards.greenhouse.io/ifoodcarreiras) |
 | [ília](https://boards.greenhouse.io/ilia) |
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Inter](https://boards.greenhouse.io/inter) |
 | [Ipiranga](https://ipiranga.gupy.io/) |
+| [Ipiranga](https://ipiranga.gupy.io/) |
+| [IQVIA](https://jobs.iqvia.com/en/search-jobs) |
 | [IQVIA](https://jobs.iqvia.com/en/search-jobs) |
 | [Isaac](https://boards.greenhouse.io/isaac) |
 | [Itaú](https://vemproitau.gupy.io) |
 | [John Deere](https://johndeere.eightfold.ai/careers) |
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
+| [Kimberly Clark](https://kimberlyclark.wd1.myworkdayjobs.com/pt-BR/GLOBAL/jobs) |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
 | [Kiwify](https://kiwify.inhire.app/vagas) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [Kroll](https://kroll.wd1.myworkdayjobs.com/KrollCareers) |
+| [Kroll](https://careers.kroll.com/en/listing-page) |
+| [Kwan](https://kwan.com/careers/#jobpost) |
 | [Kwan](https://kwan.com/careers/#jobpost) |
 | [LevelUp](https://trampos.co/level-up) |
+| [LG](https://prd-pc1.lg.com.br/vagas/c/DC1048FD-27FA-4C35-A7E9-5064AC4B0975/p/TrabalhenaLG/pt-BR/Busca/Index) |
 | [LG](https://prd-pc1.lg.com.br/vagas/c/DC1048FD-27FA-4C35-A7E9-5064AC4B0975/p/TrabalhenaLG/pt-BR/Busca/Index) |
 | [LG Electronics do Brasil LTDA](https://lge.gupy.io) |
 | [Livelo](https://livelo.gupy.io) |
@@ -179,6 +205,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Loggi](https://apply.workable.com/loggi) |
 | [Lojas Renner S.A.](https://encantech.gupy.io) |
 | [LOUD](https://loud.gupy.io) |
+| [Mastercard](https://careers.mastercard.com/us/en/search-results) |
 | [MasterClass](https://boards.greenhouse.io/masterclass) |
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io) |
 | [McDonalds (Restaurante)](https://restaurantemc.gupy.io) |
@@ -192,11 +219,14 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaCarreiras) |
 | [Neon](https://jobs.lever.co/neon) |
 | [Nestlé](https://nestle.taleo.net/careersection/) |
+| [Nestlé](https://www.nestle.com/jobs/search-jobs) |
 | [Netflix](https://netflix.eightfold.ai/careers) |
 | [Notion](https://boards.greenhouse.io/notion) |
 | [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) |
+| [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [OLX Brasil](https://vemserolxbrasil.gupy.io) |
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions) |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions) |
 | [OXXO](https://oxxo.eightfold.ai/careers) |
 | [PagSeguro (PagBank)](https://pagseguro.gupy.io) |
@@ -209,7 +239,10 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Porto](https://porto.gupy.io) |
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io) |
 | [Procter & Gamble](https://pgcareers.wd5.myworkdayjobs.com/) |
+| [Procter & Gamble](https://www.pgcareers.com/global/en/search-results) |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) |
+| [Proton](https://job-boards.eu.greenhouse.io/proton) |
+| [Psyche Aerospace](https://psycheaerospace.gupy.io/) |
 | [Psyche Aerospace](https://psycheaerospace.gupy.io/) |
 | [Quinto Andar](https://apply.workable.com/quintoandar) |
 | [QUOD](https://vempraquod.gupy.io) |
@@ -226,17 +259,22 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Safra](https://venhasersafra.gupy.io) |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
+| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/jobs) |
 | [Sami](https://oisami.gupy.io) |
 | [Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
 | [Santander](https://santander.wd3.myworkdayjobs.com/SantanderCareers) |
 | [SAP](https://jobs.sap.com/search) |
+| [SAP](https://jobs.sap.com/search) |
 | [Scania Latin America](https://scania.gupy.io) |
+| [Semantix](https://jobs.quickin.io/semantix/jobs) |
 | [Semantix](https://jobs.quickin.io/semantix/jobs) |
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) |
 | [Shopee](https://careers.shopee.com.br/jobs) |
+| [Shopee](https://careers.shopee.com.br/jobs) |
 | [Sicredi](https://sicredi.gupy.io) |
 | [Siemens](https://siemens.eightfold.ai/careers) |
+| [Siemens Healthineers](https://jobs.siemens-healthineers.com/careers) |
 | [Siemens Healthineers](https://jobs.siemens-healthineers.com/careers) |
 | [Sinch](https://apply.workable.com/sinch) |
 | [SONDA](https://career8.successfactors.com/career?company=SONDAP) |
@@ -245,8 +283,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sony Music](https://sonymusic.gupy.io) |
 | [Sourcegraph](https://boards.greenhouse.io/sourcegraph91) |
 | [Stellantis](https://www.linkedin.com/company/stellantislatam/jobs/) |
+| [Stellantis](https://www.linkedin.com/company/stellantislatam/jobs/) |
+| [Stone](https://job-boards.greenhouse.io/stone) |
 | [Stone](https://job-boards.greenhouse.io/stone) |
 | [Swift](https://swift.gupy.io) |
+| [Swile](https://jobs.lever.co/swile) |
 | [Swile](https://jobs.lever.co/swile) |
 | [Sympla](https://sympla.inhire.app/vagas) |
 | [T4F | Time for Fun](https://t4f.gupy.io/) |
@@ -256,8 +297,10 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [TIVIT](https://tivit.gupy.io) |
 | [Toyota Brasil](https://toyotabrasil.gupy.io) |
 | [Tractian](https://careers.tractian.com/jobs) |
+| [Tractian](https://careers.tractian.com/jobs) |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) |
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/TransUnion) |
+| [TransUnion](https://transunion.wd5.myworkdayjobs.com/TransUnion/jobs) |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) |
 | [Vale](https://vale.eightfold.ai/careers) |
 | [Veloe](https://vagas.veloe.com.br/jobs) |
@@ -267,12 +310,15 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Vivo](https://vivo.gupy.io) |
 | [Vivo Digital](https://vivodigital.gupy.io) |
 | [Votorantim Cimentos](https://votorantimcimentos.gupy.io/) |
+| [Votorantim Cimentos](https://votorantimcimentos.gupy.io/) |
 | [VTEX](https://job-boards.greenhouse.io/vtex) |
 | [webedia](https://webedia.gupy.io) |
 | [Wellhub (GymPass)](https://boards.greenhouse.io/gympass) |
 | [WeWork](https://wework.wd1.myworkdayjobs.com/weworkfranchise) |
 | [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen/) |
+| [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen/) |
 | [will bank](https://vemserwill.gupy.io) |
+| [WillowTree](https://job-boards.greenhouse.io/willowtree) |
 | [WillowTree](https://job-boards.greenhouse.io/willowtree) |
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
 | [Yamaha](https://yamaha.gupy.io) |
