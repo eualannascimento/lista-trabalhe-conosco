@@ -1,0 +1,10 @@
+# Ignorar pastas __pycache__
+__pycache__/
+
+# Ignorar arquivos .pyc e .pyo
+*.pyc
+*.pyo
+
+# Ignorar ambientes virtuais
+env/
+venv/

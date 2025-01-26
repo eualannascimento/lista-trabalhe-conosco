@@ -1,10 +1,13 @@
-name: 'Update files'
-run-name: 'Updating career-websites.csv and README.md'
+name: 'Verify and update list'
+run-name: 'Checks if the websites are up and running or not, update career-websites.csv and README.md'
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 4 * * 1"
 
 jobs:
   build:
@@ -31,7 +34,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Build README.md
-        run: python src/py/update-readme.py
+        run: python main.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
