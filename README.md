@@ -314,7 +314,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Swift](https://swift.gupy.io) |
 | [Swile](https://jobs.lever.co/swile) |
 | [Sympla](https://sympla.inhire.app/vagas) |
-| [T4F | Time for Fun](https://t4f.gupy.io) |
+| [T4F - Time for Fun](https://t4f.gupy.io) |
 | [TakeBlip](https://takeblip.gupy.io) |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) |
