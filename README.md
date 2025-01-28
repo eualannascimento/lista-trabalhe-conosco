@@ -284,7 +284,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/TransUnion) |
 | [Unidas](https://unidas.gupy.io) |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) |
-| [UOL Compass](https://compass.gupy.io/jobs/8062782) |
+| [UOL Compass](https://compass.gupy.io) |
 | [Vale](https://vale.eightfold.ai/careers) |
 | [Veloe](https://vagas.veloe.com.br/jobs) |
 | [Via](https://viavarejo.gupy.io) |
