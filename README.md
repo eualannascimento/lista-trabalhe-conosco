@@ -60,7 +60,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco ABC](https://abcbrasil.gupy.io) |
 | [Banco Alfa](https://alfa.gupy.io) |
 | [Banco Bradesco](https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco) |
-| [Banco BS2](https://www.linkedin.com/company/bancobs2/jobs) |
 | [Banco BV](https://jobs.lever.co/bv) |
 | [Banco Daycoval](https://bancodaycoval.gupy.io) |
 | [Banco Fibra](https://bancofibra.gupy.io) |
@@ -153,7 +152,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [FedEx](https://fedex.wd1.myworkdayjobs.com/FXE-EU_External) |
 | [Ferrero](https://career5.successfactors.eu/careers?company=ferreroint) |
 | [FGV - Fundação Getulio Vargas](https://trabalheconosco.fgv.br/vagas) |
-| [Fiat (Stellantis South America)](https://www.linkedin.com/company/stellantislatam/jobs) |
 | [Figma](https://boards.greenhouse.io/figma) |
 | [Flash](https://flash.inhire.app/vagas) |
 | [Fleury](https://trabalheconosco.vagas.com.br/grupo-fleury/oportunidades) |
@@ -268,6 +266,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Proton](https://job-boards.eu.greenhouse.io/proton) |
 | [Psyche Aerospace](https://psycheaerospace.gupy.io) |
 | [PUC-SP](https://pucsp.gupy.io) |
+| [PwC Global](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers) |
+| [PwC Portugal](https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal) |
 | [Quinto Andar](https://apply.workable.com/quintoandar) |
 | [QUOD](https://vempraquod.gupy.io) |
 | [Rabobank](https://rabobank.jobs/en/jobs) |
@@ -311,7 +311,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sourcegraph](https://boards.greenhouse.io/sourcegraph91) |
 | [Spotify](https://jobs.lever.co/spotify) |
 | [Stone](https://job-boards.greenhouse.io/stone) |
-| [SulAmérica](https://www.linkedin.com/company/sulamerica/jobs) |
 | [Swift](https://swift.gupy.io) |
 | [Swile](https://jobs.lever.co/swile) |
 | [Sympla](https://sympla.inhire.app/vagas) |
