@@ -36,6 +36,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Accenture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers) |
 | [Acer](https://career10.successfactors.com/career?company=acerincorp) |
 | [Aché](https://vagasache.gupy.io) |
+| [Activision](https://careers.activision.com/search-results) |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) |
 | [Agibank (Comercial)](https://agibank.gupy.io) |
 | [Agibank (Corporativo)](https://corporativo-agibank.gupy.io) |
