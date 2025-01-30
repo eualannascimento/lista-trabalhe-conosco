@@ -210,6 +210,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Kraft Heinz](https://careers.kraftheinz.com/job-search-results) |
 | [Kwan](https://kwan.com/careers/#jobpost) |
 | [LEGO](https://lego.wd103.myworkdayjobs.com/LEGO_External) |
+| [Lenovo](https://jobs.lenovo.com/pt_BR/careers) |
 | [Leroy Merlin](https://carreiras.leroymerlin.com.br/jobs) |
 | [LevelUp](https://trampos.co/level-up) |
 | [LG](https://prd-pc1.lg.com.br/vagas/c/DC1048FD-27FA-4C35-A7E9-5064AC4B0975/p/TrabalhenaLG/pt-BR/Busca/Index) |
@@ -231,6 +232,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
 | [Microsoft](https://careers.microsoft.com/global/en/search) |
 | [Mindbody](https://co.mindbodyonline.com/careers/opportunities) |
+| [Minerva Foods](https://minervafoods.gupy.io) |
 | [MJV](https://mjvcarreiras.gupy.io) |
 | [Mondial Eletrodomésticos](https://selecaogrupomk.vagas.solides.com.br) |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) |
@@ -269,6 +271,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [PUC-SP](https://pucsp.gupy.io) |
 | [PwC Global](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers) |
 | [PwC Portugal](https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal) |
+| [Quality Digital](https://qualitydigital.gupy.io) |
 | [Quinto Andar](https://apply.workable.com/quintoandar) |
 | [QUOD](https://vempraquod.gupy.io) |
 | [Rabobank](https://rabobank.jobs/en/jobs) |
@@ -299,6 +302,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sem Parar](https://semparar.gupy.io) |
 | [Semantix](https://jobs.quickin.io/semantix/jobs) |
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) |
+| [Share People Hub](https://sharepeoplehub.inhire.app/vagas) |
 | [Shopee](https://careers.shopee.com.br/jobs) |
 | [Sicredi](https://sicredi.gupy.io) |
 | [Siemens](https://siemens.eightfold.ai/careers) |
@@ -310,6 +314,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sony Music](https://sonymusic.gupy.io) |
 | [Sopra Steria](https://careers.soprasteria.co.uk/uk/en/job-search) |
 | [Sourcegraph](https://boards.greenhouse.io/sourcegraph91) |
+| [Spassu](https://spassu.zohorecruit.com/jobs/Careers) |
 | [Spotify](https://jobs.lever.co/spotify) |
 | [Stone](https://job-boards.greenhouse.io/stone) |
 | [Swift](https://swift.gupy.io) |
@@ -350,4 +355,5 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
 | [Yamaha](https://yamaha.gupy.io) |
 | [Youse](https://vagas-youse.gupy.io) |
+| [ZAMP](https://zamp.gupy.io) |
 | [Zup Innovation](https://job-boards.greenhouse.io/zupinnovation) |
