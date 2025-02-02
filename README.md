@@ -164,6 +164,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [GE Aerospace](https://careers.geaerospace.com/global/en/search-results) |
 | [GE Healthcare](https://careers.gehealthcare.com/global/en/search-results) |
 | [GE Vernova](https://careers.gevernova.com/global/en/search-results) |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM) |
 | [Genial Investimentos](https://genial.gupy.io) |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) |
 | [Github](https://www.github.careers/careers-home/jobs) |
