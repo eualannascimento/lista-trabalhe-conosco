@@ -207,7 +207,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
 | [Kiwify](https://kiwify.inhire.app/vagas) |
-| [Korn Ferry](https://www.linkedin.com/company/kornferry/jobs) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [Kraft Heinz](https://careers.kraftheinz.com/job-search-results) |
 | [Kwan](https://kwan.com/careers/#jobpost) |
@@ -250,7 +249,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [OLX Brasil](https://vemserolxbrasil.gupy.io) |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions) |
 | [OXXO](https://oxxo.eightfold.ai/careers) |
-| [Page Outsourcing](https://www.linkedin.com/company/page-outsourcing/jobs) |
 | [PagSeguro (PagBank)](https://pagseguro.gupy.io) |
 | [Paramount](https://careers.paramount.com/search) |
 | [Paraná Banco](https://jobs.quickin.io/paranabanco/jobs) |
