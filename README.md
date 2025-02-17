@@ -142,7 +142,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Elgin](https://sejaelgin.gupy.io) |
 | [Elo](https://vempraelo.gupy.io) |
 | [Embraer](https://embraer.gupy.io) |
-| [EMS](https://ems.gupy.io) |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io) |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) |
 | [Ericsson](https://ericsson.eightfold.ai/careers) |
@@ -335,7 +334,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Unidas](https://unidas.gupy.io) |
 | [Unilever](https://unilever.wd3.myworkdayjobs.com/pt-BR/Unilever_Experienced_Professionals) |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) |
-| [UOL Compass](https://compass.gupy.io) |
 | [Vale](https://vale.eightfold.ai/careers) |
 | [Veloe](https://vagas.veloe.com.br/jobs) |
 | [Via](https://viavarejo.gupy.io) |
