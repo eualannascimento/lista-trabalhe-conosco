@@ -104,6 +104,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
 | [Coca-Cola Femsa BR](https://cocacolafemsabr.gupy.io) |
 | [Colgate-Palmolive](https://jobs.colgate.com/search) |
+| [Construtora Patriani](https://construtorapatriani.inhire.app/vagas) |
 | [Contabilizei](https://contabilizei.gupy.io) |
 | [Coop](https://coop.jobs.recrut.ai/#openings) |
 | [Cortex](https://cortex.gupy.io) |
@@ -112,6 +113,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
 | [CVC Corp](https://cvccorp.gupy.io) |
 | [CVP (Caixa Vida e Previdência)](https://caixavidaeprevidencia.gupy.io) |
+| [Cyrela](https://cyrela.gupy.io) |
 | [Danone](https://ptapply-danone.icims.com/jobs/search) |
 | [DASA Assistencial](https://dasaassistencial.gupy.io) |
 | [DASA Atendimento](https://dasaatendimento.gupy.io) |
@@ -204,6 +206,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [John Deere](https://johndeere.eightfold.ai/careers) |
 | [Johnson & Johnson](https://jobs.jnj.com/pt/empregos) |
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
+| [Keyrus](https://jobs.keyrus.com.br/jobs) |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
 | [Kiwify](https://kiwify.inhire.app/vagas) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
@@ -229,6 +232,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Meliuz](https://meliuz.gupy.io) |
 | [Mercado Livre](https://mercadolibre.eightfold.ai/careers) |
 | [Mercedes-Benz Caminhões & Ônibus (Externa)](https://mercedes-benzcaminhoeseonibus.gupy.io) |
+| [Meu Tudo](https://jobs.quickin.io/meutudo/jobs) |
 | [Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) |
 | [Microsoft](https://careers.microsoft.com/global/en/search) |
 | [Mindbody](https://co.mindbodyonline.com/careers/opportunities) |
@@ -245,6 +249,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Notion](https://boards.greenhouse.io/notion) |
 | [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
+| [Nuvem Shop](https://nuvemshop-tiendanube.inhire.app/vagas) |
 | [OLX Brasil](https://vemserolxbrasil.gupy.io) |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions) |
 | [OXXO](https://oxxo.eightfold.ai/careers) |
