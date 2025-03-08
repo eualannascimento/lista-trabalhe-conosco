@@ -170,7 +170,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) |
 | [Github](https://www.github.careers/careers-home/jobs) |
 | [Globo](https://globo.gupy.io) |
-| [GM Financial](https://careers.gmfinancial.com/jobs) |
+| [GM Financial](https://careers-gmfinancial.icims.com/jobs) |
 | [GOL Linhas Aéreas](https://golcarreiras.gupy.io) |
 | [Google](https://www.google.com/about/careers/applications/jobs/results) |
 | [GPA](https://digitalgpa.gupy.io) |
@@ -204,7 +204,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Itaú](https://vemproitau.gupy.io) |
 | [JBS](https://jbs.gupy.io) |
 | [John Deere](https://johndeere.eightfold.ai/careers) |
-| [Johnson & Johnson](https://jobs.jnj.com/pt/empregos) |
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
 | [Keyrus](https://jobs.keyrus.com.br/jobs) |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
