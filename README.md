@@ -210,7 +210,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Kiwify](https://kiwify.inhire.app/vagas) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [Kraft Heinz](https://careers.kraftheinz.com/job-search-results) |
-| [Kwan](https://kwan.com/careers/#jobpost) |
 | [LEGO](https://lego.wd103.myworkdayjobs.com/LEGO_External) |
 | [Lenovo](https://jobs.lenovo.com/pt_BR/careers) |
 | [Leroy Merlin](https://carreiras.leroymerlin.com.br/jobs) |
@@ -219,7 +218,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [LG Electronics do Brasil LTDA](https://lge.gupy.io) |
 | [Livelo](https://livelo.gupy.io) |
 | [Localiza](https://localiza.gupy.io) |
-| [Loft](https://loft.gupy.io) |
 | [Loggi](https://apply.workable.com/loggi) |
 | [Lojas Renner S.A.](https://encantech.gupy.io) |
 | [LOUD](https://loud.gupy.io) |
@@ -263,6 +261,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Pernambucanas](https://vemprafamilia-pernambucanas.cliqx.com.br) |
 | [Petz](https://petz.gupy.io) |
 | [Pfizer](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers) |
+| [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers) |
 | [PicPay](https://boards.greenhouse.io/picpay) |
 | [Pipefy](https://app.pipefy.com/organizations/28/interfaces/445e5dd7-d23f-4299-8777-9280272d015d/pages/83bf9609-eb1c-4f7c-8103-c6cc2170aeb0) |
 | [Pipefy](https://app.pipefy.com/organizations/28/interfaces/445e5dd7-d23f-4299-8777-9280272d015d/pages/ac7fffa8-bf68-41ff-a44b-61aca37652a2) |
