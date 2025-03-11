@@ -106,6 +106,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Colgate-Palmolive](https://jobs.colgate.com/search) |
 | [Construtora Patriani](https://construtorapatriani.inhire.app/vagas) |
 | [Contabilizei](https://contabilizei.gupy.io) |
+| [Contabilizei](https://contabilizei.gupy.io) |
 | [Coop](https://coop.jobs.recrut.ai/#openings) |
 | [Cortex](https://cortex.gupy.io) |
 | [Creditas](https://job-boards.greenhouse.io/creditas) |
@@ -198,6 +199,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Intel](https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599) |
 | [Inter](https://boards.greenhouse.io/inter) |
 | [Intera](https://vagasbyintera.inhire.app/vagas) |
+| [Involves](https://involves.gupy.io) |
 | [Ipiranga](https://ipiranga.gupy.io) |
 | [IQVIA](https://jobs.iqvia.com/en/search-jobs) |
 | [Isaac](https://boards.greenhouse.io/isaac) |
@@ -210,6 +212,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Kiwify](https://kiwify.inhire.app/vagas) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [Kraft Heinz](https://careers.kraftheinz.com/job-search-results) |
+| [Launchpad Technologies](https://job-boards.greenhouse.io/launchpadtechnologiesinc) |
 | [LEGO](https://lego.wd103.myworkdayjobs.com/LEGO_External) |
 | [Lenovo](https://jobs.lenovo.com/pt_BR/careers) |
 | [Leroy Merlin](https://carreiras.leroymerlin.com.br/jobs) |
@@ -290,6 +293,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rede](https://vemprarede.gupy.io) |
 | [Rede Bandeirantes](https://bandeirantes.gupy.io) |
 | [Rede Dor](https://trabalheconosco.vagas.com.br/rededor) |
+| [Remote](https://job-boards.greenhouse.io/remotecom) |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
