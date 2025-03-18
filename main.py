@@ -57,9 +57,9 @@ if new_items:
         print("Nenhum item duplicado encontrado no new_items.csv em relação a list.csv.")
 
     if new_entries_added:
-        # Define a ordem dos campos para list.csv
-        fieldnames = ['Status da URL', 'Data de Entrada', 'Nome da Empresa', 'Segmento da Empresa', 'Plataforma', 'URL']
-        save_sorted_csv(LIST_FILE_PATH, existing_items, fieldnames)
+        # Define a ordem dos campos para list.csv (sem 'Data do Status')
+        fieldnames_temp = [ 'Status da URL', 'Data de Entrada','Nome da Empresa', 'Segmento da Empresa', 'Plataforma', 'URL']
+        save_sorted_csv(LIST_FILE_PATH, existing_items, fieldnames_temp)
     
     # Limpa o arquivo new_items.csv, mantendo apenas o cabeçalho
     with open(NEW_ITEMS_FILE, 'w', newline='', encoding='utf-8') as new_file:
@@ -77,6 +77,7 @@ for value in values:
     url = value['URL']
     status = verify_website_status(url)
     value['Status da URL'] = status
+    # Adiciona o campo "Data do Status" temporariamente, mas ele será removido antes de salvar
     value['Data do Status'] = date.today().strftime("%Y-%m-%d")
     if status == '0':
         status_zero_items.append(value)
@@ -112,15 +113,22 @@ else:
 
 values_sorted = unique_values
 
-# 5. Salvar os dados ordenados no list.csv
-save_sorted_csv(LIST_FILE_PATH, values_sorted, fieldnames=values_sorted[0].keys())
+# 5. Remover o campo "Data do Status" de cada registro, conforme solicitado
+for item in values_sorted:
+    if 'Data do Status' in item:
+        del item['Data do Status']
 
-# 6. Gerar a tabela em Markdown
+# 6. Salvar os dados ordenados no list.csv com a ordem desejada:
+# Ordem: Status da URL, Data de Entrada, Nome da Empresa, Segmento da Empresa, Plataforma, URL
+fieldnames = ['Status da URL', 'Data de Entrada', 'Nome da Empresa', 'Segmento da Empresa', 'Plataforma', 'URL']
+save_sorted_csv(LIST_FILE_PATH, values_sorted, fieldnames=fieldnames)
+
+# 7. Gerar a tabela em Markdown
 markdown_table = generate_markdown_table(values_sorted)
 
-# 7. Carregar o cabeçalho do arquivo Markdown
+# 8. Carregar o cabeçalho do arquivo Markdown
 header_content = load_header(HEADER_FILE_PATH)
 
-# 8. Atualizar o arquivo README.md
+# 9. Atualizar o arquivo README.md
 with open(README_FILE_PATH, 'w', encoding='utf-8') as readme_file:
     readme_file.write(f'{header_content}\n\n{markdown_table}')
