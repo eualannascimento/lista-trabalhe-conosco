@@ -38,12 +38,12 @@ if new_items:
             continue
         # Prepara nova linha com os campos extras
         new_row = {
+            'Status da URL': '0',
+            'Data de Entrada': date.today().strftime("%Y-%m-%d"),
             'Nome da Empresa': item['Nome da Empresa'],
             'Segmento da Empresa': item['Segmento da Empresa'],
             'Plataforma': item['Plataforma'],
-            'URL': cleaned_url,
-            'Status da URL': '0',
-            'Data de Entrada': date.today().strftime("%Y-%m-%d")
+            'URL': cleaned_url
         }
         existing_items.append(new_row)
         existing_urls.add(cleaned_url)
@@ -58,7 +58,7 @@ if new_items:
 
     if new_entries_added:
         # Define a ordem dos campos para list.csv
-        fieldnames = ['Nome da Empresa', 'Segmento da Empresa', 'Plataforma', 'URL', 'Status da URL', 'Data de Entrada']
+        fieldnames = ['Status da URL', 'Data de Entrada', 'Nome da Empresa', 'Segmento da Empresa', 'Plataforma', 'URL']
         save_sorted_csv(LIST_FILE_PATH, existing_items, fieldnames)
     
     # Limpa o arquivo new_items.csv, mantendo apenas o cabeçalho
