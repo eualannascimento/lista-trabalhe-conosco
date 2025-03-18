@@ -19,16 +19,22 @@ with open(NEW_ITEMS_FILE, 'r', newline='', encoding='utf-8') as new_file:
     reader = csv.DictReader(new_file)
     new_items = list(reader)
 
+print("=== Itens encontrados no new_items.csv ===")
+for item in new_items:
+    print(item)
+
 if new_items:
     # Lê todos os itens já presentes no list.csv
     existing_items = read_csv(LIST_FILE_PATH)
     # Cria um conjunto com as URLs já existentes (após limpeza)
     existing_urls = set(clean_url(item['URL']) for item in existing_items)
     new_entries_added = False
+    new_items_duplicates = []  # Armazena itens duplicados em relação a list.csv
 
     for item in new_items:
         cleaned_url = clean_url(item['URL'])
         if cleaned_url in existing_urls:
+            new_items_duplicates.append(item)
             continue
         # Prepara nova linha com os campos extras
         new_row = {
@@ -42,6 +48,13 @@ if new_items:
         existing_items.append(new_row)
         existing_urls.add(cleaned_url)
         new_entries_added = True
+
+    print("\n=== Itens duplicados no new_items.csv em relação a list.csv ===")
+    if new_items_duplicates:
+        for dup in new_items_duplicates:
+            print(dup)
+    else:
+        print("Nenhum item duplicado encontrado no new_items.csv em relação a list.csv.")
 
     if new_entries_added:
         # Define a ordem dos campos para list.csv
@@ -59,10 +72,21 @@ if new_items:
 values = read_and_filter_csv(LIST_FILE_PATH)
 
 # 2. Verificar status das URLs (atualiza para '1' se acessível ou mantém '0')
+status_zero_items = []
 for value in values:
     url = value['URL']
-    value['Status da URL'] = verify_website_status(url)
+    status = verify_website_status(url)
+    value['Status da URL'] = status
     value['Data do Status'] = date.today().strftime("%Y-%m-%d")
+    if status == '0':
+        status_zero_items.append(value)
+
+print("\n=== Itens com status '0' na verificação de URL ===")
+if status_zero_items:
+    for item in status_zero_items:
+        print(item)
+else:
+    print("Todos os itens apresentaram status '1'.")
 
 # 3. Ordenar os dados alfabeticamente pelo nome da empresa
 values_sorted = sorted(values, key=lambda x: unidecode(x['Nome da Empresa'].lower()))
@@ -70,10 +94,22 @@ values_sorted = sorted(values, key=lambda x: unidecode(x['Nome da Empresa'].lowe
 # 4. Remover duplicatas de URL, mantendo apenas a primeira ocorrência
 unique_values = []
 seen_urls = set()
+duplicated_values = []  # Itens duplicados encontrados na lista completa
+
 for item in values_sorted:
     if item['URL'] not in seen_urls:
         seen_urls.add(item['URL'])
         unique_values.append(item)
+    else:
+        duplicated_values.append(item)
+
+print("\n=== Itens duplicados na lista completa (removidos) ===")
+if duplicated_values:
+    for dup in duplicated_values:
+        print(dup)
+else:
+    print("Nenhum item duplicado encontrado na lista completa.")
+
 values_sorted = unique_values
 
 # 5. Salvar os dados ordenados no list.csv
