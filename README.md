@@ -251,7 +251,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Paschoalotto](https://paschoalotto.gupy.io) |
 | [Payclip](https://payclip.bamboohr.com/careers) |
 | [Paypal](https://paypal.eightfold.ai/careers) |
-| [PepsiCo](https://pepsico.eightfold.ai/careers) |
 | [PepsiCo](https://www.pepsicojobs.com/main/jobs) |
 | [Pernambucanas](https://vemprafamilia-pernambucanas.cliqx.com.br) |
 | [Petz](https://petz.gupy.io) |
