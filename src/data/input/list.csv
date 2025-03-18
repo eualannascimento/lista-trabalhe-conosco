@@ -13,7 +13,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Airbnb,Turismo,Greenhouse,https://boards.greenhouse.io/airbnb
 1,2023-02-26,Alelo,Benefícios,Bizneo,https://vagas.alelo.com.br/jobs
 1,2025-01-19,Alice,Healthtech,InHire,https://alice.inhire.app/vagas
-0,2023-02-26,Alura,Educação,Gupy,https://grupoalura.gupy.io
+0,2023-02-26,Alura,Educação,InHire,https://alura-fiap-pm3.inhire.app/alura/vagas
 1,2025-01-23,Amazon,Comércio Eletrônico,Plataforma Interna,https://www.amazon.jobs/en/search
 1,2023-02-26,Ambev,Alimentos e Bebidas,Gupy,https://ambev.gupy.io
 1,2023-02-26,Ambev Tech,Tecnologia,Gupy,https://ambevtech.gupy.io
@@ -115,7 +115,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Elgin,Eletrodomésticos,Gupy,https://sejaelgin.gupy.io
 1,2023-02-26,Elo,Soluções de Pagamento,Gupy,https://vempraelo.gupy.io
 1,2023-02-26,Embraer,Aeronáutica,Gupy,https://embraer.gupy.io
-0,2023-02-26,EMS,Farmacêutica,Gupy,https://ems.gupy.io
+0,2023-02-26,EMS,Farmacêutica,IziRH,https://ems.izirh.io/
 1,2023-02-26,Energisa (Corp),Energia,Gupy,https://grupoenergisa.gupy.io
 1,2023-02-26,Energisa (Tecnologia),Energia,Gupy,https://energisatech.gupy.io
 1,2025-01-19,Ericsson,Tecnologia,Eightfold,https://ericsson.eightfold.ai/careers
@@ -182,7 +182,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Iugu,Fintech,Gupy,https://iugu.gupy.io
 1,2025-01-23,JBS,Alimentação,Gupy,https://jbs.gupy.io
 1,2025-01-19,John Deere,Indústria,Eightfold,https://johndeere.eightfold.ai/careers
-0,2025-01-23,Johnson & Johnson,Saúde,Plataforma Interna,https://jobs.jnj.com/pt/empregos
+0,2025-01-23,Johnson & Johnson,Saúde,Workday,https://jj.wd5.myworkdayjobs.com/pt-BR/JJ
 1,2025-01-19,JusBrasil,Tecnologia,Greenhouse,https://boards.greenhouse.io/jusbrasil
 1,2025-01-20,Kimberly-Clark,Produtos de Consumo,Workday,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL
 1,2025-01-19,Kiwify,Tecnologia,InHire,https://kiwify.inhire.app/vagas
@@ -197,7 +197,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,LG Electronics do Brasil LTDA,Eletrônicos,Gupy,https://lge.gupy.io
 1,2023-02-26,Livelo,Recompensas,Gupy,https://livelo.gupy.io
 1,2023-02-26,Localiza,Locação,Gupy,https://localiza.gupy.io
-0,2025-01-19,Loft,Tecnologia,Gupy,https://loft.gupy.io
+0,2025-01-19,Loft,Tecnologia,TeamTailor,https://loft.teamtailor.com/jobs
 1,2023-02-26,Loggi,Logística,Workable,https://apply.workable.com/loggi
 1,2025-01-19,Lojas Renner S.A.,Varejo,Gupy,https://encantech.gupy.io
 1,2024-09-01,LOUD,Games,Gupy,https://loud.gupy.io
