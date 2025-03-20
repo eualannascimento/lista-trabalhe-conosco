@@ -386,7 +386,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [webedia](https://webedia.gupy.io) |
 | [Wellhub (GymPass)](https://boards.greenhouse.io/gympass) |
 | [Welocalize](https://jobs.lever.co/welocalize) |
-| [WeWork](https://wework.wd1.myworkdayjobs.com/weworkfranchise) |
+| [WeWork](https://wework.wd1.myworkdayjobs.com/WeWork) |
 | [WEX](https://wexinc.wd5.myworkdayjobs.com/WEXInc) |
 | [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen) |
 | [will bank](https://vemserwill.gupy.io) |
