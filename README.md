@@ -85,6 +85,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [BMG](https://bmg.gupy.io) |
 | [BMW Group Brasil](https://bmw.gupy.io) |
 | [BNY Mellon](https://bnymellon.eightfold.ai/careers) |
+| [BoldMetrics](https://job-boards.greenhouse.io/boldmetrics) |
 | [Booking](https://jobs.booking.com/booking/jobs) |
 | [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) |
 | [Bradesco Seguros](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco) |
@@ -111,6 +112,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Cobasi](https://cobasi.pandape.infojobs.com.br) |
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
 | [Coca-Cola Femsa BR](https://cocacolafemsabr.gupy.io) |
+| [Cogna](https://cogna.gupy.io) |
 | [Colgate-Palmolive](https://jobs.colgate.com/search) |
 | [Contabilizei](https://contabilizei.gupy.io) |
 | [Coop](https://coop.jobs.recrut.ai/#openings) |
@@ -139,6 +141,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [dLocal](https://jobs.lever.co/dlocal) |
 | [Domino's Pizza](https://dominospizzabrasil.pandape.infojobs.com.br) |
 | [Donorbox](https://job-boards.greenhouse.io/donorbox) |
+| [DoorDash International](https://boards.greenhouse.io/doordashinternational) |
 | [Dotz](https://dotz.gupy.io) |
 | [Dropbox](https://jobs.dropbox.com/all-jobs) |
 | [DRUID Creative Gaming](https://druid.gupy.io) |
@@ -172,6 +175,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ford](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions) |
 | [Fundação Bradesco](https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco) |
 | [Fundação São Paulo (FUNDASP)](https://fundasp.gupy.io) |
+| [Fundaobuta](https://career19.sapsf.com/careers?company=fundaobuta) |
 | [Gamers Club](https://gamersclub.gupy.io) |
 | [Garena](https://careers.garena.com/global/careers) |
 | [GE Aerospace](https://careers.geaerospace.com/global/en/search-results) |
@@ -189,6 +193,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Google](https://www.google.com/about/careers/applications/jobs/results) |
 | [GPA](https://digitalgpa.gupy.io) |
 | [GPA](https://corporacaogpa.gupy.io) |
+| [Granado](https://granado.gupy.io) |
 | [Greenhouse](https://job-boards.greenhouse.io/greenhouse) |
 | [Grupo Boticário](https://grupoboticario.gupy.io) |
 | [Grupo Carrefour](https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br) |
@@ -226,9 +231,12 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [JBS](https://jbs.gupy.io) |
 | [John Deere](https://johndeere.eightfold.ai/careers) |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/pt-BR/JJ) |
+| [JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions) |
 | [JusBrasil](https://boards.greenhouse.io/jusbrasil) |
+| [Keyrus](https://jobs.keyrus.com.br/jobs) |
 | [Kimberly-Clark](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL) |
 | [Kiwify](https://kiwify.inhire.app/vagas) |
+| [KMM](https://kmm.gupy.io) |
 | [KPMG Brasil](https://kpmgbrasil.gupy.io) |
 | [Kraft Heinz](https://careers.kraftheinz.com/job-search-results) |
 | [Kwan](https://kwan.com/careers/#jobpost) |
@@ -240,6 +248,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [LevelUp](https://trampos.co/level-up) |
 | [LG](https://prd-pc1.lg.com.br/vagas/c/DC1048FD-27FA-4C35-A7E9-5064AC4B0975/p/TrabalhenaLG/pt-BR/Busca/Index) |
 | [LG Electronics do Brasil LTDA](https://lge.gupy.io) |
+| [Live Nation](https://livenation.wd1.myworkdayjobs.com/en-US/TMExternalSite) |
 | [Livelo](https://livelo.gupy.io) |
 | [Localiza](https://localiza.gupy.io) |
 | [Loft](https://loft.teamtailor.com/jobs) |
@@ -319,6 +328,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rede Dor](https://trabalheconosco.vagas.com.br/rededor) |
 | [Remotecom](https://job-boards.greenhouse.io/remotecom) |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) |
+| [Rippling](https://ats.rippling.com/careers-quartile/jobs) |
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext) |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Ryanair](https://careers.ryanair.com/jobs) |
@@ -358,6 +368,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [T4F - Time for Fun](https://t4f.gupy.io) |
 | [TakeBlip](https://takeblip.gupy.io) |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) |
+| [Telus Digital BR](https://job-boards.greenhouse.io/telusdigitalbr) |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) |
 | [TIVIT](https://tivit.gupy.io) |
 | [Toyota Brasil](https://toyotabrasil.gupy.io) |
@@ -379,6 +390,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Vivo](https://vivo.gupy.io) |
 | [Vivo Digital](https://vivodigital.gupy.io) |
 | [Volkswagen do Brasil](https://vwbrasil.gupy.io) |
+| [Volvo Infor](https://career55.sapsf.eu/careers?company=volvoinfor) |
 | [Votorantim Cimentos](https://votorantimcimentos.gupy.io) |
 | [VR](https://www.portalsinergyrh.com.br/Portal/MeuPortal/MeuPortal?empresa=1581&master=0#suaNovoCarreira) |
 | [VTEX](https://job-boards.greenhouse.io/vtex) |
@@ -395,4 +407,5 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
 | [Yamaha](https://yamaha.gupy.io) |
 | [Youse](https://vagas-youse.gupy.io) |
+| [ZF Friedrich](https://career5.successfactors.eu/careers?company=zffriedric) |
 | [Zup Innovation](https://job-boards.greenhouse.io/zupinnovation) |
