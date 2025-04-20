@@ -133,6 +133,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [DataDog](https://careers.datadoghq.com/all-jobs) |
 | [Daycoval DayCambio](https://daycambio.gupy.io) |
 | [Daycoval DayCred](https://daycred.gupy.io) |
+| [dbtLabs](https://job-boards.greenhouse.io/dbtlabsinc) |
 | [Decathlon](https://carreirasdecathlon.gupy.io) |
 | [Deloitte](https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join) |
 | [DiDi (99)](https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479) |
@@ -184,6 +185,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/pt-BR/Careers_GM) |
 | [Genial Investimentos](https://genial.gupy.io) |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) |
+| [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) |
 | [Gigster](https://job-boards.greenhouse.io/gigster) |
 | [Github](https://www.github.careers/careers-home/jobs) |
 | [GitHub Inc](https://globalcareers-githubinc.icims.com/jobs) |
@@ -213,6 +215,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Hospital Albert Einstein](https://career8.successfactors.com/career?company=C0001240283P) |
 | [Hospital Sírio-Libanês](https://career19.sapsf.com/careers?company=sociedad02) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
+| [Hotmart](https://job-boards.eu.greenhouse.io/hotmartcareersbr) |
 | [Hyland](https://careers-hyland.icims.com/jobs/search?ss=1&hashed=-435679902) |
 | [IBM](https://ibmglobal.avature.net/pt_BR/careers) |
 | [ICIMS](https://careers.icims.com/careers-home/jobs) |
