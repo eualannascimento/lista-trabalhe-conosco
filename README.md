@@ -88,6 +88,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [BoldMetrics](https://job-boards.greenhouse.io/boldmetrics) |
 | [Booking](https://jobs.booking.com/booking/jobs) |
 | [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) |
+| [Boulder Colorado](https://bouldercolorado.wd1.myworkdayjobs.com/en-US/External) |
 | [Bradesco Seguros](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco) |
 | [Brasilprev](https://brasilprev.gupy.io) |
 | [Braskem](https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions) |
@@ -150,6 +151,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Duolingo](https://boards.greenhouse.io/duolingo) |
 | [Eaton](https://eaton.eightfold.ai/careers) |
 | [Ebanx](https://boards.greenhouse.io/ebanx) |
+| [Edenred (Ticket)](https://wd3.myworkdaysite.com/pt-BR/recruiting/edenpeople/Edenred_Careers) |
 | [Efí Bank](https://sejaefi.gupy.io) |
 | [Eightfold](https://pepsico.eightfold.ai/careers) |
 | [Electrolux](https://career.electroluxgroup.com/global/en/search-results) |
