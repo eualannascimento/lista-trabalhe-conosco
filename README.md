@@ -376,7 +376,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Telus Digital BR](https://job-boards.greenhouse.io/telusdigitalbr) |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) |
 | [TIVIT](https://tivit.gupy.io) |
-| [Toyota Brasil](https://toyotabrasil.gupy.io) |
+| [Toyota Brasil](https://toyota.wd5.myworkdayjobs.com/pt-BR/TLAC) |
 | [Tractian](https://careers.tractian.com/jobs) |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) |
 | [Transport NSW](https://jobs.transport.nsw.gov.au/search) |
