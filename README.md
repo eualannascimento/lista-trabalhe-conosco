@@ -118,6 +118,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Contabilizei](https://contabilizei.gupy.io) |
 | [Coop](https://coop.jobs.recrut.ai/#openings) |
 | [Cortex](https://cortex.gupy.io) |
+| [Coursera](https://job-boards.greenhouse.io/coursera) |
 | [Creditas](https://job-boards.greenhouse.io/creditas) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
