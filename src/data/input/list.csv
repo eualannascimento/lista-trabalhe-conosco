@@ -14,7 +14,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Airbnb,Turismo,Greenhouse,https://boards.greenhouse.io/airbnb
 1,2023-02-26,Alelo,Benefícios,Bizneo,https://vagas.alelo.com.br/jobs
 1,2025-01-19,Alice,Healthtech,InHire,https://alice.inhire.app/vagas
-0,2023-02-26,Alura,Educação,InHire,https://alura-fiap-pm3.inhire.app/alura/vagas
+0,2025-12-26,Alura,Educação,InHire,https://alun.inhire.app/alura/vagas
 1,2025-01-23,Amazon,Comércio Eletrônico,Plataforma Interna,https://www.amazon.jobs/en/search
 1,2023-02-26,Ambev,Alimentos e Bebidas,Gupy,https://ambev.gupy.io
 1,2023-02-26,Ambev Tech,Tecnologia,Gupy,https://ambevtech.gupy.io
@@ -41,7 +41,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-07-22,Banco Mercantil,Banco,Gupy,https://mercantil.gupy.io
 1,2023-05-04,Banco Ourinvest,Banco,Gupy,https://bancoourinvest.gupy.io
 1,2023-02-26,Banco Pan,Banco,Greenhouse,https://boards.greenhouse.io/bancopan
-0,2025-03-18,Banco Pine,Financeiro,Gupy,https://bancopine.gupy.io
+0,2025-12-26,Banco Pine,Financeiro,InHire,https://bancopine.inhire.app/vagas
 1,2023-02-26,Banco Rodobens,Banco,Gupy,https://rodobenscarreiras.gupy.io
 1,2023-02-26,Banco Sofisa,Banco,Gupy,https://bancosofisa.gupy.io
 1,2023-02-26,banQi,Soluções de Pagamento,Gupy,https://banqi.gupy.io
@@ -73,7 +73,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Capco,Consultoria,Greenhouse,https://boards.greenhouse.io/capco
 1,2023-02-26,Centauro,Varejo,Gupy,https://centaurotalentos.gupy.io
 1,2024-11-22,CI&T,Tecnologia,Lever,https://jobs.lever.co/ciandt
-0,2023-02-26,Cielo,Soluções de Pagamento,Gupy,https://cielo.gupy.io
+0,2025-12-26,Cielo,Soluções de Pagamento,InHire,https://cielo.inhire.app/vagas
 1,2025-01-23,Cinemark,Entretenimento,Gupy,https://cinemark.gupy.io
 1,2025-01-23,Cisco,Tecnologia,Plataforma Interna,https://jobs.cisco.com/jobs/SearchJobs
 1,2025-01-23,Citi,Financeiro,Workday,https://citi.wd5.myworkdayjobs.com/2
@@ -87,7 +87,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Coop,Supermercado,Recrut.ai,https://coop.jobs.recrut.ai/#openings
 1,2025-01-20,Cortex,Tecnologia,Gupy,https://cortex.gupy.io
 1,2025-12-05,Coursera,Educação,Greenhouse,https://job-boards.greenhouse.io/coursera
-0,2025-01-19,Creditas,Financeiro,Greenhouse,https://job-boards.greenhouse.io/creditas
+0,2025-12-26,Creditas,Financeiro,Gupy,https://creditas.gupy.io/
 0,2023-02-26,Creditas (Internacional),Financeiro,Greenhouse,https://boards.greenhouse.io/creditasen
 0,2023-02-26,Creditas (Nacional),Financeiro,Greenhouse,https://boards.greenhouse.io/creditas
 1,2023-02-26,CVC Corp,Viagens,Gupy,https://cvccorp.gupy.io
@@ -116,7 +116,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Dotz,Benefícios,Gupy,https://dotz.gupy.io
 1,2025-01-23,Dropbox,Tecnologia,Plataforma Interna,https://jobs.dropbox.com/all-jobs
 1,2024-09-01,DRUID Creative Gaming,Games,Gupy,https://druid.gupy.io
-1,2025-01-23,DuckDuckGo,Tecnologia,Plataforma Interna,https://jobs.ashbyhq.com/duck-duck-go
+1,2025-01-23,DuckDuckGo,Tecnologia,Ashby,https://jobs.ashbyhq.com/duck-duck-go
 1,2025-01-20,Duolingo,Educacional,Greenhouse,https://boards.greenhouse.io/duolingo
 1,2025-01-19,Eaton,Indústria,Eightfold,https://eaton.eightfold.ai/careers
 1,2023-02-26,Ebanx,Soluções de Pagamento,Greenhouse,https://boards.greenhouse.io/ebanx
@@ -254,7 +254,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Neurotech,Tecnologia,Recrut.ai,https://neurotech.jobs.recrut.ai/#openings
 1,2025-01-23,Nissan,Automotivo,Workday,https://alliance.wd3.myworkdayjobs.com/nissanjobs
 1,2025-03-18,Nomad Global,Tecnologia,Workable,https://apply.workable.com/nomadglobal
-0,2023-02-26,Notion,Tecnologia,Greenhouse,https://boards.greenhouse.io/notion
+0,2025-12-26,Notion,Tecnologia,Ashby,https://jobs.ashbyhq.com/notion
 0,2025-01-20,NTT Data,Tecnologia,Plataforma Interna,https://careers.emeal.nttdata.com/s/jobs?language=pt_BR
 1,2023-02-26,Nubank,Banco,Greenhouse,https://boards.greenhouse.io/nubank
 0,2025-01-19,OLX Brasil,Marketplace,Gupy,https://vemserolxbrasil.gupy.io
@@ -339,13 +339,13 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-09-18,Swift,Alimentos e Bebidas,Gupy,https://swift.gupy.io
 1,2025-01-20,Swile,Tecnologia,Lever,https://jobs.lever.co/swile
 1,2025-01-19,Sympla,Tecnologia,InHire,https://sympla.inhire.app/vagas
-0,2025-01-19,T4F - Time for Fun,Entretenimento,Gupy,https://t4f.gupy.io
-0,2023-02-26,TakeBlip,Tecnologia,Gupy,https://takeblip.gupy.io
+0,2025-12-26,T4F - Time for Fun,Entretenimento,Solides,https://t4f.vagas.solides.com.br/
+0,2025-12-26,TakeBlip,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/blip-global
 1,2024-09-01,Team Liquid,Games,Plataforma Interna,https://careers.teamliquid.com/#jobs
 1,2025-03-22,Telus Digital BR,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/telusdigitalbr
 1,2025-01-23,ThoughtWorks,Tecnologia,Plataforma Interna,https://www.thoughtworks.com/careers/jobs
 0,2023-02-26,TIVIT,Tecnologia,Gupy,https://tivit.gupy.io
-0,2023-02-26,Toyota Brasil,Automotivo,Workday,https://toyota.wd5.myworkdayjobs.com/pt-BR/TLAC
+0,2025-12-26,Toyota Brasil,Automotivo,Workday,https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC
 1,2025-01-20,Tractian,Tecnologia,Plataforma Interna,https://careers.tractian.com/jobs
 1,2024-09-01,Transperfect Gaming,Games,Plataforma Interna,https://gaming.transperfect.com/careers
 1,2025-01-23,Transport NSW,Transporte,Plataforma Interna,https://jobs.transport.nsw.gov.au/search
@@ -375,7 +375,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,WeWork,Espaços de Trabalho,Workday,https://wework.wd1.myworkdayjobs.com/WeWork
 1,2025-03-18,WEX,Financeiro,Workday,https://wexinc.wd5.myworkdayjobs.com/WEXInc
 1,2025-01-20,Wilhelmsen,Logística,Workday,https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen
-0,2023-02-26,will bank,Banco,Gupy,https://vemserwill.gupy.io
+0,2025-12-26,will bank,Banco,InHire,https://willbank.inhire.app/vagas
 1,2025-01-20,WillowTree,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/willowtree
 1,2025-03-18,Xometry,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/xometry
 1,2023-02-26,XP Inc,Financeiro,Greenhouse,https://boards.greenhouse.io/xpinc
