@@ -46,7 +46,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Airbnb](https://boards.greenhouse.io/airbnb) |
 | [Alelo](https://vagas.alelo.com.br/jobs) |
 | [Alice](https://alice.inhire.app/vagas) |
-| [Alura](https://alura-fiap-pm3.inhire.app/alura/vagas) |
+| [Alura](https://alun.inhire.app/alura/vagas) |
 | [Amazon](https://www.amazon.jobs/en/search) |
 | [Ambev](https://ambev.gupy.io) |
 | [Ambev Tech](https://ambevtech.gupy.io) |
@@ -64,16 +64,14 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Aztec](https://job-boards.eu.greenhouse.io/aztec) |
 | [Ball](https://jobs.ball.com/corp_packaging/search) |
 | [Banco ABC](https://abcbrasil.gupy.io) |
-| [Banco Alfa](https://alfa.gupy.io) |
 | [Banco Bradesco](https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco) |
 | [Banco BV](https://jobs.lever.co/bv) |
 | [Banco Daycoval](https://bancodaycoval.gupy.io) |
 | [Banco Fibra](https://bancofibra.gupy.io) |
-| [Banco Master](https://bancomaster.gupy.io) |
 | [Banco Mercantil](https://mercantil.gupy.io) |
 | [Banco Ourinvest](https://bancoourinvest.gupy.io) |
 | [Banco Pan](https://boards.greenhouse.io/bancopan) |
-| [Banco Pine](https://bancopine.gupy.io) |
+| [Banco Pine](https://bancopine.inhire.app/vagas) |
 | [Banco Rodobens](https://rodobenscarreiras.gupy.io) |
 | [Banco Sofisa](https://bancosofisa.gupy.io) |
 | [banQi](https://banqi.gupy.io) |
@@ -105,7 +103,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Capco](https://boards.greenhouse.io/capco) |
 | [Centauro](https://centaurotalentos.gupy.io) |
 | [CI&T](https://jobs.lever.co/ciandt) |
-| [Cielo](https://cielo.gupy.io) |
+| [Cielo](https://cielo.inhire.app/vagas) |
 | [Cinemark](https://cinemark.gupy.io) |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs) |
 | [Citi](https://citi.wd5.myworkdayjobs.com/2) |
@@ -119,7 +117,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Coop](https://coop.jobs.recrut.ai/#openings) |
 | [Cortex](https://cortex.gupy.io) |
 | [Coursera](https://job-boards.greenhouse.io/coursera) |
-| [Creditas](https://job-boards.greenhouse.io/creditas) |
+| [Creditas](https://creditas.gupy.io) |
 | [Creditas (Internacional)](https://boards.greenhouse.io/creditasen) |
 | [Creditas (Nacional)](https://boards.greenhouse.io/creditas) |
 | [CVC Corp](https://cvccorp.gupy.io) |
@@ -286,7 +284,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Neurotech](https://neurotech.jobs.recrut.ai/#openings) |
 | [Nissan](https://alliance.wd3.myworkdayjobs.com/nissanjobs) |
 | [Nomad Global](https://apply.workable.com/nomadglobal) |
-| [Notion](https://boards.greenhouse.io/notion) |
+| [Notion](https://jobs.ashbyhq.com/notion) |
 | [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) |
 | [Nubank](https://boards.greenhouse.io/nubank) |
 | [OLX Brasil](https://vemserolxbrasil.gupy.io) |
@@ -371,13 +369,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Swift](https://swift.gupy.io) |
 | [Swile](https://jobs.lever.co/swile) |
 | [Sympla](https://sympla.inhire.app/vagas) |
-| [T4F - Time for Fun](https://t4f.gupy.io) |
-| [TakeBlip](https://takeblip.gupy.io) |
+| [T4F - Time for Fun](https://t4f.vagas.solides.com.br) |
+| [TakeBlip](https://job-boards.greenhouse.io/blip-global) |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) |
 | [Telus Digital BR](https://job-boards.greenhouse.io/telusdigitalbr) |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) |
 | [TIVIT](https://tivit.gupy.io) |
-| [Toyota Brasil](https://toyota.wd5.myworkdayjobs.com/pt-BR/TLAC) |
+| [Toyota Brasil](https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC) |
 | [Tractian](https://careers.tractian.com/jobs) |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) |
 | [Transport NSW](https://jobs.transport.nsw.gov.au/search) |
@@ -407,7 +405,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [WeWork](https://wework.wd1.myworkdayjobs.com/WeWork) |
 | [WEX](https://wexinc.wd5.myworkdayjobs.com/WEXInc) |
 | [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen) |
-| [will bank](https://vemserwill.gupy.io) |
+| [will bank](https://willbank.inhire.app/vagas) |
 | [WillowTree](https://job-boards.greenhouse.io/willowtree) |
 | [Xometry](https://job-boards.greenhouse.io/xometry) |
 | [XP Inc](https://boards.greenhouse.io/xpinc) |
