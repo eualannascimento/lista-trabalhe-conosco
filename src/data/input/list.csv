@@ -82,7 +82,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-22,Cogna,Educacional,Gupy,https://cogna.gupy.io
 1,2022-03-27,Colgate-Palmolive,Produtos de Consumo,Plataforma Interna,https://jobs.colgate.com/search
 0,2025-01-23,Contabilizei,Fintech,Gupy,https://contabilizei.gupy.io
-1,2025-01-23,Coop,Supermercado,Recrut.ai,https://coop.jobs.recrut.ai/#openings
+0,2025-01-23,Coop,Supermercado,Recrut.ai,https://coop.jobs.recrut.ai/#openings
 1,2025-01-20,Cortex,Tecnologia,Gupy,https://cortex.gupy.io
 1,2025-12-05,Coursera,Educação,Greenhouse,https://job-boards.greenhouse.io/coursera
 1,2025-12-26,Creditas,Financeiro,Gupy,https://creditas.gupy.io
@@ -138,7 +138,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Ferrero,Alimentos e Bebidas,SuccessFactors,https://career5.successfactors.eu/careers?company=ferreroint
 0,2022-03-27,FGV - Fundação Getulio Vargas,Ensino,Plataforma Interna,https://trabalheconosco.fgv.br/vagas
 0,2025-03-18,FIAP,Educacional,InHire,https://alura-fiap-pm3.inhire.app/vagas
-0,2025-01-15,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma
+1,2025-01-15,Figma,Tecnologia,Greenhouse,https://boards.greenhouse.io/figma
 1,2025-01-20,Flash,Tecnologia,InHire,https://flash.inhire.app/vagas
 1,2025-01-23,Fleury,Saúde,Vagas,https://trabalheconosco.vagas.com.br/grupo-fleury/oportunidades
 1,2025-03-18,Fluency Academy,Educacional,Gupy,https://fluencyacademy.gupy.io
@@ -168,7 +168,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Greenhouse,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/greenhouse
 1,2023-02-26,Grupo Boticário,Cosméticos,Gupy,https://grupoboticario.gupy.io
 1,2023-02-26,Grupo Carrefour,Varejo,InfoJobs,https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br
-1,2025-01-19,Grupo Despegar (Decolar.com),Viagens,Lever,https://jobs.lever.co/despegar
+0,2025-01-19,Grupo Despegar (Decolar.com),Viagens,Lever,https://jobs.lever.co/despegar
 1,2025-03-18,Grupo Fleury,Saúde,Vagas.com.br,https://trabalheconosco.vagas.com.br/grupo-fleury
 1,2025-01-23,Grupo Habib's,Alimentação,InfoJobs,https://grupohabibs.pandape.infojobs.com.br
 1,2023-02-26,Grupo L'Occitane,Cosméticos,Gupy,https://sejaloccitane.gupy.io
@@ -194,7 +194,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2022-03-27,Intel,Tecnologia,Plataforma Interna,https://jobs.intel.com/en/search-jobs?k=&l=&orgIds=599
 1,2025-01-19,Inter,Banco,Greenhouse,https://boards.greenhouse.io/inter
 1,2025-01-23,Intera,Recrutamento,InHire,https://vagasbyintera.inhire.app/vagas
-0,2025-03-18,Involves,Trade Marketing,Gupy,https://involves.gupy.io
+1,2025-03-18,Involves,Trade Marketing,Gupy,https://involves.gupy.io
 1,2025-01-20,Ipiranga,Combustíveis,Gupy,https://ipiranga.gupy.io
 1,2025-01-20,IQVIA,Saúde,Plataforma Interna,https://jobs.iqvia.com/en/search-jobs
 1,2025-01-19,Isaac,Financeiro,Greenhouse,https://boards.greenhouse.io/isaac
