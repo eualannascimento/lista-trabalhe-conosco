@@ -337,7 +337,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) |
 | [Ryanair](https://careers.ryanair.com/jobs) |
 | [Safra](https://venhasersafra.gupy.io) |
-| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
 | [Sami](https://oisami.gupy.io) |
 | [Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) |
