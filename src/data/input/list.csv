@@ -74,7 +74,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Cisco,Tecnologia,Plataforma Interna,https://jobs.cisco.com/jobs/SearchJobs
 1,2025-01-23,Citi,Financeiro,Workday,https://citi.wd5.myworkdayjobs.com/2
 1,2023-02-26,ClearSale,Consultoria,Gupy,https://clearsale.gupy.io
-1,2025-01-23,Cobasi,Varejo,InfoJobs,https://cobasi.pandape.infojobs.com.br
+0,2025-01-23,Cobasi,Varejo,InfoJobs,https://cobasi.pandape.infojobs.com.br
 1,2022-03-27,Coca-Cola Company,Alimentos e Bebidas,Workday,https://coke.wd1.myworkdayjobs.com/coca-cola-careers
 1,2022-03-27,Coca-Cola Femsa BR,Alimentos e Bebidas,Gupy,https://cocacolafemsabr.gupy.io
 1,2025-03-22,Cogna,Educacional,Gupy,https://cogna.gupy.io
@@ -164,6 +164,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Greenhouse,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/greenhouse
 1,2023-02-26,Grupo Boticário,Cosméticos,Gupy,https://grupoboticario.gupy.io
 1,2023-02-26,Grupo Carrefour,Varejo,InfoJobs,https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br
+0,2023-02-26,Grupo Casas Bahia,Varejo,Gupy,https://grupocasasbahia.gupy.io
 1,2025-01-19,Grupo Despegar (Decolar.com),Viagens,Lever,https://jobs.lever.co/despegar
 1,2025-03-18,Grupo Fleury,Saúde,Vagas.com.br,https://trabalheconosco.vagas.com.br/grupo-fleury
 1,2025-01-23,Grupo Habib's,Alimentação,InfoJobs,https://grupohabibs.pandape.infojobs.com.br
@@ -347,7 +348,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Vale,Mineração,Eightfold,https://vale.eightfold.ai/careers
 1,2025-03-18,Veeva,Tecnologia,Lever,https://veeva.com/careers
 1,2023-09-17,Veloe,Soluções de Pagamento,Bizneo,https://vagas.veloe.com.br/jobs
-1,2023-02-26,Grupo Casas Bahia,Varejo,Gupy,https://grupocasasbahia.gupy.io
 1,2025-03-18,Vinta,Tecnologia,InHire,https://vinta.inhire.app/vagas
 1,2023-02-26,Vivo,Telefonia,Gupy,https://vivo.gupy.io
 1,2023-02-26,Vivo Digital,Telefonia,Gupy,https://vivodigital.gupy.io
