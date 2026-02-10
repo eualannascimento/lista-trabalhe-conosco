@@ -149,16 +149,20 @@ def sort_and_deduplicate(values):
 
 def save_results(values, list_file_path, header_file_path, readme_file_path):
     """
-    Remove campo temporário, salva CSV e gera README.md.
+    Remove campo temporário (em cópia), salva CSV e gera README.md.
     """
+    # Create clean copies for saving to avoid modifying the objects used in failure report
+    to_save = []
     for item in values:
-        item.pop("Data do Status", None)
-        item.pop("_error", None)
+        clean_item = item.copy()
+        clean_item.pop("Data do Status", None)
+        clean_item.pop("_error", None)
+        to_save.append(clean_item)
 
-    save_sorted_csv(list_file_path, values, fieldnames=FIELDNAMES)
-    logger.info("CSV salvo: %s (%d registros)", list_file_path, len(values))
+    save_sorted_csv(list_file_path, to_save, fieldnames=FIELDNAMES)
+    logger.info("CSV salvo: %s (%d registros)", list_file_path, len(to_save))
 
-    markdown_table = generate_markdown_table(values)
+    markdown_table = generate_markdown_table(to_save)
     header_content = load_header(header_file_path)
 
     with open(readme_file_path, "w", encoding="utf-8") as f:
@@ -169,39 +173,44 @@ def save_results(values, list_file_path, header_file_path, readme_file_path):
 def print_failure_report(failed_items):
     """
     Imprime um relatório final detalhado de todos os sites que falharam na verificação.
+    Formato solicitado: Uma linha por erro.
     """
-    separator = "=" * 90
-
     if not failed_items:
-        print(f"\n{separator}")
-        print("RELATÓRIO FINAL: Todas as URLs foram verificadas com sucesso!")
-        print(separator)
+        logger.info("-" * 80)
+        logger.info("RELATÓRIO FINAL: SUCESSO! Todas as empresas e sites foram confirmados.")
+        logger.info("-" * 80)
         return
 
-    print(f"\n{separator}")
-    print(f"RELATÓRIO FINAL: {len(failed_items)} EMPRESA(S) COM FALHA NA VERIFICAÇÃO")
-    print(separator)
-    print(f"{'#':<4} {'Empresa':<35} {'URL':<55} {'Erro'}")
-    print("-" * 90)
-
+    # Usando print para garantir que saia no stdout limpo no final, ou logger.error
+    # O usuário pediu "no log", então vamos usar logger.
+    
+    logger.info("")
+    logger.info("=" * 80)
+    logger.info(f"RELATÓRIO DE FALHAS - {len(failed_items)} SITE(S) NÃO CONFIRMADOS")
+    logger.info("Abaixo a lista de empresas e sites que não foi possível confirmar a existência/funcionamento:")
+    logger.info("=" * 80)
+    
+    # Ordenar por nome para facilitar leitura
     sorted_failures = sorted(failed_items, key=lambda x: unidecode(x["Nome da Empresa"].lower()))
 
-    for i, item in enumerate(sorted_failures, 1):
-        empresa = item["Nome da Empresa"][:34]
-        url = item["URL"][:54]
-        error = item.get("_error", "Erro desconhecido")[:60]
-        print(f"{i:<4} {empresa:<35} {url:<55} {error}")
+    for item in sorted_failures:
+        empresa = item.get("Nome da Empresa", "Desconhecida")
+        url = item.get("URL", "Sem URL")
+        error = item.get("_error", "Erro não especificado")
+        
+        # Formato de linha única claro
+        logger.error(f"[X] {empresa} | URL: {url} | ERRO: {error}")
 
-    print("-" * 90)
-    print(f"Total: {len(failed_items)} site(s) não confirmado(s)")
-    print(separator)
+    logger.info("=" * 80)
+    logger.info("Fim do Relatório de Falhas")
+    logger.info("=" * 80)
 
 
 def main():
     setup_logging()
 
     logger.info("=" * 60)
-    logger.info("INÍCIO DA EXECUÇÃO")
+    logger.info("INÍCIO DA EXECUÇÃO - VALIDAÇÃO DE VAGAS")
     logger.info("=" * 60)
 
     # 1. Processar novos itens
@@ -215,7 +224,7 @@ def main():
     logger.info("Total de itens na lista: %d", len(values))
 
     # 3. Verificar URLs
-    logger.info("--- Etapa 3: Verificando URLs ---")
+    logger.info("--- Etapa 3: Verificando URLs (Validando existência e status) ---")
     failed_items = verify_urls(values)
 
     # 4. Ordenar e deduplicar
@@ -226,7 +235,7 @@ def main():
     logger.info("--- Etapa 5: Salvando resultados ---")
     save_results(unique_values, LIST_FILE_PATH, HEADER_FILE_PATH, README_FILE_PATH)
 
-    # 6. Relatório final de falhas
+    # 6. Relatório final de falhas (Executado por último para destaque)
     print_failure_report(failed_items)
 
     logger.info("=" * 60)
