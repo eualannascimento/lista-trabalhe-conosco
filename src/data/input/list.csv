@@ -35,6 +35,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Amil,Saúde,SAP SuccessFactors,https://career19.sapsf.com/careers?company=amilassist
 1,2022-03-27,ANBIMA,Entidade Financeira,Gupy,https://anbima.gupy.io
 1,2026-02-19,Andrade Gutierrez,Infraestrutura,Gupy,https://andradegutierrez.gupy.io
+1,2026-02-19,Ânima Educação,Educação,Gupy,https://anima.gupy.io
 1,2025-03-18,Anthropic,Tecnologia,Greenhouse,https://boards.greenhouse.io/anthropic
 1,2026-02-19,Apple,Tecnologia,Site da Empresa,https://www.apple.com/careers/br
 1,2025-03-18,Arco Educação,Educacional,Greenhouse,https://job-boards.greenhouse.io/arcoeducacao
@@ -48,7 +49,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Atlassian,Tecnologia,Site da Empresa,https://www.atlassian.com/company/careers
 1,2026-02-19,Auren Energia,Energia,Gupy,https://aurenenergia.gupy.io
 1,2026-02-19,AuroraCoop (Aurora Alimentos),Alimentos,Vagas,https://trabalheconosco.vagas.com.br/aurora-alimentos
-1,2026-02-19,Autodesk,Tecnologia,Manual,https://www.autodesk.com/company/careers
+0,2026-02-19,Autodesk,Tecnologia,Manual,https://www.autodesk.com/company/careers
 1,2025-01-20,Avanade,Tecnologia,Plataforma Interna,https://www.avanade.com/pt-br/career/search-jobs
 1,2026-02-19,Azos,Fintech,InHire,https://azos.inhire.app/vagas
 1,2025-03-18,Aztec,Tecnologia,Greenhouse,https://job-boards.eu.greenhouse.io/aztec
@@ -246,7 +247,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-09-01,Garena,Games,Plataforma Interna,https://careers.garena.com/global/careers
 1,2026-02-19,GE (General Electric),Indústria,Workday,https://jobs.gecareers.com
 1,2025-01-20,GE Aerospace,Tecnologia,Plataforma Interna,https://careers.geaerospace.com/global/en/search-results
-1,2026-02-19,GE Healthcare,Saúde,Manual,https://www.gehealthcare.com/about/careers
+0,2026-02-19,GE Healthcare,Saúde,Manual,https://www.gehealthcare.com/about/careers
 1,2025-01-20,GE Vernova,Tecnologia,Plataforma Interna,https://careers.gevernova.com/global/en/search-results
 1,2025-03-18,General Motors,Automotivo,Workday,https://search-careers.gm.com
 1,2023-02-26,Genial Investimentos,Corretora,Gupy,https://genial.gupy.io
@@ -257,10 +258,10 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,GitHub,Tecnologia,Site da Empresa,https://github.com/about/careers
 1,2025-03-18,GitHub Inc,Tecnologia,iCIMS,https://globalcareers-githubinc.icims.com/jobs
 1,2023-02-26,Globo,Televisão,Gupy,https://globo.gupy.io
-1,2025-01-23,GM Financial,Financeiro,Workday,https://careers.gmfinancial.com/jobs
+0,2025-01-23,GM Financial,Financeiro,Workday,https://careers.gmfinancial.com/jobs
 1,2023-02-26,GOL Linhas Aéreas,Aviação,Gupy,https://golcarreiras.gupy.io
 1,2025-01-23,Google,Tecnologia,Plataforma Interna,https://www.google.com/about/careers/applications/jobs/results
-0,2026-02-19,GoPro,Tecnologia,Manual,https://gopro.com/en/us/info/careers
+1,2026-02-19,GoPro,Tecnologia,Manual,https://gopro.com/en/us/info/careers
 1,2026-02-19,Gorila,Fintech,Gupy,https://carreiras.gupy.io/gorila
 1,2025-03-18,GPA,Varejo,Gupy,https://corporacaogpa.gupy.io
 1,2026-02-19,Grammarly,Tecnologia,Site da Empresa,https://www.grammarly.com/jobs
@@ -289,7 +290,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Hering,Varejo,Gupy,https://ciahering.gupy.io
 1,2026-02-19,Hilton,Hospitalidade,Site da Empresa,https://jobs.hilton.com
 1,2025-01-19,Honda,Automotivo,Gupy,https://honda.gupy.io
-1,2026-02-19,Hootsuite,Tecnologia,Manual,https://www.hootsuite.com/about/careers
+0,2026-02-19,Hootsuite,Tecnologia,Manual,https://www.hootsuite.com/about/careers
 1,2026-02-19,Hopper,Turismo,Site da Empresa,https://www.hopper.com/careers
 1,2025-01-19,Hospital Sírio-Libanês,Saúde,SAP SuccessFactors,https://career19.sapsf.com/careers?company=sociedad02
 1,2023-02-26,Hotmart,Tecnologia,Greenhouse,https://boards.eu.greenhouse.io/hotmartcareersbr
@@ -301,6 +302,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,ICIMS,Tecnologia,Plataforma Interna,https://careers.icims.com/careers-home/jobs
 1,2024-11-22,iFood,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/ifoodcarreiras
 1,2025-03-18,Ilegra,Tecnologia,Plataforma Interna,https://vagas.ilegra.com
+1,2025-01-19,ília,Tecnologia,Greenhouse,https://boards.greenhouse.io/ilia
 1,2022-03-27,Intel,Tecnologia,Manual,https://jobs.intel.com
 1,2025-01-19,Inter,Banco,Greenhouse,https://boards.greenhouse.io/inter
 1,2025-01-23,Intera,Recrutamento,InHire,https://vagasbyintera.inhire.app/vagas
@@ -360,7 +362,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2024-09-01,LOUD,Games,Gupy,https://loud.gupy.io
 1,2026-02-19,Lufthansa,Aviação,Site da Empresa,https://www.lufthansagroup.careers
 1,2026-02-19,M. Dias Branco,Alimentos,Gupy,https://mdiasbranco.gupy.io
-1,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
+0,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
 1,2026-02-19,MadeiraMadeira,E-commerce,Gupy,https://carreiras.gupy.io/madeiramadeira
 1,2026-02-19,Madero,Alimentação,Gupy,https://carreiras.gupy.io/madero
 1,2026-02-19,Magalu,Varejo,InHire,https://magazineluiza.inhire.app
@@ -370,7 +372,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Mastercard,Financeiro,Workday,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
 1,2025-01-19,MasterClass,Entretenimento,Greenhouse,https://boards.greenhouse.io/masterclass
 1,2023-02-26,McDonalds (Corporativo),Restaurante,Gupy,https://corporativomc.gupy.io
-0,2023-02-26,McDonalds (Restaurante),Restaurante,Manual,https://www.mcdonalds.com.br/trabalhe-conosco
+1,2023-02-26,McDonalds (Restaurante),Restaurante,Manual,https://www.mcdonalds.com.br/trabalhe-conosco
 1,2026-02-19,Meituan,Tecnologia,Site da Empresa,https://zhaopin.meituan.com/en
 1,2026-02-19,Meliuz,Fintech,InHire,https://meliuz.inhire.app/vagas
 1,2026-02-19,Mercado Bitcoin,Fintech,InHire,https://mercadobitcoin.inhire.app/vagas
@@ -480,10 +482,10 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,SAP,Tecnologia,Site da Empresa,https://jobs.sap.com
 1,2026-02-19,SBT,Mídia,Gupy,https://carreiras.gupy.io/sbt
 1,2024-03-12,Scania Latin America,Automotivo,Gupy,https://scania.gupy.io
-1,2026-02-19,Sebrae,Serviços,Manual,https://sebrae.com.br/
+1,2026-02-19,Sebrae,Serviços,Manual,https://sebrae.com.br
 1,2025-01-23,Sem Parar,Tecnologia,Gupy,https://semparar.gupy.io
 1,2025-01-20,Semantix,Tecnologia,Quickin,https://jobs.quickin.io/semantix/jobs
-1,2026-02-19,Senac,Educação,Manual,https://www.senac.br/
+1,2026-02-19,Senac,Educação,Manual,https://www.senac.br
 1,2026-02-19,Senior Sistemas,Tecnologia,Gupy,https://carreiras.gupy.io/senior
 1,2025-03-18,Sensor Tower,Tecnologia,Lever,https://jobs.lever.co/sensortower
 1,2025-01-19,Serasa Experian,Financeiro,SmartRecruiters,https://careers.smartrecruiters.com/experian
@@ -499,6 +501,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,SLC Agrícola,Agronegócio,Gupy,https://slcagricola.gupy.io
 1,2026-02-19,Sodexo,Serviços,Gupy,https://sodexobeneficios.gupy.io
 1,2026-02-19,Solar Coca-Cola,Alimentos e Bebidas,Gupy,https://solarcocacola.gupy.io
+1,2026-02-19,Sólides,HR Tech,Sólides,https://vagas.solides.com.br
 1,2025-01-22,SONDA,Tecnologia,SAP SuccessFactors,https://career8.successfactors.com/career?company=SONDAP
 1,2025-01-19,Sony Global,Entretenimento,Workday,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers
 1,2025-01-19,Sony Interactive Entertainment Global,Entretenimento,Greenhouse,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal
@@ -517,7 +520,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Swile,Tecnologia,Lever,https://jobs.lever.co/swile
 1,2025-01-19,Sympla,Tecnologia,InHire,https://sympla.inhire.app/vagas
 1,2026-02-19,Syn Prop & Tech,Imobiliário,Gupy,https://syn.gupy.io
-1,2026-02-19,Sólides,HR Tech,Sólides,https://vagas.solides.com.br
 1,2025-12-26,T4F - Time for Fun,Entretenimento,Solides,https://t4f.vagas.solides.com.br
 1,2025-12-26,TakeBlip,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/blip-global
 1,2024-09-01,Team Liquid,Games,Plataforma Interna,https://careers.teamliquid.com/#jobs
@@ -582,10 +584,8 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Yamaha,Automotivo,Gupy,https://yamaha.gupy.io
 1,2026-02-19,Yduqs,Educação,Gupy,https://yduqs.gupy.io
 1,2025-01-19,Youse,Seguros,Gupy,https://vagas-youse.gupy.io
+1,2026-02-19,Zé Delivery,Delivery,Gupy,https://carreiras.gupy.io/zedelivery
 1,2026-02-19,Zendesk,Tecnologia,Site da Empresa,https://www.zendesk.com.br/company/careers
 1,2025-03-22,ZF Friedrich,Automotivo,SAP SuccessFactors,https://career5.successfactors.eu/careers?company=zffriedric
 1,2026-02-19,Zoom,Tecnologia,Site da Empresa,https://careers.zoom.us/home
 1,2025-01-19,Zup Innovation,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/zupinnovation
-1,2026-02-19,Zé Delivery,Delivery,Gupy,https://carreiras.gupy.io/zedelivery
-1,2026-02-19,Ânima Educação,Educação,Gupy,https://anima.gupy.io
-1,2025-01-19,ília,Tecnologia,Greenhouse,https://boards.greenhouse.io/ilia
