@@ -60,7 +60,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Amazon](https://www.amazon.jobs) |
 | [Ambev](https://ambev.gupy.io) |
 | [Ambev Tech](https://ambevtech.gupy.io) |
-| [American Airlines](https://jobs.aa.com) |
+| [American Airlines](https://careers.americanairlines.com) |
 | [American Express](https://aexp.eightfold.ai/careers) |
 | [Americanas S.A.](https://americanas.gupy.io) |
 | [Amex](https://www.americanexpress.com/en-us/careers) |

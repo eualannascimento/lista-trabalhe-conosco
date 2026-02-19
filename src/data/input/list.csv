@@ -200,7 +200,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-04-26,Edenred (Ticket),Benefícios,Workday,https://wd3.myworkdaysite.com/pt-BR/recruiting/edenpeople/Edenred_Careers
 1,2025-01-20,Efí Bank,Financeiro,Gupy,https://sejaefi.gupy.io
 1,2025-01-20,Eightfold,Tecnologia,Eightfold,https://pepsico.eightfold.ai/careers
-1,2026-02-19,Electrolux,Eletrodomesticos,Manual,https://career.electroluxgroup.com/
+0,2026-02-19,Electrolux,Eletrodomesticos,Manual,https://career.electroluxgroup.com
 1,2025-01-23,Electronic Arts,Entretenimento,Plataforma Interna,https://jobs.ea.com/en_US/careers
 1,2026-02-19,Eletrobras,Energia,Gupy,https://eletrobras.gupy.io
 1,2025-01-19,Elgin,Eletrodomésticos,Gupy,https://sejaelgin.gupy.io
@@ -238,7 +238,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Four Seasons Hotels,Hospitalidade,Workday,https://fourseasons.wd3.myworkdayjobs.com/Search
 1,2026-02-19,Fox Corporation,Mídia,Site da Empresa,https://www.foxcareers.com
 1,2026-02-19,Fretebras,Logística,InHire,https://fretebras.inhire.app/vagas
-1,2025-03-22,Fundaobuta,Institucional,SAP SuccessFactors,https://career19.sapsf.com/careers?company=fundaobuta
 1,2025-01-23,Fundação Bradesco,Educacional,CSOD,https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco
 1,2026-02-19,Fundação Itaú,Banco,Gupy,https://fundacaoitau.gupy.io
 1,2025-01-23,Fundação São Paulo (FUNDASP),Educacional,Gupy,https://fundasp.gupy.io
@@ -371,7 +370,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Mastercard,Financeiro,Workday,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
 1,2025-01-19,MasterClass,Entretenimento,Greenhouse,https://boards.greenhouse.io/masterclass
 1,2023-02-26,McDonalds (Corporativo),Restaurante,Gupy,https://corporativomc.gupy.io
-1,2023-02-26,McDonalds (Restaurante),Restaurante,Manual,https://www.mcdonalds.com.br/trabalhe-conosco
+0,2023-02-26,McDonalds (Restaurante),Restaurante,Manual,https://www.mcdonalds.com.br/trabalhe-conosco
 1,2026-02-19,Meituan,Tecnologia,Site da Empresa,https://zhaopin.meituan.com/en
 1,2026-02-19,Meliuz,Fintech,InHire,https://meliuz.inhire.app/vagas
 1,2026-02-19,Mercado Bitcoin,Fintech,InHire,https://mercadobitcoin.inhire.app/vagas
