@@ -16,12 +16,18 @@ HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
+        "Chrome/121.0.0.0 Safari/537.36"
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache",
+    "Accept-Encoding": "gzip, deflate, br",
+    "DNT": "1",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
 }
 
 def verify_website_status(url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
@@ -52,12 +58,10 @@ def verify_website_status(url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
                 # Mas por enquanto, status code é o indicador primário.
                 return {"status": "1", "status_code": response.status_code, "error": None}
             elif response.status_code == 403:
-                # 403 muitas vezes é bloqueio de bot, mas o site existe.
-                # Se for 403, podemos considerar "Incerto" ou "1" com aviso?
-                # Regra segura: Se respondeu 403, o servidor existe.
-                # Mas para candidatura, se não conseguimos acessar, é falha?
-                # Vamos manter como falha de validação automática por enquanto.
-                last_error = f"HTTP {response.status_code} (Acesso Negado)"
+                # 403 often means bot protection, but the site exists.
+                # Common for global carriers (ADP, Canva, Intel).
+                # If we got a 403, the server is definitely there.
+                return {"status": "1", "status_code": response.status_code, "error": "Sucesso (Bloqueio de Bot)"}
             elif response.status_code == 404:
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
             else:
