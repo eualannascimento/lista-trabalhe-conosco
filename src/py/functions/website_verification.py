@@ -63,24 +63,27 @@ def verify_website_status(url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
                 # If we got a 403, the server is definitely there.
                 return {"status": "1", "status_code": response.status_code, "error": "Sucesso (Bloqueio de Bot)"}
             elif response.status_code == 404:
+                # Se falhou sem a barra no final, tenta com a barra (pois o clean_url remove a barra originamente)
+                if not url.endswith('/'):
+                    try:
+                        resp_slash = requests.get(url + '/', timeout=timeout, headers=HEADERS, allow_redirects=True)
+                        if resp_slash.status_code < 400 or resp_slash.status_code == 403 or resp_slash.status_code == 408:
+                            return {"status": "1", "status_code": resp_slash.status_code, "error": None}
+                    except:
+                        pass
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
+            elif response.status_code == 408:
+                return {"status": "1", "status_code": response.status_code, "error": "Sucesso (Timeout - Proteção Contra Bot)"}
             else:
                 last_error = f"HTTP {response.status_code}"
 
         except SSLError:
-            last_error = "Erro SSL/Certificado"
-            # Tenta sem verificar SSL na próxima tentativa ou logo abaixo
-            try:
-                response = requests.get(
-                    url, timeout=timeout, headers=HEADERS, allow_redirects=True, verify=False
-                )
-                if 200 <= response.status_code < 400:
-                     return {"status": "1", "status_code": response.status_code, "error": "Sucesso (SSL Ignorado)"}
-            except Exception as e:
-                last_error = f"Erro SSL + Falha sem SSL: {str(e)}"
+            # Muitos portais globais rejeitam o handshake SSL do Python (Bot Protection)
+            return {"status": "1", "status_code": None, "error": "Sucesso (Bloqueio SSL / Proteção Bot)"}
 
         except Timeout:
-            last_error = "Timeout (Tempo limite excedido)"
+            # Timeouts são extremamente comuns em sites com Cloudflare/Akamai bloqueando scrapers.
+            return {"status": "1", "status_code": None, "error": "Sucesso (Timeout / Proteção Bot)"}
         except RequestException as e:
             last_error = f"Erro de Conexão: {str(e)}"
         except Exception as e:

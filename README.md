@@ -60,7 +60,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Amazon](https://www.amazon.jobs) |
 | [Ambev](https://ambev.gupy.io) |
 | [Ambev Tech](https://ambevtech.gupy.io) |
-| [American Airlines](https://careers.americanairlines.com) |
+| [American Airlines](https://jobs.aa.com) |
 | [American Express](https://aexp.eightfold.ai/careers) |
 | [Americanas S.A.](https://americanas.gupy.io) |
 | [Amex](https://www.americanexpress.com/en-us/careers) |
@@ -81,7 +81,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Atlassian](https://www.atlassian.com/company/careers) |
 | [Auren Energia](https://aurenenergia.gupy.io) |
 | [AuroraCoop (Aurora Alimentos)](https://trabalheconosco.vagas.com.br/aurora-alimentos) |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext_Career) |
+| [Autodesk](https://www.autodesk.com/careers) |
 | [Avanade](https://www.avanade.com/pt-br/career/search-jobs) |
 | [Azos](https://azos.inhire.app/vagas) |
 | [Aztec](https://job-boards.eu.greenhouse.io/aztec) |
@@ -233,7 +233,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Edenred (Ticket)](https://wd3.myworkdaysite.com/pt-BR/recruiting/edenpeople/Edenred_Careers) |
 | [Efí Bank](https://sejaefi.gupy.io) |
 | [Eightfold](https://pepsico.eightfold.ai/careers) |
-| [Electrolux](https://electrolux.wd3.myworkdayjobs.com/en-US/Search) |
+| [Electrolux](https://career.electroluxgroup.com) |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers) |
 | [Eletrobras](https://eletrobras.gupy.io) |
 | [Elgin](https://sejaelgin.gupy.io) |
@@ -274,27 +274,26 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Fundação Bradesco](https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco) |
 | [Fundação Itaú](https://fundacaoitau.gupy.io) |
 | [Fundação São Paulo (FUNDASP)](https://fundasp.gupy.io) |
-| [Fundaobuta](https://career19.sapsf.com/careers?company=fundaobuta) |
 | [Gafisa](https://gafisa.gupy.io) |
 | [Gamers Club](https://gamersclub.gupy.io) |
 | [Garena](https://careers.garena.com/global/careers) |
 | [GE (General Electric)](https://jobs.gecareers.com) |
 | [GE Aerospace](https://careers.geaerospace.com/global/en/search-results) |
-| [GE Healthcare](https://gehealthcare.wd3.myworkdayjobs.com/GE_Healthcare) |
+| [GE Healthcare](https://careers.gehealthcare.com) |
 | [GE Vernova](https://careers.gevernova.com/global/en/search-results) |
 | [General Motors](https://search-careers.gm.com) |
 | [Genial Investimentos](https://genial.gupy.io) |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) |
 | [Getnet](https://getnet.gupy.io) |
 | [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) |
-| [Gigster](https://gigster.com/careers) |
+| [Gigster](https://virtasant.teamtailor.com) |
 | [GitHub](https://github.com/about/careers) |
 | [GitHub Inc](https://globalcareers-githubinc.icims.com/jobs) |
 | [Globo](https://globo.gupy.io) |
 | [GM Financial](https://careers.gmfinancial.com/jobs) |
 | [GOL Linhas Aéreas](https://golcarreiras.gupy.io) |
 | [Google](https://www.google.com/about/careers/applications/jobs/results) |
-| [GoPro](https://gopro.com/en/us/info/careers) |
+| [GoPro](https://gopro.com/en/us/careers) |
 | [Gorila](https://carreiras.gupy.io/gorila) |
 | [GPA](https://corporacaogpa.gupy.io) |
 | [Grammarly](https://www.grammarly.com/jobs) |
@@ -323,7 +322,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Hering](https://ciahering.gupy.io) |
 | [Hilton](https://jobs.hilton.com) |
 | [Honda](https://honda.gupy.io) |
-| [Hootsuite](https://hootsuite.com/about/careers) |
+| [Hootsuite](https://careers.hootsuite.com) |
 | [Hopper](https://www.hopper.com/careers) |
 | [Hospital Sírio-Libanês](https://career19.sapsf.com/careers?company=sociedad02) |
 | [Hotmart](https://boards.eu.greenhouse.io/hotmartcareersbr) |
@@ -515,10 +514,10 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [SAP](https://jobs.sap.com) |
 | [SBT](https://carreiras.gupy.io/sbt) |
 | [Scania Latin America](https://scania.gupy.io) |
-| [Sebrae](https://recursoshumanos.sebrae.com.br) |
+| [Sebrae](https://sebrae.com.br) |
 | [Sem Parar](https://semparar.gupy.io) |
 | [Semantix](https://jobs.quickin.io/semantix/jobs) |
-| [Senac](https://www.senac.br/trabalhe-no-senac) |
+| [Senac](https://www.senac.br) |
 | [Senior Sistemas](https://carreiras.gupy.io/senior) |
 | [Sensor Tower](https://jobs.lever.co/sensortower) |
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) |
