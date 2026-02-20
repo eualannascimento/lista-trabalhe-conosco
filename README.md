@@ -227,8 +227,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [ClearSale](https://clearsale.gupy.io) |
 | [Click Entregas](https://trabalheconosco.vagas.com.br/clickentregas) |
 | [Cloudera](https://www.cloudera.com/careers.html) |
-| [CloudWalk](https://www.cloudwalk.io/jobs) |
-| [CloudWalk (InfinitePay)](https://trabalheconosco.vagas.com.br/cloudwalk) |
+| [CloudWalk](https://jobs.lever.co/cloudwalk) |
 | [Coamo Agroindustrial](https://carreiras.gupy.io/coamo) |
 | [Cobasi](https://cobasi.pandape.infojobs.com.br) |
 | [Coca-Cola Company](https://coke.wd1.myworkdayjobs.com/coca-cola-careers) |
@@ -561,7 +560,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [MasterClass](https://boards.greenhouse.io/masterclass) |
 | [Mater Dei](https://trabalheconosco.vagas.com.br/materdei) |
 | [McDonalds (Corporativo)](https://corporativomc.gupy.io) |
-| [McDonalds (Restaurante)](https://www.mcdonalds.com.br/trabalhe-conosco) |
 | [Meituan](https://zhaopin.meituan.com/en) |
 | [Melhor Envio](https://melhorenvio.gupy.io) |
 | [Melhoramentos](https://trabalheconosco.vagas.com.br/melhoramentos) |

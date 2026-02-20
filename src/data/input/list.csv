@@ -195,8 +195,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,ClearSale,Consultoria,Gupy,https://clearsale.gupy.io
 1,2026-02-19,Click Entregas,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/clickentregas
 1,2026-02-19,Cloudera,Tecnologia,Workday,https://www.cloudera.com/careers.html
-1,2026-02-19,CloudWalk,Fintech,Site da Empresa,https://www.cloudwalk.io/jobs
-1,2026-02-19,CloudWalk (InfinitePay),Estratégico,Vagas,https://trabalheconosco.vagas.com.br/cloudwalk
+1,2026-02-19,CloudWalk,Fintech,Lever,https://jobs.lever.co/cloudwalk
 1,2026-02-19,Coamo Agroindustrial,Agronegócio,Gupy,https://carreiras.gupy.io/coamo
 1,2025-01-23,Cobasi,Varejo,InfoJobs,https://cobasi.pandape.infojobs.com.br
 1,2022-03-27,Coca-Cola Company,Alimentos e Bebidas,Workday,https://coke.wd1.myworkdayjobs.com/coca-cola-careers
@@ -402,7 +401,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,HBO (Warner Bros. Discovery),Mídia,Site da Empresa,https://careers.wbd.com/global/en
 1,2026-02-19,HBR Realty,Estratégico,Gupy,https://hbrrealty.gupy.io
 1,2026-02-19,HDI Seguros,Estratégico,Gupy,https://hdiseguros.gupy.io
-1,2026-02-19,Heineken,Bebidas,SuccessFactors,https://careers.theheinekencompany.com/Brazil/search
+0,2026-02-19,Heineken,Bebidas,SuccessFactors,https://careers.theheinekencompany.com/Brazil/search
 1,2026-02-19,Helbor,Estratégico,Gupy,https://helbor.gupy.io
 1,2023-02-26,Hering,Varejo,Gupy,https://ciahering.gupy.io
 1,2026-02-19,Hidrovias do Brasil,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/hidroviasdobrasil
@@ -529,7 +528,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,MasterClass,Entretenimento,Greenhouse,https://boards.greenhouse.io/masterclass
 1,2026-02-19,Mater Dei,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/materdei
 1,2023-02-26,McDonalds (Corporativo),Restaurante,Gupy,https://corporativomc.gupy.io
-1,2023-02-26,McDonalds (Restaurante),Restaurante,Manual,https://www.mcdonalds.com.br/trabalhe-conosco
 1,2026-02-19,Meituan,Tecnologia,Site da Empresa,https://zhaopin.meituan.com/en
 1,2026-02-19,Melhor Envio,Estratégico,Gupy,https://melhorenvio.gupy.io
 1,2026-02-19,Melhoramentos,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/melhoramentos
@@ -567,7 +565,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Neoenergia,Energia,Gupy,https://carreiras.gupy.io/neoenergia
 1,2026-02-19,Neogrid,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/neogrid
 1,2023-02-26,Neon,Banco,Lever,https://jobs.lever.co/neon
-1,2026-02-19,Nestlé,Alimentos,SuccessFactors,https://jobdetails.nestle.com
+0,2026-02-19,Nestlé,Alimentos,SuccessFactors,https://jobdetails.nestle.com
 1,2026-02-19,Netflix,Mídia,Site da Empresa,https://jobs.netflix.com
 1,2025-03-18,Neurotech,Tecnologia,Recrut.ai,https://neurotech.jobs.recrut.ai/#openings
 1,2026-02-19,Nissan,Automotivo,Site da Empresa,https://www.nissan.com.br/trabalhe-conosco.html
@@ -689,7 +687,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Santander Brasil,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/santanderbrasil
 1,2026-02-19,Santos Brasil,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/santosbrasil
 1,2026-02-19,São Martinho,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/somartinho
-1,2026-02-19,SAP,Tecnologia,Site da Empresa,https://jobs.sap.com
+0,2026-02-19,SAP,Tecnologia,Site da Empresa,https://jobs.sap.com
 1,2026-02-19,Savegnago,Estratégico,Vagas,https://trabalheconosco.vagas.com.br/savegnago
 1,2026-02-19,SBT,Mídia,Gupy,https://carreiras.gupy.io/sbt
 1,2024-03-12,Scania Latin America,Automotivo,Gupy,https://scania.gupy.io
