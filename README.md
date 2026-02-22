@@ -31,6 +31,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
+| [77sol](https://77sol.gupy.io) | A Classificar | 2026-02-20 |
 | [Algar Tech Br](https://algar.gupy.io) | Telecom | 2026-02-20 |
 | [Alloha Fibra](https://allohafibra.gupy.io) | Telecom | 2026-02-20 |
 | [CCR](https://motiva.gupy.io) | Infraestrutura | 2026-02-20 |
@@ -45,6 +46,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Tegma](https://tegma.gupy.io) | Estratégico | 2026-02-20 |
 | [Unimed Maceió Oficial](https://unimedmaceio.gupy.io) | Saúde | 2026-02-20 |
 | [Volkswagen do Brasil](https://vwbrasil.gupy.io) | Automotivo | 2026-02-20 |
+| [3cservices](https://3cservices.gupy.io) | A Classificar | 2026-02-19 |
+| [Abakids](https://abakids.gupy.io) | A Classificar | 2026-02-19 |
 | [ANBIMA](https://anbima.gupy.io) | Entidade Financeira | 2026-02-19 |
 | [CBA Alumínio](https://cba.gupy.io) | Indústria | 2026-02-19 |
 | [Cocamar](https://cocamar.gupy.io) | Agronegócio | 2026-02-19 |
@@ -82,6 +85,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sem Parar](https://semparar.gupy.io) | Tecnologia | 2026-02-13 |
 | [Shoulder](https://shoulder.gupy.io) | Moda | 2026-02-13 |
 | [Vivo Digital](https://vivodigital.gupy.io) | Telecom | 2026-02-13 |
+| [3corptechnology](https://3corptechnology.gupy.io) | A Classificar | 2026-02-12 |
 | [Alpargatas](https://alpargatas.gupy.io) | Indústria | 2026-02-12 |
 | [Cencosud Brasil](https://cencosudbrasil.gupy.io) | Varejo | 2026-02-12 |
 | [CVC Corp](https://cvccorp.gupy.io) | Turismo | 2026-02-12 |
@@ -132,6 +136,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Safra](https://venhasersafra.gupy.io) | Finanças/Banco & Fintech | 2026-02-06 |
 | [Unimed Campina Grande Oficial](https://unimedcampinagrande.gupy.io) | Saúde | 2026-02-06 |
 | [Usina Alta Mogiana](https://altamogiana.gupy.io) | Estratégico | 2026-02-06 |
+| [Abaco](https://abaco.gupy.io) | A Classificar | 2026-02-05 |
 | [Coco Bambu](https://cocobambu.gupy.io) | Alimentos e Bebidas | 2026-02-05 |
 | [Guanabara](https://guanabara.gupy.io) | Estratégico | 2026-02-05 |
 | [Lojas Renner S.A.](https://encantech.gupy.io) | Varejo | 2026-02-05 |
@@ -176,6 +181,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Petrobahia](https://petrobahia.gupy.io) | Estratégico | 2026-01-29 |
 | [Suzano](https://suzano.gupy.io) | Indústria | 2026-01-29 |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) | Saúde | 2026-01-29 |
+| [2comconsulting](https://2comconsulting.gupy.io) | A Classificar | 2026-01-28 |
+| [A3consultoria](https://a3consultoria.gupy.io) | A Classificar | 2026-01-28 |
 | [Aramis](https://aramis.gupy.io) | Moda | 2026-01-28 |
 | [Condor Supermercados](https://condor.gupy.io) | Varejo | 2026-01-28 |
 | [Cruzeiro do Sul Educacional](https://cruzeirodosuleducacional.gupy.io) | Educação | 2026-01-28 |
@@ -239,6 +246,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo SEB](https://gruposeb.gupy.io) | Educação | 2026-01-09 |
 | [LOUD](https://loud.gupy.io) | Games | 2026-01-09 |
 | [Roldão Atacadista](https://roldao.gupy.io) | Varejo | 2026-01-08 |
+| [3coracoes](https://3coracoes.gupy.io) | A Classificar | 2026-01-07 |
 | [Ambev Tech](https://ambevtech.gupy.io) | Alimentos e Bebidas | 2026-01-07 |
 | [Itaú - Carreiras Internas](https://carreirasinternasitau.gupy.io) | Finanças/Banco & Fintech | 2026-01-07 |
 | [Santa Casa BH](https://santacasabh.gupy.io) | Saúde | 2026-01-07 |
@@ -302,11 +310,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Soma](https://gruposoma.gupy.io) | Varejo | 2025-03-12 |
 | [Automob](https://automob.gupy.io) | Automotivo | 2025-02-26 |
 | [Le Biscuit Varejo](https://lebiscuit.gupy.io) | Varejo | 2024-09-15 |
+| [4mk](https://4mk.gupy.io) | A Classificar | 2024-08-13 |
 | [Daycoval DayCambio](https://daycambio.gupy.io) | Banco | 2024-08-09 |
 | [Daycoval DayCred](https://daycred.gupy.io) | Banco | 2024-08-09 |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) | Energia | 2024-07-31 |
 | [Yamaha](https://yamaha.gupy.io) | Automotivo | 2024-07-29 |
 | [Usiminas](https://usiminas.gupy.io) | Siderurgia | 2024-01-22 |
+| [Aacd](https://aacd.gupy.io) | A Classificar | 2024-01-05 |
 | [Red House International School](https://redhouse.gupy.io) | Finanças/Banco & Fintech | 2023-11-16 |
 | [Vamos](https://vamos.gupy.io) | Logística | 2023-09-20 |
 | [Lojas Ypê](https://carreirasype.gupy.io) | Varejo | 2023-06-22 |
@@ -318,17 +328,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Faber-Castell](https://fabercastell.gupy.io) | Papelaria | 2022-05-12 |
 | [Simpar](https://simpar.gupy.io) | Logística | 2022-01-03 |
 | [1Doc](https://1doc.gupy.io) | Saúde |  |
-| [2comconsulting](https://2comconsulting.gupy.io) | A Classificar |  |
-| [3coracoes](https://3coracoes.gupy.io) | A Classificar |  |
-| [3corptechnology](https://3corptechnology.gupy.io) | A Classificar |  |
-| [3cservices](https://3cservices.gupy.io) | A Classificar |  |
 | [3R Petroleum](https://3rpetroleum.gupy.io) | Energia/Petróleo |  |
-| [4mk](https://4mk.gupy.io) | A Classificar |  |
-| [77sol](https://77sol.gupy.io) | A Classificar |  |
-| [A3consultoria](https://a3consultoria.gupy.io) | A Classificar |  |
-| [Aacd](https://aacd.gupy.io) | A Classificar |  |
-| [Abaco](https://abaco.gupy.io) | A Classificar |  |
-| [Abakids](https://abakids.gupy.io) | A Classificar |  |
 | [AES Brasil](https://trabalheconosco.vagas.com.br/aesbrasil) | Estratégico |  |
 | [Agilize](https://boards.greenhouse.io/agilize) | Fintech |  |
 | [Agrale](https://trabalheconosco.vagas.com.br/agrale) | Estratégico |  |
