@@ -31,6 +31,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
+| [77sol](https://77sol.gupy.io) | A Classificar | 2026-02-20 |
 | [Algar Tech Br](https://algar.gupy.io) | Telecom | 2026-02-20 |
 | [Alloha Fibra](https://allohafibra.gupy.io) | Telecom | 2026-02-20 |
 | [CCR](https://motiva.gupy.io) | Infraestrutura | 2026-02-20 |
@@ -45,6 +46,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Tegma](https://tegma.gupy.io) | Estratégico | 2026-02-20 |
 | [Unimed Maceió Oficial](https://unimedmaceio.gupy.io) | Saúde | 2026-02-20 |
 | [Volkswagen do Brasil](https://vwbrasil.gupy.io) | Automotivo | 2026-02-20 |
+| [3cservices](https://3cservices.gupy.io) | A Classificar | 2026-02-19 |
+| [Abakids](https://abakids.gupy.io) | A Classificar | 2026-02-19 |
 | [ANBIMA](https://anbima.gupy.io) | Entidade Financeira | 2026-02-19 |
 | [Bauducco](https://bauducco.gupy.io) | Alimentos e Bebidas | 2026-02-19 |
 | [CBA Alumínio](https://cba.gupy.io) | Indústria | 2026-02-19 |
@@ -84,6 +87,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sem Parar](https://semparar.gupy.io) | Tecnologia | 2026-02-13 |
 | [Shoulder](https://shoulder.gupy.io) | Moda | 2026-02-13 |
 | [Vivo Digital](https://vivodigital.gupy.io) | Telecom | 2026-02-13 |
+| [3corptechnology](https://3corptechnology.gupy.io) | A Classificar | 2026-02-12 |
 | [Alpargatas](https://alpargatas.gupy.io) | Indústria | 2026-02-12 |
 | [Cencosud Brasil](https://cencosudbrasil.gupy.io) | Varejo | 2026-02-12 |
 | [CVC Corp](https://cvccorp.gupy.io) | Turismo | 2026-02-12 |
@@ -136,6 +140,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Safra](https://venhasersafra.gupy.io) | Finanças/Banco & Fintech | 2026-02-06 |
 | [Unimed Campina Grande Oficial](https://unimedcampinagrande.gupy.io) | Saúde | 2026-02-06 |
 | [Usina Alta Mogiana](https://altamogiana.gupy.io) | Estratégico | 2026-02-06 |
+| [Abaco](https://abaco.gupy.io) | A Classificar | 2026-02-05 |
 | [Coco Bambu](https://cocobambu.gupy.io) | Alimentos e Bebidas | 2026-02-05 |
 | [Guanabara](https://guanabara.gupy.io) | Estratégico | 2026-02-05 |
 | [Lojas Renner S.A.](https://encantech.gupy.io) | Varejo | 2026-02-05 |
@@ -185,6 +190,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Petrobahia](https://petrobahia.gupy.io) | Estratégico | 2026-01-29 |
 | [Suzano](https://suzano.gupy.io) | Indústria | 2026-01-29 |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) | Saúde | 2026-01-29 |
+| [2comconsulting](https://2comconsulting.gupy.io) | A Classificar | 2026-01-28 |
+| [A3consultoria](https://a3consultoria.gupy.io) | A Classificar | 2026-01-28 |
 | [Aramis](https://aramis.gupy.io) | Moda | 2026-01-28 |
 | [Condor Supermercados](https://condor.gupy.io) | Varejo | 2026-01-28 |
 | [Cruzeiro do Sul Educacional](https://cruzeirodosuleducacional.gupy.io) | Educação | 2026-01-28 |
@@ -252,6 +259,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo SEB](https://gruposeb.gupy.io) | Educação | 2026-01-09 |
 | [LOUD](https://loud.gupy.io) | Games | 2026-01-09 |
 | [Roldão Atacadista](https://roldao.gupy.io) | Varejo | 2026-01-08 |
+| [3coracoes](https://3coracoes.gupy.io) | A Classificar | 2026-01-07 |
 | [Ambev Tech](https://ambevtech.gupy.io) | Alimentos e Bebidas | 2026-01-07 |
 | [Itaú - Carreiras Internas](https://carreirasinternasitau.gupy.io) | Finanças/Banco & Fintech | 2026-01-07 |
 | [Santa Casa BH](https://santacasabh.gupy.io) | Saúde | 2026-01-07 |
@@ -319,6 +327,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Soma](https://gruposoma.gupy.io) | Varejo | 2025-03-12 |
 | [Automob](https://automob.gupy.io) | Automotivo | 2025-02-26 |
 | [Le Biscuit Varejo](https://lebiscuit.gupy.io) | Varejo | 2024-09-15 |
+| [4mk](https://4mk.gupy.io) | A Classificar | 2024-08-13 |
 | [Daycoval DayCambio](https://daycambio.gupy.io) | Banco | 2024-08-09 |
 | [Daycoval DayCred](https://daycred.gupy.io) | Banco | 2024-08-09 |
 | [Banco Daycoval](https://bancodaycoval.gupy.io) | Finanças/Banco & Fintech | 2024-08-08 |
@@ -326,6 +335,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Yamaha](https://yamaha.gupy.io) | Automotivo | 2024-07-29 |
 | [Armac](https://armac.gupy.io) | Estratégico | 2024-02-28 |
 | [Usiminas](https://usiminas.gupy.io) | Siderurgia | 2024-01-22 |
+| [Aacd](https://aacd.gupy.io) | A Classificar | 2024-01-05 |
 | [Red House International School](https://redhouse.gupy.io) | Finanças/Banco & Fintech | 2023-11-16 |
 | [Vamos](https://vamos.gupy.io) | Logística | 2023-09-20 |
 | [Lojas Ypê](https://carreirasype.gupy.io) | Varejo | 2023-06-22 |
@@ -337,130 +347,216 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Faber-Castell](https://fabercastell.gupy.io) | Papelaria | 2022-05-12 |
 | [Simpar](https://simpar.gupy.io) | Logística | 2022-01-03 |
 | [1Doc](https://1doc.gupy.io) | Saúde |  |
-| [2comconsulting](https://2comconsulting.gupy.io) | A Classificar |  |
-| [3coracoes](https://3coracoes.gupy.io) | A Classificar |  |
-| [3corptechnology](https://3corptechnology.gupy.io) | A Classificar |  |
-| [3cservices](https://3cservices.gupy.io) | A Classificar |  |
 | [3M](https://3m.wd1.myworkdayjobs.com/Search) | Indústria |  |
+| [3M](https://trabalheconosco.vagas.com.br/3m) | A recuperar |  |
 | [3R Petroleum](https://3rpetroleum.gupy.io) | Energia/Petróleo |  |
-| [4mk](https://4mk.gupy.io) | A Classificar |  |
-| [77sol](https://77sol.gupy.io) | A Classificar |  |
 | [99 (99Entrega)](https://trabalheconosco.vagas.com.br/99) | Logística/Delivery |  |
-| [A3consultoria](https://a3consultoria.gupy.io) | A Classificar |  |
-| [Aacd](https://aacd.gupy.io) | A Classificar |  |
+| [99 (99Entrega)](https://trabalheconosco.vagas.com.br/9999entrega) | A recuperar |  |
 | [AB InBev](https://job-boards.greenhouse.io/abinbev) | Alimentos e Bebidas |  |
-| [Abaco](https://abaco.gupy.io) | A Classificar |  |
-| [Abakids](https://abakids.gupy.io) | A Classificar |  |
+| [AB InBev](https://trabalheconosco.vagas.com.br/abinbev) | A recuperar |  |
 | [Accenture](https://www.accenture.com/br-pt/careers) | Consultoria |  |
+| [Accenture](https://trabalheconosco.vagas.com.br/accenture) | A recuperar |  |
 | [Accona](https://www.acciona.com.br/trabalhe-conosco) | Infraestrutura |  |
+| [Accona](https://trabalheconosco.vagas.com.br/accona) | A recuperar |  |
 | [Accor](https://careers.accor.com) | Hospitalidade |  |
+| [Accor](https://trabalheconosco.vagas.com.br/accor) | A recuperar |  |
 | [Acer](https://career10.successfactors.com/career?company=acerincorp) | Eletrônicos |  |
+| [Acer](https://trabalheconosco.vagas.com.br/acer) | A recuperar |  |
+| [Aché](https://trabalheconosco.vagas.com.br/ache) | A recuperar |  |
 | [Aché Laboratórios](https://trabalheconosco.vagas.com.br/achlaboratrios) | Farmacêutica |  |
+| [Aché Laboratórios](https://trabalheconosco.vagas.com.br/achelaboratorios) | A recuperar |  |
 | [Activision Blizzard](https://careers.activisionblizzard.com) | Estratégico |  |
+| [Activision Blizzard](https://trabalheconosco.vagas.com.br/activisionblizzard) | A recuperar |  |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | Tecnologia |  |
+| [Adobe](https://trabalheconosco.vagas.com.br/adobe) | A recuperar |  |
 | [ADP](https://jobs.adp.com) | Serviços |  |
+| [ADP](https://trabalheconosco.vagas.com.br/adp) | A recuperar |  |
 | [AES Brasil](https://trabalheconosco.vagas.com.br/aesbrasil) | Estratégico |  |
 | [Agibank](https://job-boards.greenhouse.io/agibank) | Banco |  |
+| [Agibank](https://trabalheconosco.vagas.com.br/agibank) | A recuperar |  |
 | [Agilize](https://boards.greenhouse.io/agilize) | Fintech |  |
 | [Agoda](https://careersatagoda.com/vacancies/?search&teams&locations) | Tecnologia |  |
+| [Agoda](https://trabalheconosco.vagas.com.br/agoda) | A recuperar |  |
 | [Agrale](https://trabalheconosco.vagas.com.br/agrale) | Estratégico |  |
 | [Ailos Sistema](https://ailos.gupy.io) | Finanças |  |
 | [Aiqfome](https://trabalheconosco.vagas.com.br/aiqfome) | Estratégico |  |
 | [Air France-KLM](https://recrutement.airfrance.com) | Aviação |  |
+| [Air France-KLM](https://trabalheconosco.vagas.com.br/airfranceklm) | A recuperar |  |
 | [Airbnb](https://boards.greenhouse.io/airbnb) | Turismo |  |
+| [Airbnb](https://trabalheconosco.vagas.com.br/airbnb) | A recuperar |  |
 | [Albert Einstein](https://www.einstein.br/carreiras) | Saúde |  |
+| [Albert Einstein](https://trabalheconosco.vagas.com.br/alberteinstein) | A recuperar |  |
 | [Alelo](https://alelo.inhire.app/vagas) | Benefícios |  |
+| [Alelo](https://trabalheconosco.vagas.com.br/alelo) | A recuperar |  |
 | [Algar Telecom](https://trabalheconosco.vagas.com.br/algartelecom) | Telecom |  |
 | [Alibaba](https://talent.alibaba.com) | E-commerce |  |
+| [Alibaba](https://trabalheconosco.vagas.com.br/alibaba) | A recuperar |  |
 | [Alice](https://alice.inhire.app/vagas) | Healthtech |  |
+| [Alice](https://trabalheconosco.vagas.com.br/alice) | A recuperar |  |
 | [Alliar](https://trabalheconosco.vagas.com.br/alliar) | Estratégico |  |
 | [Allied](https://trabalheconosco.vagas.com.br/allied) | Estratégico |  |
 | [Allos](https://carreiras.gupy.io/allos) | Shopping |  |
+| [Allos](https://trabalheconosco.vagas.com.br/allos) | A recuperar |  |
 | [Alteryx](https://www.alteryx.com/careers) | 01 - Dados: Analytics & IA |  |
+| [Alteryx](https://trabalheconosco.vagas.com.br/alteryx) | A recuperar |  |
 | [Alura](https://alun.inhire.app/alura/vagas) | Educação |  |
+| [Alura](https://trabalheconosco.vagas.com.br/alura) | A recuperar |  |
 | [Amaggi](https://carreiras.gupy.io/amaggi) | Agronegócio |  |
+| [Amaggi](https://trabalheconosco.vagas.com.br/amaggi) | A recuperar |  |
 | [Amazon](https://www.amazon.jobs) | Tecnologia |  |
+| [Amazon](https://trabalheconosco.vagas.com.br/amazon) | A recuperar |  |
 | [Amcham Brasil](https://amcham.gupy.io) | Associação |  |
 | [Ame Digital](https://trabalheconosco.vagas.com.br/amedigital) | Estratégico |  |
 | [American Airlines](https://jobs.aa.com) | Aviação |  |
+| [American Airlines](https://trabalheconosco.vagas.com.br/americanairlines) | A recuperar |  |
 | [American Express](https://aexp.eightfold.ai/careers) | Financeiro |  |
+| [American Express](https://trabalheconosco.vagas.com.br/americanexpress) | A recuperar |  |
 | [Amex](https://www.americanexpress.com/en-us/careers) | Financeiro |  |
+| [Amex](https://trabalheconosco.vagas.com.br/amex) | A recuperar |  |
 | [Amil](https://career19.sapsf.com/careers?company=amilassist) | Saúde |  |
+| [Amil](https://trabalheconosco.vagas.com.br/amil) | A recuperar |  |
 | [Analytics](https://analytics.inhire.com.br) | A Classificar |  |
 | [Analytics-ss](https://analytics-ss.inhire.com.br) | A Classificar |  |
 | [Ânima Educação](https://anima.gupy.io) | Educação |  |
+| [Ânima Educação](https://trabalheconosco.vagas.com.br/animaeducacao) | A recuperar |  |
 | [Anthropic](https://boards.greenhouse.io/anthropic) | 01 - Dados: Inteligência Artificial |  |
+| [Anthropic](https://trabalheconosco.vagas.com.br/anthropic) | A recuperar |  |
 | [Apple](https://www.apple.com/careers/br) | Tecnologia |  |
+| [Apple](https://trabalheconosco.vagas.com.br/apple) | A recuperar |  |
 | [Apptite](https://trabalheconosco.vagas.com.br/apptite) | Estratégico |  |
 | [Arco Educação](https://job-boards.greenhouse.io/arcoeducacao) | Educacional |  |
 | [Arco Educação](https://boards.greenhouse.io/arcoeducacao) | Educação |  |
+| [Arco Educação](https://trabalheconosco.vagas.com.br/arcoeducacao) | A recuperar |  |
 | [Arcos Dorados (McDonald s)](https://trabalheconosconamc.infojobs.com.br) | Alimentação |  |
+| [Arcos Dorados (McDonald s)](https://trabalheconosco.vagas.com.br/arcosdoradosmcdonalds) | A recuperar |  |
 | [Arezzo&Co](https://azzas2154.gupy.io) | Varejo |  |
+| [Arezzo&Co](https://trabalheconosco.vagas.com.br/arezzoco) | A recuperar |  |
+| [Armac](https://trabalheconosco.vagas.com.br/armac) | A recuperar |  |
 | [Arteris](https://arteris.gupy.io) | Infraestrutura |  |
+| [Arteris](https://trabalheconosco.vagas.com.br/arteris) | A recuperar |  |
+| [Asaas](https://trabalheconosco.vagas.com.br/asaas) | A recuperar |  |
+| [Assaí Atacadista](https://trabalheconosco.vagas.com.br/assaiatacadista) | A recuperar |  |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) | Farmacêutica |  |
+| [AstraZeneca](https://trabalheconosco.vagas.com.br/astrazeneca) | A recuperar |  |
 | [Asus](https://www.asus.com/about-asus/careers) | Tecnologia |  |
+| [Asus](https://trabalheconosco.vagas.com.br/asus) | A recuperar |  |
 | [Atlassian](https://www.atlassian.com/company/careers) | Estratégico |  |
+| [Atlassian](https://trabalheconosco.vagas.com.br/atlassian) | A recuperar |  |
+| [Auren Energia](https://trabalheconosco.vagas.com.br/aurenenergia) | A recuperar |  |
 | [AuroraCoop (Aurora Alimentos)](https://trabalheconosco.vagas.com.br/aurora-alimentos) | Alimentos e Bebidas |  |
+| [AuroraCoop (Aurora Alimentos)](https://trabalheconosco.vagas.com.br/auroracoopauroraalimentos) | A recuperar |  |
 | [Autodesk](https://www.autodesk.com/careers) | Tecnologia |  |
+| [Autodesk](https://trabalheconosco.vagas.com.br/autodesk) | A recuperar |  |
 | [Avanade](https://www.avanade.com/pt-br/career/search-jobs) | Tecnologia |  |
+| [Avanade](https://trabalheconosco.vagas.com.br/avanade) | A recuperar |  |
 | [Azos](https://azos.inhire.app/vagas) | Fintech |  |
+| [Azos](https://trabalheconosco.vagas.com.br/azos) | A recuperar |  |
 | [Aztec](https://job-boards.eu.greenhouse.io/aztec) | Tecnologia |  |
+| [Aztec](https://trabalheconosco.vagas.com.br/aztec) | A recuperar |  |
+| [Azul](https://trabalheconosco.vagas.com.br/azul) | A recuperar |  |
 | [Azul Linhas Aéreas](https://trabalheconosco.vagas.com.br/azullinhasareas) | Logística |  |
+| [Azul Linhas Aéreas](https://trabalheconosco.vagas.com.br/azullinhasaereas) | A recuperar |  |
 | [B3](https://trabalheconosco.vagas.com.br/b3) | Finanças/Banco & Fintech |  |
 | [Bacio di Latte](https://trabalheconosco.vagas.com.br/baciodilatte) | Alimentos e Bebidas |  |
 | [Bahema Educação](https://trabalheconosco.vagas.com.br/bahemaeducao) | Educação |  |
+| [Bahema Educação](https://trabalheconosco.vagas.com.br/bahemaeducacao) | A recuperar |  |
 | [Ball](https://jobs.ball.com/corp_packaging/search) | Embalagens |  |
+| [Ball](https://trabalheconosco.vagas.com.br/ball) | A recuperar |  |
+| [Banco ABC](https://trabalheconosco.vagas.com.br/bancoabc) | A recuperar |  |
 | [Banco ABC Brasil](https://trabalheconosco.vagas.com.br/bancoabcbrasil) | Finanças/Banco & Fintech |  |
 | [Banco BMG](https://bancobmg.gupy.io) | Finanças/Banco & Fintech |  |
+| [Banco BMG](https://trabalheconosco.vagas.com.br/bancobmg) | A recuperar |  |
 | [Banco Bradesco](https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco) | Finanças/Banco & Fintech |  |
+| [Banco Bradesco](https://trabalheconosco.vagas.com.br/bancobradesco) | A recuperar |  |
 | [Banco BV](https://jobs.lever.co/bv) | Finanças/Banco & Fintech |  |
+| [Banco BV](https://trabalheconosco.vagas.com.br/bancobv) | A recuperar |  |
 | [Banco da Amazônia](https://trabalheconosco.vagas.com.br/bancodaamaznia) | Finanças/Banco & Fintech |  |
+| [Banco da Amazônia](https://trabalheconosco.vagas.com.br/bancodaamazonia) | A recuperar |  |
+| [Banco Daycoval](https://trabalheconosco.vagas.com.br/bancodaycoval) | A recuperar |  |
 | [Banco de Brasília (BRB)](https://trabalheconosco.vagas.com.br/bancodebraslia) | Finanças/Banco & Fintech |  |
+| [Banco de Brasília (BRB)](https://trabalheconosco.vagas.com.br/bancodebrasiliabrb) | A recuperar |  |
 | [Banco Digio](https://trabalheconosco.vagas.com.br/bancodigio) | Finanças/Banco & Fintech |  |
 | [Banco do Brasil](https://trabalheconosco.vagas.com.br/bancodobrasil) | Finanças/Banco & Fintech |  |
 | [Banco do Nordeste](https://trabalheconosco.vagas.com.br/bancodonordeste) | Finanças/Banco & Fintech |  |
+| [Banco Fibra](https://trabalheconosco.vagas.com.br/bancofibra) | A recuperar |  |
 | [Banco Inbursa](https://trabalheconosco.vagas.com.br/bancoinbursa) | Finanças/Banco & Fintech |  |
 | [Banco Industrial do Brasil](https://trabalheconosco.vagas.com.br/bancoindustrialdobrasil) | Finanças/Banco & Fintech |  |
 | [Banco Inter](https://carreiras.gupy.io/bancointer) | Finanças/Banco & Fintech |  |
+| [Banco Inter](https://trabalheconosco.vagas.com.br/bancointer) | A recuperar |  |
+| [Banco Mercantil](https://trabalheconosco.vagas.com.br/bancomercantil) | A recuperar |  |
 | [Banco Mercantil do Brasil](https://trabalheconosco.vagas.com.br/bancomercantildobrasil) | Finanças/Banco & Fintech |  |
 | [Banco Original](https://original.gupy.io) | Finanças/Banco & Fintech |  |
 | [Banco Ourinvest](https://bancoourinvest.gupy.io) | Finanças/Banco & Fintech |  |
+| [Banco Ourinvest](https://trabalheconosco.vagas.com.br/bancoourinvest) | A recuperar |  |
 | [Banco Pan](https://boards.greenhouse.io/bancopan) | Finanças/Banco & Fintech |  |
+| [Banco Pan](https://trabalheconosco.vagas.com.br/bancopan) | A recuperar |  |
 | [Banco Paulista](https://trabalheconosco.vagas.com.br/bancopaulista) | Finanças/Banco & Fintech |  |
 | [Banco Pine](https://bancopine.inhire.app/vagas) | Finanças/Banco & Fintech |  |
+| [Banco Pine](https://trabalheconosco.vagas.com.br/bancopine) | A recuperar |  |
 | [Banco Rendimento](https://trabalheconosco.vagas.com.br/bancorendimento) | Finanças/Banco & Fintech |  |
+| [Banco Rodobens](https://trabalheconosco.vagas.com.br/bancorodobens) | A recuperar |  |
 | [Banco Safra](https://trabalheconosco.vagas.com.br/bancosafra) | Finanças/Banco & Fintech |  |
 | [Banco Semear](https://trabalheconosco.vagas.com.br/bancosemear) | Finanças/Banco & Fintech |  |
+| [Banco Sofisa](https://trabalheconosco.vagas.com.br/bancosofisa) | A recuperar |  |
 | [Banco Topázio](https://trabalheconosco.vagas.com.br/bancotopzio) | Finanças/Banco & Fintech |  |
+| [Banco Topázio](https://trabalheconosco.vagas.com.br/bancotopazio) | A recuperar |  |
 | [Banco Votorantim (banco BV)](https://trabalheconosco.vagas.com.br/bancovotorantim) | Finanças/Banco & Fintech |  |
+| [Banco Votorantim (banco BV)](https://trabalheconosco.vagas.com.br/bancovotorantimbancobv) | A recuperar |  |
 | [Band](https://band.jobs.recrut.ai/#openings) | Comunicação |  |
+| [Band](https://trabalheconosco.vagas.com.br/band) | A recuperar |  |
 | [Bandai Namco](https://www.bandainamcoent.com/careers) | Jogos |  |
+| [Bandai Namco](https://trabalheconosco.vagas.com.br/bandainamco) | A recuperar |  |
 | [Banestes](https://trabalheconosco.vagas.com.br/banestes) | Finanças/Banco & Fintech |  |
+| [banQi](https://trabalheconosco.vagas.com.br/banqi) | A recuperar |  |
 | [Banrisul](https://trabalheconosco.vagas.com.br/banrisul) | Finanças/Banco & Fintech |  |
 | [BASF](https://career5.successfactors.eu/career?company=C0000159936P) | Química |  |
+| [BASF](https://trabalheconosco.vagas.com.br/basf) | A recuperar |  |
+| [Bauducco](https://trabalheconosco.vagas.com.br/bauducco) | A recuperar |  |
 | [Bayer](https://bayer.eightfold.ai/careers) | Farmacêutica |  |
+| [Bayer](https://trabalheconosco.vagas.com.br/bayer) | A recuperar |  |
 | [BB Seguridade](https://trabalheconosco.vagas.com.br/bbseguridade) | Finanças/Seguros |  |
 | [BBC](https://careers.bbc.co.uk) | Mídia |  |
+| [BBC](https://trabalheconosco.vagas.com.br/bbc) | A recuperar |  |
+| [Beep Saúde](https://trabalheconosco.vagas.com.br/beepsaude) | A recuperar |  |
 | [Beleaf](https://trabalheconosco.vagas.com.br/beleaf) | Alimentos e Bebidas |  |
 | [Belvo](https://belvo.com/careers) | Fintech |  |
+| [Belvo](https://trabalheconosco.vagas.com.br/belvo) | A recuperar |  |
+| [Bemobi](https://trabalheconosco.vagas.com.br/bemobi) | A recuperar |  |
 | [Beyond 101](https://apply.workable.com/beyond-101) | Tecnologia |  |
+| [Beyond 101](https://trabalheconosco.vagas.com.br/beyond101) | A recuperar |  |
+| [BHS](https://trabalheconosco.vagas.com.br/bhs) | A recuperar |  |
 | [Biolab](https://trabalheconosco.vagas.com.br/biolab) | Farmacêutica |  |
 | [Bitso](https://bitso.com/jobs) | Fintech |  |
+| [Bitso](https://trabalheconosco.vagas.com.br/bitso) | A recuperar |  |
 | [BizCapital](https://trabalheconosco.vagas.com.br/bizcapital) | Finanças/Banco & Fintech |  |
 | [Blackberry](https://www.blackberry.com/us/en/company/careers) | Tecnologia |  |
+| [Blackberry](https://trabalheconosco.vagas.com.br/blackberry) | A recuperar |  |
 | [Blau Farmacêutica](https://trabalheconosco.vagas.com.br/blaufarmacutica) | Farmacêutica |  |
+| [Blau Farmacêutica](https://trabalheconosco.vagas.com.br/blaufarmaceutica) | A recuperar |  |
 | [Blip](https://carreiras.gupy.io/blip) | Tecnologia |  |
+| [Blip](https://trabalheconosco.vagas.com.br/blip) | A recuperar |  |
 | [Blizzard](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers) | Entretenimento |  |
+| [Blizzard](https://trabalheconosco.vagas.com.br/blizzard) | A recuperar |  |
+| [BMG](https://trabalheconosco.vagas.com.br/bmg) | A recuperar |  |
+| [BMW Group Brasil](https://trabalheconosco.vagas.com.br/bmwgroupbrasil) | A recuperar |  |
 | [BNY Mellon](https://bnymellon.eightfold.ai/careers) | Financeiro |  |
+| [BNY Mellon](https://trabalheconosco.vagas.com.br/bnymellon) | A recuperar |  |
 | [Bold Snacks](https://trabalheconosco.vagas.com.br/boldsnacks) | Alimentos e Bebidas |  |
 | [BoldMetrics](https://boldmetrics.com/careers) | Alimentos e Bebidas |  |
+| [BoldMetrics](https://trabalheconosco.vagas.com.br/boldmetrics) | A recuperar |  |
 | [Bom pra Crédito](https://trabalheconosco.vagas.com.br/bompracrdito) | Estratégico |  |
+| [Bom pra Crédito](https://trabalheconosco.vagas.com.br/bompracredito) | A recuperar |  |
 | [Booking](https://jobs.booking.com/booking/jobs) | Turismo |  |
+| [Booking](https://trabalheconosco.vagas.com.br/booking) | A recuperar |  |
 | [Booking.com](https://jobs.booking.com) | Turismo |  |
+| [Booking.com](https://trabalheconosco.vagas.com.br/bookingcom) | A recuperar |  |
 | [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) | Indústria |  |
+| [Bosch Group](https://trabalheconosco.vagas.com.br/boschgroup) | A recuperar |  |
 | [Boulder Colorado](https://bouldercolorado.wd1.myworkdayjobs.com/en-US/External) | Setor Público |  |
+| [Boulder Colorado](https://trabalheconosco.vagas.com.br/bouldercolorado) | A recuperar |  |
 | [Box Delivery](https://trabalheconosco.vagas.com.br/boxdelivery) | Logística/Delivery |  |
 | [Bradesco](https://banco.bradesco/trabalheconosco) | Bancário |  |
+| [Bradesco](https://trabalheconosco.vagas.com.br/bradesco) | A recuperar |  |
 | [Bradesco Seguros](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco) | Finanças/Seguros |  |
 | [Braskem](https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions) | Indústria |  |
 | [Braspress](https://braspress.pandape.infojobs.com.br) | Logística |  |
