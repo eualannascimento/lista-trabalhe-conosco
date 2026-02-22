@@ -49,6 +49,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [3cservices](https://3cservices.gupy.io) | A Classificar | 2026-02-19 |
 | [Abakids](https://abakids.gupy.io) | A Classificar | 2026-02-19 |
 | [ANBIMA](https://anbima.gupy.io) | Entidade Financeira | 2026-02-19 |
+| [Bauducco](https://bauducco.gupy.io) | Alimentos e Bebidas | 2026-02-19 |
 | [CBA Alumínio](https://cba.gupy.io) | Indústria | 2026-02-19 |
 | [Cocamar](https://cocamar.gupy.io) | Agronegócio | 2026-02-19 |
 | [Creditas](https://creditas.gupy.io) | Financeiro | 2026-02-19 |
@@ -79,6 +80,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Bertolini](https://bertolini.gupy.io) | Indústria | 2026-02-16 |
 | [DASA Programas de Entrada](https://dasaprogramasdeentrada.gupy.io) | Saúde | 2026-02-14 |
 | [ArcelorMittal Tuper Brasil](https://tuper.gupy.io) | Indústria | 2026-02-13 |
+| [Assaí Atacadista](https://assai.gupy.io) | Varejo | 2026-02-13 |
 | [Cosan](https://cosan.gupy.io) | Energia/Petróleo | 2026-02-13 |
 | [Credcrea (Ailos)](https://credcrea.gupy.io) | Finanças | 2026-02-13 |
 | [Fast Shop](https://fastshop.gupy.io) | Varejo | 2026-02-13 |
@@ -103,6 +105,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Tenda](https://tenda.gupy.io) | Construção | 2026-02-12 |
 | [UOL Compass](https://compass.gupy.io) | Consultoria | 2026-02-12 |
 | [Vila Nova Log](https://vilanova.gupy.io) | Logística | 2026-02-12 |
+| [Beep Saúde](https://beepsaude.gupy.io) | Saúde | 2026-02-11 |
 | [Caju](https://caju.gupy.io) | Benefícios | 2026-02-11 |
 | [Copersucar](https://copersucar.gupy.io) | Agronegócio | 2026-02-11 |
 | [Dotz](https://dotz.gupy.io) | Benefícios | 2026-02-11 |
@@ -111,6 +114,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Redepharma Brasil](https://redepharma.gupy.io) | Varejo | 2026-02-11 |
 | [Unimed Cuiabá Oficial](https://unimedcuiaba.gupy.io) | Saúde | 2026-02-11 |
 | [Afya Educacional](https://afya.gupy.io) | Educação | 2026-02-10 |
+| [Bemobi](https://bemobi.gupy.io) | Tecnologia | 2026-02-10 |
 | [Bunge](https://bunge.gupy.io) | Indústria | 2026-02-10 |
 | [Embraer](https://embraer.gupy.io) | Indústria | 2026-02-10 |
 | [HBR Realty](https://hbrrealty.gupy.io) | Estratégico | 2026-02-10 |
@@ -144,6 +148,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Positivo Tecnologia](https://positivotecnologia.gupy.io) | Estratégico | 2026-02-05 |
 | [Supermercados Guanabara](https://supermercadosguanabara.gupy.io) | Varejo | 2026-02-05 |
 | [Vibra Energia Brasil Br](https://vibra.gupy.io) | Energia/Petróleo | 2026-02-05 |
+| [Banco Rodobens](https://rodobenscarreiras.gupy.io) | Finanças/Banco & Fintech | 2026-02-04 |
 | [BrasilAgro](https://brasilagro.gupy.io) | Agronegócio | 2026-02-04 |
 | [Brasilprev](https://brasilprev.gupy.io) | Seguradora | 2026-02-04 |
 | [Castrolanda](https://castrolanda.gupy.io) | Agronegócio | 2026-02-04 |
@@ -155,6 +160,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [OLX Brasil](https://vemsergrupoolx.gupy.io) | Marketplace | 2026-02-04 |
 | [Randon](https://randon.gupy.io) | Indústria | 2026-02-04 |
 | [Unicred](https://unicred.gupy.io) | Finanças | 2026-02-04 |
+| [Banco Fibra](https://bancofibra.gupy.io) | Finanças/Banco & Fintech | 2026-02-03 |
 | [Cris Barros](https://crisbarros.gupy.io) | Moda | 2026-02-03 |
 | [DASA Assistencial](https://dasaassistencial.gupy.io) | Saúde | 2026-02-03 |
 | [DASA Atendimento](https://dasaatendimento.gupy.io) | Saúde | 2026-02-03 |
@@ -164,6 +170,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Vivara](https://vivara.gupy.io) | Varejo | 2026-02-03 |
 | [Youse](https://vagas-youse.gupy.io) | Seguros | 2026-02-03 |
 | [Americanas S.A.](https://americanas.gupy.io) | Varejo | 2026-02-02 |
+| [Banco ABC](https://abcbrasil.gupy.io) | Finanças/Banco & Fintech | 2026-02-02 |
 | [Caoa](https://caoa.gupy.io) | Automotivo | 2026-02-02 |
 | [Cruzeiro do Sul](https://cruzeirodosul.gupy.io) | Educação | 2026-02-02 |
 | [CSN](https://csn.gupy.io) | Siderurgia | 2026-02-02 |
@@ -172,6 +179,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Record](https://recordtv.gupy.io) | Televisão | 2026-02-02 |
 | [Tecnisa](https://tecnisa.gupy.io) | Estratégico | 2026-02-02 |
 | [Valid](https://valid.gupy.io) | Tecnologia | 2026-02-02 |
+| [Auren Energia](https://aurenenergia.gupy.io) | Energia | 2026-01-30 |
+| [Azul](https://voeazul.gupy.io) | Aviação | 2026-01-30 |
 | [Cristália](https://cristalia.gupy.io) | Farmacêutica | 2026-01-30 |
 | [Centauro](https://centaurotalentos.gupy.io) | Varejo | 2026-01-29 |
 | [Dexco](https://dexco.gupy.io) | Indústria | 2026-01-29 |
@@ -198,13 +207,16 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Farm Moda Br](https://farm.gupy.io) | Moda | 2026-01-27 |
 | [Hering](https://hering.gupy.io) | Varejo | 2026-01-27 |
 | [Prio](https://prio.gupy.io) | Energy | 2026-01-27 |
+| [Aché](https://vagasache.gupy.io) | Farmacêutica | 2026-01-26 |
 | [Casa e Video Varejo](https://casaevideo.gupy.io) | Varejo | 2026-01-26 |
 | [PremieRpet](https://premierpet.gupy.io) | Alimentos | 2026-01-26 |
 | [AgroGalaxy](https://agrogalaxy.gupy.io) | Agronegócio | 2026-01-23 |
+| [Asaas](https://asaas.gupy.io) | Fintech | 2026-01-23 |
 | [EZTEC](https://eztec.gupy.io) | Construção | 2026-01-23 |
 | [Hospital Moinhos de Vento](https://hospitalmoinhos.gupy.io) | Saúde | 2026-01-23 |
 | [Nazária](https://nazaria.gupy.io) | Estratégico | 2026-01-23 |
 | [Viacredi](https://viacredi.gupy.io) | Estratégico | 2026-01-23 |
+| [BMG](https://bmg.gupy.io) | Finanças/Banco & Fintech | 2026-01-22 |
 | [Cacau Show](https://cacaushow.gupy.io) | Alimentos e Bebidas | 2026-01-22 |
 | [DASA Corp](https://dasacorp.gupy.io) | Saúde | 2026-01-22 |
 | [GPA](https://corporacaogpa.gupy.io) | Varejo | 2026-01-22 |
@@ -214,6 +226,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Platlog](https://platlog.gupy.io) | Logística | 2026-01-21 |
 | [Rede](https://vemprarede.gupy.io) | Soluções de Pagamento | 2026-01-21 |
 | [Andorinha Supermercados](https://andorinha.gupy.io) | Varejo | 2026-01-20 |
+| [BHS](https://bhs.gupy.io) | Tecnologia | 2026-01-20 |
 | [Gupy Tech](https://tech-career.gupy.io) | HRTech | 2026-01-20 |
 | [Helbor](https://helbor.gupy.io) | Estratégico | 2026-01-20 |
 | [Livelo](https://livelo.gupy.io) | Recompensas | 2026-01-20 |
@@ -251,6 +264,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Itaú - Carreiras Internas](https://carreirasinternasitau.gupy.io) | Finanças/Banco & Fintech | 2026-01-07 |
 | [Santa Casa BH](https://santacasabh.gupy.io) | Saúde | 2026-01-07 |
 | [Aegea](https://aegea.gupy.io) | Saneamento | 2026-01-06 |
+| [Banco Sofisa](https://bancosofisa.gupy.io) | Finanças/Banco & Fintech | 2026-01-06 |
 | [Coopercitrus](https://coopercitrus.gupy.io) | Alimentos | 2026-01-06 |
 | [Fundação Itaú](https://fundacaoitau.gupy.io) | Banco | 2026-01-06 |
 | [PagSeguro](https://pagseguro.gupy.io) | Finanças/Banco & Fintech | 2026-01-06 |
@@ -279,6 +293,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ambev](https://ambev.gupy.io) | Alimentos e Bebidas | 2025-11-26 |
 | [GOL Linhas Aéreas](https://golcarreiras.gupy.io) | Aviação | 2025-11-26 |
 | [Petz](https://petz.gupy.io) | Pet Shop | 2025-11-26 |
+| [BMW Group Brasil](https://bmw.gupy.io) | Automotivo | 2025-11-24 |
 | [Coca-Cola Femsa BR](https://cocacolafemsabr.gupy.io) | Alimentos e Bebidas | 2025-11-20 |
 | [3tentos](https://3tentos.gupy.io) | Agronegócio | 2025-11-19 |
 | [Total Express](https://totalexpress.gupy.io) | Logística | 2025-11-18 |
@@ -295,11 +310,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [EcoRodovias](https://ecorodovias.gupy.io) | Estratégico | 2025-10-13 |
 | [Santa Maria Ind](https://santamaria.gupy.io) | Estratégico | 2025-10-06 |
 | [Unimed Campinas Oficial](https://unimedcampinas.gupy.io) | Saúde | 2025-10-06 |
+| [banQi](https://banqi.gupy.io) | Soluções de Pagamento | 2025-09-30 |
 | [ClearSale](https://clearsale.gupy.io) | 01 - Dados: Analytics & IA | 2025-09-25 |
 | [Unimed Goiânia Oficial](https://unimedgoiania.gupy.io) | Saúde | 2025-09-23 |
 | [Raizen](https://genteraizen.gupy.io) | Energia | 2025-09-19 |
 | [Eurofarma](https://eurofarma.gupy.io) | Farmacêutica | 2025-09-17 |
 | [Unimed Teresina Oficial](https://unimedteresina.gupy.io) | Saúde | 2025-06-26 |
+| [Banco Mercantil](https://mercantil.gupy.io) | Finanças/Banco & Fintech | 2025-05-08 |
 | [Grupo Sabin](https://gruposabin.gupy.io) | Saúde | 2025-05-02 |
 | [Movida](https://movida.gupy.io) | Automotivo | 2025-04-14 |
 | [PUC-SP](https://pucsp.gupy.io) | Educacional | 2025-04-11 |
@@ -313,8 +330,10 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [4mk](https://4mk.gupy.io) | A Classificar | 2024-08-13 |
 | [Daycoval DayCambio](https://daycambio.gupy.io) | Banco | 2024-08-09 |
 | [Daycoval DayCred](https://daycred.gupy.io) | Banco | 2024-08-09 |
+| [Banco Daycoval](https://bancodaycoval.gupy.io) | Finanças/Banco & Fintech | 2024-08-08 |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) | Energia | 2024-07-31 |
 | [Yamaha](https://yamaha.gupy.io) | Automotivo | 2024-07-29 |
+| [Armac](https://armac.gupy.io) | Estratégico | 2024-02-28 |
 | [Usiminas](https://usiminas.gupy.io) | Siderurgia | 2024-01-22 |
 | [Aacd](https://aacd.gupy.io) | A Classificar | 2024-01-05 |
 | [Red House International School](https://redhouse.gupy.io) | Finanças/Banco & Fintech | 2023-11-16 |
@@ -328,52 +347,125 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Faber-Castell](https://fabercastell.gupy.io) | Papelaria | 2022-05-12 |
 | [Simpar](https://simpar.gupy.io) | Logística | 2022-01-03 |
 | [1Doc](https://1doc.gupy.io) | Saúde |  |
+| [3M](https://3m.wd1.myworkdayjobs.com/Search) | Indústria |  |
 | [3R Petroleum](https://3rpetroleum.gupy.io) | Energia/Petróleo |  |
+| [99 (99Entrega)](https://trabalheconosco.vagas.com.br/99) | Logística/Delivery |  |
+| [AB InBev](https://job-boards.greenhouse.io/abinbev) | Alimentos e Bebidas |  |
+| [Accenture](https://www.accenture.com/br-pt/careers) | Consultoria |  |
+| [Accona](https://www.acciona.com.br/trabalhe-conosco) | Infraestrutura |  |
+| [Accor](https://careers.accor.com) | Hospitalidade |  |
+| [Acer](https://career10.successfactors.com/career?company=acerincorp) | Eletrônicos |  |
+| [Aché Laboratórios](https://trabalheconosco.vagas.com.br/achlaboratrios) | Farmacêutica |  |
+| [Activision Blizzard](https://careers.activisionblizzard.com) | Estratégico |  |
+| [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | Tecnologia |  |
+| [ADP](https://jobs.adp.com) | Serviços |  |
 | [AES Brasil](https://trabalheconosco.vagas.com.br/aesbrasil) | Estratégico |  |
+| [Agibank](https://job-boards.greenhouse.io/agibank) | Banco |  |
 | [Agilize](https://boards.greenhouse.io/agilize) | Fintech |  |
+| [Agoda](https://careersatagoda.com/vacancies/?search&teams&locations) | Tecnologia |  |
 | [Agrale](https://trabalheconosco.vagas.com.br/agrale) | Estratégico |  |
 | [Ailos Sistema](https://ailos.gupy.io) | Finanças |  |
 | [Aiqfome](https://trabalheconosco.vagas.com.br/aiqfome) | Estratégico |  |
+| [Air France-KLM](https://recrutement.airfrance.com) | Aviação |  |
+| [Airbnb](https://boards.greenhouse.io/airbnb) | Turismo |  |
 | [Albert Einstein](https://www.einstein.br/carreiras) | Saúde |  |
 | [Albert Einstein](https://trabalheconosco.vagas.com.br/alberteinstein) | A recuperar |  |
+| [Alelo](https://alelo.inhire.app/vagas) | Benefícios |  |
 | [Algar Telecom](https://trabalheconosco.vagas.com.br/algartelecom) | Telecom |  |
+| [Alibaba](https://talent.alibaba.com) | E-commerce |  |
+| [Alice](https://alice.inhire.app/vagas) | Healthtech |  |
 | [Alliar](https://trabalheconosco.vagas.com.br/alliar) | Estratégico |  |
 | [Allied](https://trabalheconosco.vagas.com.br/allied) | Estratégico |  |
 | [Allos](https://carreiras.gupy.io/allos) | Shopping |  |
 | [Allos](https://trabalheconosco.vagas.com.br/allos) | A recuperar |  |
+| [Alteryx](https://www.alteryx.com/careers) | 01 - Dados: Analytics & IA |  |
+| [Alura](https://alun.inhire.app/alura/vagas) | Educação |  |
 | [Amaggi](https://carreiras.gupy.io/amaggi) | Agronegócio |  |
 | [Amaggi](https://trabalheconosco.vagas.com.br/amaggi) | A recuperar |  |
+| [Amazon](https://www.amazon.jobs) | Tecnologia |  |
 | [Amcham Brasil](https://amcham.gupy.io) | Associação |  |
 | [Ame Digital](https://trabalheconosco.vagas.com.br/amedigital) | Estratégico |  |
+| [American Airlines](https://jobs.aa.com) | Aviação |  |
+| [American Express](https://aexp.eightfold.ai/careers) | Financeiro |  |
+| [Amex](https://www.americanexpress.com/en-us/careers) | Financeiro |  |
+| [Amil](https://career19.sapsf.com/careers?company=amilassist) | Saúde |  |
 | [Analytics](https://analytics.inhire.com.br) | A Classificar |  |
 | [Analytics-ss](https://analytics-ss.inhire.com.br) | A Classificar |  |
 | [Ânima Educação](https://anima.gupy.io) | Educação |  |
 | [Ânima Educação](https://trabalheconosco.vagas.com.br/animaeducacao) | A recuperar |  |
+| [Anthropic](https://boards.greenhouse.io/anthropic) | 01 - Dados: Inteligência Artificial |  |
+| [Apple](https://www.apple.com/careers/br) | Tecnologia |  |
 | [Apptite](https://trabalheconosco.vagas.com.br/apptite) | Estratégico |  |
+| [Arco Educação](https://job-boards.greenhouse.io/arcoeducacao) | Educacional |  |
+| [Arco Educação](https://boards.greenhouse.io/arcoeducacao) | Educação |  |
+| [Arcos Dorados (McDonald s)](https://trabalheconosconamc.infojobs.com.br) | Alimentação |  |
+| [Arezzo&Co](https://azzas2154.gupy.io) | Varejo |  |
+| [Arteris](https://arteris.gupy.io) | Infraestrutura |  |
+| [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) | Farmacêutica |  |
+| [Asus](https://www.asus.com/about-asus/careers) | Tecnologia |  |
+| [Atlassian](https://www.atlassian.com/company/careers) | Estratégico |  |
+| [AuroraCoop (Aurora Alimentos)](https://trabalheconosco.vagas.com.br/aurora-alimentos) | Alimentos e Bebidas |  |
+| [Autodesk](https://www.autodesk.com/careers) | Tecnologia |  |
+| [Avanade](https://www.avanade.com/pt-br/career/search-jobs) | Tecnologia |  |
+| [Azos](https://azos.inhire.app/vagas) | Fintech |  |
+| [Aztec](https://job-boards.eu.greenhouse.io/aztec) | Tecnologia |  |
+| [Azul Linhas Aéreas](https://trabalheconosco.vagas.com.br/azullinhasareas) | Logística |  |
 | [B3](https://trabalheconosco.vagas.com.br/b3) | Finanças/Banco & Fintech |  |
 | [Bacio di Latte](https://trabalheconosco.vagas.com.br/baciodilatte) | Alimentos e Bebidas |  |
+| [Bahema Educação](https://trabalheconosco.vagas.com.br/bahemaeducao) | Educação |  |
+| [Ball](https://jobs.ball.com/corp_packaging/search) | Embalagens |  |
 | [Banco ABC Brasil](https://trabalheconosco.vagas.com.br/bancoabcbrasil) | Finanças/Banco & Fintech |  |
+| [Banco BMG](https://bancobmg.gupy.io) | Finanças/Banco & Fintech |  |
+| [Banco Bradesco](https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco) | Finanças/Banco & Fintech |  |
+| [Banco BV](https://jobs.lever.co/bv) | Finanças/Banco & Fintech |  |
+| [Banco da Amazônia](https://trabalheconosco.vagas.com.br/bancodaamaznia) | Finanças/Banco & Fintech |  |
+| [Banco de Brasília (BRB)](https://trabalheconosco.vagas.com.br/bancodebraslia) | Finanças/Banco & Fintech |  |
 | [Banco Digio](https://trabalheconosco.vagas.com.br/bancodigio) | Finanças/Banco & Fintech |  |
 | [Banco do Brasil](https://trabalheconosco.vagas.com.br/bancodobrasil) | Finanças/Banco & Fintech |  |
 | [Banco do Nordeste](https://trabalheconosco.vagas.com.br/bancodonordeste) | Finanças/Banco & Fintech |  |
 | [Banco Inbursa](https://trabalheconosco.vagas.com.br/bancoinbursa) | Finanças/Banco & Fintech |  |
 | [Banco Industrial do Brasil](https://trabalheconosco.vagas.com.br/bancoindustrialdobrasil) | Finanças/Banco & Fintech |  |
+| [Banco Inter](https://carreiras.gupy.io/bancointer) | Finanças/Banco & Fintech |  |
 | [Banco Mercantil do Brasil](https://trabalheconosco.vagas.com.br/bancomercantildobrasil) | Finanças/Banco & Fintech |  |
 | [Banco Original](https://original.gupy.io) | Finanças/Banco & Fintech |  |
+| [Banco Ourinvest](https://bancoourinvest.gupy.io) | Finanças/Banco & Fintech |  |
+| [Banco Pan](https://boards.greenhouse.io/bancopan) | Finanças/Banco & Fintech |  |
 | [Banco Paulista](https://trabalheconosco.vagas.com.br/bancopaulista) | Finanças/Banco & Fintech |  |
+| [Banco Pine](https://bancopine.inhire.app/vagas) | Finanças/Banco & Fintech |  |
 | [Banco Rendimento](https://trabalheconosco.vagas.com.br/bancorendimento) | Finanças/Banco & Fintech |  |
 | [Banco Safra](https://trabalheconosco.vagas.com.br/bancosafra) | Finanças/Banco & Fintech |  |
 | [Banco Semear](https://trabalheconosco.vagas.com.br/bancosemear) | Finanças/Banco & Fintech |  |
+| [Banco Topázio](https://trabalheconosco.vagas.com.br/bancotopzio) | Finanças/Banco & Fintech |  |
+| [Banco Votorantim (banco BV)](https://trabalheconosco.vagas.com.br/bancovotorantim) | Finanças/Banco & Fintech |  |
+| [Band](https://band.jobs.recrut.ai/#openings) | Comunicação |  |
+| [Bandai Namco](https://www.bandainamcoent.com/careers) | Jogos |  |
 | [Banestes](https://trabalheconosco.vagas.com.br/banestes) | Finanças/Banco & Fintech |  |
 | [Banrisul](https://trabalheconosco.vagas.com.br/banrisul) | Finanças/Banco & Fintech |  |
 | [BASF](https://career5.successfactors.eu/career?company=C0000159936P) | Química |  |
 | [BASF](https://trabalheconosco.vagas.com.br/basf) | A recuperar |  |
+| [Bayer](https://bayer.eightfold.ai/careers) | Farmacêutica |  |
 | [BB Seguridade](https://trabalheconosco.vagas.com.br/bbseguridade) | Finanças/Seguros |  |
+| [BBC](https://careers.bbc.co.uk) | Mídia |  |
 | [Beleaf](https://trabalheconosco.vagas.com.br/beleaf) | Alimentos e Bebidas |  |
+| [Belvo](https://belvo.com/careers) | Fintech |  |
+| [Beyond 101](https://apply.workable.com/beyond-101) | Tecnologia |  |
 | [Biolab](https://trabalheconosco.vagas.com.br/biolab) | Farmacêutica |  |
+| [Bitso](https://bitso.com/jobs) | Fintech |  |
 | [BizCapital](https://trabalheconosco.vagas.com.br/bizcapital) | Finanças/Banco & Fintech |  |
+| [Blackberry](https://www.blackberry.com/us/en/company/careers) | Tecnologia |  |
+| [Blau Farmacêutica](https://trabalheconosco.vagas.com.br/blaufarmacutica) | Farmacêutica |  |
+| [Blip](https://carreiras.gupy.io/blip) | Tecnologia |  |
+| [Blizzard](https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers) | Entretenimento |  |
+| [BNY Mellon](https://bnymellon.eightfold.ai/careers) | Financeiro |  |
 | [Bold Snacks](https://trabalheconosco.vagas.com.br/boldsnacks) | Alimentos e Bebidas |  |
+| [BoldMetrics](https://boldmetrics.com/careers) | Alimentos e Bebidas |  |
+| [Bom pra Crédito](https://trabalheconosco.vagas.com.br/bompracrdito) | Estratégico |  |
+| [Booking](https://jobs.booking.com/booking/jobs) | Turismo |  |
+| [Booking.com](https://jobs.booking.com) | Turismo |  |
+| [Bosch Group](https://careers.smartrecruiters.com/BoschGroup) | Indústria |  |
+| [Boulder Colorado](https://bouldercolorado.wd1.myworkdayjobs.com/en-US/External) | Setor Público |  |
 | [Box Delivery](https://trabalheconosco.vagas.com.br/boxdelivery) | Logística/Delivery |  |
+| [Bradesco](https://banco.bradesco/trabalheconosco) | Bancário |  |
 | [Bradesco Seguros](https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco) | Finanças/Seguros |  |
 | [Braskem](https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions) | Indústria |  |
 | [Braspress](https://braspress.pandape.infojobs.com.br) | Logística |  |
@@ -637,48 +729,75 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Libbs](https://trabalheconosco.vagas.com.br/libbs) | Estratégico |  |
 | [Liberty Seguros](https://libertyseguros.gupy.io) | Finanças/Seguros |  |
 | [Librelato](https://trabalheconosco.vagas.com.br/librelato) | Estratégico |  |
+| [Light](https://trabalheconosco.vagas.com.br/light) | Energia |  |
 | [LinkedIn](https://careers.linkedin.com) | Tecnologia |  |
 | [LinkedIn Brasil](https://linkedin.gupy.io) | Redes Sociais |  |
 | [Linx](https://carreiras.gupy.io/linx) | Tecnologia |  |
 | [Linx](https://boards.greenhouse.io/linx) | Varejo Tech |  |
+| [Liv Up](https://trabalheconosco.vagas.com.br/livup) | Estratégico |  |
 | [Live Nation](https://www.livenationentertainment.com/careers) | Entretenimento |  |
+| [Local Frio](https://trabalheconosco.vagas.com.br/localfrio) | Estratégico |  |
 | [Locaweb](https://locaweb.gupy.io) | Tecnologia |  |
 | [Loews Hotels](https://www.loewshotels.com/careers) | Hospitalidade |  |
 | [Loft](https://loft.teamtailor.com/jobs) | Tecnologia |  |
+| [Log Commercial Properties](https://trabalheconosco.vagas.com.br/logcommercialproperties) | Estratégico |  |
 | [Loggi](https://apply.workable.com/loggi) | Logística/Delivery |  |
 | [Loggi Tecnologia](https://loggi.gupy.io) | Logística/Delivery |  |
+| [Login Logística](https://trabalheconosco.vagas.com.br/loginlogstica) | Logística |  |
 | [Logitech](https://www.logitech.com/careers) | Tecnologia |  |
+| [Lojas Cem](https://trabalheconosco.vagas.com.br/lojascem) | Varejo |  |
+| [Lojas Quero-Quero](https://trabalheconosco.vagas.com.br/lojasqueroquero) | Varejo |  |
 | [Lufthansa](https://www.lufthansagroup.careers) | Aviação |  |
 | [Mackenzie](https://mackenzie.br/trabalhe-conosco) | Educação |  |
 | [MadeiraMadeira](https://carreiras.gupy.io/madeiramadeira) | E-commerce |  |
 | [Madero](https://carreiras.gupy.io/madero) | Alimentação |  |
 | [Magalu](https://magazineluiza.inhire.app) | Varejo |  |
+| [Magazine Luiza](https://trabalheconosco.vagas.com.br/magazineluiza) | Varejo |  |
+| [Magnetis](https://trabalheconosco.vagas.com.br/magnetis) | Estratégico |  |
+| [Mais Mu](https://trabalheconosco.vagas.com.br/maismu) | Estratégico |  |
+| [Mapfre Brasil](https://trabalheconosco.vagas.com.br/mapfrebrasil) | Estratégico |  |
+| [Marcopolo](https://trabalheconosco.vagas.com.br/marcopolo) | Indústria |  |
 | [Marfrig](https://trabalheconosco.vagas.com.br/marfrig) | Alimentos e Bebidas |  |
 | [Marisa](https://carreiras.gupy.io/marisa) | Varejo |  |
 | [Marriott International](https://jobs.marriott.com) | Finanças/Banco & Fintech |  |
+| [Mart Minas](https://trabalheconosco.vagas.com.br/martminas) | Estratégico |  |
 | [Martins Atacado Var](https://martins.gupy.io) | Varejo |  |
 | [Mash](https://mash.pandape.infojobs.com.br) | Comércio |  |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers) | Financeiro |  |
 | [MasterClass](https://boards.greenhouse.io/masterclass) | Entretenimento |  |
+| [Mater Dei](https://trabalheconosco.vagas.com.br/materdei) | Estratégico |  |
 | [Meituan](https://zhaopin.meituan.com/en) | Tecnologia |  |
 | [Melhor Envio](https://melhorenvio.gupy.io) | Estratégico |  |
+| [Melhoramentos](https://trabalheconosco.vagas.com.br/melhoramentos) | Estratégico |  |
 | [Meliuz](https://meliuz.inhire.app/vagas) | Fintech |  |
+| [Méliuz](https://trabalheconosco.vagas.com.br/mliuz) | Estratégico |  |
+| [Melnick](https://trabalheconosco.vagas.com.br/melnick) | Estratégico |  |
 | [Mercado Bitcoin](https://mercadobitcoin.inhire.app/vagas) | Fintech |  |
 | [Mercado Livre](https://mercadolibre.eightfold.ai/careers) | E-commerce |  |
+| [Mercantil do Brasil](https://trabalheconosco.vagas.com.br/mercantildobrasil) | Estratégico |  |
 | [Mercedes-Benz Brasil](https://mercedes-benz.gupy.io) | Automotivo |  |
+| [Metha (antiga OAS)](https://trabalheconosco.vagas.com.br/metha) | Estratégico |  |
 | [Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin) | Indústria |  |
 | [Microsoft](https://careers.microsoft.com) | Tecnologia |  |
+| [Mimic](https://trabalheconosco.vagas.com.br/mimic) | Estratégico |  |
 | [Mindbody](https://co.mindbodyonline.com/careers/opportunities) | Tecnologia |  |
 | [Mineirao Atacarejo](https://mineirao.gupy.io) | Varejo |  |
 | [MJV](https://mjv.inhire.app/vagas) | Consultoria |  |
+| [Mobly](https://trabalheconosco.vagas.com.br/mobly) | Varejo |  |
+| [Mombora](https://trabalheconosco.vagas.com.br/mombora) | Estratégico |  |
 | [Mondelez Internacional](https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External) | Finanças/Banco & Fintech |  |
 | [Mondial Eletrodomésticos](https://selecaogrupomk.vagas.solides.com.br) | Estratégico |  |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) | Tecnologia |  |
+| [Mottu](https://trabalheconosco.vagas.com.br/mottu) | Estratégico |  |
+| [Moura Dubeux](https://trabalheconosco.vagas.com.br/mouradubeux) | Construção |  |
+| [MRS Logística](https://trabalheconosco.vagas.com.br/mrslogstica) | Logística |  |
 | [MRV](https://www.mrv.com.br/trabalhe-conosco) | Construção |  |
+| [Multiplan](https://trabalheconosco.vagas.com.br/multiplan) | Estratégico |  |
 | [Nadara](https://nadara.wd3.myworkdayjobs.com/External) | Tecnologia |  |
 | [Natura&CO (Avon + The Body Shop)](https://avon.wd5.myworkdayjobs.com/NaturaCarreiras) | Cosméticos |  |
 | [NBCUniversal](https://www.nbcunicareers.com) | Mídia |  |
 | [Neoenergia](https://carreiras.gupy.io/neoenergia) | Energia |  |
+| [Neogrid](https://trabalheconosco.vagas.com.br/neogrid) | Estratégico |  |
 | [Neon](https://jobs.lever.co/neon) | Banco |  |
 | [Nestlé](https://jobdetails.nestle.com) | Alimentos e Bebidas |  |
 | [Netbr](https://careers.smartrecruiters.com/Netbr) | Tecnologia |  |
@@ -689,16 +808,26 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nomad](https://carreiras.gupy.io/nomad) | Fintech |  |
 | [Nomad Global](https://apply.workable.com/nomadglobal) | Tecnologia |  |
 | [Notion](https://jobs.ashbyhq.com/notion) | Tecnologia |  |
+| [NovaDAX](https://trabalheconosco.vagas.com.br/novadax) | Estratégico |  |
 | [Novo](https://novo.inhire.com.br) | A Classificar |  |
+| [Novonor (Odebrecht)](https://trabalheconosco.vagas.com.br/novonor) | Estratégico |  |
 | [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) | Tecnologia |  |
 | [Nubank](https://boards.greenhouse.io/nubank) | Finanças/Banco & Fintech |  |
+| [Nubank (Nu Holdings)](https://trabalheconosco.vagas.com.br/nubank) | Finanças/Banco & Fintech |  |
+| [Nude.](https://trabalheconosco.vagas.com.br/nude) | Estratégico |  |
+| [O Estado de S. Paulo](https://trabalheconosco.vagas.com.br/oestadodespaulo) | Estratégico |  |
+| [Oakberry](https://trabalheconosco.vagas.com.br/oakberry) | Estratégico |  |
 | [OdontoPrev](https://odontoprev.gupy.io) | Saúde |  |
+| [Odous de Deus](https://odous dedeus.gupy.io) | Farmacêutica |  |
 | [OEC](https://trabalheconosco.vagas.com.br/oec) | Construção |  |
 | [OEC (Odebrecht)](https://oec-eng.com/trabalhe-conosco) | Infraestrutura |  |
+| [Olga Ri](https://trabalheconosco.vagas.com.br/olgari) | Estratégico |  |
 | [Olist](https://olist.inhire.app/vagas) | Tecnologia |  |
+| [Oncoclínicas](https://trabalheconosco.vagas.com.br/oncoclnicas) | Estratégico |  |
 | [ONR – Registro de Imóveis Eletrônico](https://jobs.quickin.io/registradores/jobs) | Registro de Imóveis Eletrônico |  |
 | [Open Co](https://carreiras.gupy.io/openco) | Fintech |  |
 | [Oracle](https://www.oracle.com/careers) | Tecnologia |  |
+| [Órama Investimentos](https://trabalheconosco.vagas.com.br/ramainvestimentos) | Telecom |  |
 | [Outback (Bloomin Brands)](https://carreiras.gupy.io/bloominbrands) | Alimentação |  |
 | [OXXO](https://oxxo.eightfold.ai/careers) | Varejo |  |
 | [OYO Rooms](https://www.oyorooms.com/careers) | Hospitalidade |  |
@@ -706,6 +835,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Pacaembu Construtora](https://pacaembu.gupy.io) | Construção |  |
 | [Pagar.me](https://pagarme.gupy.io) | Fintech |  |
 | [PagBank](https://carreiras.gupy.io/pagbank) | Finanças/Banco & Fintech |  |
+| [PagBank (PagSeguro)](https://trabalheconosco.vagas.com.br/pagbank) | Finanças/Banco & Fintech |  |
 | [Pague Menos](https://trabalheconosco.vagas.com.br/paguemenos) | Estratégico |  |
 | [Panvel (Dimed)](https://panvel.gupy.io) | Estratégico |  |
 | [Paramount](https://careers.paramount.com) | Mídia |  |
@@ -720,8 +850,15 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Pfizer](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers) | Farmacêutica |  |
 | [PicPay](https://boards.greenhouse.io/picpay) | Fintech |  |
 | [Pipefy](https://app.pipefy.com/organizations/28/interfaces/445e5dd7-d23f-4299-8777-9280272d015d/pages/83bf9609-eb1c-4f7c-8103-c6cc2170aeb0) | Software |  |
+| [Pismo](https://trabalheconosco.vagas.com.br/pismo) | Estratégico |  |
+| [Plano & Plano](https://trabalheconosco.vagas.com.br/planoplano) | Estratégico |  |
+| [PlayDelivery](https://trabalheconosco.vagas.com.br/playdelivery) | Estratégico |  |
 | [Pleo](https://boards.greenhouse.io/pleo) | Fintech |  |
+| [Polishop](https://trabalheconosco.vagas.com.br/polishop) | Varejo |  |
+| [Positive Brands](https://trabalheconosco.vagas.com.br/positivebrands) | Estratégico |  |
+| [Pravaler](https://trabalheconosco.vagas.com.br/pravaler) | Indústria |  |
 | [Prevent Senior](https://www.preventsenior.com.br/trabalhe-conosco) | Saúde |  |
+| [Prosegur Brasil](https://trabalheconosco.vagas.com.br/prosegurbrasil) | Estratégico |  |
 | [Protege](https://trabalheconosco.vagas.com.br/protege) | Estratégico |  |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) | Tecnologia |  |
 | [PwC Global](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers) | Consultoria |  |
@@ -729,45 +866,68 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Qatar Airways](https://careers.qatarairways.com/global/en) | Aviação |  |
 | [QI Tech](https://qitech.inhire.app) | Fintech |  |
 | [Qlik](https://www.qlik.com/us/company/careers) | Tecnologia |  |
+| [Qualicorp](https://trabalheconosco.vagas.com.br/qualicorp) | Estratégico |  |
+| [Queiroz Galvão](https://trabalheconosco.vagas.com.br/queirozgalvo) | Estratégico |  |
 | [Quinto Andar](https://job-boards.greenhouse.io/quintoandar) | Imóveis |  |
 | [QuintoAndar](https://boards.greenhouse.io/quintoandar) | Proptech |  |
 | [Rabobank](https://www.rabobank.com/careers) | Financeiro |  |
+| [Raízs](https://trabalheconosco.vagas.com.br/razs) | Estratégico |  |
+| [Rapiddo](https://trabalheconosco.vagas.com.br/rapiddo) | Estratégico |  |
 | [Rappi](https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs) | Logística/Delivery |  |
 | [Razer](https://razer.wd3.myworkdayjobs.com/Careers) | Games |  |
+| [RBS](https://trabalheconosco.vagas.com.br/rbs) | Estratégico |  |
 | [RD Station](https://boards.greenhouse.io/rdstation) | Tecnologia |  |
 | [Real Expresso](https://realexpresso.gupy.io) | Estratégico |  |
+| [Rebel](https://trabalheconosco.vagas.com.br/rebel) | Estratégico |  |
 | [RecargaPay](https://apply.workable.com/recargapay) | Tecnologia |  |
 | [Red Bull](https://jobs.redbull.com/br-pt) | Alimentos e Bebidas |  |
 | [Rede D Or](https://trabalheconosco.vagas.com.br/rede-dor-sao-luiz) | Saúde |  |
 | [Rede Dor](https://trabalheconosco.vagas.com.br/rededor) | Saúde |  |
+| [Rede DOr São Luiz](https://www.vagas.com.br/vagas-de-rededor) | Saúde |  |
 | [Remotecom](https://job-boards.greenhouse.io/remotecom) | Tecnologia |  |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) | Games |  |
 | [Rippling](https://ats.rippling.com/careers-quartile/jobs) | Tecnologia |  |
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext) | Farmacêutica |  |
 | [Rockstar Games](https://www.rockstargames.com/careers/openings) | Games |  |
+| [Romi](https://trabalheconosco.vagas.com.br/romi) | Estratégico |  |
+| [Rossi Residencial](https://trabalheconosco.vagas.com.br/rossiresidencial) | Estratégico |  |
+| [Rumo](https://trabalheconosco.vagas.com.br/rumo) | Logística |  |
 | [Ryanair](https://careers.ryanair.com/jobs) | Aviação |  |
 | [Sabesp](https://carreiras.gupy.io/sabesp) | Saneamento |  |
 | [Salesforce](https://www.salesforce.com/company/careers) | Tecnologia |  |
 | [Samsung](https://sec.wd3.myworkdayjobs.com/Samsung_Careers) | Eletrônicos |  |
+| [Saneago](https://trabalheconosco.vagas.com.br/saneago) | Saneamento |  |
+| [Sanepar](https://trabalheconosco.vagas.com.br/sanepar) | Saneamento |  |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers) | Farmacêutica |  |
 | [Santander](https://www.santander.com.br/hotsite/carreiras) | Bancário |  |
+| [Santander Brasil](https://trabalheconosco.vagas.com.br/santanderbrasil) | Estratégico |  |
+| [Santos Brasil](https://trabalheconosco.vagas.com.br/santosbrasil) | Estratégico |  |
+| [São Martinho](https://trabalheconosco.vagas.com.br/somartinho) | Estratégico |  |
 | [SAP](https://jobs.sap.com) | Tecnologia |  |
+| [Savegnago](https://trabalheconosco.vagas.com.br/savegnago) | Estratégico |  |
 | [SBT](https://carreiras.gupy.io/sbt) | Mídia |  |
+| [Schulz](https://trabalheconosco.vagas.com.br/schulz) | Estratégico |  |
 | [Sebrae](https://sebrae.com.br) | Serviços |  |
 | [Semantix](https://jobs.quickin.io/semantix/jobs) | Tecnologia |  |
 | [Senac](https://www.senac.br) | Educação |  |
 | [Senior Sistemas](https://carreiras.gupy.io/senior) | Tecnologia |  |
 | [Sensor Tower](https://jobs.lever.co/sensortower) | Tecnologia |  |
+| [Ser Educacional](https://trabalheconosco.vagas.com.br/sereducacional) | Educação |  |
 | [Serasa Experian](https://careers.smartrecruiters.com/experian) | 01 - Dados: Analytics & IA |  |
 | [Shape Digital](https://shapedigital.inhire.app/vagas) | Tecnologia |  |
 | [Shell](https://carreiras.gupy.io/shell) | Energia |  |
+| [Shipp](https://trabalheconosco.vagas.com.br/shipp) | Estratégico |  |
 | [Shopee](https://careers.shopee.com.br/jobs) | Comércio Eletrônico |  |
 | [Siemens](https://carreiras.gupy.io/siemens) | Indústria |  |
 | [Siemens Healthineers](https://carreiras.gupy.io/siemens-healthineers) | Saúde |  |
 | [Sinch](https://apply.workable.com/sinch) | Tecnologia |  |
 | [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers) | Aviação |  |
 | [Sirio-Libanes](https://www.hospitalsiriolibanes.org.br/trabalhe-conosco) | Saúde |  |
+| [Smart Fit](https://trabalheconosco.vagas.com.br/smartfit) | Estratégico |  |
+| [Smart Kitchens](https://trabalheconosco.vagas.com.br/smartkitchens) | Estratégico |  |
+| [Sode](https://trabalheconosco.vagas.com.br/sode) | Estratégico |  |
 | [Sodexo](https://sodexobeneficios.gupy.io) | Serviços |  |
+| [Sodexo (Pluxee Brasil)](https://trabalheconosco.vagas.com.br/sodexo) | Estratégico |  |
 | [Sólides](https://vagas.solides.com.br) | HR Tech |  |
 | [SONDA](https://career8.successfactors.com/career?company=SONDAP) | Tecnologia |  |
 | [Sony Global](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers) | Entretenimento |  |
@@ -776,57 +936,87 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sopra Steria](https://careers.soprasteria.co.uk/uk/en/job-search) | Estratégico |  |
 | [Sourcegraph](https://boards.greenhouse.io/sourcegraph91) | Tecnologia |  |
 | [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde |  |
+| [Speedbird Aero](https://trabalheconosco.vagas.com.br/speedbirdaero) | Estratégico |  |
 | [Spotify](https://www.lifeatspotify.com) | Mídia |  |
 | [Stellantis](https://careers.stellantis.com) | Automotivo |  |
 | [Stone](https://job-boards.greenhouse.io/stone) | Finanças/Banco & Fintech |  |
 | [Stone](https://boards.greenhouse.io/stone) | Finanças/Banco & Fintech |  |
 | [Stone](https://stone.gupy.io) | Finanças/Banco & Fintech |  |
 | [Super Nosso](https://supernosso.recrut.ai) | Varejo |  |
+| [Superdigital](https://trabalheconosco.vagas.com.br/superdigital) | Estratégico |  |
+| [Supermercados BH](https://trabalheconosco.vagas.com.br/supermercadosbh) | Varejo |  |
 | [Supportiv](https://supportiv.bamboohr.com/careers) | Saúde |  |
 | [Suzano](https://suzano.inhire.app/vagas) | Indústria |  |
+| [Swap](https://trabalheconosco.vagas.com.br/swap) | Estratégico |  |
 | [Swile](https://jobs.lever.co/swile) | Tecnologia |  |
+| [Swile Brasil](https://trabalheconosco.vagas.com.br/swilebrasil) | Estratégico |  |
 | [Sympla](https://sympla.inhire.app/vagas) | Tecnologia |  |
 | [T-Systems Brasil](https://www.t-systems.com/br/pt/carreiras) | Tecnologia |  |
 | [T4F - Time for Fun](https://t4f.vagas.solides.com.br) | Telecom |  |
 | [Taesa](https://trabalheconosco.vagas.com.br/taesa) | Estratégico |  |
 | [TakeBlip](https://job-boards.greenhouse.io/blip-global) | Tecnologia |  |
 | [Team Liquid](https://careers.teamliquid.com/#jobs) | Games |  |
+| [Telefônica Brasil (Vivo)](https://trabalheconosco.vagas.com.br/telefnicabrasil) | Telecom |  |
+| [Telhanorte](https://www.vagas.com.br/vagas-de-telhanorte) | Varejo |  |
 | [Telus Digital BR](https://telusdigital.com/careers) | Tecnologia |  |
 | [Tembici](https://carreiras.gupy.io/tembici) | Mobilidade |  |
+| [Terra Santa](https://trabalheconosco.vagas.com.br/terrasanta) | Estratégico |  |
+| [The New](https://trabalheconosco.vagas.com.br/thenew) | Estratégico |  |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) | Tecnologia |  |
+| [Ticket (Edenred Brasil)](https://trabalheconosco.vagas.com.br/ticket) | Estratégico |  |
+| [TIM Brasil](https://trabalheconosco.vagas.com.br/timbrasil) | Telecom |  |
 | [TIVIT](https://talent.gupy.io/tivit) | Tecnologia |  |
 | [Tok&Stok](https://tokstok.pandape.infojobs.com.br) | Varejo |  |
 | [Totvs](https://carreiras.gupy.io/totvs) | Tecnologia |  |
 | [Toyota](https://carreiras.gupy.io/toyota) | Automotivo |  |
 | [Toyota Brasil](https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC) | Automotivo |  |
+| [Track&Field](https://trabalheconosco.vagas.com.br/trackfield) | Estratégico |  |
 | [Tractian](https://careers.tractian.com/jobs) | Estratégico |  |
+| [Tramontina](https://trabalheconosco.vagas.com.br/tramontina) | Estratégico |  |
 | [Transperfect Gaming](https://gaming.transperfect.com/careers) | Games |  |
 | [Transport NSW](https://jobs.transport.nsw.gov.au/search) | Transporte |  |
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/TransUnion) | Financeiro |  |
+| [Traz Pra Mim](https://trabalheconosco.vagas.com.br/trazpramim) | Estratégico |  |
+| [Trigg](https://trabalheconosco.vagas.com.br/trigg) | Estratégico |  |
+| [Trisul](https://trabalheconosco.vagas.com.br/trisul) | Construção |  |
+| [Triunfo Participações](https://trabalheconosco.vagas.com.br/triunfoparticipaes) | Estratégico |  |
 | [Trybe](https://betrybe.inhire.app/vagas) | EdTech |  |
 | [Uber Brasil](https://www.uber.com/br/pt/careers) | Logística/Delivery |  |
 | [Ubisoft](https://www.ubisoft.com/en-us/company/careers) | Jogos |  |
+| [Ultrapar](https://trabalheconosco.vagas.com.br/ultrapar) | Energia/Petróleo |  |
+| [União Química](https://trabalheconosco.vagas.com.br/unioqumica) | Estratégico |  |
 | [Unico](https://unicotech.inhire.app/vagas) | ID Tech |  |
+| [Unifique](https://trabalheconosco.vagas.com.br/unifique) | Telecom |  |
 | [Unilever](https://careers.unilever.com/en/search-jobs) | Bens de Consumo |  |
 | [Unimed (Sistema Nacional)](https://trabalheconosco.vagas.com.br/unimed) | Saúde |  |
+| [Unipar Carbocloro](https://trabalheconosco.vagas.com.br/uniparcarbocloro) | Educação |  |
 | [United Airlines](https://careers.united.com) | Aviação |  |
 | [UP Brasil](https://upbrasil.pandape.infojobs.com.br) | Benefícios |  |
 | [Vagas.com](https://vagas.gupy.io) | HR Tech |  |
 | [Vale](https://carreiras.gupy.io/vale) | Indústria |  |
 | [Vale](https://vale.eightfold.ai/careers?location=Brazil) | Indústria |  |
+| [Vasta Educação](https://trabalheconosco.vagas.com.br/vastaeducao) | Educação |  |
 | [Veeva](https://veeva.com/careers) | Tecnologia |  |
 | [Veloe](https://vagas.veloe.com.br/jobs) | Soluções de Pagamento |  |
+| [Verde Campo](https://trabalheconosco.vagas.com.br/verdecampo) | Estratégico |  |
 | [Vindi](https://vindi.gupy.io) | Fintech |  |
 | [Vinta](https://vinta.inhire.app/vagas) | Tecnologia |  |
 | [Visa](https://carreiras.gupy.io/visa) | Financeiro |  |
+| [Vitru](https://trabalheconosco.vagas.com.br/vitru) | Estratégico |  |
+| [Viver](https://trabalheconosco.vagas.com.br/viver) | Estratégico |  |
+| [VLI Logística](https://trabalheconosco.vagas.com.br/vlilogstica) | Logística |  |
 | [Volkswagen](https://carreiras.gupy.io/volkswagen) | Automotivo |  |
 | [Volvo](https://www.volvogroup.com/en/careers.html) | Automotivo |  |
 | [Volvo Infor](https://career55.sapsf.eu/careers?company=volvoinfor) | Automotivo |  |
+| [Votorantim S.A.](https://trabalheconosco.vagas.com.br/votorantimsa) | Finanças/Banco & Fintech |  |
 | [VR](https://www.portalsinergyrh.com.br/Portal/MeuPortal/MeuPortal?empresa=1581&master=0#suaNovoCarreira) | Benefícios |  |
+| [VR Benefícios](https://trabalheconosco.vagas.com.br/vrbenefcios) | Estratégico |  |
 | [VTEX](https://job-boards.greenhouse.io/vtex) | Tecnologia |  |
 | [Warner Bros. Discovery](https://careers.wbd.com/hbo-jobs) | Entretenimento |  |
+| [Warren](https://trabalheconosco.vagas.com.br/warren) | Estratégico |  |
 | [Wellhub (GymPass)](https://boards.greenhouse.io/gympass) | Saúde |  |
 | [Welocalize](https://jobs.lever.co/welocalize) | Consultoria |  |
+| [Westwing](https://trabalheconosco.vagas.com.br/westwing) | Estratégico |  |
 | [WeWork](https://wework.wd1.myworkdayjobs.com/WeWork) | Espaços de Trabalho |  |
 | [WEX](https://wexinc.wd5.myworkdayjobs.com/WEXInc) | Financeiro |  |
 | [Wildlife Studios](https://job-boards.greenhouse.io/wildlifestudios) | Games |  |
@@ -834,9 +1024,12 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen) | Logística |  |
 | [will bank](https://willbank.inhire.app/vagas) | Banco |  |
 | [WillowTree](https://willowtreeapps.com/careers) | Tecnologia |  |
+| [Wiz Soluções](https://trabalheconosco.vagas.com.br/wizsolues) | Estratégico |  |
 | [Wordpress-proxy](https://wordpress-proxy.inhire.com.br) | A Classificar |  |
 | [Xometry](https://job-boards.greenhouse.io/xometry) | Tecnologia |  |
+| [XP Banco](https://trabalheconosco.vagas.com.br/xpbanco) | Finanças/Banco & Fintech |  |
 | [XP Inc](https://boards.greenhouse.io/xpinc) | Financeiro |  |
+| [Yorgus](https://trabalheconosco.vagas.com.br/yorgus) | Estratégico |  |
 | [Zaffari](https://zaffari.gupy.io) | Varejo |  |
 | [Zé Delivery](https://carreiras.gupy.io/zedelivery) | Delivery |  |
 | [Zendesk](https://www.zendesk.com.br/company/careers) | Tecnologia |  |
