@@ -3,14 +3,16 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
+from requests.adapters import HTTPAdapter
 from requests.exceptions import RequestException, SSLError, Timeout
+from urllib3.util.retry import Retry
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_TIMEOUT = 15  # Increased timeout
+DEFAULT_TIMEOUT = 10  # Reduced timeout, TCP is faster with Keep-Alive
 MAX_RETRIES = 2
-RETRY_DELAY = 1.5
-MAX_WORKERS = 15  # Slightly reduced to avoid congestion
+RETRY_DELAY = 1.0
+MAX_WORKERS = 15
 
 HEADERS = {
     "User-Agent": (
@@ -30,66 +32,75 @@ HEADERS = {
     "Sec-Fetch-User": "?1",
 }
 
-def verify_website_status(url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
+def create_shared_session():
+    """Cria uma sessão global otimizada com Keep-Alive."""
+    session = requests.Session()
+    # HTTPAdapter increases connection pool size (number of parallel Keep-Alive connections)
+    # Using a larger pool size than MAX_WORKERS prevents thread starvation
+    adapter = HTTPAdapter(pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS * 2)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    session.headers.update(HEADERS)
+    return session
+
+def _check_status(status_code):
+    return 200 <= status_code < 400 or status_code == 403 or status_code == 408
+
+def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
     """
-    Verifica se um website está acessível.
-    Tenta lidar com erros comuns como Timeouts e SSL de forma graciosa.
-    Retorna dict com status ('1' ou '0'), status_code e mensagem de erro.
+    Verifica se um website está acessível usando Head e Fallback para Get.
     """
     last_error = None
     
-    # Padronização da URL (se necessário)
     if not url.startswith("http"):
         url = "https://" + url
 
     for attempt in range(1, retries + 1):
         try:
-            response = requests.get(
+            # 1. Tentar HEAD primeiro para economizar banda (só headers)
+            response = session.head(
                 url,
                 timeout=timeout,
-                headers=HEADERS,
-                allow_redirects=True, # Seguir redirects é crucial
+                allow_redirects=True,
                 verify=True,
             )
             
-            # Checagem de sucesso
-            if 200 <= response.status_code < 400:
-                # Opcional: checar por "soft 404" ou páginas de erro customizadas
-                # Mas por enquanto, status code é o indicador primário.
+            # Alguns servidores bloqueiam HEAD (405 Method Not Allowed) ou Bot Protect
+            if _check_status(response.status_code):
                 return {"status": "1", "status_code": response.status_code, "error": None}
-            elif response.status_code == 403:
-                # 403 often means bot protection, but the site exists.
-                # Common for global carriers (ADP, Canva, Intel).
-                # If we got a 403, the server is definitely there.
-                return {"status": "1", "status_code": response.status_code, "error": "Sucesso (Bloqueio de Bot)"}
+            elif response.status_code == 405 or response.status_code == 401 or response.status_code == 501:
+                # Fallback mandatário
+                pass
             elif response.status_code == 404:
-                # Se falhou sem a barra no final, tenta com a barra (pois o clean_url remove a barra originamente)
                 if not url.endswith('/'):
                     try:
-                        resp_slash = requests.get(url + '/', timeout=timeout, headers=HEADERS, allow_redirects=True)
-                        if resp_slash.status_code < 400 or resp_slash.status_code == 403 or resp_slash.status_code == 408:
+                        resp_slash = session.head(url + '/', timeout=timeout, allow_redirects=True)
+                        if _check_status(resp_slash.status_code):
                             return {"status": "1", "status_code": resp_slash.status_code, "error": None}
                     except:
                         pass
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
-            elif response.status_code == 408:
-                return {"status": "1", "status_code": response.status_code, "error": "Sucesso (Timeout - Proteção Contra Bot)"}
+                # Se for 404, não adianta tentar GET
+                continue
+                
+            # 2. Fallback para GET se o HEAD for bloqueado explicitamente (405/Bot block bizarro)
+            response = session.get(url, timeout=timeout, allow_redirects=True, verify=True)
+            if _check_status(response.status_code):
+                return {"status": "1", "status_code": response.status_code, "error": None}
+            elif response.status_code == 404:
+                last_error = f"HTTP {response.status_code} (Não Encontrado)"
             else:
-                last_error = f"HTTP {response.status_code}"
+                 last_error = f"HTTP {response.status_code}"
 
         except SSLError:
-            # Muitos portais globais rejeitam o handshake SSL do Python (Bot Protection)
             return {"status": "1", "status_code": None, "error": "Sucesso (Bloqueio SSL / Proteção Bot)"}
-
         except Timeout:
-            # Timeouts são extremamente comuns em sites com Cloudflare/Akamai bloqueando scrapers.
             return {"status": "1", "status_code": None, "error": "Sucesso (Timeout / Proteção Bot)"}
         except RequestException as e:
             last_error = f"Erro de Conexão: {str(e)}"
         except Exception as e:
             last_error = f"Erro Desconhecido: {str(e)}"
 
-        # Espera antes de tentar novamente (backoff)
         if attempt < retries:
             time.sleep(RETRY_DELAY * attempt)
 
@@ -98,19 +109,17 @@ def verify_website_status(url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
 
 
 def verify_websites_concurrent(items, timeout=DEFAULT_TIMEOUT, max_workers=MAX_WORKERS):
-    """
-    Verifica URLs em paralelo.
-    Retorna failed_items: Lista de dicionários das empresas que falharam.
-    Cada item modificado ganha 'Status da URL' e '_error'.
-    """
+    """Verifica URLs em paralelo reutilizando conexões."""
     failed_items = []
     total = len(items)
 
-    logger.info("Iniciando verificação robusta de %d URLs...", total)
+    logger.info("Iniciando verificação robusta de %d URLs (Keep-Alive)...", total)
+    
+    # Criar uma unica sessao compartilhada por todas as threads para conexoes persistentes
+    global_session = create_shared_session()
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        # Map future -> item
-        futures = {executor.submit(verify_website_status, item["URL"], timeout): item for item in items}
+        futures = {executor.submit(verify_website_status, global_session, item["URL"], timeout): item for item in items}
         
         done_count = 0
         for future in as_completed(futures):
@@ -122,18 +131,16 @@ def verify_websites_concurrent(items, timeout=DEFAULT_TIMEOUT, max_workers=MAX_W
             except Exception as e:
                 result = {"status": "0", "status_code": None, "error": f"Exception no worker: {str(e)}"}
             
-            # Atualiza o item original
             item["Status da URL"] = result["status"]
             
             if result["status"] == "0":
                 item["_error"] = result.get("error", "Erro não especificado")
                 failed_items.append(item)
-                # Log de progresso apenas para erros para não poluir
                 logger.debug("Falha em %s: %s", item["Nome da Empresa"], item["_error"])
             else:
-                item.pop("_error", None) # Limpa erro anterior se existir
+                item.pop("_error", None)
 
-            if done_count % 20 == 0 or done_count == total:
+            if done_count % 50 == 0 or done_count == total:
                  logger.info("Progresso: %d/%d verificados...", done_count, total)
 
     return failed_items
