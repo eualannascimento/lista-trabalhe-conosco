@@ -23,6 +23,7 @@ FIELDNAMES = [
     "Segmento da Empresa",
     "Plataforma",
     "URL",
+    "Data de Publicação",
 ]
 
 logger = logging.getLogger(__name__)
@@ -68,14 +69,17 @@ def process_new_items(new_items_file, list_file_path):
     duplicates = []
 
     for item in new_items:
-        cleaned_url = clean_url(item["URL"])
+        url = item.get("URL")
+        name = item.get("Nome da Empresa")
+        
+        if not url or not name:
+            logger.warning("Pulando item inválido: %s", item)
+            continue
+            
+        cleaned_url = clean_url(url)
         if cleaned_url in existing_urls:
             duplicates.append(item)
-            logger.warning(
-                "Duplicado ignorado: %s | %s",
-                item.get("Nome da Empresa", "?"),
-                cleaned_url,
-            )
+            logger.warning("Duplicado ignorado: %s | %s", name, cleaned_url)
             continue
 
         new_row = {
@@ -121,10 +125,18 @@ def verify_urls(values):
 
 def sort_and_deduplicate(values):
     """
-    Ordena itens alfabeticamente por nome da empresa e remove duplicatas de URL.
+    Ordena itens primeiro por 'Data de Publicação' (descendente), 
+    depois alfabeticamente por nome da empresa, e remove duplicatas de URL.
     Retorna (itens_unicos, itens_duplicados).
     """
-    sorted_values = sorted(values, key=lambda x: unidecode(x["Nome da Empresa"].lower()))
+    def sort_key(x):
+        date_str = x.get("Data de Publicação", "")
+        # Empty dates go to the bottom. For descending order, we invert the date comparison by using an empty string for missing
+        date_sort = date_str if date_str else "0000-00-00"
+        name_sort = unidecode(x["Nome da Empresa"].lower())
+        return (-float(date_sort.replace('-', '')), name_sort)
+
+    sorted_values = sorted(values, key=sort_key)
 
     unique = []
     seen_urls = set()
