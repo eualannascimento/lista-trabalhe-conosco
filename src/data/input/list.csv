@@ -193,7 +193,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,BHS,Tecnologia,Gupy,https://bhs.gupy.io,2026-01-20
 1,2025-01-20,Gupy Tech,HRTech,Gupy,https://tech-career.gupy.io,2026-01-20
 1,2026-02-19,Helbor,Estratégico,Gupy,https://helbor.gupy.io,2026-01-20
-1,2023-02-26,Livelo,Recompensas,Gupy,https://livelo.gupy.io,2026-01-20
+0,2023-02-26,Livelo,Recompensas,Gupy,https://livelo.gupy.io,2026-01-20
 1,2023-09-18,Swift,Alimentos e Bebidas,Gupy,https://swift.gupy.io,2026-01-20
 1,2024-09-01,webedia,Estratégico,Gupy,https://webedia.gupy.io,2026-01-20
 1,2026-02-19,Equatorial Energia,Energia,Gupy,https://equatorialenergia.gupy.io,2026-01-19
@@ -381,7 +381,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,AstraZeneca,Farmacêutica,Workday,https://astrazeneca.wd3.myworkdayjobs.com/Careers,
 1,2026-02-19,Asus,Tecnologia,Site da Empresa,https://www.asus.com/about-asus/careers,
 1,2026-02-19,Atlassian,Estratégico,Site da Empresa,https://www.atlassian.com/company/careers,
-1,2026-02-19,Autodesk,Tecnologia,Manual,https://www.autodesk.com/careers,
+0,2026-02-19,Autodesk,Tecnologia,Manual,https://www.autodesk.com/careers,
 1,2025-01-20,Avanade,Tecnologia,Plataforma Interna,https://www.avanade.com/pt-br/career/search-jobs,
 1,2026-02-19,Azos,Fintech,InHire,https://azos.inhire.app/vagas,
 1,2025-03-18,Aztec,Tecnologia,Greenhouse,https://job-boards.eu.greenhouse.io/aztec,
@@ -397,7 +397,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Banco da Amazônia,Finanças/Banco & Fintech,Vagas,https://www.bancoamazonia.com.br/index.php/o-banco/concursos-e-empregados,
 1,2026-02-19,Banco de Brasília (BRB),Finanças/Banco & Fintech,Vagas,https://www.brb.com.br/concursos-e-processos-seletivos,
 1,2026-02-19,Banco do Brasil,Finanças/Banco & Fintech,Vagas,https://www.bb.com.br/pbb/pagina-inicial/sobre-nos/carreiras-no-bb,
-0,2026-02-19,Banco do Nordeste,Finanças/Banco & Fintech,Vagas,https://www.bnb.gov.br/concursos-e-selecoes,
+1,2026-02-19,Banco do Nordeste,Finanças/Banco & Fintech,Vagas,https://www.bnb.gov.br/concursos-e-selecoes,
 0,2026-02-19,Banco Inbursa,Finanças/Banco & Fintech,Vagas,https://www.inbursa.com/BolsadeTrabajo,
 1,2026-02-19,Banco Inter,Finanças/Banco & Fintech,Gupy,https://carreiras.gupy.io/bancointer,
 0,2026-02-19,Banco Mercantil do Brasil,Finanças/Banco & Fintech,Vagas,https://bancomercantil.gupy.io,
@@ -412,7 +412,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Banco Votorantim (banco BV),Finanças/Banco & Fintech,Vagas,https://bv.gupy.io,
 1,2026-02-19,Band,Comunicação,Recrut.ai,https://band.jobs.recrut.ai/#openings,
 1,2026-02-19,Bandai Namco,Jogos,Site da Empresa,https://www.bandainamcoent.com/careers,
-0,2026-02-19,Banestes,Finanças/Banco & Fintech,Vagas,https://www.banestes.com.br/trabalhe-conosco,
+1,2026-02-19,Banestes,Finanças/Banco & Fintech,Vagas,https://www.banestes.com.br/trabalhe-conosco,
 1,2026-02-19,Banrisul,Finanças/Banco & Fintech,Vagas,https://www.banrisul.com.br/concursos,
 1,2025-01-23,BASF,Química,SuccessFactors,https://career5.successfactors.eu/career?company=C0000159936P,
 1,2024-11-22,Bayer,Farmacêutica,Eightfold,https://bayer.eightfold.ai/careers,
@@ -706,7 +706,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Lojas Cem,Varejo,Vagas,https://www.lojascem.com.br/trabalhe-conosco,
 1,2026-02-19,Lojas Quero-Quero,Varejo,Vagas,https://www.queroquero.com.br/trabalhe-conosco,
 1,2026-02-19,Lufthansa,Aviação,Site da Empresa,https://www.lufthansagroup.careers,
-1,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco,
+0,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco,
 1,2026-02-19,MadeiraMadeira,E-commerce,Gupy,https://carreiras.gupy.io/madeiramadeira,
 1,2026-02-19,Madero,Alimentação,Gupy,https://carreiras.gupy.io/madero,
 1,2026-02-19,Magalu,Varejo,InHire,https://magazineluiza.inhire.app,
@@ -747,7 +747,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Mottu,Estratégico,Vagas,https://mottu.inhire.app,
 0,2026-02-19,Moura Dubeux,Construção,Vagas,https://mouradubeux.gupy.io,
 0,2026-02-19,MRS Logística,Logística,Vagas,https://www.mrs.com.br/trabalhe-conosco,
-1,2026-02-19,MRV,Construção,Manual,https://www.mrv.com.br/trabalhe-conosco,
+0,2026-02-19,MRV,Construção,Manual,https://www.mrv.com.br/trabalhe-conosco,
 0,2026-02-19,Multiplan,Estratégico,Vagas,https://multiplan.gupy.io,
 1,2025-03-18,Nadara,Tecnologia,Workday,https://nadara.wd3.myworkdayjobs.com/External,
 1,2023-02-26,Natura&CO (Avon + The Body Shop),Cosméticos,Workday,https://avon.wd5.myworkdayjobs.com/NaturaCarreiras,
