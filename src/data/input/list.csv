@@ -1,5 +1,6 @@
 Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data de Publicação
 1,2026-02-19,Mart Minas,Estratégico,Vagas,https://martminas.com.br/trabalhe-conosco,2910-09-23
+1,2026-02-20,Hospital IGESP,Saúde,Vagas,https://www.vagas.com.br/vagas-de-igesp,2026-03-16
 1,2026-02-19,Sanepar,Saneamento,Vagas,https://site.sanepar.com.br/trabalhe-com-a-gente,2026-03-08
 1,2026-02-22,77sol,A Classificar,Gupy,https://77sol.gupy.io,2026-02-20
 1,2026-02-20,Alloha Fibra,Telecom,Gupy,https://allohafibra.gupy.io,2026-02-20
@@ -174,7 +175,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Aché,Farmacêutica,Gupy,https://vagasache.gupy.io,2026-01-26
 1,2026-02-20,Casa e Video Varejo,Varejo,Gupy,https://casaevideo.gupy.io,2026-01-26
 1,2026-02-20,PremieRpet,Alimentos,Gupy,https://premierpet.gupy.io,2026-01-26
-1,2026-02-19,AgroGalaxy,Agronegócio,Gupy,https://agrogalaxy.gupy.io,2026-01-23
+0,2026-02-19,AgroGalaxy,Agronegócio,Gupy,https://agrogalaxy.gupy.io,2026-01-23
 1,2025-03-18,Asaas,Fintech,Gupy,https://asaas.gupy.io,2026-01-23
 1,2026-02-19,EZTEC,Construção,Gupy,https://eztec.gupy.io,2026-01-23
 1,2026-02-20,Hospital Moinhos de Vento,Saúde,Gupy,https://hospitalmoinhos.gupy.io,2026-01-23
@@ -216,7 +217,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-22,Granado,Cosméticos,Gupy,https://granado.gupy.io,2026-01-13
 1,2026-02-20,Taco,Moda,Gupy,https://taco.gupy.io,2026-01-13
 1,2026-02-19,Webmotors,Automotivo,Gupy,https://webmotors.gupy.io,2026-01-13
-1,2026-02-19,Ambipar,Estratégico,Gupy,https://ambipar.gupy.io,2026-01-12
+0,2026-02-19,Ambipar,Estratégico,Gupy,https://ambipar.gupy.io,2026-01-12
 1,2026-02-19,Mitre Realty,Construção,Gupy,https://mitrerealty.gupy.io,2026-01-12
 1,2026-02-19,Vibra Energia,Energia/Petróleo,Gupy,https://vibraenergia.gupy.io,2026-01-12
 1,2026-02-19,Alupar,Estratégico,Gupy,https://alupar.gupy.io,2026-01-09
@@ -623,7 +624,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Hinode,Estratégico,Vagas,https://hinode.gupy.io,
 1,2026-02-19,Hootsuite,Tecnologia,Manual,https://careers.hootsuite.com,
 1,2026-02-19,Hopper,Turismo,Site da Empresa,https://www.hopper.com/careers,
-1,2026-02-20,Hospital IGESP,Saúde,Vagas,https://www.vagas.com.br/vagas-de-igesp,
 1,2025-01-19,Hospital Sírio-Libanês,Saúde,SAP SuccessFactors,https://career19.sapsf.com/careers?company=sociedad02,
 1,2023-02-26,Hotmart,Tecnologia,Greenhouse,https://boards.eu.greenhouse.io/hotmartcareersbr,
 1,2026-02-19,HubSpot,Tecnologia,Site da Empresa,https://www.hubspot.com/careers,
@@ -692,7 +692,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,LinkedIn,Tecnologia,Site da Empresa,https://careers.linkedin.com,
 1,2026-02-20,LinkedIn Brasil,Redes Sociais,Gupy,https://linkedin.gupy.io,
 1,2026-02-19,Linx,Tecnologia,Gupy,https://carreiras.gupy.io/linx,
-1,2026-02-20,Linx,Varejo Tech,Greenhouse,https://boards.greenhouse.io/linx,
+0,2026-02-20,Linx,Varejo Tech,Greenhouse,https://boards.greenhouse.io/linx,
 0,2026-02-19,Liv Up,Estratégico,Vagas,https://livup.gupy.io,
 1,2025-03-22,Live Nation,Entretenimento,Workday,https://www.livenationentertainment.com/careers,
 0,2026-02-19,Local Frio,Estratégico,Vagas,https://localfrio.gupy.io,
@@ -917,7 +917,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Ticket (Edenred Brasil),Estratégico,Vagas,https://edenred.gupy.io,
 0,2026-02-19,TIM Brasil,Telecom,Vagas,https://tim.gupy.io,
 1,2023-02-26,TIVIT,Tecnologia,Gupy,https://talent.gupy.io/tivit,
-0,2026-02-20,Tok&Stok,Varejo,InfoJobs,https://tokstok.pandape.infojobs.com.br,
+1,2026-02-20,Tok&Stok,Varejo,InfoJobs,https://tokstok.pandape.infojobs.com.br,
 1,2026-02-19,Totvs,Tecnologia,Gupy,https://carreiras.gupy.io/totvs,
 1,2026-02-19,Toyota,Automotivo,Gupy,https://carreiras.gupy.io/toyota,
 1,2025-12-26,Toyota Brasil,Automotivo,Workday,https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC,
