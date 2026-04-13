@@ -1,5 +1,7 @@
 Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data de Publicação
 1,2026-02-19,Mart Minas,Estratégico,Vagas,https://martminas.com.br/trabalhe-conosco,2910-09-23
+1,2026-02-20,SPDM Hospital São Paulo,Saúde,Gupy,https://spdm.gupy.io,2026-04-07
+1,2026-02-20,LinkedIn Brasil,Redes Sociais,Gupy,https://linkedin.gupy.io,2026-04-06
 1,2026-02-20,Hospital IGESP,Saúde,Vagas,https://www.vagas.com.br/vagas-de-igesp,2026-03-16
 1,2026-02-19,Sanepar,Saneamento,Vagas,https://site.sanepar.com.br/trabalhe-com-a-gente,2026-03-08
 1,2026-02-22,77sol,A Classificar,Gupy,https://77sol.gupy.io,2026-02-20
@@ -92,7 +94,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Spani Atacadista Var,Varejo,Gupy,https://spani.gupy.io,2026-02-10
 1,2026-02-19,Grupo Boticário,Cosméticos,Gupy,https://grupoboticario.gupy.io,2026-02-09
 1,2026-02-20,Henry Schein Brasil,Saúde,Gupy,https://henryschein.gupy.io,2026-02-09
-1,2026-02-20,Multilog,Logística,Gupy,https://multilog.gupy.io,2026-02-09
+0,2026-02-20,Multilog,Logística,Gupy,https://multilog.gupy.io,2026-02-09
 1,2026-02-20,Santa Casa da Bahia,Saúde,Gupy,https://santacasaba.gupy.io,2026-02-09
 1,2026-02-19,Stefanini,Tecnologia,Gupy,https://stefanini.gupy.io,2026-02-09
 1,2026-02-19,Tigre,Estratégico,Gupy,https://tigre.gupy.io,2026-02-09
@@ -251,7 +253,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,RTE Rodonaves,Logística,Gupy,https://rodonaves.gupy.io,2025-12-11
 1,2025-03-22,Cogna,Educação,Gupy,https://cogna.gupy.io,2025-12-10
 1,2025-01-20,Ipiranga,Energia/Petróleo,Gupy,https://ipiranga.gupy.io,2025-12-09
-1,2026-02-20,Pottencial Seguradora,Finanças/Seguros,Gupy,https://pottencial.gupy.io,2025-12-09
+0,2026-02-20,Pottencial Seguradora,Finanças/Seguros,Gupy,https://pottencial.gupy.io,2025-12-09
 1,2026-02-19,Yduqs,Educação,Gupy,https://yduqs.gupy.io,2025-12-08
 1,2026-02-19,Porto,Seguros,Gupy,https://porto.gupy.io,2025-11-28
 1,2026-02-19,Andrade Gutierrez,Infraestrutura,Gupy,https://andradegutierrez.gupy.io,2025-11-27
@@ -311,7 +313,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Coca-Cola Femsa,Alimentos e Bebidas,Vagas,https://femsa.gupy.io,2023-11-11
 1,2026-02-19,Condor Super Center,Varejo,Vagas,https://condor.gupy.io,2023-11-11
 1,2026-02-19,Fras-le,Indústria,Vagas,https://randoncorp.gupy.io,2023-11-11
-1,2026-02-19,Geru,Finanças/Banco & Fintech,Vagas,https://open-co.gupy.io,2023-11-11
+0,2026-02-19,Geru,Finanças/Banco & Fintech,Vagas,https://open-co.gupy.io,2023-11-11
 1,2026-02-19,Hidrovias do Brasil,Estratégico,Vagas,https://hidrovias.gupy.io,2023-11-11
 1,2026-02-19,Log Commercial Properties,Estratégico,Vagas,https://log.gupy.io,2023-11-11
 1,2026-02-19,O Estado de S. Paulo,Estratégico,Vagas,https://estadao.gupy.io,2023-11-11
@@ -472,7 +474,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,CD Projekt Red,Jogos,Site da Empresa,https://www.cdprojektred.com/en/jobs,
 0,2026-02-19,Ceg (Naturgy),Estratégico,Vagas,https://www.naturgy.com.br/trabalhe-conosco,
 1,2026-02-19,Celcoin,Fintech,InHire,https://celcoin.inhire.app/vagas,
-0,2026-02-19,Celesc,Energia,Vagas,https://www.celesc.com.br/trabalhe-na-celesc,
+1,2026-02-19,Celesc,Energia,Vagas,https://www.celesc.com.br/trabalhe-na-celesc,
 1,2026-02-19,Cemig,Energia,Vagas,https://www.cemig.com.br/carreiras,
 0,2026-02-19,Cheftime,Alimentos e Bebidas,Vagas,https://cheftime.gupy.io,
 1,2024-11-22,CI&T,Tecnologia,Lever,https://jobs.lever.co/ciandt,
@@ -500,7 +502,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,CPFL Energia,Energia,Vagas,https://cpflenergia.gupy.io,
 1,2026-02-19,CrowdStrike,Cibersegurança,Workday,https://www.crowdstrike.com/careers,
 0,2026-02-19,Daki,Logística/Delivery,Vagas,https://daki.gupy.io,
-1,2025-01-23,Danone,Alimentos e Bebidas,iCIMS,https://ptapply-danone.icims.com/jobs/search,
+0,2025-01-23,Danone,Alimentos e Bebidas,iCIMS,https://ptapply-danone.icims.com/jobs/search,
 1,2026-02-19,Dasa,Saúde,Gupy,https://carreiras.gupy.io/dasa,
 1,2025-01-19,Databricks,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/databricks,
 1,2025-01-26,DataDog,Tecnologia,Plataforma Interna,https://careers.datadoghq.com/all-jobs,
@@ -512,7 +514,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Descomplica,EdTech,Gupy,https://carreiras.gupy.io/descomplica,
 1,2026-02-19,Desinchá,Estratégico,Vagas,https://desincha.com.br/pages/trabalhe-conosco,
 0,2026-02-19,Desktop,Telecom,Vagas,https://desktop.gupy.io,
-1,2023-02-26,DiDi (99),Logística/Delivery,Plataforma Interna,https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479,
+0,2023-02-26,DiDi (99),Logística/Delivery,Plataforma Interna,https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479,
 0,2026-02-19,Diferente,Estratégico,Vagas,https://diferente.com.br/trabalhe-conosco,
 0,2025-03-18,Digibee,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/digibeeinc,
 0,2026-02-19,Direcional,Construção,Vagas,https://direcional.gupy.io,
@@ -591,7 +593,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Gigster,Tecnologia,Teamtailor,https://virtasant.teamtailor.com,
 0,2026-02-19,Giross,Logística/Delivery,Vagas,https://giross.gupy.io,
 1,2026-02-19,GitHub,Tecnologia,Site da Empresa,https://github.com/about/careers,
-1,2025-03-18,GitHub Inc,Tecnologia,iCIMS,https://globalcareers-githubinc.icims.com/jobs,
+0,2025-03-18,GitHub Inc,Tecnologia,iCIMS,https://globalcareers-githubinc.icims.com/jobs,
 1,2025-01-23,GM Financial,Estratégico,Workday,https://careers.gmfinancial.com/jobs,
 1,2025-01-23,Google,Tecnologia,Plataforma Interna,https://www.google.com/about/careers/applications/jobs/results,
 1,2026-02-19,GoPro,Tecnologia,Greenhouse,https://gopro.com/en/us/careers,
@@ -628,7 +630,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2023-02-26,Hotmart,Tecnologia,Greenhouse,https://boards.eu.greenhouse.io/hotmartcareersbr,
 1,2026-02-19,HubSpot,Tecnologia,Site da Empresa,https://www.hubspot.com/careers,
 1,2026-02-19,Hyatt,Hospitalidade,Site da Empresa,https://careers.hyatt.com,
-1,2025-03-18,Hyland,Tecnologia,iCIMS,https://careers-hyland.icims.com/jobs/search?ss=1&hashed=-435679902,
+0,2025-03-18,Hyland,Tecnologia,iCIMS,https://careers-hyland.icims.com/jobs/search?ss=1&hashed=-435679902,
 1,2026-02-19,IBM,Tecnologia,Brasio,https://www.ibm.com/br-pt/careers,
 0,2026-02-19,Icatu Seguros,Finanças/Seguros,Vagas,https://icatuseguros.gupy.io,
 1,2025-01-23,ICIMS,Tecnologia,Plataforma Interna,https://careers.icims.com/careers-home/jobs,
@@ -690,7 +692,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Librelato,Estratégico,Vagas,https://www.librelato.com.br/trabalhe-conosco,
 1,2026-02-19,Light,Energia,Vagas,https://www.light.com.br/grupo-light/Trabalhe-na-Light/default.aspx,
 1,2026-02-19,LinkedIn,Tecnologia,Site da Empresa,https://careers.linkedin.com,
-1,2026-02-20,LinkedIn Brasil,Redes Sociais,Gupy,https://linkedin.gupy.io,
 1,2026-02-19,Linx,Tecnologia,Gupy,https://carreiras.gupy.io/linx,
 0,2026-02-20,Linx,Varejo Tech,Greenhouse,https://boards.greenhouse.io/linx,
 0,2026-02-19,Liv Up,Estratégico,Vagas,https://livup.gupy.io,
@@ -887,7 +888,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-19,Sony Music,Entretenimento,Gupy,https://boards.greenhouse.io/sonymusicentertainment,
 1,2025-01-23,Sopra Steria,Estratégico,Plataforma Interna,https://careers.soprasteria.co.uk/uk/en/job-search,
 1,2025-01-19,Sourcegraph,Tecnologia,Greenhouse,https://boards.greenhouse.io/sourcegraph91,
-1,2026-02-20,SPDM Hospital São Paulo,Saúde,Gupy,https://spdm.gupy.io,
 0,2026-02-19,Speedbird Aero,Estratégico,Vagas,https://speedbird.gupy.io,
 1,2026-02-19,Spotify,Mídia,Site da Empresa,https://www.lifeatspotify.com,
 1,2026-02-19,Stellantis,Automotivo,SuccessFactors,https://careers.stellantis.com,
@@ -963,7 +963,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,Warner Bros. Discovery,Entretenimento,Plataforma Interna,https://careers.wbd.com/hbo-jobs,
 0,2026-02-19,Warren,Estratégico,Vagas,https://warren.gupy.io,
 1,2025-01-19,Wellhub (GymPass),Saúde,Greenhouse,https://boards.greenhouse.io/gympass,
-1,2025-03-18,Welocalize,Consultoria,Lever,https://jobs.lever.co/welocalize,
+0,2025-03-18,Welocalize,Consultoria,Lever,https://jobs.lever.co/welocalize,
 0,2026-02-19,Westwing,Estratégico,Vagas,https://westwing.gupy.io,
 1,2025-01-19,WeWork,Espaços de Trabalho,Workday,https://wework.wd1.myworkdayjobs.com/WeWork,
 1,2025-03-18,WEX,Financeiro,Workday,https://wexinc.wd5.myworkdayjobs.com/WEXInc,

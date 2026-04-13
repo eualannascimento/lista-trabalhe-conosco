@@ -32,6 +32,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
 | [Mart Minas](https://martminas.com.br/trabalhe-conosco) | Estratégico | 2910-09-23 |
+| [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde | 2026-04-07 |
+| [LinkedIn Brasil](https://linkedin.gupy.io) | Redes Sociais | 2026-04-06 |
 | [Hospital IGESP](https://www.vagas.com.br/vagas-de-igesp) | Saúde | 2026-03-16 |
 | [Sanepar](https://site.sanepar.com.br/trabalhe-com-a-gente) | Saneamento | 2026-03-08 |
 | [77sol](https://77sol.gupy.io) | A Classificar | 2026-02-20 |
@@ -722,7 +724,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Librelato](https://www.librelato.com.br/trabalhe-conosco) | Estratégico |  |
 | [Light](https://www.light.com.br/grupo-light/Trabalhe-na-Light/default.aspx) | Energia |  |
 | [LinkedIn](https://careers.linkedin.com) | Tecnologia |  |
-| [LinkedIn Brasil](https://linkedin.gupy.io) | Redes Sociais |  |
 | [Linx](https://carreiras.gupy.io/linx) | Tecnologia |  |
 | [Linx](https://boards.greenhouse.io/linx) | Varejo Tech |  |
 | [Liv Up](https://livup.gupy.io) | Estratégico |  |
@@ -919,7 +920,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Sony Music](https://boards.greenhouse.io/sonymusicentertainment) | Entretenimento |  |
 | [Sopra Steria](https://careers.soprasteria.co.uk/uk/en/job-search) | Estratégico |  |
 | [Sourcegraph](https://boards.greenhouse.io/sourcegraph91) | Tecnologia |  |
-| [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde |  |
 | [Speedbird Aero](https://speedbird.gupy.io) | Estratégico |  |
 | [Spotify](https://www.lifeatspotify.com) | Mídia |  |
 | [Stellantis](https://careers.stellantis.com) | Automotivo |  |
