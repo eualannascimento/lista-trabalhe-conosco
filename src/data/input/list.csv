@@ -318,6 +318,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Log Commercial Properties,Estratégico,Vagas,https://log.gupy.io,2023-11-11
 1,2026-02-19,O Estado de S. Paulo,Estratégico,Vagas,https://estadao.gupy.io,2023-11-11
 1,2026-02-19,RBS,Estratégico,Vagas,https://gruporbs.gupy.io,2023-11-11
+1,2026-02-19,Rede D Or,Saúde,Vagas,https://rededor.gupy.io,2023-11-11
 1,2026-02-19,Telefônica Brasil (Vivo),Telecom,Vagas,https://vivo.gupy.io,2023-11-11
 1,2026-02-19,Track&Field,Estratégico,Vagas,https://tfcarreira.gupy.io,2023-11-11
 1,2026-02-19,Unifique,Telecom,Vagas,https://vemserunifique.gupy.io,2023-11-11
@@ -836,7 +837,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Rebel,Estratégico,Vagas,https://rebel.gupy.io,
 1,2023-02-26,RecargaPay,Tecnologia,Workable,https://apply.workable.com/recargapay,
 1,2025-01-19,Red Bull,Alimentos e Bebidas,Plataforma Interna,https://jobs.redbull.com/br-pt,
-0,2026-02-19,Rede D Or,Saúde,Vagas,https://rededor.gupy.io,
 1,2026-02-20,Rede DOr São Luiz,Saúde,Vagas,https://www.vagas.com.br/vagas-de-rededor,
 1,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom,
 1,2024-09-01,Riot Games,Games,Plataforma Interna,https://www.riotgames.com/pt-br/trabalhe-conosco#job-list,
@@ -916,7 +916,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-23,ThoughtWorks,Tecnologia,Plataforma Interna,https://www.thoughtworks.com/careers/jobs,
 0,2026-02-19,Ticket (Edenred Brasil),Estratégico,Vagas,https://edenred.gupy.io,
 0,2026-02-19,TIM Brasil,Telecom,Vagas,https://tim.gupy.io,
-1,2023-02-26,TIVIT,Tecnologia,Gupy,https://talent.gupy.io/tivit,
+0,2023-02-26,TIVIT,Tecnologia,Gupy,https://talent.gupy.io/tivit,
 1,2026-02-20,Tok&Stok,Varejo,InfoJobs,https://tokstok.pandape.infojobs.com.br,
 1,2026-02-19,Totvs,Tecnologia,Gupy,https://carreiras.gupy.io/totvs,
 1,2026-02-19,Toyota,Automotivo,Gupy,https://carreiras.gupy.io/toyota,

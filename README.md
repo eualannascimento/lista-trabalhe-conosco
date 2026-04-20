@@ -350,6 +350,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Log Commercial Properties](https://log.gupy.io) | Estratégico | 2023-11-11 |
 | [O Estado de S. Paulo](https://estadao.gupy.io) | Estratégico | 2023-11-11 |
 | [RBS](https://gruporbs.gupy.io) | Estratégico | 2023-11-11 |
+| [Rede D Or](https://rededor.gupy.io) | Saúde | 2023-11-11 |
 | [Telefônica Brasil (Vivo)](https://vivo.gupy.io) | Telecom | 2023-11-11 |
 | [Track&Field](https://tfcarreira.gupy.io) | Estratégico | 2023-11-11 |
 | [Unifique](https://vemserunifique.gupy.io) | Telecom | 2023-11-11 |
@@ -868,7 +869,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Rebel](https://rebel.gupy.io) | Estratégico |  |
 | [RecargaPay](https://apply.workable.com/recargapay) | Tecnologia |  |
 | [Red Bull](https://jobs.redbull.com/br-pt) | Alimentos e Bebidas |  |
-| [Rede D Or](https://rededor.gupy.io) | Saúde |  |
 | [Rede DOr São Luiz](https://www.vagas.com.br/vagas-de-rededor) | Saúde |  |
 | [Remotecom](https://job-boards.greenhouse.io/remotecom) | Tecnologia |  |
 | [Riot Games](https://www.riotgames.com/pt-br/trabalhe-conosco#job-list) | Games |  |
