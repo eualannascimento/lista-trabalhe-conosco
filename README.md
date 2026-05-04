@@ -32,6 +32,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
 | [Mart Minas](https://martminas.com.br/trabalhe-conosco) | Estratégico | 2910-09-23 |
+| [Vindi](https://vindi.gupy.io) | Fintech | 2026-05-03 |
+| [Arteris](https://arteris.gupy.io) | Infraestrutura | 2026-04-17 |
 | [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde | 2026-04-07 |
 | [LinkedIn Brasil](https://linkedin.gupy.io) | Redes Sociais | 2026-04-06 |
 | [Hospital IGESP](https://www.vagas.com.br/vagas-de-igesp) | Saúde | 2026-03-16 |
@@ -413,7 +415,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Arco Educação](https://boards.greenhouse.io/arcoeducacao) | Educação |  |
 | [Arcos Dorados (McDonald s)](https://trabalheconosconamc.infojobs.com.br) | Alimentação |  |
 | [Arezzo&Co](https://azzas2154.gupy.io) | Varejo |  |
-| [Arteris](https://arteris.gupy.io) | Infraestrutura |  |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) | Farmacêutica |  |
 | [Asus](https://www.asus.com/about-asus/careers) | Tecnologia |  |
 | [Atlassian](https://www.atlassian.com/company/careers) | Estratégico |  |
@@ -979,7 +980,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Veeva](https://veeva.com/careers) | Tecnologia |  |
 | [Veloe](https://vagas.veloe.com.br/jobs) | Soluções de Pagamento |  |
 | [Verde Campo](https://verdecampo.gupy.io) | Estratégico |  |
-| [Vindi](https://vindi.gupy.io) | Fintech |  |
 | [Vinta](https://vinta.inhire.app/vagas) | Tecnologia |  |
 | [Visa](https://carreiras.gupy.io/visa) | Financeiro |  |
 | [Vitru](https://vitru.gupy.io) | Estratégico |  |

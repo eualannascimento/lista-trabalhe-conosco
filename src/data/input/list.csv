@@ -1,5 +1,7 @@
 Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data de Publicação
 1,2026-02-19,Mart Minas,Estratégico,Vagas,https://martminas.com.br/trabalhe-conosco,2910-09-23
+1,2026-02-19,Vindi,Fintech,Gupy,https://vindi.gupy.io,2026-05-03
+1,2026-02-19,Arteris,Infraestrutura,Gupy,https://arteris.gupy.io,2026-04-17
 1,2026-02-20,SPDM Hospital São Paulo,Saúde,Gupy,https://spdm.gupy.io,2026-04-07
 1,2026-02-20,LinkedIn Brasil,Redes Sociais,Gupy,https://linkedin.gupy.io,2026-04-06
 1,2026-02-20,Hospital IGESP,Saúde,Vagas,https://www.vagas.com.br/vagas-de-igesp,2026-03-16
@@ -381,7 +383,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Arco Educação,Educação,Greenhouse,https://boards.greenhouse.io/arcoeducacao,
 1,2026-02-19,Arcos Dorados (McDonald s),Alimentação,Infojobs,https://trabalheconosconamc.infojobs.com.br,
 1,2026-02-19,Arezzo&Co,Varejo,Gupy,https://azzas2154.gupy.io,
-1,2026-02-19,Arteris,Infraestrutura,Gupy,https://arteris.gupy.io,
 1,2025-01-19,AstraZeneca,Farmacêutica,Workday,https://astrazeneca.wd3.myworkdayjobs.com/Careers,
 1,2026-02-19,Asus,Tecnologia,Site da Empresa,https://www.asus.com/about-asus/careers,
 1,2026-02-19,Atlassian,Estratégico,Site da Empresa,https://www.atlassian.com/company/careers,
@@ -412,7 +413,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-12-26,Banco Pine,Finanças/Banco & Fintech,InHire,https://bancopine.inhire.app/vagas,
 0,2026-02-19,Banco Rendimento,Finanças/Banco & Fintech,Vagas,https://rendimento.gupy.io,
 0,2026-02-19,Banco Safra,Finanças/Banco & Fintech,Vagas,https://safra.gupy.io,
-1,2026-02-19,Banco Semear,Finanças/Banco & Fintech,Vagas,https://www.bancosemear.com.br/trabalhe-conosco,
+0,2026-02-19,Banco Semear,Finanças/Banco & Fintech,Vagas,https://www.bancosemear.com.br/trabalhe-conosco,
 0,2026-02-19,Banco Votorantim (banco BV),Finanças/Banco & Fintech,Vagas,https://bv.gupy.io,
 1,2026-02-19,Band,Comunicação,Recrut.ai,https://band.jobs.recrut.ai/#openings,
 1,2026-02-19,Bandai Namco,Jogos,Site da Empresa,https://www.bandainamcoent.com/careers,
@@ -431,7 +432,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Blau Farmacêutica,Farmacêutica,Vagas,https://blau.com.br/carreiras,
 1,2026-02-19,Blip,Tecnologia,Gupy,https://carreiras.gupy.io/blip,
 0,2025-01-19,Blizzard,Entretenimento,Workday,https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers,
-1,2025-01-19,BNY Mellon,Financeiro,Eightfold,https://bnymellon.eightfold.ai/careers,
+0,2025-01-19,BNY Mellon,Financeiro,Eightfold,https://bnymellon.eightfold.ai/careers,
 0,2026-02-19,Bold Snacks,Alimentos e Bebidas,Vagas,https://bold.net/trabalhe-conosco,
 1,2025-03-22,BoldMetrics,Alimentos e Bebidas,Manual,https://boldmetrics.com/careers,
 0,2026-02-19,Bom pra Crédito,Estratégico,Vagas,https://bompracredito.gupy.io,
@@ -464,7 +465,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Camargo Corrêa,Construção,Vagas,https://camargocorrea.gupy.io,
 1,2026-02-19,Camil,Alimentos,Vagas,https://camilalimentos.com.br/carreiras,
 1,2025-01-23,Camil Alimentos,Alimentos e Bebidas,Sênior,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list,
-1,2026-02-19,Canva,Tecnologia,Site da Empresa,https://www.canva.com/careers,
+0,2026-02-19,Canva,Tecnologia,Site da Empresa,https://www.canva.com/careers,
 1,2025-01-20,Capco,Consultoria,Greenhouse,https://boards.greenhouse.io/capco,
 0,2026-02-19,Capgemini,Consultoria,Vagas,https://www.capgemini.com/br-pt/carreiras,
 1,2026-02-19,Cargill,Agronegócio,Site da Empresa,https://careers.cargill.com/en/search-jobs,
@@ -475,7 +476,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,CD Projekt Red,Jogos,Site da Empresa,https://www.cdprojektred.com/en/jobs,
 0,2026-02-19,Ceg (Naturgy),Estratégico,Vagas,https://www.naturgy.com.br/trabalhe-conosco,
 1,2026-02-19,Celcoin,Fintech,InHire,https://celcoin.inhire.app/vagas,
-1,2026-02-19,Celesc,Energia,Vagas,https://www.celesc.com.br/trabalhe-na-celesc,
+0,2026-02-19,Celesc,Energia,Vagas,https://www.celesc.com.br/trabalhe-na-celesc,
 1,2026-02-19,Cemig,Energia,Vagas,https://www.cemig.com.br/carreiras,
 0,2026-02-19,Cheftime,Alimentos e Bebidas,Vagas,https://cheftime.gupy.io,
 1,2024-11-22,CI&T,Tecnologia,Lever,https://jobs.lever.co/ciandt,
@@ -864,7 +865,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Semantix,Tecnologia,Quickin,https://jobs.quickin.io/semantix/jobs,
 1,2026-02-19,Senac,Educação,Manual,https://www.senac.br,
 1,2026-02-19,Senior Sistemas,Tecnologia,Gupy,https://carreiras.gupy.io/senior,
-1,2025-03-18,Sensor Tower,Tecnologia,Lever,https://jobs.lever.co/sensortower,
+0,2025-03-18,Sensor Tower,Tecnologia,Lever,https://jobs.lever.co/sensortower,
 0,2026-02-19,Ser Educacional,Educação,Vagas,https://sereducacional.gupy.io,
 1,2025-01-19,Serasa Experian,01 - Dados: Analytics & IA,SmartRecruiters,https://careers.smartrecruiters.com/experian,
 1,2025-03-18,Shape Digital,Tecnologia,InHire,https://shapedigital.inhire.app/vagas,
@@ -947,7 +948,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Veeva,Tecnologia,Lever,https://veeva.com/careers,
 1,2023-09-17,Veloe,Soluções de Pagamento,Bizneo,https://vagas.veloe.com.br/jobs,
 0,2026-02-19,Verde Campo,Estratégico,Vagas,https://verdecampo.gupy.io,
-1,2026-02-19,Vindi,Fintech,Gupy,https://vindi.gupy.io,
 1,2025-03-18,Vinta,Tecnologia,InHire,https://vinta.inhire.app/vagas,
 1,2026-02-19,Visa,Financeiro,Gupy,https://carreiras.gupy.io/visa,
 0,2026-02-19,Vitru,Estratégico,Vagas,https://vitru.gupy.io,
