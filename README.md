@@ -32,6 +32,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
 | [Mart Minas](https://martminas.com.br/trabalhe-conosco) | Estratégico | 2910-09-23 |
+| [Arezzo&Co](https://azzas2154.gupy.io) | Varejo | 2026-05-05 |
 | [Vindi](https://vindi.gupy.io) | Fintech | 2026-05-03 |
 | [Arteris](https://arteris.gupy.io) | Infraestrutura | 2026-04-17 |
 | [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde | 2026-04-07 |
@@ -414,7 +415,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Arco Educação](https://job-boards.greenhouse.io/arcoeducacao) | Educacional |  |
 | [Arco Educação](https://boards.greenhouse.io/arcoeducacao) | Educação |  |
 | [Arcos Dorados (McDonald s)](https://trabalheconosconamc.infojobs.com.br) | Alimentação |  |
-| [Arezzo&Co](https://azzas2154.gupy.io) | Varejo |  |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) | Farmacêutica |  |
 | [Asus](https://www.asus.com/about-asus/careers) | Tecnologia |  |
 | [Atlassian](https://www.atlassian.com/company/careers) | Estratégico |  |

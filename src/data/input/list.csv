@@ -1,5 +1,6 @@
 Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL,Data de Publicação
 1,2026-02-19,Mart Minas,Estratégico,Vagas,https://martminas.com.br/trabalhe-conosco,2910-09-23
+1,2026-02-19,Arezzo&Co,Varejo,Gupy,https://azzas2154.gupy.io,2026-05-05
 1,2026-02-19,Vindi,Fintech,Gupy,https://vindi.gupy.io,2026-05-03
 1,2026-02-19,Arteris,Infraestrutura,Gupy,https://arteris.gupy.io,2026-04-17
 1,2026-02-20,SPDM Hospital São Paulo,Saúde,Gupy,https://spdm.gupy.io,2026-04-07
@@ -209,7 +210,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 0,2026-02-19,Enjoei,Varejo,Gupy,https://enjoei.gupy.io,2026-01-16
 1,2026-02-20,KRYPTUS,Cibersegurança,Gupy,https://kryptus.gupy.io,2026-01-16
 1,2026-02-19,Wilson Sons,Logística,Gupy,https://wilsonsons.gupy.io,2026-01-16
-1,2026-02-19,Getnet,Fintech,Gupy,https://getnet.gupy.io,2026-01-15
+0,2026-02-19,Getnet,Fintech,Gupy,https://getnet.gupy.io,2026-01-15
 1,2026-02-19,Tokio Marine,Finanças/Seguros,Gupy,https://tokiomarine.gupy.io,2026-01-15
 1,2026-02-19,Itaú Cultural,Banco,Gupy,https://itaucultural.gupy.io,2026-01-14
 1,2026-02-20,Veirano Advogados,Serviços,Gupy,https://veirano.gupy.io,2026-01-14
@@ -317,7 +318,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Fras-le,Indústria,Vagas,https://randoncorp.gupy.io,2023-11-11
 0,2026-02-19,Geru,Finanças/Banco & Fintech,Vagas,https://open-co.gupy.io,2023-11-11
 1,2026-02-19,Hidrovias do Brasil,Estratégico,Vagas,https://hidrovias.gupy.io,2023-11-11
-1,2026-02-19,Log Commercial Properties,Estratégico,Vagas,https://log.gupy.io,2023-11-11
+0,2026-02-19,Log Commercial Properties,Estratégico,Vagas,https://log.gupy.io,2023-11-11
 1,2026-02-19,O Estado de S. Paulo,Estratégico,Vagas,https://estadao.gupy.io,2023-11-11
 1,2026-02-19,RBS,Estratégico,Vagas,https://gruporbs.gupy.io,2023-11-11
 1,2026-02-19,Rede D Or,Saúde,Vagas,https://rededor.gupy.io,2023-11-11
@@ -382,7 +383,6 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Arco Educação,Educacional,Greenhouse,https://job-boards.greenhouse.io/arcoeducacao,
 1,2026-02-20,Arco Educação,Educação,Greenhouse,https://boards.greenhouse.io/arcoeducacao,
 1,2026-02-19,Arcos Dorados (McDonald s),Alimentação,Infojobs,https://trabalheconosconamc.infojobs.com.br,
-1,2026-02-19,Arezzo&Co,Varejo,Gupy,https://azzas2154.gupy.io,
 1,2025-01-19,AstraZeneca,Farmacêutica,Workday,https://astrazeneca.wd3.myworkdayjobs.com/Careers,
 1,2026-02-19,Asus,Tecnologia,Site da Empresa,https://www.asus.com/about-asus/careers,
 1,2026-02-19,Atlassian,Estratégico,Site da Empresa,https://www.atlassian.com/company/careers,
@@ -483,7 +483,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-12-26,Cielo,Soluções de Pagamento,InHire,https://cielo.inhire.app/vagas,
 1,2026-02-19,Cisco,Tecnologia,Site da Empresa,https://careers.cisco.com/global/en,
 1,2026-02-19,Citi,Bancário,Site da Empresa,https://careers.citigroup.com,
-0,2026-02-19,Click Entregas,Logística/Delivery,Vagas,https://clickentregas.com/trabalhe-conosco,
+1,2026-02-19,Click Entregas,Logística/Delivery,Vagas,https://clickentregas.com/trabalhe-conosco,
 1,2026-02-19,Cloudera,Tecnologia,Workday,https://www.cloudera.com/careers.html,
 1,2026-02-19,CloudWalk,Fintech,Lever,https://jobs.lever.co/cloudwalk,
 1,2026-02-19,Coamo Agroindustrial,Estratégico,Gupy,https://carreiras.gupy.io/coamo,
@@ -703,7 +703,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Loews Hotels,Hospitalidade,Site da Empresa,https://www.loewshotels.com/careers,
 1,2025-01-19,Loft,Tecnologia,TeamTailor,https://loft.teamtailor.com/jobs,
 1,2023-02-26,Loggi,Logística/Delivery,Workable,https://apply.workable.com/loggi,
-1,2026-02-20,Loggi Tecnologia,Logística/Delivery,Gupy,https://loggi.gupy.io,
+0,2026-02-20,Loggi Tecnologia,Logística/Delivery,Gupy,https://loggi.gupy.io,
 0,2026-02-19,Login Logística,Logística,Vagas,https://login.gupy.io,
 1,2026-02-19,Logitech,Tecnologia,Manual,https://www.logitech.com/careers,
 0,2026-02-19,Lojas Cem,Varejo,Vagas,https://www.lojascem.com.br/trabalhe-conosco,
@@ -946,7 +946,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Vale,Indústria,Eightfold,https://vale.eightfold.ai/careers?location=Brazil,
 0,2026-02-19,Vasta Educação,Educação,Vagas,https://vastaeducacao.gupy.io,
 1,2025-03-18,Veeva,Tecnologia,Lever,https://veeva.com/careers,
-1,2023-09-17,Veloe,Soluções de Pagamento,Bizneo,https://vagas.veloe.com.br/jobs,
+0,2023-09-17,Veloe,Soluções de Pagamento,Bizneo,https://vagas.veloe.com.br/jobs,
 0,2026-02-19,Verde Campo,Estratégico,Vagas,https://verdecampo.gupy.io,
 1,2025-03-18,Vinta,Tecnologia,InHire,https://vinta.inhire.app/vagas,
 1,2026-02-19,Visa,Financeiro,Gupy,https://carreiras.gupy.io/visa,
