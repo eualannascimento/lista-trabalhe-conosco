@@ -15,6 +15,7 @@ NEW_ITEMS_FILE = "src/data/input/new_items.csv"
 LIST_FILE_PATH = "src/data/input/list.csv"
 HEADER_FILE_PATH = "src/data/input/header.md"
 README_FILE_PATH = "README.md"
+FAILURES_OUTPUT_PATH = "src/data/output/last_failures.csv"
 
 FIELDNAMES = [
     "Status da URL",
@@ -174,12 +175,40 @@ def save_results(values, list_file_path, header_file_path, readme_file_path):
     save_sorted_csv(list_file_path, to_save, fieldnames=FIELDNAMES)
     logger.info("CSV salvo: %s (%d registros)", list_file_path, len(to_save))
 
-    markdown_table = generate_markdown_table(to_save)
+    markdown_table = generate_markdown_table(to_save, active_only=True)
     header_content = load_header(header_file_path)
 
     with open(readme_file_path, "w", encoding="utf-8") as f:
         f.write(f"{header_content}\n\n{markdown_table}")
     logger.info("README.md atualizado: %s", readme_file_path)
+
+
+def export_failure_report(failed_items, output_path):
+    """Persiste falhas da verificação para acompanhamento (ex. issue #45)."""
+    if not failed_items:
+        return
+    import os
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(
+            f,
+            fieldnames=["Nome da Empresa", "URL", "Plataforma", "Erro"],
+            extrasaction="ignore",
+        )
+        writer.writeheader()
+        for item in sorted(
+            failed_items, key=lambda x: unidecode(x["Nome da Empresa"].lower())
+        ):
+            writer.writerow(
+                {
+                    "Nome da Empresa": item.get("Nome da Empresa", ""),
+                    "URL": item.get("URL", ""),
+                    "Plataforma": item.get("Plataforma", ""),
+                    "Erro": item.get("_error", ""),
+                }
+            )
+    logger.info("Relatório de falhas exportado: %s (%d itens)", output_path, len(failed_items))
 
 
 def print_failure_report(failed_items):
@@ -249,6 +278,7 @@ def main():
 
     # 6. Relatório final de falhas (Executado por último para destaque)
     print_failure_report(failed_items)
+    export_failure_report(failed_items, FAILURES_OUTPUT_PATH)
 
     logger.info("=" * 60)
     logger.info("EXECUÇÃO FINALIZADA")
