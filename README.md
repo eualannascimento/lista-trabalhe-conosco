@@ -32,14 +32,32 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | Nome da Empresa (+ Link do Trabalhe Conosco) | Segmento | Última Vaga |
 | --- | --- | --- |
 | [Mart Minas](https://martminas.com.br/trabalhe-conosco) | Estratégico | 2910-09-23 |
+| [Condor Super Center](https://condor.gupy.io) | Varejo | 2026-05-20 |
+| [BB Seguridade](https://brasilseg.gupy.io) | Finanças/Seguros | 2026-05-19 |
+| [Rede D Or](https://rededor.gupy.io) | Saúde | 2026-05-18 |
+| [Unimed (Sistema Nacional)](https://unimednacional.gupy.io) | Saúde | 2026-05-15 |
+| [Wiz Co](https://wiz.gupy.io) | Finanças | 2026-05-15 |
+| [AuroraCoop (Aurora Alimentos)](https://auroracoop.gupy.io) | Alimentos e Bebidas | 2026-05-13 |
+| [Unifique](https://vemserunifique.gupy.io) | Telecom | 2026-05-12 |
+| [Track&Field](https://tfcarreira.gupy.io) | Estratégico | 2026-05-11 |
+| [O Estado de S. Paulo](https://estadao.gupy.io) | Estratégico | 2026-05-07 |
 | [Arezzo&Co](https://azzas2154.gupy.io) | Varejo | 2026-05-05 |
+| [Hidrovias do Brasil](https://hidrovias.gupy.io) | Estratégico | 2026-05-04 |
 | [Vindi](https://vindi.gupy.io) | Fintech | 2026-05-03 |
+| [Ame Digital](https://ame.gupy.io) | Estratégico | 2026-04-30 |
+| [Banco Topázio](https://bancotopazio.gupy.io) | Finanças/Banco & Fintech | 2026-04-30 |
+| [Coca-Cola Femsa](https://femsa.gupy.io) | Alimentos e Bebidas | 2026-04-24 |
 | [Arteris](https://arteris.gupy.io) | Infraestrutura | 2026-04-17 |
+| [Telefônica Brasil (Vivo)](https://vivo.gupy.io) | Telecom | 2026-04-17 |
+| [Banco Digio](https://digio.gupy.io) | Finanças/Banco & Fintech | 2026-04-16 |
+| [RBS](https://gruporbs.gupy.io) | Estratégico | 2026-04-09 |
 | [SPDM Hospital São Paulo](https://spdm.gupy.io) | Saúde | 2026-04-07 |
 | [LinkedIn Brasil](https://linkedin.gupy.io) | Redes Sociais | 2026-04-06 |
+| [Banco Industrial do Brasil](https://bib.gupy.io) | Finanças/Banco & Fintech | 2026-03-26 |
 | [Hospital IGESP](https://www.vagas.com.br/vagas-de-igesp) | Saúde | 2026-03-16 |
+| [Algar Tech Br](https://algar.gupy.io) | Telecom | 2026-03-10 |
 | [Sanepar](https://site.sanepar.com.br/trabalhe-com-a-gente) | Saneamento | 2026-03-08 |
-| [77sol](https://77sol.gupy.io) | A Classificar | 2026-02-20 |
+| [77sol](https://77sol.gupy.io) | Tecnologia | 2026-02-20 |
 | [Alloha Fibra](https://allohafibra.gupy.io) | Telecom | 2026-02-20 |
 | [CCR](https://motiva.gupy.io) | Infraestrutura | 2026-02-20 |
 | [Franq](https://franq.gupy.io) | Fintech | 2026-02-20 |
@@ -53,8 +71,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Tegma](https://tegma.gupy.io) | Estratégico | 2026-02-20 |
 | [Unimed Maceió Oficial](https://unimedmaceio.gupy.io) | Saúde | 2026-02-20 |
 | [Volkswagen do Brasil](https://vwbrasil.gupy.io) | Automotivo | 2026-02-20 |
-| [3cservices](https://3cservices.gupy.io) | A Classificar | 2026-02-19 |
-| [Abakids](https://abakids.gupy.io) | A Classificar | 2026-02-19 |
+| [3cservices](https://3cservices.gupy.io) | Consultoria | 2026-02-19 |
+| [Abakids](https://abakids.gupy.io) | Educação | 2026-02-19 |
 | [ANBIMA](https://anbima.gupy.io) | Entidade Financeira | 2026-02-19 |
 | [Bauducco](https://bauducco.gupy.io) | Alimentos e Bebidas | 2026-02-19 |
 | [CBA Alumínio](https://cba.gupy.io) | Indústria | 2026-02-19 |
@@ -81,7 +99,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Cocal](https://cocal.gupy.io) | Agronegócio | 2026-02-17 |
 | [Ecossistema ARGENTA](https://argenta.gupy.io) | Varejo | 2026-02-17 |
 | [Marisol](https://marisol.gupy.io) | Moda | 2026-02-17 |
-| [Votorantim Cimentos](https://votorantimcimentos.gupy.io) | Finanças/Banco & Fintech | 2026-02-17 |
+| [Votorantim Cimentos](https://votorantimcimentos.gupy.io) | Indústria | 2026-02-17 |
 | [Grupo Bertolini](https://bertolini.gupy.io) | Indústria | 2026-02-16 |
 | [DASA Programas de Entrada](https://dasaprogramasdeentrada.gupy.io) | Saúde | 2026-02-14 |
 | [ArcelorMittal Tuper Brasil](https://tuper.gupy.io) | Indústria | 2026-02-13 |
@@ -89,10 +107,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Cosan](https://cosan.gupy.io) | Energia/Petróleo | 2026-02-13 |
 | [Credcrea (Ailos)](https://credcrea.gupy.io) | Finanças | 2026-02-13 |
 | [Fast Shop](https://fastshop.gupy.io) | Varejo | 2026-02-13 |
+| [Fras-le](https://randoncorp.gupy.io) | Indústria | 2026-02-13 |
 | [Sem Parar](https://semparar.gupy.io) | Tecnologia | 2026-02-13 |
 | [Shoulder](https://shoulder.gupy.io) | Moda | 2026-02-13 |
 | [Vivo Digital](https://vivodigital.gupy.io) | Telecom | 2026-02-13 |
-| [3corptechnology](https://3corptechnology.gupy.io) | A Classificar | 2026-02-12 |
+| [3corptechnology](https://3corptechnology.gupy.io) | Consultoria | 2026-02-12 |
 | [Alpargatas](https://alpargatas.gupy.io) | Indústria | 2026-02-12 |
 | [Cencosud Brasil](https://cencosudbrasil.gupy.io) | Varejo | 2026-02-12 |
 | [CVC Corp](https://cvccorp.gupy.io) | Turismo | 2026-02-12 |
@@ -143,12 +162,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Safra](https://venhasersafra.gupy.io) | Finanças/Banco & Fintech | 2026-02-06 |
 | [Unimed Campina Grande Oficial](https://unimedcampinagrande.gupy.io) | Saúde | 2026-02-06 |
 | [Usina Alta Mogiana](https://altamogiana.gupy.io) | Estratégico | 2026-02-06 |
-| [Abaco](https://abaco.gupy.io) | A Classificar | 2026-02-05 |
+| [Abaco](https://abaco.gupy.io) | Consultoria | 2026-02-05 |
 | [Coco Bambu](https://cocobambu.gupy.io) | Alimentos e Bebidas | 2026-02-05 |
 | [Guanabara](https://guanabara.gupy.io) | Estratégico | 2026-02-05 |
 | [Lojas Renner S.A.](https://encantech.gupy.io) | Varejo | 2026-02-05 |
 | [Paschoalotto](https://paschoalotto.gupy.io) | Gestão de Relacionamentos | 2026-02-05 |
-| [Positivo Tecnologia](https://positivotecnologia.gupy.io) | Estratégico | 2026-02-05 |
 | [Supermercados Guanabara](https://supermercadosguanabara.gupy.io) | Varejo | 2026-02-05 |
 | [Vibra Energia Brasil Br](https://vibra.gupy.io) | Energia/Petróleo | 2026-02-05 |
 | [Banco Rodobens](https://rodobenscarreiras.gupy.io) | Finanças/Banco & Fintech | 2026-02-04 |
@@ -193,8 +211,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Petrobahia](https://petrobahia.gupy.io) | Estratégico | 2026-01-29 |
 | [Suzano](https://suzano.gupy.io) | Indústria | 2026-01-29 |
 | [Unimed Brasil](https://unimed-brasil.gupy.io) | Saúde | 2026-01-29 |
-| [2comconsulting](https://2comconsulting.gupy.io) | A Classificar | 2026-01-28 |
-| [A3consultoria](https://a3consultoria.gupy.io) | A Classificar | 2026-01-28 |
+| [2comconsulting](https://2comconsulting.gupy.io) | Consultoria | 2026-01-28 |
+| [A3consultoria](https://a3consultoria.gupy.io) | Consultoria | 2026-01-28 |
 | [Aramis](https://aramis.gupy.io) | Moda | 2026-01-28 |
 | [Cruzeiro do Sul Educacional](https://cruzeirodosuleducacional.gupy.io) | Educação | 2026-01-28 |
 | [CVP (Caixa Vida e Previdência)](https://caixavidaeprevidencia.gupy.io) | Estratégico | 2026-01-28 |
@@ -207,7 +225,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [C&A](https://cea.gupy.io) | Varejo | 2026-01-27 |
 | [Decathlon](https://carreirasdecathlon.gupy.io) | Esportes | 2026-01-27 |
 | [Farm Moda Br](https://farm.gupy.io) | Moda | 2026-01-27 |
-| [Hering](https://hering.gupy.io) | Varejo | 2026-01-27 |
 | [Prio](https://prio.gupy.io) | Energy | 2026-01-27 |
 | [Aché](https://vagasache.gupy.io) | Farmacêutica | 2026-01-26 |
 | [Casa e Video Varejo](https://casaevideo.gupy.io) | Varejo | 2026-01-26 |
@@ -261,7 +278,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo SEB](https://gruposeb.gupy.io) | Educação | 2026-01-09 |
 | [LOUD](https://loud.gupy.io) | Games | 2026-01-09 |
 | [Roldão Atacadista](https://roldao.gupy.io) | Varejo | 2026-01-08 |
-| [3coracoes](https://3coracoes.gupy.io) | A Classificar | 2026-01-07 |
+| [3coracoes](https://3coracoes.gupy.io) | Alimentos e Bebidas | 2026-01-07 |
 | [Ambev Tech](https://ambevtech.gupy.io) | Alimentos e Bebidas | 2026-01-07 |
 | [Itaú - Carreiras Internas](https://carreirasinternasitau.gupy.io) | Finanças/Banco & Fintech | 2026-01-07 |
 | [Santa Casa BH](https://santacasabh.gupy.io) | Saúde | 2026-01-07 |
@@ -328,7 +345,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Grupo Soma](https://gruposoma.gupy.io) | Varejo | 2025-03-12 |
 | [Automob](https://automob.gupy.io) | Automotivo | 2025-02-26 |
 | [Le Biscuit Varejo](https://lebiscuit.gupy.io) | Varejo | 2024-09-15 |
-| [4mk](https://4mk.gupy.io) | A Classificar | 2024-08-13 |
+| [4mk](https://4mk.gupy.io) | Tecnologia | 2024-08-13 |
 | [Daycoval DayCambio](https://daycambio.gupy.io) | Banco | 2024-08-09 |
 | [Daycoval DayCred](https://daycred.gupy.io) | Banco | 2024-08-09 |
 | [Banco Daycoval](https://bancodaycoval.gupy.io) | Finanças/Banco & Fintech | 2024-08-08 |
@@ -336,29 +353,8 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Yamaha](https://yamaha.gupy.io) | Automotivo | 2024-07-29 |
 | [Armac](https://armac.gupy.io) | Estratégico | 2024-02-28 |
 | [Usiminas](https://usiminas.gupy.io) | Siderurgia | 2024-01-22 |
-| [Aacd](https://aacd.gupy.io) | A Classificar | 2024-01-05 |
-| [Red House International School](https://redhouse.gupy.io) | Finanças/Banco & Fintech | 2023-11-16 |
-| [Algar Tech Br](https://algar.gupy.io) | Telecom | 2023-11-11 |
-| [Ame Digital](https://ame.gupy.io) | Estratégico | 2023-11-11 |
-| [AuroraCoop (Aurora Alimentos)](https://auroracoop.gupy.io) | Alimentos e Bebidas | 2023-11-11 |
-| [Banco Digio](https://digio.gupy.io) | Finanças/Banco & Fintech | 2023-11-11 |
-| [Banco Industrial do Brasil](https://bib.gupy.io) | Finanças/Banco & Fintech | 2023-11-11 |
-| [Banco Topázio](https://bancotopazio.gupy.io) | Finanças/Banco & Fintech | 2023-11-11 |
-| [BB Seguridade](https://brasilseg.gupy.io) | Finanças/Seguros | 2023-11-11 |
-| [Coca-Cola Femsa](https://femsa.gupy.io) | Alimentos e Bebidas | 2023-11-11 |
-| [Condor Super Center](https://condor.gupy.io) | Varejo | 2023-11-11 |
-| [Fras-le](https://randoncorp.gupy.io) | Indústria | 2023-11-11 |
-| [Geru](https://open-co.gupy.io) | Finanças/Banco & Fintech | 2023-11-11 |
-| [Hidrovias do Brasil](https://hidrovias.gupy.io) | Estratégico | 2023-11-11 |
-| [Log Commercial Properties](https://log.gupy.io) | Estratégico | 2023-11-11 |
-| [O Estado de S. Paulo](https://estadao.gupy.io) | Estratégico | 2023-11-11 |
-| [RBS](https://gruporbs.gupy.io) | Estratégico | 2023-11-11 |
-| [Rede D Or](https://rededor.gupy.io) | Saúde | 2023-11-11 |
-| [Telefônica Brasil (Vivo)](https://vivo.gupy.io) | Telecom | 2023-11-11 |
-| [Track&Field](https://tfcarreira.gupy.io) | Estratégico | 2023-11-11 |
-| [Unifique](https://vemserunifique.gupy.io) | Telecom | 2023-11-11 |
-| [Unimed (Sistema Nacional)](https://unimednacional.gupy.io) | Saúde | 2023-11-11 |
-| [Wiz Co](https://wiz.gupy.io) | Finanças | 2023-11-11 |
+| [Aacd](https://aacd.gupy.io) | Saúde | 2024-01-05 |
+| [Red House International School](https://redhouse.gupy.io) | Educação | 2023-11-16 |
 | [Vamos](https://vamos.gupy.io) | Logística | 2023-09-20 |
 | [Lojas Ypê](https://carreirasype.gupy.io) | Varejo | 2023-06-22 |
 | [Efí Bank](https://sejaefi.gupy.io) | Financeiro | 2023-04-18 |
@@ -377,7 +373,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Accona](https://www.acciona.com.br/trabalhe-conosco) | Infraestrutura |  |
 | [Accor](https://careers.accor.com) | Hospitalidade |  |
 | [Acer](https://career10.successfactors.com/career?company=acerincorp) | Eletrônicos |  |
-| [Aché Laboratórios](https://ache.gupy.io) | Farmacêutica |  |
 | [Activision Blizzard](https://careers.activisionblizzard.com) | Estratégico |  |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | Tecnologia |  |
 | [ADP](https://jobs.adp.com) | Serviços |  |
@@ -406,13 +401,12 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [American Express](https://aexp.eightfold.ai/careers) | Financeiro |  |
 | [Amex](https://www.americanexpress.com/en-us/careers) | Financeiro |  |
 | [Amil](https://career19.sapsf.com/careers?company=amilassist) | Saúde |  |
-| [Analytics](https://analytics.inhire.com.br) | A Classificar |  |
-| [Analytics-ss](https://analytics-ss.inhire.com.br) | A Classificar |  |
+| [Analytics](https://analytics.inhire.com.br) | Tecnologia |  |
+| [Analytics-ss](https://analytics-ss.inhire.com.br) | Tecnologia |  |
 | [Ânima Educação](https://anima.gupy.io) | Educação |  |
 | [Anthropic](https://boards.greenhouse.io/anthropic) | 01 - Dados: Inteligência Artificial |  |
 | [Apple](https://www.apple.com/careers/br) | Tecnologia |  |
 | [Apptite](https://apptite.gupy.io) | Estratégico |  |
-| [Arco Educação](https://job-boards.greenhouse.io/arcoeducacao) | Educacional |  |
 | [Arco Educação](https://boards.greenhouse.io/arcoeducacao) | Educação |  |
 | [Arcos Dorados (McDonald s)](https://trabalheconosconamc.infojobs.com.br) | Alimentação |  |
 | [AstraZeneca](https://astrazeneca.wd3.myworkdayjobs.com/Careers) | Farmacêutica |  |
@@ -503,7 +497,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Cargill](https://careers.cargill.com/en/search-jobs) | Agronegócio |  |
 | [CargoX](https://cargox.inhire.app/vagas) | Logística |  |
 | [Carrefour Brasil](https://carrefour.gupy.io) | Varejo |  |
-| [Carreira](https://carreira.inhire.com.br) | A Classificar |  |
+| [Carreira](https://carreira.inhire.com.br) | Tecnologia |  |
 | [Casan](https://www.casan.com.br/trabalhe-na-casan) | Saneamento |  |
 | [CD Projekt Red](https://www.cdprojektred.com/en/jobs) | Jogos |  |
 | [Ceg (Naturgy)](https://www.naturgy.com.br/trabalhe-conosco) | Estratégico |  |
@@ -554,7 +548,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Direcional](https://direcional.gupy.io) | Construção |  |
 | [dLocal](https://jobs.lever.co/dlocal) | Fintech |  |
 | [Dock](https://dock.gupy.io) | Estratégico |  |
-| [Docs](https://docs.inhire.com.br) | A Classificar |  |
+| [Docs](https://docs.inhire.com.br) | Tecnologia |  |
 | [Domino s Pizza](https://dominospizzabrasil.pandape.infojobs.com.br) | Alimentação |  |
 | [Domo](https://www.domo.com/company/careers) | Tecnologia |  |
 | [Donorbox](https://job-boards.greenhouse.io/donorbox) | Tecnologia |  |
@@ -621,8 +615,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [GE Healthcare](https://careers.gehealthcare.com) | Saúde |  |
 | [GE Vernova](https://careers.gevernova.com/global/en/search-results) | Tecnologia |  |
 | [General Motors](https://search-careers.gm.com) | Automotivo |  |
-| [Gerador](https://gerador.inhire.com.br) | A Classificar |  |
+| [Gerador](https://gerador.inhire.com.br) | Tecnologia |  |
 | [Gerdau](https://career19.sapsf.com/careers?company=gerdauacos) | Indústria |  |
+| [Geru](https://open-co.gupy.io) | Finanças/Banco & Fintech |  |
 | [GFT Tecnologia](https://career5.successfactors.eu/careers?company=gfttechnol) | Estratégico |  |
 | [Gigster](https://virtasant.teamtailor.com) | Tecnologia |  |
 | [Giross](https://giross.gupy.io) | Logística/Delivery |  |
@@ -673,7 +668,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ilegra](https://vagas.ilegra.com) | Tecnologia |  |
 | [ília](https://boards.greenhouse.io/ilia) | Estratégico |  |
 | [Infracommerce](https://infracommerce.gupy.io) | Estratégico |  |
-| [Inkrypton](https://inkrypton.inhire.com.br) | A Classificar |  |
+| [Inkrypton](https://inkrypton.inhire.com.br) | Tecnologia |  |
 | [Intel](https://jobs.intel.com) | Tecnologia |  |
 | [Inter](https://boards.greenhouse.io/inter) | Finanças/Banco & Fintech |  |
 | [Intera](https://vagasbyintera.inhire.app/vagas) | Finanças/Banco & Fintech |  |
@@ -727,13 +722,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Light](https://www.light.com.br/grupo-light/Trabalhe-na-Light/default.aspx) | Energia |  |
 | [LinkedIn](https://careers.linkedin.com) | Tecnologia |  |
 | [Linx](https://carreiras.gupy.io/linx) | Tecnologia |  |
-| [Linx](https://boards.greenhouse.io/linx) | Varejo Tech |  |
 | [Liv Up](https://livup.gupy.io) | Estratégico |  |
 | [Live Nation](https://www.livenationentertainment.com/careers) | Entretenimento |  |
 | [Local Frio](https://localfrio.gupy.io) | Estratégico |  |
 | [Locaweb](https://locaweb.gupy.io) | Tecnologia |  |
 | [Loews Hotels](https://www.loewshotels.com/careers) | Hospitalidade |  |
 | [Loft](https://loft.teamtailor.com/jobs) | Tecnologia |  |
+| [Log Commercial Properties](https://log.gupy.io) | Estratégico |  |
 | [Loggi](https://apply.workable.com/loggi) | Logística/Delivery |  |
 | [Loggi Tecnologia](https://loggi.gupy.io) | Logística/Delivery |  |
 | [Login Logística](https://login.gupy.io) | Logística |  |
@@ -752,7 +747,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Marcopolo](https://www.marcopolo.com.br/carreiras) | Indústria |  |
 | [Marfrig](https://www.marfrig.com.br/pt/trabalhe-conosco) | Alimentos e Bebidas |  |
 | [Marisa](https://carreiras.gupy.io/marisa) | Varejo |  |
-| [Marriott International](https://jobs.marriott.com) | Finanças/Banco & Fintech |  |
+| [Marriott International](https://jobs.marriott.com) | Hospitalidade |  |
 | [Martins Atacado Var](https://martins.gupy.io) | Varejo |  |
 | [Mash](https://mash.pandape.infojobs.com.br) | Comércio |  |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers) | Financeiro |  |
@@ -794,13 +789,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Netbr](https://careers.smartrecruiters.com/Netbr) | Tecnologia |  |
 | [Netflix](https://jobs.netflix.com) | Mídia |  |
 | [Neurotech](https://neurotech.jobs.recrut.ai/#openings) | Tecnologia |  |
-| [New](https://new.inhire.com.br) | A Classificar |  |
+| [New](https://new.inhire.com.br) | Tecnologia |  |
 | [Nissan](https://www.nissan.com.br/trabalhe-conosco.html) | Automotivo |  |
 | [Nomad](https://carreiras.gupy.io/nomad) | Fintech |  |
 | [Nomad Global](https://apply.workable.com/nomadglobal) | Tecnologia |  |
 | [Notion](https://jobs.ashbyhq.com/notion) | Tecnologia |  |
 | [NovaDAX](https://novadax.gupy.io) | Estratégico |  |
-| [Novo](https://novo.inhire.com.br) | A Classificar |  |
+| [Novo](https://novo.inhire.com.br) | Tecnologia |  |
 | [Novonor (Odebrecht)](https://novonor.gupy.io) | Estratégico |  |
 | [NTT Data](https://careers.emeal.nttdata.com/s/jobs?language=pt_BR) | Tecnologia |  |
 | [Nubank](https://boards.greenhouse.io/nubank) | Finanças/Banco & Fintech |  |
@@ -808,7 +803,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Nude.](https://nude.gupy.io) | Estratégico |  |
 | [Oakberry](https://oakberry.gupy.io) | Estratégico |  |
 | [OdontoPrev](https://odontoprev.gupy.io) | Saúde |  |
-| [Odous de Deus](https://odous dedeus.gupy.io) | Farmacêutica |  |
+| [Odous de Deus](https://odousdedeus.gupy.io) | Farmacêutica |  |
 | [OEC](https://oec.gupy.io) | Construção |  |
 | [OEC (Odebrecht)](https://oec-eng.com/trabalhe-conosco) | Infraestrutura |  |
 | [Olga Ri](https://olgari.gupy.io) | Estratégico |  |
@@ -830,7 +825,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Panvel (Dimed)](https://panvel.gupy.io) | Estratégico |  |
 | [Paramount](https://careers.paramount.com) | Mídia |  |
 | [Paraná Banco](https://jobs.quickin.io/paranabanco/jobs) | Finanças/Banco & Fintech |  |
-| [Passbolt](https://passbolt.inhire.com.br) | A Classificar |  |
+| [Passbolt](https://passbolt.inhire.com.br) | Tecnologia |  |
 | [Payclip](https://payclip.bamboohr.com/careers) | Fintech |  |
 | [Paypal](https://paypal.eightfold.ai/careers) | Financeiro |  |
 | [PepsiCo](https://www.pepsicojobs.com/main) | Alimentos |  |
@@ -924,14 +919,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Speedbird Aero](https://speedbird.gupy.io) | Estratégico |  |
 | [Spotify](https://www.lifeatspotify.com) | Mídia |  |
 | [Stellantis](https://careers.stellantis.com) | Automotivo |  |
-| [Stone](https://job-boards.greenhouse.io/stone) | Finanças/Banco & Fintech |  |
-| [Stone](https://boards.greenhouse.io/stone) | Finanças/Banco & Fintech |  |
 | [Stone](https://stone.gupy.io) | Finanças/Banco & Fintech |  |
 | [Super Nosso](https://supernosso.recrut.ai) | Varejo |  |
 | [Superdigital](https://superdigital.gupy.io) | Estratégico |  |
 | [Supermercados BH](https://supermercadosbh.gupy.io) | Varejo |  |
 | [Supportiv](https://supportiv.bamboohr.com/careers) | Saúde |  |
-| [Suzano](https://suzano.inhire.app/vagas) | Indústria |  |
 | [Swap](https://swap.gupy.io) | Estratégico |  |
 | [Swile](https://jobs.lever.co/swile) | Tecnologia |  |
 | [Swile Brasil](https://swile.workable.com) | Estratégico |  |
@@ -975,7 +967,6 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [UP Brasil](https://upbrasil.pandape.infojobs.com.br) | Benefícios |  |
 | [Vagas.com](https://vagas.gupy.io) | HR Tech |  |
 | [Vale](https://carreiras.gupy.io/vale) | Indústria |  |
-| [Vale](https://vale.eightfold.ai/careers?location=Brazil) | Indústria |  |
 | [Vasta Educação](https://vastaeducacao.gupy.io) | Educação |  |
 | [Veeva](https://veeva.com/careers) | Tecnologia |  |
 | [Veloe](https://vagas.veloe.com.br/jobs) | Soluções de Pagamento |  |
@@ -999,12 +990,11 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Westwing](https://westwing.gupy.io) | Estratégico |  |
 | [WeWork](https://wework.wd1.myworkdayjobs.com/WeWork) | Espaços de Trabalho |  |
 | [WEX](https://wexinc.wd5.myworkdayjobs.com/WEXInc) | Financeiro |  |
-| [Wildlife Studios](https://job-boards.greenhouse.io/wildlifestudios) | Games |  |
 | [Wildlife Studios](https://boards.greenhouse.io/wildlifestudios) | Games |  |
 | [Wilhelmsen](https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen) | Logística |  |
 | [will bank](https://willbank.inhire.app/vagas) | Banco |  |
 | [WillowTree](https://willowtreeapps.com/careers) | Tecnologia |  |
-| [Wordpress-proxy](https://wordpress-proxy.inhire.com.br) | A Classificar |  |
+| [Wordpress-proxy](https://wordpress-proxy.inhire.com.br) | Tecnologia |  |
 | [Xometry](https://job-boards.greenhouse.io/xometry) | Tecnologia |  |
 | [XP Banco](https://xpinvestimentos.gupy.io) | Finanças/Banco & Fintech |  |
 | [XP Inc](https://boards.greenhouse.io/xpinc) | Financeiro |  |
