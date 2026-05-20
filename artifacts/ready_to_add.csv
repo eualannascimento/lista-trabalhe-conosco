@@ -1,15 +1,3 @@
 Nome da Empresa,Segmento da Empresa,Plataforma,URL,evidencia
-Aeris,Indústria,Gupy,https://aeris.gupy.io,ats_guesser+strong
-Alphaville,Financeiro,Gupy,https://alphaville.gupy.io,ats_guesser+strong
-Banco AMAZONIA,Financeiro,Gupy,https://banco.gupy.io,known_or_guess+strong
-Brava Energia,Energia e Utilities,Gupy,https://bravaenergia.gupy.io,ats_guesser+strong
-Direcional Engenharia,Financeiro,Gupy,https://direcionalengenharia.gupy.io,ats_guesser+strong
-Engie Brasil Energia,Energia e Utilities,Gupy,https://engiebrasilenergia.gupy.io,ats_guesser+strong
-Empreendimentos Pague Menos,Varejo e Consumo,Gupy,https://empreendimentos.gupy.io,known_or_guess+strong
-Isa Energia Brasil,Energia e Utilities,Gupy,https://isaenergiabrasil.gupy.io,ats_guesser+strong
-Karsten,Indústria,Gupy,https://karsten.gupy.io,ats_guesser+strong
-Mundial S.A. - Produtos De Consumo,Varejo e Consumo,Gupy,https://mundial.gupy.io,known_or_guess+strong
-Ourofino,Saúde,Gupy,https://ourofino.gupy.io,ats_guesser+strong
-Padtec Holding,Tecnologia,Gupy,https://padtec.gupy.io,known_or_guess+strong
-Tereos,Agro e Alimentos,Gupy,https://tereos.gupy.io,ats_guesser+strong
-Terra Santa Propriedades Agricolas,Financeiro,Gupy,https://terra.gupy.io,known_or_guess+strong
+Portobello,Construção e Imóveis,Gupy,https://portobello.gupy.io,seed_probe+strong
+Youcom,Varejo e Consumo,Gupy,https://youcom.gupy.io,seed_probe+strong

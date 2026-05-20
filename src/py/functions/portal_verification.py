@@ -106,6 +106,21 @@ def _gupy_has_jobs(html: str, final_url: str, requested_url: str) -> bool:
     return False
 
 
+def _greenhouse_has_jobs(html: str | None, final_url: str, session) -> bool:
+    """Greenhouse: aceita portal com vagas ou HEAD 200 em job-boards."""
+    if html and _generic_has_jobs(html):
+        return True
+    try:
+        head = session.head(final_url, timeout=10, allow_redirects=True, verify=True)
+        if 200 <= head.status_code < 400:
+            return True
+        if head.status_code == 406 and "greenhouse.io" in final_url.lower():
+            return True
+    except requests.RequestException:
+        pass
+    return False
+
+
 def _generic_has_jobs(html: str) -> bool:
     if not html:
         return False
@@ -137,10 +152,11 @@ def verify_portal_has_jobs(url: str, session=None) -> bool:
     ok = False
     if "gupy.io" in u:
         ok = _gupy_has_jobs(html, final_url, url)
+    elif "greenhouse.io" in u:
+        ok = _greenhouse_has_jobs(html, final_url, session)
     elif any(
         x in u
         for x in (
-            "greenhouse.io",
             "myworkdayjobs.com",
             "lever.co",
             "inhire",

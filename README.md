@@ -759,6 +759,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Pleo](https://boards.greenhouse.io/pleo) | Financeiro | Greenhouse |
 | [Polishop](https://carreiras.gupy.io/polishop) | Serviços e Outros | Gupy |
 | [Porto](https://porto.gupy.io) | Financeiro | Gupy |
+| [Portobello](https://portobello.gupy.io) | Construção e Imóveis | Gupy |
 | [Positive Brands](https://carreiras.gupy.io/positivebrands) | Serviços e Outros | Gupy |
 | [Positivo Tecnologia](https://positivo.gupy.io) | Serviços e Outros | Gupy |
 | [Pottencial Seguradora](https://carreiras.gupy.io/pottencialseguradora) | Financeiro | Gupy |
@@ -1025,6 +1026,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Yamaha](https://yamaha.gupy.io) | Indústria | Gupy |
 | [Yduqs](https://yduqs.gupy.io) | Educação | Gupy |
 | [Yorgus](https://carreiras.gupy.io/yorgus) | Serviços e Outros | Gupy |
+| [Youcom](https://youcom.gupy.io) | Varejo e Consumo | Gupy |
 | [Youse](https://vagas-youse.gupy.io) | Financeiro | Gupy |
 | [Zaffari](https://carreiras.gupy.io/zaffari) | Serviços e Outros | Gupy |
 | [Zé Delivery](https://carreiras.gupy.io/zedelivery) | Logística e Mobilidade | Gupy |

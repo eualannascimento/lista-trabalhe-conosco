@@ -43,15 +43,33 @@ def create_shared_session():
     session.headers.update(HEADERS)
     return session
 
-def _check_status(status_code):
-    return 200 <= status_code < 400 or status_code == 403 or status_code == 408
+def _check_status(status_code, url: str = ""):
+    if 200 <= status_code < 400 or status_code == 403 or status_code == 408:
+        return True
+    # Greenhouse costuma responder 406 a bots em GET; HEAD em job-boards costuma 200
+    if status_code == 406 and "greenhouse.io" in (url or "").lower():
+        return True
+    return False
 
-def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
+
+def _is_success(status_code):
+    """Compatibilidade com testes legados."""
+    return _check_status(status_code)
+
+def verify_website_status(session, url=None, timeout=DEFAULT_TIMEOUT, retries=MAX_RETRIES):
     """
     Verifica se um website está acessível usando Head e Fallback para Get.
+    Aceita verify_website_status(url) para compatibilidade com chamadas legadas.
     """
+    if url is None:
+        url = session
+        session = create_shared_session()
+        own_session = True
+    else:
+        own_session = False
+
     last_error = None
-    
+
     if not url.startswith("http"):
         url = "https://" + url
 
@@ -66,8 +84,11 @@ def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RET
             )
             
             # Alguns servidores bloqueiam HEAD (405 Method Not Allowed) ou Bot Protect
-            if _check_status(response.status_code):
-                return {"status": "1", "status_code": response.status_code, "error": None}
+            if _check_status(response.status_code, url):
+                out = {"status": "1", "status_code": response.status_code, "error": None}
+                if own_session:
+                    session.close()
+                return out
             elif response.status_code == 405 or response.status_code == 401 or response.status_code == 501:
                 # Fallback mandatário
                 pass
@@ -75,8 +96,11 @@ def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RET
                 if not url.endswith('/'):
                     try:
                         resp_slash = session.head(url + '/', timeout=timeout, allow_redirects=True)
-                        if _check_status(resp_slash.status_code):
-                            return {"status": "1", "status_code": resp_slash.status_code, "error": None}
+                        if _check_status(resp_slash.status_code, url):
+                            out = {"status": "1", "status_code": resp_slash.status_code, "error": None}
+                            if own_session:
+                                session.close()
+                            return out
                     except:
                         pass
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
@@ -85,17 +109,26 @@ def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RET
                 
             # 2. Fallback para GET se o HEAD for bloqueado explicitamente (405/Bot block bizarro)
             response = session.get(url, timeout=timeout, allow_redirects=True, verify=True)
-            if _check_status(response.status_code):
-                return {"status": "1", "status_code": response.status_code, "error": None}
+            if _check_status(response.status_code, url):
+                out = {"status": "1", "status_code": response.status_code, "error": None}
+                if own_session:
+                    session.close()
+                return out
             elif response.status_code == 404:
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
             else:
                  last_error = f"HTTP {response.status_code}"
 
         except SSLError:
-            return {"status": "1", "status_code": None, "error": "Sucesso (Bloqueio SSL / Proteção Bot)"}
+            out = {"status": "1", "status_code": None, "error": "Sucesso (Bloqueio SSL / Proteção Bot)"}
+            if own_session:
+                session.close()
+            return out
         except Timeout:
-            return {"status": "1", "status_code": None, "error": "Sucesso (Timeout / Proteção Bot)"}
+            out = {"status": "1", "status_code": None, "error": "Sucesso (Timeout / Proteção Bot)"}
+            if own_session:
+                session.close()
+            return out
         except RequestException as e:
             last_error = f"Erro de Conexão: {str(e)}"
         except Exception as e:
@@ -105,7 +138,10 @@ def verify_website_status(session, url, timeout=DEFAULT_TIMEOUT, retries=MAX_RET
             time.sleep(RETRY_DELAY * attempt)
 
     logger.warning("FALHA FINAL | %s | %s", url, last_error)
-    return {"status": "0", "status_code": None, "error": last_error}
+    result = {"status": "0", "status_code": None, "error": last_error}
+    if own_session:
+        session.close()
+    return result
 
 
 def verify_websites_concurrent(items, timeout=DEFAULT_TIMEOUT, max_workers=MAX_WORKERS):

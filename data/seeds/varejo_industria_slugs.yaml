@@ -1,0 +1,332 @@
+# Grandes marcas BR — slugs Gupy/InHire/Greenhouse testados manualmente
+companies:
+  - name: "Farm"
+    macro: "Varejo e Consumo"
+    urls: ["https://farmrio.gupy.io", "https://farm.gupy.io"]
+  - name: "Allos"
+    macro: "Varejo e Consumo"
+    urls: ["https://allos.gupy.io", "https://carreiras.gupy.io/allos"]
+  - name: "Sankhya"
+    macro: "Tecnologia"
+    urls: ["https://sankhya.gupy.io"]
+  - name: "Indigo"
+    macro: "Logística e Mobilidade"
+    urls: ["https://indigo.gupy.io"]
+  - name: "Vivo"
+    macro: "Energia e Utilities"
+    urls: ["https://vivo.gupy.io", "https://carreiras.gupy.io/vivo"]
+  - name: "Leroy Merlin"
+    macro: "Varejo e Consumo"
+    urls: ["https://leroymerlin.gupy.io"]
+  - name: "Tintas Coral"
+    macro: "Varejo e Consumo"
+    urls: ["https://coral.gupy.io", "https://tintascoral.gupy.io"]
+  - name: "Dexco"
+    macro: "Indústria"
+    urls: ["https://dexco.gupy.io"]
+  - name: "Duratex"
+    macro: "Indústria"
+    urls: ["https://duratex.gupy.io"]
+  - name: "Tigre"
+    macro: "Indústria"
+    urls: ["https://tigre.gupy.io"]
+  - name: "Portobello"
+    macro: "Construção e Imóveis"
+    urls: ["https://portobello.gupy.io"]
+  - name: "Elgin"
+    macro: "Indústria"
+    urls: ["https://elgin.gupy.io"]
+  - name: "Nidec"
+    macro: "Indústria"
+    urls: ["https://nidec.gupy.io"]
+  - name: "Whirlpool"
+    macro: "Indústria"
+    urls: ["https://whirlpool.gupy.io"]
+  - name: "Metalfrio"
+    macro: "Indústria"
+    urls: ["https://metalfrio.gupy.io"]
+  - name: "Fras-le"
+    macro: "Indústria"
+    urls: ["https://frasle.gupy.io"]
+  - name: "Iochpe-Maxion"
+    macro: "Indústria"
+    urls: ["https://maxion.gupy.io"]
+  - name: "Mahle"
+    macro: "Indústria"
+    urls: ["https://mahle.gupy.io"]
+  - name: "Pirelli"
+    macro: "Indústria"
+    urls: ["https://pirelli.gupy.io"]
+  - name: "Goodyear"
+    macro: "Indústria"
+    urls: ["https://goodyear.gupy.io"]
+  - name: "Michelin"
+    macro: "Indústria"
+    urls: ["https://michelin.gupy.io"]
+  - name: "Cargill"
+    macro: "Agro e Alimentos"
+    urls: ["https://cargill.gupy.io"]
+  - name: "Bunge"
+    macro: "Agro e Alimentos"
+    urls: ["https://bunge.gupy.io"]
+  - name: "Louis Dreyfus"
+    macro: "Agro e Alimentos"
+    urls: ["https://ldc.gupy.io"]
+  - name: "Coamo"
+    macro: "Agro e Alimentos"
+    urls: ["https://coamo.gupy.io"]
+  - name: "Lar Cooperativa"
+    macro: "Agro e Alimentos"
+    urls: ["https://lar.gupy.io"]
+  - name: "Cotrijal"
+    macro: "Agro e Alimentos"
+    urls: ["https://cotrijal.gupy.io"]
+  - name: "Sicredi Centro"
+    macro: "Financeiro"
+    urls: ["https://sicredi.gupy.io"]
+  - name: "Banco Votorantim"
+    macro: "Financeiro"
+    urls: ["https://bv.gupy.io", "https://bancovotorantim.gupy.io"]
+  - name: "Creditas"
+    macro: "Financeiro"
+    urls: ["https://creditas.gupy.io"]
+  - name: "Neon"
+    macro: "Financeiro"
+    urls: ["https://neon.gupy.io"]
+  - name: "Cora"
+    macro: "Financeiro"
+    urls: ["https://cora.gupy.io"]
+  - name: "Mercado Bitcoin"
+    macro: "Financeiro"
+    urls: ["https://mercadobitcoin.gupy.io"]
+  - name: "Avenue"
+    macro: "Financeiro"
+    urls: ["https://avenue.gupy.io"]
+  - name: "Warren Investimentos"
+    macro: "Financeiro"
+    urls: ["https://warren.gupy.io"]
+  - name: "Guide Investimentos"
+    macro: "Financeiro"
+    urls: ["https://guide.gupy.io"]
+  - name: "ModalMais"
+    macro: "Financeiro"
+    urls: ["https://modalmais.gupy.io"]
+  - name: "Órama"
+    macro: "Financeiro"
+    urls: ["https://orama.gupy.io"]
+  - name: "Genial Investimentos"
+    macro: "Financeiro"
+    urls: ["https://genial.gupy.io"]
+  - name: "Mirae Asset"
+    macro: "Financeiro"
+    urls: ["https://miraeasset.gupy.io"]
+  - name: "Cyrela Brazil Realty"
+    macro: "Construção e Imóveis"
+    urls: ["https://cyrela.gupy.io"]
+  - name: "Even"
+    macro: "Construção e Imóveis"
+    urls: ["https://even.gupy.io"]
+  - name: "Rossi"
+    macro: "Construção e Imóveis"
+    urls: ["https://rossi.gupy.io"]
+  - name: "Gafisa"
+    macro: "Construção e Imóveis"
+    urls: ["https://gafisa.gupy.io"]
+  - name: "Helbor"
+    macro: "Construção e Imóveis"
+    urls: ["https://helbor.gupy.io"]
+  - name: "Plano&Plano"
+    macro: "Construção e Imóveis"
+    urls: ["https://planoeplano.gupy.io"]
+  - name: "Direcional"
+    macro: "Construção e Imóveis"
+    urls: ["https://direcionalengenharia.gupy.io"]
+  - name: "Cury"
+    macro: "Construção e Imóveis"
+    urls: ["https://cury.gupy.io"]
+  - name: "JHSF"
+    macro: "Construção e Imóveis"
+    urls: ["https://jhsf.gupy.io"]
+  - name: "Multiplan"
+    macro: "Varejo e Consumo"
+    urls: ["https://multiplan.gupy.io"]
+  - name: "Iguatemi"
+    macro: "Varejo e Consumo"
+    urls: ["https://iguatemi.gupy.io"]
+  - name: "Hospitales DASA"
+    macro: "Saúde"
+    urls: ["https://carreiras.gupy.io/dasa"]
+  - name: "Hapvida NotreDame"
+    macro: "Saúde"
+    urls: ["https://hapvida.gupy.io"]
+  - name: "SulAmérica Saúde"
+    macro: "Saúde"
+    urls: ["https://sulamericaseguros.gupy.io"]
+  - name: "Unimed BH"
+    macro: "Saúde"
+    urls: ["https://unimedbh.gupy.io"]
+  - name: "Unimed Rio"
+    macro: "Saúde"
+    urls: ["https://unimedrio.gupy.io"]
+  - name: "Grupo NotreDame Intermédica"
+    macro: "Saúde"
+    urls: ["https://gndi.gupy.io"]
+  - name: "Bluemed"
+    macro: "Saúde"
+    urls: ["https://bluemed.gupy.io"]
+  - name: "Droga Raia"
+    macro: "Saúde"
+    urls: ["https://carreiras.gupy.io/rd"]
+  - name: "Pague Menos"
+    macro: "Saúde"
+    urls: ["https://paguemenos.gupy.io"]
+  - name: "Panvel"
+    macro: "Saúde"
+    urls: ["https://panvel.gupy.io"]
+  - name: "Nissei"
+    macro: "Saúde"
+    urls: ["https://nissei.gupy.io"]
+  - name: "Dafiti"
+    macro: "Varejo e Consumo"
+    urls: ["https://dafiti.gupy.io"]
+  - name: "Netshoes"
+    macro: "Varejo e Consumo"
+    urls: ["https://netshoes.gupy.io"]
+  - name: "Magalu"
+    macro: "Varejo e Consumo"
+    urls: ["https://magalu.gupy.io"]
+  - name: "Americanas SA"
+    macro: "Varejo e Consumo"
+    urls: ["https://americanas.gupy.io"]
+  - name: "Casas Bahia"
+    macro: "Varejo e Consumo"
+    urls: ["https://grupocasasbahia.gupy.io"]
+  - name: "Submarino"
+    macro: "Varejo e Consumo"
+    urls: ["https://submarino.gupy.io"]
+  - name: "Shopee Brasil"
+    macro: "Varejo e Consumo"
+    urls: ["https://shopee.gupy.io"]
+  - name: "Mercado Livre"
+    macro: "Varejo e Consumo"
+    urls: ["https://mercadolivre.gupy.io"]
+  - name: "iFood"
+    macro: "Logística e Mobilidade"
+    urls: ["https://ifood.gupy.io", "https://carreiras.ifood.com.br"]
+  - name: "Rappi"
+    macro: "Logística e Mobilidade"
+    urls: ["https://rappi.gupy.io"]
+  - name: "99"
+    macro: "Logística e Mobilidade"
+    urls: ["https://carreiras.gupy.io/99"]
+  - name: "Cabify"
+    macro: "Logística e Mobilidade"
+    urls: ["https://cabify.gupy.io"]
+  - name: "FedEx Brasil"
+    macro: "Logística e Mobilidade"
+    urls: ["https://fedex.gupy.io"]
+  - name: "Kuehne+Nagel"
+    macro: "Logística e Mobilidade"
+    urls: ["https://kuehnenagel.gupy.io"]
+  - name: "DB Schenker"
+    macro: "Logística e Mobilidade"
+    urls: ["https://dbschenker.gupy.io"]
+  - name: "TV Globo"
+    macro: "Mídia e Entretenimento"
+    urls: ["https://globo.gupy.io"]
+  - name: "Bandeirantes"
+    macro: "Mídia e Entretenimento"
+    urls: ["https://band.com.br"]
+  - name: "SBT"
+    macro: "Mídia e Entretenimento"
+    urls: ["https://sbt.gupy.io"]
+  - name: "Paramount Brasil"
+    macro: "Mídia e Entretenimento"
+    urls: ["https://paramount.gupy.io"]
+  - name: "Warner Bros Discovery"
+    macro: "Mídia e Entretenimento"
+    urls: ["https://warnerbrosdiscovery.gupy.io"]
+  - name: "Estácio de Sá"
+    macro: "Educação"
+    urls: ["https://estacio.gupy.io"]
+  - name: "Unopar"
+    macro: "Educação"
+    urls: ["https://unopar.gupy.io"]
+  - name: "Anhanguera"
+    macro: "Educação"
+    urls: ["https://anhanguera.gupy.io"]
+  - name: "Uniderp"
+    macro: "Educação"
+    urls: ["https://uniderp.gupy.io"]
+  - name: "Uniasselvi"
+    macro: "Educação"
+    urls: ["https://uniasselvi.gupy.io"]
+  - name: "Descomplica"
+    macro: "Educação"
+    urls: ["https://descomplica.gupy.io"]
+  - name: "Arco Educação"
+    macro: "Educação"
+    urls: ["https://arcoeducacao.gupy.io"]
+  - name: "Vitru"
+    macro: "Educação"
+    urls: ["https://vitru.gupy.io"]
+  - name: "Ser Educacional"
+    macro: "Educação"
+    urls: ["https://sereducacional.gupy.io"]
+  - name: "Cruzeiro do Sul"
+    macro: "Educação"
+    urls: ["https://cruzeirodosul.gupy.io"]
+  - name: "FAAP"
+    macro: "Educação"
+    urls: ["https://faap.gupy.io"]
+  - name: "Insper"
+    macro: "Educação"
+    urls: ["https://insper.gupy.io"]
+  - name: "FGV"
+    macro: "Educação"
+    urls: ["https://fgv.gupy.io"]
+  - name: "ESPM"
+    macro: "Educação"
+    urls: ["https://espm.gupy.io"]
+  - name: "Mackenzie"
+    macro: "Educação"
+    urls: ["https://mackenzie.gupy.io"]
+  - name: "PUC-Rio"
+    macro: "Educação"
+    urls: ["https://puc.gupy.io"]
+  - name: "Light"
+    macro: "Energia e Utilities"
+    urls: ["https://light.gupy.io"]
+  - name: "Enel Distribuição"
+    macro: "Energia e Utilities"
+    urls: ["https://eneldistribuicao.gupy.io"]
+  - name: "Eletrobras"
+    macro: "Energia e Utilities"
+    urls: ["https://eletrobras.gupy.io"]
+  - name: "Cemig"
+    macro: "Energia e Utilities"
+    urls: ["https://cemig.gupy.io"]
+  - name: "Copasa"
+    macro: "Energia e Utilities"
+    urls: ["https://copasa.gupy.io"]
+  - name: "Sabesp"
+    macro: "Energia e Utilities"
+    urls: ["https://sabesp.gupy.io"]
+  - name: "Sanepar"
+    macro: "Energia e Utilities"
+    urls: ["https://sanepar.gupy.io"]
+  - name: "Corsan"
+    macro: "Energia e Utilities"
+    urls: ["https://corsan.gupy.io"]
+  - name: "Compagas"
+    macro: "Energia e Utilities"
+    urls: ["https://compagas.gupy.io"]
+  - name: "Naturgy"
+    macro: "Energia e Utilities"
+    urls: ["https://naturgy.gupy.io"]
+  - name: "Comgás"
+    macro: "Energia e Utilities"
+    urls: ["https://comgas.gupy.io"]
+  - name: "Youcom"
+    macro: "Varejo e Consumo"
+    urls: ["https://youcom.gupy.io"]

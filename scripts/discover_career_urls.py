@@ -77,20 +77,28 @@ def save_cache(cache):
 
 
 def load_known_url_map() -> dict[str, list[str]]:
-    path = ROOT / "data/seeds/known_career_urls.yaml"
-    if not path.exists():
-        return {}
-    with open(path, encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
-    out = {}
-    for c in data.get("companies", []):
-        key = normalize_name(c["name"])
-        if key:
-            out[key] = list(c.get("urls", []))
+    out: dict[str, list[str]] = {}
+    for filename in ("known_career_urls.yaml", "b3_slug_aliases.yaml"):
+        path = ROOT / "data/seeds" / filename
+        if not path.exists():
+            continue
+        with open(path, encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+        items = data.get("companies", data.get("aliases", []))
+        for c in items:
+            key = normalize_name(c["name"])
+            if not key:
+                continue
+            urls = list(c.get("urls", []))
+            out.setdefault(key, [])
+            for u in urls:
+                if u not in out[key]:
+                    out[key].append(u)
     return out
 
 
-KNOWN_URLS = load_known_url_map()
+def get_known_urls(name: str) -> list[str]:
+    return load_known_url_map().get(normalize_name(name), [])
 
 
 def candidate_urls(name: str) -> list[str]:
@@ -98,9 +106,7 @@ def candidate_urls(name: str) -> list[str]:
     parts = name.lower().split()
     short = parts[0] if parts else slug
     urls = []
-    key = normalize_name(name)
-    if key in KNOWN_URLS:
-        urls.extend(KNOWN_URLS[key])
+    urls.extend(get_known_urls(name))
     if len(slug) >= 5:
         urls.append(f"https://{slug}.gupy.io")
     if len(short) >= 5 and short != slug:

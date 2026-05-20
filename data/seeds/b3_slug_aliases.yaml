@@ -1,0 +1,235 @@
+# Mapeamento nome B3/razão social → slug Gupy conhecido (portal dedicado)
+aliases:
+  - name: "Arezzo"
+    urls:
+      - "https://azzas2154.gupy.io"
+  - name: "Assaí"
+    urls:
+      - "https://assai.gupy.io"
+  - name: "BRQ"
+    urls:
+      - "https://brq.gupy.io"
+      - "https://carreiras.gupy.io/brq"
+  - name: "Raia Drogasil"
+    urls:
+      - "https://carreiras.gupy.io/rd"
+      - "https://raiadrogasil.gupy.io"
+  - name: "Localiza"
+    urls:
+      - "https://localiza.gupy.io"
+  - name: "Movida"
+    urls:
+      - "https://movida.gupy.io"
+  - name: "Unidas"
+    urls:
+      - "https://unidas.gupy.io"
+  - name: "Oi"
+    urls:
+      - "https://oi.gupy.io"
+  - name: "Zenvia"
+    urls:
+      - "https://zenvia.gupy.io"
+  - name: "LWSA"
+    urls:
+      - "https://lwsa.gupy.io"
+  - name: "SulAmérica"
+    urls:
+      - "https://sulamerica.gupy.io"
+  - name: "Mapfre"
+    urls:
+      - "https://carreiras.gupy.io/mapfre"
+  - name: "Allianz"
+    urls:
+      - "https://carreiras.gupy.io/allianz"
+  - name: "Sompo Seguros"
+    urls:
+      - "https://sompo.gupy.io"
+  - name: "Banco BS2"
+    urls:
+      - "https://bs2.gupy.io"
+      - "https://bancobs2.gupy.io"
+  - name: "Banco Modal"
+    urls:
+      - "https://modal.gupy.io"
+  - name: "Crefisa"
+    urls:
+      - "https://crefisa.gupy.io"
+  - name: "Omni"
+    urls:
+      - "https://omni.gupy.io"
+  - name: "Grupo Soma"
+    urls:
+      - "https://gruposoma.gupy.io"
+  - name: "Track&Field"
+    urls:
+      - "https://tfcarreira.gupy.io"
+  - name: "Hering"
+    urls:
+      - "https://ciahering.gupy.io"
+      - "https://hering.gupy.io"
+  - name: "Alpargatas"
+    urls:
+      - "https://alpargatas.gupy.io"
+  - name: "Natura"
+    urls:
+      - "https://natura.gupy.io"
+  - name: "Pernambucanas"
+    urls:
+      - "https://pernambucanas.gupy.io"
+  - name: "Marisa"
+    urls:
+      - "https://carreiras.gupy.io/marisa"
+  - name: "Petz"
+    urls:
+      - "https://petz.gupy.io"
+  - name: "Fleury"
+    urls:
+      - "https://grupofleury.gupy.io"
+  - name: "Dasa"
+    urls:
+      - "https://carreiras.gupy.io/dasa"
+  - name: "Einstein"
+    urls:
+      - "https://einstein.gupy.io"
+  - name: "Aché"
+    urls:
+      - "https://vagasache.gupy.io"
+  - name: "Eurofarma"
+    urls:
+      - "https://eurofarma.gupy.io"
+  - name: "Suzano"
+    urls:
+      - "https://suzano.gupy.io"
+  - name: "Usiminas"
+    urls:
+      - "https://usiminas.gupy.io"
+  - name: "WEG"
+    urls:
+      - "https://weg.gupy.io"
+  - name: "Embraer"
+    urls:
+      - "https://embraer.gupy.io"
+  - name: "Randon"
+    urls:
+      - "https://randon.gupy.io"
+  - name: "Tupy"
+    urls:
+      - "https://tupy.gupy.io"
+  - name: "Honda"
+    urls:
+      - "https://honda.gupy.io"
+  - name: "Yamaha"
+    urls:
+      - "https://yamaha.gupy.io"
+  - name: "Ipiranga"
+    urls:
+      - "https://ipiranga.gupy.io"
+  - name: "AES Brasil"
+    urls:
+      - "https://carreiras.gupy.io/aes"
+  - name: "BRK Ambiental"
+    urls:
+      - "https://brk.gupy.io"
+  - name: "Aegea"
+    urls:
+      - "https://aegea.gupy.io"
+  - name: "JBS"
+    urls:
+      - "https://grupojbs.gupy.io"
+  - name: "Marfrig"
+    urls:
+      - "https://marfrig.gupy.io"
+  - name: "Bauducco"
+    urls:
+      - "https://bauducco.gupy.io"
+  - name: "Ambev"
+    urls:
+      - "https://ambev.gupy.io"
+  - name: "Stefanini"
+    urls:
+      - "https://stefanini.gupy.io"
+  - name: "Totvs"
+    urls:
+      - "https://carreiras.gupy.io/totvs"
+  - name: "Locaweb"
+    urls:
+      - "https://locaweb.gupy.io"
+  - name: "Stone"
+    urls:
+      - "https://stone.gupy.io"
+  - name: "PagSeguro"
+    urls:
+      - "https://pagseguro.gupy.io"
+  - name: "Cyrela"
+    urls:
+      - "https://cyrela.gupy.io"
+  - name: "Tenda"
+    urls:
+      - "https://tenda.gupy.io"
+  - name: "Rumo"
+    urls:
+      - "https://rumolog.gupy.io"
+  - name: "JSL"
+    urls:
+      - "https://jsl.gupy.io"
+  - name: "Total Express"
+    urls:
+      - "https://totalexpress.gupy.io"
+  - name: "Globo"
+    urls:
+      - "https://globo.gupy.io"
+  - name: "Record"
+    urls:
+      - "https://recordtv.gupy.io"
+  - name: "Magazine Luiza"
+    urls:
+      - "https://magazineluiza.gupy.io"
+      - "https://magalu.gupy.io"
+  - name: "Havan"
+    urls:
+      - "https://havan.gupy.io"
+  - name: "Riachuelo"
+    urls:
+      - "https://riachuelo.gupy.io"
+  - name: "Carrefour Brasil"
+    urls:
+      - "https://carrefour.gupy.io"
+  - name: "Grupo Mateus"
+    urls:
+      - "https://grupomateus.gupy.io"
+  - name: "Grendene"
+    urls:
+      - "https://grendene.gupy.io"
+  - name: "Tramontina"
+    urls:
+      - "https://tramontina.gupy.io"
+  - name: "MRV"
+    urls:
+      - "https://mrv.gupy.io"
+  - name: "Neoenergia"
+    urls:
+      - "https://carreiras.gupy.io/neoenergia"
+  - name: "Copel"
+    urls:
+      - "https://copel.gupy.io"
+  - name: "CPFL Energia"
+    urls:
+      - "https://cpflenergia.gupy.io"
+  - name: "Eneva"
+    urls:
+      - "https://eneva.gupy.io"
+  - name: "Ultrapar"
+    urls:
+      - "https://ultrapar.gupy.io"
+  - name: "Smart Fit"
+    urls:
+      - "https://carreiras.gupy.io/smartfit"
+  - name: "Azul"
+    urls:
+      - "https://voeazul.gupy.io"
+  - name: "GOL"
+    urls:
+      - "https://gol.gupy.io"
+  - name: "CVC"
+    urls:
+      - "https://cvc.gupy.io"

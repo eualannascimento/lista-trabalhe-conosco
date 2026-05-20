@@ -26,6 +26,7 @@ def main():
         env={"DISCOVER_LIMIT": limit},
     )
     run([sys.executable, "scripts/expand_ready_from_profiles.py"])
+    run([sys.executable, "scripts/probe_seed_urls.py"])
     run([sys.executable, "scripts/ingest_batch.py"])
     run([sys.executable, "scripts/audit_hygiene.py"])
 
