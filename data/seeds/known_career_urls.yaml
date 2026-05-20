@@ -1,0 +1,102 @@
+# URLs curadas (prioridade na descoberta) — verificação forte obrigatória
+companies:
+  - name: "Sicoob"
+    macro: "Financeiro"
+    urls:
+      - "https://carreiras.gupy.io/sicoob"
+  - name: "Unicred Centro-Oeste"
+    macro: "Financeiro"
+    urls:
+      - "https://unicred.gupy.io"
+  - name: "Algar Telecom"
+    macro: "Energia e Utilities"
+    urls:
+      - "https://algar.gupy.io"
+  - name: "Anima Holding"
+    macro: "Educação"
+    urls:
+      - "https://anima.gupy.io"
+  - name: "Cogna Educação"
+    macro: "Educação"
+    urls:
+      - "https://cogna.gupy.io"
+  - name: "Porto Seguro"
+    macro: "Financeiro"
+    urls:
+      - "https://porto.gupy.io"
+  - name: "Arezzo"
+    macro: "Varejo e Consumo"
+    urls:
+      - "https://azzas2154.gupy.io"
+  - name: "Boticário"
+    macro: "Varejo e Consumo"
+    urls:
+      - "https://grupoboticario.gupy.io"
+  - name: "Rede D'Or"
+    macro: "Saúde"
+    urls:
+      - "https://rededor.gupy.io"
+  - name: "Raízen"
+    macro: "Agro e Alimentos"
+    urls:
+      - "https://genteraizen.gupy.io"
+  - name: "Vibra"
+    macro: "Energia e Utilities"
+    urls:
+      - "https://vibraenergia.gupy.io"
+  - name: "Equatorial"
+    macro: "Energia e Utilities"
+    urls:
+      - "https://equatorialenergia.gupy.io"
+  - name: "Minerva"
+    macro: "Agro e Alimentos"
+    urls:
+      - "https://minervafoods.gupy.io"
+  - name: "Piracanjuba"
+    macro: "Agro e Alimentos"
+    urls:
+      - "https://piracanjuba.gupy.io"
+  - name: "Mitre"
+    macro: "Construção e Imóveis"
+    urls:
+      - "https://mitrerealty.gupy.io"
+  - name: "UOL"
+    macro: "Mídia e Entretenimento"
+    urls:
+      - "https://uol.gupy.io"
+  - name: "Wildlife"
+    macro: "Mídia e Entretenimento"
+    urls:
+      - "https://boards.greenhouse.io/wildlifestudios"
+  - name: "Nubank"
+    macro: "Financeiro"
+    urls:
+      - "https://boards.greenhouse.io/nubank"
+  - name: "Inter"
+    macro: "Financeiro"
+    urls:
+      - "https://boards.greenhouse.io/inter"
+  - name: "BTG Pactual"
+    macro: "Financeiro"
+    urls:
+      - "https://boards.greenhouse.io/btgpactual"
+  - name: "XP Inc"
+    macro: "Financeiro"
+    urls:
+      - "https://boards.greenhouse.io/xpinc"
+  - name: "QuintoAndar"
+    macro: "Construção e Imóveis"
+    urls:
+      - "https://boards.greenhouse.io/quintoandar"
+  - name: "VTEX"
+    macro: "Tecnologia"
+    urls:
+      - "https://job-boards.greenhouse.io/vtex"
+  - name: "RD Station"
+    macro: "Tecnologia"
+    urls:
+      - "https://boards.greenhouse.io/rdstation"
+  - name: "Agibank"
+    macro: "Financeiro"
+    urls:
+      - "https://job-boards.greenhouse.io/agibank"

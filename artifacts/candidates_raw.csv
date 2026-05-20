@@ -1,0 +1,592 @@
+Nome da Empresa,Segmento da Empresa,b3,top,revenue,employees,fortune,source
+ABC Brasil,Financeiro,True,False,True,False,False,company_seeds_data
+Agibank,Financeiro,True,False,True,False,False,company_seeds_data
+Alfa Financeira,Financeiro,True,False,True,False,False,company_seeds_data
+Asa,Financeiro,True,False,True,False,False,company_seeds_data
+Banco ABC,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Bari,Financeiro,True,False,True,False,False,company_seeds_data
+Banco BMG,Financeiro,True,False,True,False,False,company_seeds_data
+Banco BMP,Financeiro,True,False,True,False,False,company_seeds_data
+Banco BS2,Financeiro,True,False,True,False,False,company_seeds_data
+Banco C6,Financeiro,True,False,True,False,False,company_seeds_data
+Banco da China Brasil,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Daycoval,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Digimais,Financeiro,True,False,True,False,False,company_seeds_data
+Banco do Nordeste,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Fibra,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Guanabara,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Industrial,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Master,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Mercantil,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Modal,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Original,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Pan,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Paulista,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Pine,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Rabobank International Brasil,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Rendimento,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Rodobens,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Santander Brasil,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Semear,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Sofisa,Financeiro,True,False,True,False,False,company_seeds_data
+Banco Topázio,Financeiro,True,False,True,False,False,company_seeds_data
+Banestes,Financeiro,True,False,True,False,False,company_seeds_data
+Banrisul,Financeiro,True,False,True,False,False,company_seeds_data
+BB Seguridade,Financeiro,True,False,True,False,False,company_seeds_data
+Banco do Brasil,Financeiro,True,False,True,False,False,company_seeds_data
+Bradesco,Financeiro,True,False,True,False,False,company_seeds_data
+BRB,Financeiro,True,False,True,False,False,company_seeds_data
+Caixa Seguridade,Financeiro,True,False,True,False,False,company_seeds_data
+Crefisa,Financeiro,True,False,True,False,False,company_seeds_data
+Inter,Financeiro,True,False,True,False,False,company_seeds_data
+Itaú Unibanco,Financeiro,True,False,True,False,False,company_seeds_data
+Nubank,Financeiro,True,False,True,False,False,company_seeds_data
+PagSeguro,Financeiro,True,False,True,False,False,company_seeds_data
+Paraná Banco,Financeiro,True,False,True,False,False,company_seeds_data
+Safra,Financeiro,True,False,True,False,False,company_seeds_data
+Santander,Financeiro,True,False,True,False,False,company_seeds_data
+Sicoob,Financeiro,True,False,True,False,False,company_seeds_data
+Sicredi,Financeiro,True,False,True,False,False,company_seeds_data
+Stone,Financeiro,True,False,True,False,False,company_seeds_data
+Unicred,Financeiro,True,False,True,False,False,company_seeds_data
+XP Inc,Financeiro,True,False,True,False,False,company_seeds_data
+Porto Seguro,Financeiro,False,True,True,False,False,company_seeds_data
+SulAmérica,Financeiro,False,True,True,False,False,company_seeds_data
+Mapfre,Financeiro,False,True,True,False,False,company_seeds_data
+Allianz,Financeiro,False,True,True,False,False,company_seeds_data
+HDI Seguros,Financeiro,False,True,True,False,False,company_seeds_data
+Tokio Marine,Financeiro,False,True,True,False,False,company_seeds_data
+Sompo Seguros,Financeiro,False,True,True,False,False,company_seeds_data
+Zurich Brasil,Financeiro,False,True,True,False,False,company_seeds_data
+Mongeral Aegon,Financeiro,False,True,True,False,False,company_seeds_data
+Caixa Econômica Federal,Financeiro,False,True,True,False,False,company_seeds_data
+Allos,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Arezzo,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Assaí,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Atacadão,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+C&A,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Carrefour Brasil,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Cencosud Brasil,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Centauro,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Companhia Brasileira de Distribuição,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+GPA,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Grupo Mateus,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Grupo SBF,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Havan,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Lojas Americanas,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Lojas Renner,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Magazine Luiza,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Marisa,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Meliuz,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+MRV&Co,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Multilaser,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Natura,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Petz,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Pernambucanas,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Riachuelo,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Sendas,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Smart Fit,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Via,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Vivara,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Yduqs,Varejo e Consumo,True,False,True,False,False,company_seeds_data
+Grupo Pão de Açúcar,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+O Boticário,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Grupo Soma,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Decathlon Brasil,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Zaffari,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Muffato,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Cooperativa Santa Clara,Varejo e Consumo,False,True,True,False,False,company_seeds_data
+Aeris,Indústria,True,False,True,False,False,company_seeds_data
+Alpargatas,Indústria,True,False,True,False,False,company_seeds_data
+Armac,Indústria,True,False,True,False,False,company_seeds_data
+Braskem,Indústria,True,False,True,False,False,company_seeds_data
+CSN,Indústria,True,False,True,False,False,company_seeds_data
+Dexco,Indústria,True,False,True,False,False,company_seeds_data
+Embraer,Indústria,True,False,True,False,False,company_seeds_data
+Gerdau,Indústria,True,False,True,False,False,company_seeds_data
+Grendene,Indústria,True,False,True,False,False,company_seeds_data
+Klabin,Indústria,True,False,True,False,False,company_seeds_data
+Marcopolo,Indústria,True,False,True,False,False,company_seeds_data
+Metalúrgica Gerdau,Indústria,True,False,True,False,False,company_seeds_data
+Motiva,Indústria,True,False,True,False,False,company_seeds_data
+Nexa,Indústria,True,False,True,False,False,company_seeds_data
+Petrobras,Indústria,True,False,True,False,False,company_seeds_data
+Randon,Indústria,True,False,True,False,False,company_seeds_data
+Suzano,Indústria,True,False,True,False,False,company_seeds_data
+Tupy,Indústria,True,False,True,False,False,company_seeds_data
+Usiminas,Indústria,True,False,True,False,False,company_seeds_data
+Vale,Indústria,True,False,True,False,False,company_seeds_data
+WEG,Indústria,True,False,True,False,False,company_seeds_data
+Wilson Sons,Indústria,True,False,True,False,False,company_seeds_data
+Yara Brasil,Indústria,True,False,True,False,False,company_seeds_data
+Tramontina,Indústria,False,True,True,False,False,company_seeds_data
+Fras-le,Indústria,False,True,True,False,False,company_seeds_data
+Schulz,Indústria,False,True,True,False,False,company_seeds_data
+WEG Equipamentos,Indústria,False,True,True,False,False,company_seeds_data
+Ambev,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Bauducco,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+BRF,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Camil,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+JBS,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Marfrig,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Minerva,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+M Dias Branco,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Piracanjuba,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+São Martinho,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+SLC Agrícola,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Tereos,Agro e Alimentos,True,False,True,False,False,company_seeds_data
+Cargill Brasil,Agro e Alimentos,False,True,True,False,False,company_seeds_data
+Nestlé Brasil,Agro e Alimentos,False,True,True,False,False,company_seeds_data
+Heineken Brasil,Agro e Alimentos,False,True,True,False,False,company_seeds_data
+Coca-Cola Brasil,Agro e Alimentos,False,True,True,False,False,company_seeds_data
+PepsiCo Brasil,Agro e Alimentos,False,True,True,False,False,company_seeds_data
+AES Brasil,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Auren,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Celesc,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Cemig,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Copel,Energia e Utilities,True,False,True,False,False,company_seeds_data
+CPFL Energia,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Eletrobras,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Eneva,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Engie Brasil,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Equatorial Energia,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Isa CTEEP,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Neoenergia,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Raízen,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Sabesp,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Taesa,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Transmissão Paulista,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Ultrapar,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Vibra,Energia e Utilities,True,False,True,False,False,company_seeds_data
+Comgás,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Light,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Enel Brasil,Energia e Utilities,False,True,True,False,False,company_seeds_data
+EDP Brasil,Energia e Utilities,False,True,True,False,False,company_seeds_data
+BRK Ambiental,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Aegea,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Sanepar,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Copasa,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Cagece,Energia e Utilities,False,True,True,False,False,company_seeds_data
+Alliar,Saúde,True,False,True,False,False,company_seeds_data
+Dasa,Saúde,True,False,True,False,False,company_seeds_data
+Diagnosticos da América,Saúde,True,False,True,False,False,company_seeds_data
+Fleury,Saúde,True,False,True,False,False,company_seeds_data
+Hapvida,Saúde,True,False,True,False,False,company_seeds_data
+Hypera,Saúde,True,False,True,False,False,company_seeds_data
+Kora Saúde,Saúde,True,False,True,False,False,company_seeds_data
+NotreDame Intermédica,Saúde,True,False,True,False,False,company_seeds_data
+Odontoprev,Saúde,True,False,True,False,False,company_seeds_data
+Qualicorp,Saúde,True,False,True,False,False,company_seeds_data
+Rede D'Or,Saúde,True,False,True,False,False,company_seeds_data
+Einstein,Saúde,False,True,True,False,False,company_seeds_data
+Sírio-Libanês,Saúde,False,True,True,False,False,company_seeds_data
+Oncoclínicas,Saúde,False,True,True,False,False,company_seeds_data
+Grupo São Francisco,Saúde,False,True,True,False,False,company_seeds_data
+Prevent Senior,Saúde,False,True,True,False,False,company_seeds_data
+Locaweb,Tecnologia,True,False,True,False,False,company_seeds_data
+LWSA,Tecnologia,True,False,True,False,False,company_seeds_data
+Positivo,Tecnologia,True,False,True,False,False,company_seeds_data
+Totvs,Tecnologia,True,False,True,False,False,company_seeds_data
+Valid,Tecnologia,True,False,True,False,False,company_seeds_data
+VTEX,Tecnologia,True,False,True,False,False,company_seeds_data
+Zenvia,Tecnologia,True,False,True,False,False,company_seeds_data
+Accenture Brasil,Tecnologia,False,True,True,False,False,company_seeds_data
+Stefanini,Tecnologia,False,True,True,False,False,company_seeds_data
+CI&T,Tecnologia,False,True,True,False,False,company_seeds_data
+BRQ,Tecnologia,False,True,True,False,False,company_seeds_data
+Thoughtworks Brasil,Tecnologia,False,True,True,False,False,company_seeds_data
+Microsoft Brasil,Tecnologia,False,True,True,False,False,company_seeds_data
+Google Brasil,Tecnologia,False,True,True,False,False,company_seeds_data
+Amazon Brasil,Tecnologia,False,True,True,False,False,company_seeds_data
+Azul,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+GOL,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+JSL,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+Localiza,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+Movida,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+Rumo,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+Unidas,Logística e Mobilidade,True,False,True,False,False,company_seeds_data
+Correios,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+FedEx Brasil,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+DHL Brasil,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+iFood,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+Loggi,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+Mercado Livre,Logística e Mobilidade,False,True,True,False,False,company_seeds_data
+Cyrela,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Even,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Helbor,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+JHSF,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+MRV,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Plano&Plano,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Tenda,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Tecnisa,Construção e Imóveis,True,False,True,False,False,company_seeds_data
+Brookfield Brasil,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+QuintoAndar,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+Lavvi,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+Direcional,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+Trisul,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+Cury,Construção e Imóveis,False,True,True,False,False,company_seeds_data
+Anima,Educação,True,False,True,False,False,company_seeds_data
+Cogna,Educação,True,False,True,False,False,company_seeds_data
+Cruzeiro do Sul Educacional,Educação,True,False,True,False,False,company_seeds_data
+Ser Educacional,Educação,True,False,True,False,False,company_seeds_data
+Vasta Educação,Educação,True,False,True,False,False,company_seeds_data
+Estácio,Educação,False,True,True,False,False,company_seeds_data
+Kroton,Educação,False,True,True,False,False,company_seeds_data
+Grupo Salta,Educação,False,True,True,False,False,company_seeds_data
+Bernoulli,Educação,False,True,True,False,False,company_seeds_data
+Globo,Mídia e Entretenimento,True,False,True,False,False,company_seeds_data
+Telefônica Brasil,Mídia e Entretenimento,True,False,True,False,False,company_seeds_data
+Record,Mídia e Entretenimento,False,True,True,False,False,company_seeds_data
+Band,Mídia e Entretenimento,False,True,True,False,False,company_seeds_data
+UOL,Mídia e Entretenimento,False,True,True,False,False,company_seeds_data
+Spotify Brasil,Mídia e Entretenimento,False,True,True,False,False,company_seeds_data
+CCR,Serviços e Outros,True,False,True,False,False,company_seeds_data
+Ecorodovias,Serviços e Outros,True,False,True,False,False,company_seeds_data
+VLI,Serviços e Outros,False,True,True,False,False,company_seeds_data
+CCR Rio,Serviços e Outros,False,True,True,False,False,company_seeds_data
+Deloitte Brasil,Serviços e Outros,False,True,True,False,False,company_seeds_data
+PwC Brasil,Serviços e Outros,False,True,True,False,False,company_seeds_data
+KPMG Brasil,Serviços e Outros,False,True,True,False,False,company_seeds_data
+EY Brasil,Serviços e Outros,False,True,True,False,False,company_seeds_data
+BrMalls,Varejo e Consumo,False,True,True,False,False,associations_extra
+Iguatemi,Varejo e Consumo,True,False,False,False,False,associations_extra
+Multiplan,Varejo e Consumo,True,False,False,False,False,associations_extra
+Aliansce Sonae,Varejo e Consumo,False,True,False,False,False,associations_extra
+Grupo Big,Varejo e Consumo,False,True,False,False,False,associations_extra
+Savegnago,Varejo e Consumo,False,True,False,False,False,associations_extra
+Comper,Varejo e Consumo,False,True,False,False,False,associations_extra
+Bistek,Varejo e Consumo,False,True,False,False,False,associations_extra
+Cooperativa Três Tentos,Agro e Alimentos,False,True,False,False,False,associations_extra
+Copersucar,Agro e Alimentos,True,False,False,False,False,associations_extra
+Seara,Agro e Alimentos,False,True,False,False,False,associations_extra
+Friboi,Agro e Alimentos,False,True,False,False,False,associations_extra
+Cutrale,Agro e Alimentos,False,True,False,False,False,associations_extra
+São Paulo Turismo,Mídia e Entretenimento,False,True,False,False,False,associations_extra
+Metrô São Paulo,Serviços e Outros,False,True,False,True,False,associations_extra
+CPTM,Serviços e Outros,False,True,False,True,False,associations_extra
+Infraero,Serviços e Outros,False,True,False,True,False,associations_extra
+Embratel,Energia e Utilities,False,True,False,False,False,associations_extra
+Claro,Energia e Utilities,False,True,True,False,False,associations_extra
+Oi,Energia e Utilities,False,True,True,False,False,associations_extra
+TIM,Energia e Utilities,False,True,True,False,False,associations_extra
+Algar,Energia e Utilities,False,True,False,False,False,associations_extra
+Unimed Nacional,Saúde,False,True,False,False,False,associations_extra
+Amil,Saúde,False,True,False,False,False,associations_extra
+Bradesco Saúde,Saúde,False,True,False,False,False,associations_extra
+Porto Seguro Saúde,Saúde,False,True,False,False,False,associations_extra
+MetLife,Financeiro,False,True,False,False,True,associations_extra
+Chubb,Financeiro,False,True,False,False,True,associations_extra
+AIG,Financeiro,False,False,False,False,True,associations_extra
+CNP Seguros,Financeiro,False,True,False,False,False,associations_extra
+Banco da Amazônia,Financeiro,False,True,False,True,False,associations_extra
+Banco do Estado do Espírito Santo,Financeiro,True,False,False,False,False,associations_extra
+Banco da Bahia,Financeiro,False,True,False,False,False,associations_extra
+Banco Regional de Desenvolvimento do Extremo Sul,Financeiro,False,True,False,False,False,associations_extra
+Wiz,Financeiro,True,False,False,False,False,associations_extra
+AgroGalaxy,Agro e Alimentos,True,False,False,False,False,associations_extra
+3Tentos,Agro e Alimentos,True,False,False,False,False,associations_extra
+Bombril,Varejo e Consumo,True,False,False,False,False,associations_extra
+Melitta,Varejo e Consumo,False,True,False,False,False,associations_extra
+Ypê,Varejo e Consumo,False,True,False,False,False,associations_extra
+Indústrias Colombo,Varejo e Consumo,False,True,False,False,False,associations_extra
+Lojas Colombo,Varejo e Consumo,False,True,False,False,False,associations_extra
+Trackmob,Tecnologia,False,True,False,False,False,associations_extra
+Boa Vista Serviços,Financeiro,True,False,False,False,False,associations_extra
+Serasa,Financeiro,False,True,False,False,False,associations_extra
+Transunion Brasil,Financeiro,False,True,False,False,False,associations_extra
+Equifax Brasil,Financeiro,False,True,False,False,False,associations_extra
+StoneCo,Financeiro,True,False,False,False,False,associations_extra
+Pismo,Financeiro,False,True,False,False,False,associations_extra
+Dock,Financeiro,True,False,False,False,False,associations_extra
+Cielo,Financeiro,False,True,False,False,False,associations_extra
+Rede,Financeiro,False,True,False,False,False,associations_extra
+Getnet,Financeiro,False,True,False,False,False,associations_extra
+C&A Modas,Varejo e Consumo,False,True,False,False,False,associations_extra
+Renner,Varejo e Consumo,True,False,False,False,False,associations_extra
+Camicado,Varejo e Consumo,False,True,False,False,False,associations_extra
+Youcom,Varejo e Consumo,False,True,False,False,False,associations_extra
+Farm,Varejo e Consumo,True,False,False,False,False,associations_extra
+Animale,Varejo e Consumo,True,False,False,False,False,associations_extra
+Shoulder,Varejo e Consumo,True,False,False,False,False,associations_extra
+Reserva,Varejo e Consumo,False,True,False,False,False,associations_extra
+Ellus,Varejo e Consumo,False,True,False,False,False,associations_extra
+Colcci,Varejo e Consumo,False,True,False,False,False,associations_extra
+Petroleo Brasileiro S.A. Petrobras,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Banco BRADESCO,Financeiro,True,False,True,False,False,brapi_quote_list
+Banco BRASIL,Financeiro,True,False,True,False,False,brapi_quote_list
+Cosan,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Itausa,Financeiro,True,False,True,False,False,brapi_quote_list
+Companhia PARANAENSE DE ENERGIA - COPEL,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Cogna Educação,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Csn Mineração,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia SANEAMENTO BASICO EST SAO PAULO,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Grupo Casas Bahia,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Vamos Locação De Caminhões. Máquinas E Equip.,Financeiro,True,False,True,False,False,brapi_quote_list
+Banco BTG PACTUAL,Financeiro,True,False,True,False,False,brapi_quote_list
+Localiza Rent A Car,Financeiro,True,False,True,False,False,brapi_quote_list
+Companhia ENERGETICA DE MINAS GERAIS - CEMIG,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+CVC BRASIL OPERADORA E AGÊNCompanhia DE VIAGENS,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Brava Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Raia Drogasil,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Usinas Sid De Minas Gerais S.A.-Usiminas,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia SIDERURGICA NACIONAL,Indústria,True,False,True,False,False,brapi_quote_list
+Prio,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Ultrapar Participacoes,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Mrv Engenharia E Participacoes,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Sendas Distribuidora,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Cea Modas,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Equatorial,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Axia3,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Jhsf Participacoes,Financeiro,True,False,True,False,False,brapi_quote_list
+Oncoclinicas Do Brasil Servicos Medicos,Saúde,True,False,True,False,False,brapi_quote_list
+Mbrf3,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Natura Cosmeticos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Vibra Energia,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Smartfit Escola De Ginástica E Dança,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Bb Seguridade Participações,Financeiro,True,False,True,False,False,brapi_quote_list
+Motiva Infraestrutura De Mobilidade,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Rede Dor São Luiz,Saúde,True,False,True,False,False,brapi_quote_list
+Embj3,Tecnologia,True,False,True,False,False,brapi_quote_list
+Direcional Engenharia,Financeiro,True,False,True,False,False,brapi_quote_list
+Cyrela Brazil Realty S.A.Empreend E Part,Financeiro,True,False,True,False,False,brapi_quote_list
+Hapvida Participacoes E Investimentos,Saúde,True,False,True,False,False,brapi_quote_list
+Companhia SANEAMENTO DE MINAS GERAIS-COPASA MG,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Yduqs Participacoes,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Plano & Plano Desenvolvimento Imobiliário,Financeiro,True,False,True,False,False,brapi_quote_list
+Ecorodovias Infraestrutura E Logística,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Saud3,Saúde,True,False,True,False,False,brapi_quote_list
+Movida Participacoes,Financeiro,True,False,True,False,False,brapi_quote_list
+Vivara Participaçoes,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Azevedo & Travassos Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Cury Construtora E Incorporadora,Financeiro,True,False,True,False,False,brapi_quote_list
+Lojas Quero-Quero S/A,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Simpar,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Ambipar Participacoes E Empreendimentos S/A,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Companhia Brasileira De Alumínio,Indústria,True,False,True,False,False,brapi_quote_list
+Multiplan - Empreend Imobiliarios,Financeiro,True,False,True,False,False,brapi_quote_list
+Azzas 2154,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Auren Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Empreendimentos Pague Menos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Gps Participacoes E Empreendimentos,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Azevedo E Travassos,Indústria,True,False,True,False,False,brapi_quote_list
+Recrusul,Indústria,True,False,True,False,False,brapi_quote_list
+Grupo Multi,Tecnologia,True,False,True,False,False,brapi_quote_list
+Caixa Seguridade Participações,Financeiro,True,False,True,False,False,brapi_quote_list
+Compass Gas E Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Cm Hospitalar,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Construtora Tenda,Financeiro,True,False,True,False,False,brapi_quote_list
+Americanas,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Petrorecôncavo,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Qualicorp Consultoria E Corretora De Seguros,Saúde,True,False,True,False,False,brapi_quote_list
+Randoncorp,Indústria,True,False,True,False,False,brapi_quote_list
+Armac Locação. Logística E Serviços,Financeiro,True,False,True,False,False,brapi_quote_list
+Energisa,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Riaa3,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Isa Energia Brasil,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Paranapanema,Indústria,True,False,True,False,False,brapi_quote_list
+Engie Brasil Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Even Construtora E Incorporadora,Financeiro,True,False,True,False,False,brapi_quote_list
+Bradespar,Financeiro,True,False,True,False,False,brapi_quote_list
+Ez Tec Empreend. E Participacoes,Financeiro,True,False,True,False,False,brapi_quote_list
+Axia7,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+União Pet Participações,Indústria,True,False,True,False,False,brapi_quote_list
+Positivo Tecnologia,Tecnologia,True,False,True,False,False,brapi_quote_list
+Hidrovias Do Brasil,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Axia6,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Mills Locação. Serviços E Logística,Financeiro,True,False,True,False,False,brapi_quote_list
+Moura Dubeux Engenharia S/A,Financeiro,True,False,True,False,False,brapi_quote_list
+Banco ESTADO DO RIO GRANDE DO SUL,Financeiro,True,False,True,False,False,brapi_quote_list
+Transmissora Aliança De Energia Elétrica,Indústria,True,False,True,False,False,brapi_quote_list
+Três Tentos Agroindustrial S/A,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Intelbras S.A. Ind De Telec Eletronica Brasileira,Tecnologia,True,False,True,False,False,brapi_quote_list
+Mitre Realty Empreendimentos E Participações,Financeiro,True,False,True,False,False,brapi_quote_list
+Companhia SANEAMENTO DO PARANA - SANEPAR,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Companhia FERRO LIGAS DA BAHIA - FERBA,Indústria,True,False,True,False,False,brapi_quote_list
+Vulcabras,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Kepler Weber,Indústria,True,False,True,False,False,brapi_quote_list
+Track & Field Co,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Bemobi Mobile Tech,Tecnologia,True,False,True,False,False,brapi_quote_list
+Gafisa,Financeiro,True,False,True,False,False,brapi_quote_list
+Irani Papel E Embalagem,Indústria,True,False,True,False,False,brapi_quote_list
+Priner Serviços Industriais,Indústria,True,False,True,False,False,brapi_quote_list
+Alupar Investimento S/A,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Orizon Valorizacao De Residuos,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Jalles Machado,Indústria,True,False,True,False,False,brapi_quote_list
+Lavvi Empreendimentos Imobiliários,Financeiro,True,False,True,False,False,brapi_quote_list
+Iochpe Maxion,Indústria,True,False,True,False,False,brapi_quote_list
+Boa Safra Sementes,Indústria,True,False,True,False,False,brapi_quote_list
+Helbor Empreendimentos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Vitru Educação,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Camil Alimentos,Indústria,True,False,True,False,False,brapi_quote_list
+Unifique Telecomunicações,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Valid Soluções,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Sequoia Logistica E Transportes,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+BRASILAGRO -Companhia BRAS DE PROP AGRICOLAS,Financeiro,True,False,True,False,False,brapi_quote_list
+Vgir11,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Mpm Corpóreos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Infracommerce Cxaas,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Desktop,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Oranjebtc S.A. - Educação E Investimento,Tecnologia,True,False,True,False,False,brapi_quote_list
+Pbg S/A,Indústria,True,False,True,False,False,brapi_quote_list
+Dimed S.A. Distribuidora De Medicamentos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Brbi Br Partners,Financeiro,True,False,True,False,False,brapi_quote_list
+Hospital Mater Dei S/A,Saúde,True,False,True,False,False,brapi_quote_list
+Oceanpact Servicos Maritimos,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Brisanet Serviços De Telecomunicações,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+M.Dias Branco S.A. Ind Com De Alimentos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Irb,Financeiro,True,False,True,False,False,brapi_quote_list
+Toky3,Tecnologia,True,False,True,False,False,brapi_quote_list
+Vittia,Indústria,True,False,True,False,False,brapi_quote_list
+Melnick Desenvolvimento Imobiliário,Indústria,True,False,True,False,False,brapi_quote_list
+Taurus Armas,Tecnologia,True,False,True,False,False,brapi_quote_list
+Allied Tecnologia,Tecnologia,True,False,True,False,False,brapi_quote_list
+Syn Prop E Tech,Financeiro,True,False,True,False,False,brapi_quote_list
+Log Commercial Properties,Indústria,True,False,True,False,False,brapi_quote_list
+Wiz Co Participações E Corretagem De Seguros,Financeiro,True,False,True,False,False,brapi_quote_list
+Hbr Realty Empreendimentos Imobiliarios S/A,Financeiro,True,False,True,False,False,brapi_quote_list
+Profarma Distrib Prod Farmaceuticos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Enjoei,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Mahle-Metal Leve,Indústria,True,False,True,False,False,brapi_quote_list
+Tegma Gestao Logistica,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Frasle Mobility,Indústria,True,False,True,False,False,brapi_quote_list
+Dexxos Participacoes,Indústria,True,False,True,False,False,brapi_quote_list
+International Meal Company Alimentacao,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Renova Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Blau Farmacêutica,Saúde,True,False,True,False,False,brapi_quote_list
+Unipar Carbocloro,Indústria,True,False,True,False,False,brapi_quote_list
+Fictor Alimentos,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Eucatex S.A. Industria E Comercio,Indústria,True,False,True,False,False,brapi_quote_list
+Romi,Indústria,True,False,True,False,False,brapi_quote_list
+Marisa Lojas,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Lps Brasil - Consultoria De Imoveis,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Viver Incorporadora E Construtora,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Eternit,Indústria,True,False,True,False,False,brapi_quote_list
+Lupatech,Indústria,True,False,True,False,False,brapi_quote_list
+Csu Digital,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Allpark Empreendimentos Participacoes Servicos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Biomm,Saúde,True,False,True,False,False,brapi_quote_list
+BRBBanco DE BRASILIA,Financeiro,True,False,True,False,False,brapi_quote_list
+Veste S.A. Estilo,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Aeris Ind. E Com. De Equip. Geracao De Energia S/A,Indústria,True,False,True,False,False,brapi_quote_list
+Minupar Participacoes,Indústria,True,False,True,False,False,brapi_quote_list
+D1000 Varejo Farma Participações,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Technos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Padtec Holding,Tecnologia,True,False,True,False,False,brapi_quote_list
+Unicasa Indústria De Móveis,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Embj3F,Tecnologia,True,False,True,False,False,brapi_quote_list
+Tpi - Triunfo Particip. E Invest.,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Haga S.A. Industria E Comercio,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Alliança Saúde E Participações,Saúde,True,False,True,False,False,brapi_quote_list
+Metisa Metalurgica Timboense,Indústria,True,False,True,False,False,brapi_quote_list
+Banco MERCANTIL DO BRASIL,Financeiro,True,False,True,False,False,brapi_quote_list
+Neogrid Participacoes,Tecnologia,True,False,True,False,False,brapi_quote_list
+Terra Santa Propriedades Agricolas,Financeiro,True,False,True,False,False,brapi_quote_list
+Agrogalaxy Participações,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Dotz,Tecnologia,True,False,True,False,False,brapi_quote_list
+Axia3F,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Saud3F,Saúde,True,False,True,False,False,brapi_quote_list
+Log-In Logistica Intermodal,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Westwing Comercio Varejista,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Inepar S.A. Industria E Construcoes,Indústria,True,False,True,False,False,brapi_quote_list
+Mbrf3F,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Wdcn3,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Whirlpool,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+T4F Entretenimento,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Pdg Realty S.A. Empreend E Participacoes,Financeiro,True,False,True,False,False,brapi_quote_list
+Automob Participações,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Equatorial Para Distribuidora De Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Snci11,Financeiro,True,False,True,False,False,brapi_quote_list
+Companhia FIACAO TECIDOS CEDRO CACHOEIRA,Indústria,True,False,True,False,False,brapi_quote_list
+Axia6F,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Manufatura De Brinquedos Estrela,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+BANESTES S.A. -Banco EST ESPIRITO SANTO,Financeiro,True,False,True,False,False,brapi_quote_list
+Hoteis Othon,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Sansuy S.A. Industria De Plasticos,Indústria,True,False,True,False,False,brapi_quote_list
+Sao Carlos Empreend E Participacoes,Financeiro,True,False,True,False,False,brapi_quote_list
+Alphaville,Financeiro,True,False,True,False,False,brapi_quote_list
+Ourofino,Saúde,True,False,True,False,False,brapi_quote_list
+Bardella S.A. Industrias Mecanicas,Indústria,True,False,True,False,False,brapi_quote_list
+Cambuci,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Axia7F,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Companhia ENERGETICA DE BRASILIA,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Fspe11,Financeiro,True,False,True,False,False,brapi_quote_list
+Fsrf11F,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Kivo11,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Isnn11,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Dohler,Indústria,True,False,True,False,False,brapi_quote_list
+Mangels Industrial,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia ENERGETICA DO CEARA - COELCE,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Banco AMAZONIA,Financeiro,True,False,True,False,False,brapi_quote_list
+Riaa3F,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Nexpe Participações,Financeiro,True,False,True,False,False,brapi_quote_list
+Alfa Holdings,Financeiro,True,False,True,False,False,brapi_quote_list
+Refinaria De Petroleos Manguinhos,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Nutriplant Industria E Comercio,Indústria,True,False,True,False,False,brapi_quote_list
+Grazziotin,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Fsrf11,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Emae - Empresa Metrop.Aguas Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Tronox Pigmentos Do Brasil,Indústria,True,False,True,False,False,brapi_quote_list
+Dvff11,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Trevisa Investimentos,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Electro Aco Altona,Indústria,True,False,True,False,False,brapi_quote_list
+Banco ESTADO DE SERGIPE S.A. - BANESE,Financeiro,True,False,True,False,False,brapi_quote_list
+Telec Brasileiras S.A. Telebras,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Dtcom - Direct To Company,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Centrais Elet De Santa Catarina,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Karsten,Indústria,True,False,True,False,False,brapi_quote_list
+Metalurgica Riosulense,Indústria,True,False,True,False,False,brapi_quote_list
+Energisa Mato Grosso-Distribuidora De Energia S/A,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Companhia TECIDOS SANTANENSE,Indústria,True,False,True,False,False,brapi_quote_list
+Pettenati S.A. Industria Textil,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia GAS DE SAO PAULO - COMGAS,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Renv11,Financeiro,True,False,True,False,False,brapi_quote_list
+Panatlantica,Indústria,True,False,True,False,False,brapi_quote_list
+Equatorial Maranhão Distribuidora De Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Ppla Participations Ltd.,Financeiro,True,False,True,False,False,brapi_quote_list
+Plascar Participacoes Industriais,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia ELETRICIDADE EST. DA BAHIA - COELBA,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Rede Energia Participações,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Wetzel,Indústria,True,False,True,False,False,brapi_quote_list
+Ctax3,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Mundial S.A. - Produtos De Consumo,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Wlm Part. E Comércio De Máquinas E Veículos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Companhia PARTICIPACOES ALIANCA DA BAHIA,Financeiro,True,False,True,False,False,brapi_quote_list
+Fspe11F,Financeiro,True,False,True,False,False,brapi_quote_list
+Toky3F,Tecnologia,True,False,True,False,False,brapi_quote_list
+Construtora Adolpho Lindenberg,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia HABITASUL DE PARTICIPACOES,Financeiro,True,False,True,False,False,brapi_quote_list
+Afluente Transmissão De Energia Elétrica S/A,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Atom Educação E Editora,Tecnologia,True,False,True,False,False,brapi_quote_list
+Fstu11F,Financeiro,True,False,True,False,False,brapi_quote_list
+Rio Paranapanema Energia,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Baumer,Saúde,True,False,True,False,False,brapi_quote_list
+Embpar Participacoes,Indústria,True,False,True,False,False,brapi_quote_list
+Revee,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Excelsior Alimentos,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Nordon Industrias Metalurgicas,Indústria,True,False,True,False,False,brapi_quote_list
+Companhia DISTRIB DE GAS DO RIO DE JANEIRO-CEG,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Elektro Redes,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+General Shopping E Outlets Do Brasil,Financeiro,True,False,True,False,False,brapi_quote_list
+Ampla Energia E Servicos,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Fertilizantes Heringer,Indústria,True,False,True,False,False,brapi_quote_list
+Hercules S.A. Fabrica De Talheres,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Wdcn3F,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Banco NORDESTE DO BRASIL,Financeiro,True,False,True,False,False,brapi_quote_list
+Arnd3,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Joao Fortes Engenharia,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Bioma Educação,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Sondotecnica Engenharia Solos,Indústria,True,False,True,False,False,brapi_quote_list
+Osx Brasil,Indústria,True,False,True,False,False,brapi_quote_list
+Mrs Logistica,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Textil Renauxview,Indústria,True,False,True,False,False,brapi_quote_list
+Banco MERCANTIL DE INVESTIMENTOS,Financeiro,True,False,True,False,False,brapi_quote_list
+Josapar-Joaquim Oliveira S.A. - Particip,Indústria,True,False,True,False,False,brapi_quote_list
+Rossi Residencial,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Axia5,Energia e Utilities,True,False,True,False,False,brapi_quote_list
+Porto Sudeste V.M.,Logística e Mobilidade,True,False,True,False,False,brapi_quote_list
+Ctax3F,Serviços e Outros,True,False,True,False,False,brapi_quote_list
+Belora Rdvc City Desenvolvimento Imobiliário,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Bicicletas Monark,Varejo e Consumo,True,False,True,False,False,brapi_quote_list
+Metalfrio Solutions,Indústria,True,False,True,False,False,brapi_quote_list
+B100,Financeiro,True,False,True,False,False,brapi_quote_list
+Arnd3F,Serviços e Outros,True,False,True,False,False,brapi_quote_list

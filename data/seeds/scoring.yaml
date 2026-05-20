@@ -1,0 +1,36 @@
+min_score: 4
+penalty_small_consulting: -3
+
+signals:
+  b3_listed: 3
+  revenue_1b_plus: 2
+  employees_2000_plus: 2
+  top_sector_leader: 2
+  fortune_global_br: 2
+
+exclude_name_patterns:
+  - "consulting"
+  - "consultoria"
+  - "wordpress-proxy"
+  - "analytics-ss"
+  - "analytics.inhire"
+  - "A Classificar"
+
+allowed_platform_hosts:
+  - ".gupy.io"
+  - "carreiras.gupy.io"
+  - "inhire.app"
+  - "inhire.com.br"
+  - "greenhouse.io"
+  - "myworkdayjobs.com"
+  - "lever.co"
+  - "successfactors"
+  - "sapsf.com"
+  - "pandape.infojobs"
+  - "vagas.com.br"
+  - "recrut.ai"
+  - "solides.jobs"
+  - "workable.com"
+  - "eightfold.ai"
+  - "csod.com"
+  - "izirh.io"

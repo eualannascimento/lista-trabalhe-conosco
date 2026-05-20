@@ -1,0 +1,58 @@
+Nome da Empresa,URL,Plataforma,Segmento da Empresa,motivo,acao_sugerida
+2comconsulting,https://2comconsulting.gupy.io,Gupy,Serviços e Outros,exclude_pattern,remover_ou_revalidar
+3corptechnology,https://3corptechnology.gupy.io,Gupy,Tecnologia,pattern:^3corp,remover_ou_revalidar
+3cservices,https://3cservices.gupy.io,Gupy,Serviços e Outros,pattern:^3cserv,remover_ou_revalidar
+3M,https://3m.wd1.myworkdayjobs.com/Search,Workday,Indústria,short_name,remover_ou_revalidar
+4mk,https://4mk.gupy.io,Gupy,Tecnologia,pattern:^4mk$,remover_ou_revalidar
+77sol,https://77sol.gupy.io,Gupy,Tecnologia,pattern:^77sol,remover_ou_revalidar
+A3consultoria,https://a3consultoria.gupy.io,Gupy,Serviços e Outros,exclude_pattern,remover_ou_revalidar
+Abaco,https://abaco.gupy.io,Gupy,Serviços e Outros,pattern:^abaco$,remover_ou_revalidar
+Abakids,https://abakids.gupy.io,Gupy,Educação,pattern:^abakids,remover_ou_revalidar
+ADP,https://jobs.adp.com,Site da Empresa,Serviços e Outros,short_name,remover_ou_revalidar
+Analytics,https://carreiras.gupy.io/analytics,Gupy,Tecnologia,exclude_pattern,remover_ou_revalidar
+Analytics-ss,https://carreiras.gupy.io/analyticsss,Gupy,Tecnologia,exclude_pattern,remover_ou_revalidar
+B3,https://carreiras.gupy.io/b3,Gupy,Financeiro,short_name,remover_ou_revalidar
+BASF,https://career5.successfactors.eu/career?company=C0000159936P,SuccessFactors,Indústria,short_name,remover_ou_revalidar
+BBC,https://careers.bbc.co.uk,Site da Empresa,Serviços e Outros,short_name,remover_ou_revalidar
+BHS,https://bhs.gupy.io,Gupy,Tecnologia,short_name,remover_ou_revalidar
+BMG,https://bmg.gupy.io,Gupy,Financeiro,short_name,remover_ou_revalidar
+BRF,https://carreiras.gupy.io/brf,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+C&A,https://cea.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+CCR,https://motiva.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+CI&T,https://jobs.lever.co/ciandt,Lever,Tecnologia,short_name,remover_ou_revalidar
+CSN,https://csn.gupy.io,Gupy,Indústria,short_name,remover_ou_revalidar
+Docs,https://docs.inhire.com.br,InHire,Tecnologia,exclude_pattern,remover_ou_revalidar
+EMS,https://ems.izirh.io,IziRH,Saúde,short_name,remover_ou_revalidar
+EY,https://www.ey.com/pt_br/careers,GigNow,Serviços e Outros,short_name,remover_ou_revalidar
+FIAP,https://alura-fiap-pm3.inhire.app/vagas,InHire,Educação,short_name,remover_ou_revalidar
+GPA,https://corporacaogpa.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+IBM,https://www.ibm.com/br-pt/careers,Brasio,Tecnologia,short_name,remover_ou_revalidar
+Inkrypton,https://carreiras.gupy.io/inkrypton,Gupy,Tecnologia,pattern:^inkrypton,remover_ou_revalidar
+ITV,https://www.itvjobs.com,Site da Empresa,Serviços e Outros,short_name,remover_ou_revalidar
+JBS,https://grupojbs.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+JHSF,https://jhsf.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+JSL,https://jsl.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+KMM,https://carreiras.gupy.io/kmm,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+KPMG,https://kpmg.com/br/pt/home/carreiras.html,Avature,Serviços e Outros,short_name,remover_ou_revalidar
+LEGO,https://lego.wd103.myworkdayjobs.com/LEGO_External,Workday,Tecnologia,short_name,remover_ou_revalidar
+Lenovo,https://jobs.lenovo.com,Site da Empresa,Tecnologia,exclude_pattern,remover_ou_revalidar
+LG,https://www.lg.com/global/careers,Manual,Tecnologia,short_name,remover_ou_revalidar
+LOUD,https://loud.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+LWSA,https://lwsa.gupy.io,Gupy,Tecnologia,short_name,remover_ou_revalidar
+MJV,https://mjv.inhire.app/vagas,InHire,Serviços e Outros,short_name,remover_ou_revalidar
+MRV,https://carreiras.gupy.io/mrv,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+New,https://new.inhire.com.br,InHire,Tecnologia,exclude_pattern,remover_ou_revalidar
+Novo,https://novo.inhire.com.br,InHire,Tecnologia,exclude_pattern,remover_ou_revalidar
+OEC,https://carreiras.gupy.io/oec,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+OXXO,https://oxxo.eightfold.ai/careers,Eightfold,Serviços e Outros,short_name,remover_ou_revalidar
+P&G,https://www.pgcareers.com/br/en,Workday,Serviços e Outros,short_name,remover_ou_revalidar
+QCA,https://qca.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+QUOD,https://vempraquod.gupy.io,Gupy,Financeiro,short_name,remover_ou_revalidar
+RBS,https://gruporbs.gupy.io,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+SAP,https://jobs.sap.com,Site da Empresa,Tecnologia,short_name,remover_ou_revalidar
+SBT,https://carreiras.gupy.io/sbt,Gupy,Serviços e Outros,short_name,remover_ou_revalidar
+VR,https://carreiras.gupy.io/vr,Gupy,Financeiro,short_name,remover_ou_revalidar
+VTEX,https://job-boards.greenhouse.io/vtex,Greenhouse,Tecnologia,short_name,remover_ou_revalidar
+WEG,https://weg.gupy.io,Gupy,Indústria,short_name,remover_ou_revalidar
+WEX,https://wexinc.wd5.myworkdayjobs.com/WEXInc,Workday,Financeiro,short_name,remover_ou_revalidar
+Wordpress-proxy,https://carreiras.gupy.io/wordpressproxy,Gupy,Tecnologia,exclude_pattern,remover_ou_revalidar

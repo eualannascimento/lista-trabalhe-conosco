@@ -1,0 +1,215 @@
+# Empresas grandes por associação setorial (não necessariamente B3)
+companies:
+  - name: "Atacadão"
+    macro: "Varejo e Consumo"
+    top: true
+    revenue: true
+  - name: "BrMalls"
+    macro: "Varejo e Consumo"
+    top: true
+    revenue: true
+  - name: "Iguatemi"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Multiplan"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Aliansce Sonae"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Grupo Big"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Savegnago"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Comper"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Bistek"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Cooperativa Três Tentos"
+    macro: "Agro e Alimentos"
+    top: true
+  - name: "Copersucar"
+    macro: "Agro e Alimentos"
+    b3: true
+  - name: "Seara"
+    macro: "Agro e Alimentos"
+    top: true
+  - name: "Friboi"
+    macro: "Agro e Alimentos"
+    top: true
+  - name: "Cutrale"
+    macro: "Agro e Alimentos"
+    top: true
+  - name: "Raízen"
+    macro: "Agro e Alimentos"
+    b3: true
+  - name: "São Paulo Turismo"
+    macro: "Mídia e Entretenimento"
+    top: true
+  - name: "Metrô São Paulo"
+    macro: "Serviços e Outros"
+    top: true
+    employees: true
+  - name: "CPTM"
+    macro: "Serviços e Outros"
+    top: true
+    employees: true
+  - name: "Infraero"
+    macro: "Serviços e Outros"
+    top: true
+    employees: true
+  - name: "Correios"
+    macro: "Logística e Mobilidade"
+    top: true
+    employees: true
+  - name: "Embratel"
+    macro: "Energia e Utilities"
+    top: true
+  - name: "Claro"
+    macro: "Energia e Utilities"
+    top: true
+    revenue: true
+  - name: "Oi"
+    macro: "Energia e Utilities"
+    top: true
+    revenue: true
+  - name: "TIM"
+    macro: "Energia e Utilities"
+    top: true
+    revenue: true
+  - name: "Algar"
+    macro: "Energia e Utilities"
+    top: true
+  - name: "Unimed Nacional"
+    macro: "Saúde"
+    top: true
+  - name: "Amil"
+    macro: "Saúde"
+    top: true
+  - name: "Bradesco Saúde"
+    macro: "Saúde"
+    top: true
+  - name: "Porto Seguro Saúde"
+    macro: "Saúde"
+    top: true
+  - name: "MetLife"
+    macro: "Financeiro"
+    top: true
+    fortune: true
+  - name: "Chubb"
+    macro: "Financeiro"
+    top: true
+    fortune: true
+  - name: "AIG"
+    macro: "Financeiro"
+    fortune: true
+  - name: "CNP Seguros"
+    macro: "Financeiro"
+    top: true
+  - name: "Banco da Amazônia"
+    macro: "Financeiro"
+    top: true
+    employees: true
+  - name: "Banco do Estado do Espírito Santo"
+    macro: "Financeiro"
+    b3: true
+  - name: "Banco da Bahia"
+    macro: "Financeiro"
+    top: true
+  - name: "Banco Regional de Desenvolvimento do Extremo Sul"
+    macro: "Financeiro"
+    top: true
+  - name: "Wiz"
+    macro: "Financeiro"
+    b3: true
+  - name: "AgroGalaxy"
+    macro: "Agro e Alimentos"
+    b3: true
+  - name: "3Tentos"
+    macro: "Agro e Alimentos"
+    b3: true
+  - name: "Bombril"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Melitta"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Ypê"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Indústrias Colombo"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Lojas Colombo"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Magazine Luiza"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Trackmob"
+    macro: "Tecnologia"
+    top: true
+  - name: "Boa Vista Serviços"
+    macro: "Financeiro"
+    b3: true
+  - name: "Serasa"
+    macro: "Financeiro"
+    top: true
+  - name: "Transunion Brasil"
+    macro: "Financeiro"
+    top: true
+  - name: "Equifax Brasil"
+    macro: "Financeiro"
+    top: true
+  - name: "StoneCo"
+    macro: "Financeiro"
+    b3: true
+  - name: "Pismo"
+    macro: "Financeiro"
+    top: true
+  - name: "Dock"
+    macro: "Financeiro"
+    b3: true
+  - name: "Cielo"
+    macro: "Financeiro"
+    top: true
+  - name: "Rede"
+    macro: "Financeiro"
+    top: true
+  - name: "Getnet"
+    macro: "Financeiro"
+    top: true
+  - name: "C&A Modas"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Renner"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Camicado"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Youcom"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Farm"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Animale"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Shoulder"
+    macro: "Varejo e Consumo"
+    b3: true
+  - name: "Reserva"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Ellus"
+    macro: "Varejo e Consumo"
+    top: true
+  - name: "Colcci"
+    macro: "Varejo e Consumo"
+    top: true

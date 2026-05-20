@@ -1,0 +1,1233 @@
+{
+"aeris": {
+"Nome da Empresa": "Aeris",
+"Segmento da Empresa": "Ind\u00fastria",
+"Plataforma": "Gupy",
+"URL": "https://aeris.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"abc": {
+"Nome da Empresa": "ABC Brasil",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://abcbrasil.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"alphaville": {
+"Nome da Empresa": "Alphaville",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://alphaville.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"aerisindecomdeequipgeracaodeenergia": {
+"Nome da Empresa": "Aeris Ind. E Com. De Equip. Geracao De Energia S/A",
+"Segmento da Empresa": "Ind\u00fastria",
+"Plataforma": "Gupy",
+"URL": "https://aeris.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"americanas": {
+"Nome da Empresa": "Americanas",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://americanas.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"aluparinvestimento": {
+"Nome da Empresa": "Alupar Investimento S/A",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://alupar.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"anima": {
+"Nome da Empresa": "Anima",
+"Segmento da Empresa": "Educa\u00e7\u00e3o",
+"Plataforma": "Gupy",
+"URL": "https://anima.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"alfafinanceira": {
+"pending": true
+},
+"agrogalaxyparticipacoes": {
+"pending": true
+},
+"afluentetransmisodeenergiaeletrica": {
+"pending": true
+},
+"alliedtecnologia": {
+"pending": true
+},
+"alfas": {
+"pending": true
+},
+"a": {
+"pending": true
+},
+"arezzo": {
+"pending": true
+},
+"amplaenergiaeservicos": {
+"pending": true
+},
+"armaclocacaologisticaeservicos": {
+"Nome da Empresa": "Armac Loca\u00e7\u00e3o. Log\u00edstica E Servi\u00e7os",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://armac.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"arnd3": {
+"pending": true
+},
+"automobparticipacoes": {
+"Nome da Empresa": "Automob Participa\u00e7\u00f5es",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://automob.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"alliancaudeeparticipacoes": {
+"pending": true
+},
+"atomeducacaoeeditora": {
+"pending": true
+},
+"ambiparparticipacoeseempreendimentos": {
+"pending": true
+},
+"allparkempreendimentosparticipacoesservicos": {
+"pending": true
+},
+"arnd3f": {
+"pending": true
+},
+"axia3f": {
+"pending": true
+},
+"axia5": {
+"pending": true
+},
+"azzas2154": {
+"Nome da Empresa": "Azzas 2154",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://azzas2154.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"axia6": {
+"pending": true
+},
+"auren": {
+"pending": true
+},
+"axia6f": {
+"pending": true
+},
+"axia7": {
+"pending": true
+},
+"axia7f": {
+"pending": true
+},
+"brb": {
+"pending": true
+},
+"azevedotravassosenergia": {
+"pending": true
+},
+"agrocompanhiabrasdepropagricolas": {
+"Nome da Empresa": "BRASILAGRO -Companhia BRAS DE PROP AGRICOLAS",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://brasilagro.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"b100": {
+"pending": true
+},
+"bancoamazonia": {
+"Nome da Empresa": "Banco AMAZONIA",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancobmp": {
+"Nome da Empresa": "Banco BMP",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"banco": {
+"Nome da Empresa": "Banco BRASIL",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"banestessabancoestespiritonto": {
+"pending": true
+},
+"bancobari": {
+"Nome da Empresa": "Banco Bari",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancobtgpactual": {
+"Nome da Empresa": "Banco BTG PACTUAL",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"asi": {
+"pending": true
+},
+"brbbancodeia": {
+"pending": true
+},
+"bancoc6": {
+"Nome da Empresa": "Banco C6",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"axia3": {
+"pending": true
+},
+"azevedoetravassos": {
+"pending": true
+},
+"bancodigimais": {
+"Nome da Empresa": "Banco Digimais",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancoguanabara": {
+"Nome da Empresa": "Banco Guanabara",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancoestadodesergipesabanese": {
+"Nome da Empresa": "Banco ESTADO DE SERGIPE S.A. - BANESE",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancoestadodoriograndedosul": {
+"Nome da Empresa": "Banco ESTADO DO RIO GRANDE DO SUL",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancoindustrial": {
+"Nome da Empresa": "Banco Industrial",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancomercantildeinvestimentos": {
+"Nome da Empresa": "Banco MERCANTIL DE INVESTIMENTOS",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"banconordestedo": {
+"Nome da Empresa": "Banco NORDESTE DO BRASIL",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancomaster": {
+"Nome da Empresa": "Banco Master",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancorabobankinternational": {
+"Nome da Empresa": "Banco Rabobank International Brasil",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancodachina": {
+"Nome da Empresa": "Banco da China Brasil",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bancontander": {
+"Nome da Empresa": "Banco Santander Brasil",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://banco.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bemobimobiletech": {
+"Nome da Empresa": "Bemobi Mobile Tech",
+"Segmento da Empresa": "Tecnologia",
+"Plataforma": "Gupy",
+"URL": "https://bemobi.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bardellasaindustriasmecanicas": {
+"pending": true
+},
+"biomm": {
+"pending": true
+},
+"baumer": {
+"pending": true
+},
+"belorardvccitydesenvolvimentoimobiliario": {
+"pending": true
+},
+"bravaenergia": {
+"Nome da Empresa": "Brava Energia",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://bravaenergia.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"boafrasementes": {
+"pending": true
+},
+"bbseguridadeparticipacoes": {
+"pending": true
+},
+"bradespar": {
+"pending": true
+},
+"bicicletasmonark": {
+"pending": true
+},
+"biomaeducacao": {
+"pending": true
+},
+"brinetservicosdetelecomunicacoes": {
+"Nome da Empresa": "Brisanet Servi\u00e7os De Telecomunica\u00e7\u00f5es",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://brisanet.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"brbibrpartners": {
+"pending": true
+},
+"cognaeducacao": {
+"Nome da Empresa": "Cogna Educa\u00e7\u00e3o",
+"Segmento da Empresa": "Servi\u00e7os e Outros",
+"Plataforma": "Gupy",
+"URL": "https://cogna.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"cvcoperadoraeagencompanhiadeviagens": {
+"pending": true
+},
+"ceamodas": {
+"pending": true
+},
+"cambuci": {
+"pending": true
+},
+"cmhospitalar": {
+"pending": true
+},
+"centraiseletdentacatarina": {
+"pending": true
+},
+"caixaseguridadeparticipacoes": {
+"pending": true
+},
+"companhiaeiradealuminio": {
+"pending": true
+},
+"companhiaeiradedistribuicao": {
+"pending": true
+},
+"companhiaeletricidadeestdabahiacoelba": {
+"pending": true
+},
+"companhiadistribdegasdoriodejaneiroceg": {
+"pending": true
+},
+"companhiaenergeticademinasgeraiscemig": {
+"pending": true
+},
+"companhiaenergeticadeia": {
+"pending": true
+},
+"companhiaenergeticadocearacoelce": {
+"pending": true
+},
+"companhiahabitasuldeparticipacoes": {
+"pending": true
+},
+"companhiafiacaotecidoscedrocachoeira": {
+"pending": true
+},
+"companhiaparticipacoesaliancadabahia": {
+"pending": true
+},
+"companhiaparanaensedeenergiacopel": {
+"pending": true
+},
+"companhianeamentobasicoestopaulo": {
+"pending": true
+},
+"companhiagasdeopaulocomgas": {
+"pending": true
+},
+"companhianeamentodeminasgeraiscopamg": {
+"pending": true
+},
+"compassgaseenergia": {
+"Nome da Empresa": "Compass Gas E Energia",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://compass.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"companhianeamentodoparananepar": {
+"pending": true
+},
+"companhiaferroligasdabahiaferba": {
+"pending": true
+},
+"csudigital": {
+"pending": true
+},
+"construtoraadolpholindenberg": {
+"pending": true
+},
+"construtoratenda": {
+"pending": true
+},
+"csnmineracao": {
+"pending": true
+},
+"ctax3": {
+"pending": true
+},
+"companhiasiderurgicanacional": {
+"pending": true
+},
+"companhiatecidosntanense": {
+"pending": true
+},
+"ctax3f": {
+"pending": true
+},
+"curyconstrutoraeincorporadora": {
+"pending": true
+},
+"direcionalengenharia": {
+"Nome da Empresa": "Direcional Engenharia",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://direcionalengenharia.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"cyrelabrazilrealtysaempreendepart": {
+"Nome da Empresa": "Cyrela Brazil Realty S.A.Empreend E Part",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://cyrela.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"dohler": {
+"pending": true
+},
+"dvff11": {
+"pending": true
+},
+"dexxosparticipacoes": {
+"pending": true
+},
+"diagnosticosdaamerica": {
+"pending": true
+},
+"ecorodoviasinfraestruturaelogistica": {
+"Nome da Empresa": "Ecorodovias Infraestrutura E Log\u00edstica",
+"Segmento da Empresa": "Log\u00edstica e Mobilidade",
+"Plataforma": "Gupy",
+"URL": "https://ecorodovias.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"dimedsadistribuidorademedicamentos": {
+"pending": true
+},
+"dtcomdirecttocompany": {
+"pending": true
+},
+"electroacoaltona": {
+"pending": true
+},
+"d1000varejofarmaparticipacoes": {
+"pending": true
+},
+"elektroredes": {
+"pending": true
+},
+"engieenergia": {
+"Nome da Empresa": "Engie Brasil Energia",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://engiebrasilenergia.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"embj3f": {
+"pending": true
+},
+"embj3": {
+"pending": true
+},
+"equatorial": {
+"Nome da Empresa": "Equatorial",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://equatorialenergia.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"empreendimentospaguemenos": {
+"Nome da Empresa": "Empreendimentos Pague Menos",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://empreendimentos.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"emaeempremetropaguasenergia": {
+"pending": true
+},
+"energi": {
+"pending": true
+},
+"embparparticipacoes": {
+"pending": true
+},
+"energimatogrossodistribuidoradeenergia": {
+"pending": true
+},
+"equatorialmaranhaodistribuidoradeenergia": {
+"pending": true
+},
+"evenconstrutoraeincorporadora": {
+"pending": true
+},
+"equatorialparadistribuidoradeenergia": {
+"pending": true
+},
+"eucatexsaindustriaecomercio": {
+"pending": true
+},
+"eztecempreendeparticipacoes": {
+"pending": true
+},
+"gol": {
+"pending": true
+},
+"fictoralimentos": {
+"pending": true
+},
+"fertilizantesheringer": {
+"pending": true
+},
+"fraslemobility": {
+"pending": true
+},
+"fspe11": {
+"pending": true
+},
+"excelsioralimentos": {
+"pending": true
+},
+"fsrf11": {
+"pending": true
+},
+"fsrf11f": {
+"pending": true
+},
+"fstu11f": {
+"pending": true
+},
+"grazziotin": {
+"pending": true
+},
+"gpsparticipacoeseempreendimentos": {
+"pending": true
+},
+"generalshoppingeoutletsdo": {
+"pending": true
+},
+"hagasaindustriaecomercio": {
+"pending": true
+},
+"fspe11f": {
+"pending": true
+},
+"helborempreendimentos": {
+"Nome da Empresa": "Helbor Empreendimentos",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://helbor.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"sbf": {
+"pending": true
+},
+"hbrrealtyempreendimentosimobiliarios": {
+"pending": true
+},
+"multi": {
+"pending": true
+},
+"hapvida": {
+"pending": true
+},
+"hapvidaparticipacoeseinvestimentos": {
+"pending": true
+},
+"irb": {
+"pending": true
+},
+"hypera": {
+"pending": true
+},
+"herculessafabricadetalheres": {
+"pending": true
+},
+"ienergia": {
+"Nome da Empresa": "Isa Energia Brasil",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://isaenergiabrasil.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"hospitalmaterdei": {
+"pending": true
+},
+"hoteisothon": {
+"pending": true
+},
+"infracommercecxaas": {
+"pending": true
+},
+"ineparsaindustriaeconstrucoes": {
+"pending": true
+},
+"intelbrassainddeteleceletronicaeira": {
+"pending": true
+},
+"internationalmealcompanyalimentacao": {
+"pending": true
+},
+"iochpemaxion": {
+"pending": true
+},
+"isnn11": {
+"pending": true
+},
+"karsten": {
+"Nome da Empresa": "Karsten",
+"Segmento da Empresa": "Ind\u00fastria",
+"Plataforma": "Gupy",
+"URL": "https://karsten.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"itauunibanco": {
+"pending": true
+},
+"joaofortesengenharia": {
+"pending": true
+},
+"lojasrenner": {
+"Nome da Empresa": "Lojas Renner",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://lojasrenner.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"jhsfparticipacoes": {
+"pending": true
+},
+"jallesmachado": {
+"pending": true
+},
+"kivo11": {
+"pending": true
+},
+"localizarentacar": {
+"Nome da Empresa": "Localiza Rent A Car",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://localiza.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"joparjoaquimoliveirasaparticip": {
+"pending": true
+},
+"loginlogisticaintermodal": {
+"pending": true
+},
+"lavviempreendimentosimobiliarios": {
+"pending": true
+},
+"lupatech": {
+"pending": true
+},
+"lojasamericanas": {
+"pending": true
+},
+"mangelsindustrial": {
+"pending": true
+},
+"mahlemetalleve": {
+"pending": true
+},
+"mbrf3f": {
+"pending": true
+},
+"marilojas": {
+"pending": true
+},
+"mdiasbrancosaindcomdealimentos": {
+"pending": true
+},
+"manufaturadebrinquedosestrela": {
+"pending": true
+},
+"melnickdesenvolvimentoimobiliario": {
+"pending": true
+},
+"minerva": {
+"Nome da Empresa": "Minerva",
+"Segmento da Empresa": "Agro e Alimentos",
+"Plataforma": "Gupy",
+"URL": "https://minervafoods.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"metalfriosolutions": {
+"pending": true
+},
+"mrvco": {
+"pending": true
+},
+"mbrf3": {
+"pending": true
+},
+"motiva": {
+"Nome da Empresa": "Motiva",
+"Segmento da Empresa": "Ind\u00fastria",
+"Plataforma": "Gupy",
+"URL": "https://motiva.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"millslocacaoservicoselogistica": {
+"Nome da Empresa": "Mills Loca\u00e7\u00e3o. Servi\u00e7os E Log\u00edstica",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://mills.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"metalurgicagerdau": {
+"pending": true
+},
+"metalurgicariosulense": {
+"pending": true
+},
+"metimetalurgicatimboense": {
+"pending": true
+},
+"motivainfraestruturademobilidade": {
+"Nome da Empresa": "Motiva Infraestrutura De Mobilidade",
+"Segmento da Empresa": "Log\u00edstica e Mobilidade",
+"Plataforma": "Gupy",
+"URL": "https://motiva.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"movidaparticipacoes": {
+"Nome da Empresa": "Movida Participacoes",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://movida.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"minuparparticipacoes": {
+"pending": true
+},
+"multilaser": {
+"pending": true
+},
+"mpmcorporeos": {
+"pending": true
+},
+"mitrerealtyempreendimentoseparticipacoes": {
+"pending": true
+},
+"mrvengenhariaeparticipacoes": {
+"pending": true
+},
+"mundialsaprodutosdeconsumo": {
+"Nome da Empresa": "Mundial S.A. - Produtos De Consumo",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://mundial.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"mouradubeuxengenharia": {
+"pending": true
+},
+"nexa": {
+"pending": true
+},
+"multiplanempreendimobiliarios": {
+"pending": true
+},
+"naturacosmeticos": {
+"pending": true
+},
+"neogridparticipacoes": {
+"pending": true
+},
+"ourofino": {
+"Nome da Empresa": "Ourofino",
+"Segmento da Empresa": "Sa\u00fade",
+"Plataforma": "Gupy",
+"URL": "https://ourofino.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"nexpeparticipacoes": {
+"pending": true
+},
+"orizonvalorizacaoderesiduos": {
+"Nome da Empresa": "Orizon Valorizacao De Residuos",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://orizon.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"nordonindustriasmetalurgicas": {
+"pending": true
+},
+"nutriplantindustriaecomercio": {
+"pending": true
+},
+"notredameintermedica": {
+"pending": true
+},
+"oceanpactservicosmaritimos": {
+"pending": true
+},
+"oncoclinicasdoservicosmedicos": {
+"pending": true
+},
+"oranjebtcsaeducacaoeinvestimento": {
+"pending": true
+},
+"osx": {
+"pending": true
+},
+"padtec": {
+"Nome da Empresa": "Padtec Holding",
+"Segmento da Empresa": "Tecnologia",
+"Plataforma": "Gupy",
+"URL": "https://padtec.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"piracanjuba": {
+"Nome da Empresa": "Piracanjuba",
+"Segmento da Empresa": "Agro e Alimentos",
+"Plataforma": "Gupy",
+"URL": "https://piracanjuba.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"panatlantica": {
+"pending": true
+},
+"paranapanema": {
+"pending": true
+},
+"positivo": {
+"Nome da Empresa": "Positivo",
+"Segmento da Empresa": "Tecnologia",
+"Plataforma": "Gupy",
+"URL": "https://positivo.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"pbg": {
+"pending": true
+},
+"pdgrealtysaempreendeparticipacoes": {
+"pending": true
+},
+"petroreconcavo": {
+"pending": true
+},
+"portosudestevm": {
+"Nome da Empresa": "Porto Sudeste V.M.",
+"Segmento da Empresa": "Log\u00edstica e Mobilidade",
+"Plataforma": "Gupy",
+"URL": "https://porto.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"randoncorp": {
+"Nome da Empresa": "Randoncorp",
+"Segmento da Empresa": "Ind\u00fastria",
+"Plataforma": "Gupy",
+"URL": "https://randoncorp.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"petroleoeirosapetrobras": {
+"pending": true
+},
+"pettenatisaindustriatextil": {
+"pending": true
+},
+"plascarparticipacoesindustriais": {
+"pending": true
+},
+"planoplanodesenvolvimentoimobiliario": {
+"pending": true
+},
+"pplaparticipationsltd": {
+"pending": true
+},
+"raiadrogasil": {
+"pending": true
+},
+"recrusul": {
+"pending": true
+},
+"redeenergiaparticipacoes": {
+"pending": true
+},
+"profarmadistribprodfarmaceuticos": {
+"pending": true
+},
+"renv11": {
+"pending": true
+},
+"revee": {
+"pending": true
+},
+"refinariadepetroleosmanguinhos": {
+"pending": true
+},
+"riaa3": {
+"pending": true
+},
+"riaa3f": {
+"pending": true
+},
+"renovaenergia": {
+"pending": true
+},
+"rioparanapanemaenergia": {
+"pending": true
+},
+"ocarlosempreendeparticipacoes": {
+"pending": true
+},
+"ud3": {
+"pending": true
+},
+"nsuysaindustriadeplasticos": {
+"pending": true
+},
+"ud3f": {
+"pending": true
+},
+"sequoialogisticaetransportes": {
+"pending": true
+},
+"sendasdistribuidora": {
+"pending": true
+},
+"prinerservicosindustriais": {
+"pending": true
+},
+"sendas": {
+"pending": true
+},
+"sicoob": {
+"pending": true
+},
+"snci11": {
+"pending": true
+},
+"smartfitescoladeginasticaedanca": {
+"pending": true
+},
+"t4fentretenimento": {
+"pending": true
+},
+"tereos": {
+"Nome da Empresa": "Tereos",
+"Segmento da Empresa": "Agro e Alimentos",
+"Plataforma": "Gupy",
+"URL": "https://tereos.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"sondotecnicaengenhariasolos": {
+"pending": true
+},
+"technos": {
+"pending": true
+},
+"tegmagestaologistica": {
+"Nome da Empresa": "Tegma Gestao Logistica",
+"Segmento da Empresa": "Log\u00edstica e Mobilidade",
+"Plataforma": "Gupy",
+"URL": "https://tegma.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"synpropetech": {
+"pending": true
+},
+"taurusarmas": {
+"pending": true
+},
+"terrantapropriedadesagricolas": {
+"Nome da Empresa": "Terra Santa Propriedades Agricolas",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://terra.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"teleceirassatelebras": {
+"pending": true
+},
+"toky3": {
+"pending": true
+},
+"toky3f": {
+"pending": true
+},
+"textilrenauxview": {
+"pending": true
+},
+"telefonica": {
+"pending": true
+},
+"tpitriunfoparticipeinvest": {
+"pending": true
+},
+"trackfieldco": {
+"pending": true
+},
+"transmissoraaliancadeenergiaeletrica": {
+"pending": true
+},
+"trestentosagroindustrial": {
+"pending": true
+},
+"tronoxpigmentosdo": {
+"pending": true
+},
+"treviinvestimentos": {
+"pending": true
+},
+"validsolucoes": {
+"Nome da Empresa": "Valid Solu\u00e7\u00f5es",
+"Segmento da Empresa": "Servi\u00e7os e Outros",
+"Plataforma": "Gupy",
+"URL": "https://valid.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"ultraparparticipacoes": {
+"pending": true
+},
+"unicaindustriademoveis": {
+"pending": true
+},
+"via": {
+"pending": true
+},
+"uniaopetparticipacoes": {
+"pending": true
+},
+"unifiquetelecomunicacoes": {
+"pending": true
+},
+"vibra": {
+"Nome da Empresa": "Vibra",
+"Segmento da Empresa": "Energia e Utilities",
+"Plataforma": "Gupy",
+"URL": "https://vibra.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"vamoslocacaodecaminhoesmaquinaseequip": {
+"Nome da Empresa": "Vamos Loca\u00e7\u00e3o De Caminh\u00f5es. M\u00e1quinas E Equip.",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://vamos.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"transmisopaulista": {
+"pending": true
+},
+"vgir11": {
+"pending": true
+},
+"usinassiddeminasgeraissausiminas": {
+"pending": true
+},
+"vivaraparticipacoes": {
+"Nome da Empresa": "Vivara Participa\u00e7oes",
+"Segmento da Empresa": "Varejo e Consumo",
+"Plataforma": "Gupy",
+"URL": "https://vivara.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"wdcn3": {
+"pending": true
+},
+"vittia": {
+"pending": true
+},
+"wdcn3f": {
+"pending": true
+},
+"vitrueducacao": {
+"pending": true
+},
+"westwingcomerciovarejista": {
+"pending": true
+},
+"vestesaestilo": {
+"pending": true
+},
+"whirlpool": {
+"pending": true
+},
+"brq": {
+"pending": true
+},
+"wetzel": {
+"pending": true
+},
+"wizcoparticipacoesecorretagemdeseguros": {
+"pending": true
+},
+"viverincorporadoraeconstrutora": {
+"pending": true
+},
+"wlmpartecomerciodemaquinaseveiculos": {
+"pending": true
+},
+"yduqsparticipacoes": {
+"Nome da Empresa": "Yduqs Participacoes",
+"Segmento da Empresa": "Servi\u00e7os e Outros",
+"Plataforma": "Gupy",
+"URL": "https://yduqs.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"bernoulli": {
+"pending": true
+},
+"yara": {
+"pending": true
+},
+"cptm": {
+"pending": true
+},
+"ccrrio": {
+"pending": true
+},
+"brookfield": {
+"pending": true
+},
+"chubb": {
+"pending": true
+},
+"comgas": {
+"pending": true
+},
+"dhl": {
+"pending": true
+},
+"enel": {
+"pending": true
+},
+"brmalls": {
+"pending": true
+},
+"cooperativantaclara": {
+"pending": true
+},
+"cocacola": {
+"pending": true
+},
+"metlife": {
+"pending": true
+},
+"ofrancisco": {
+"pending": true
+},
+"estacio": {
+"pending": true
+},
+"kroton": {
+"pending": true
+},
+"infraero": {
+"pending": true
+},
+"portoseguro": {
+"Nome da Empresa": "Porto Seguro",
+"Segmento da Empresa": "Financeiro",
+"Plataforma": "Gupy",
+"URL": "https://porto.gupy.io",
+"evidencia": "known_or_guess+strong"
+},
+"uol": {
+"Nome da Empresa": "UOL",
+"Segmento da Empresa": "M\u00eddia e Entretenimento",
+"Plataforma": "Gupy",
+"URL": "https://uol.gupy.io",
+"evidencia": "ats_guesser+strong"
+},
+"vli": {
+"pending": true
+},
+"paodeacucar": {
+"pending": true
+},
+"oboticario": {
+"pending": true
+},
+"mongeralaegon": {
+"pending": true
+},
+"wegequipamentos": {
+"pending": true
+},
+"metroopaulo": {
+"pending": true
+},
+"zurich": {
+"pending": true
+},
+"pwc": {
+"pending": true
+}
+}
