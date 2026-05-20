@@ -1,0 +1,981 @@
+Nome da Empresa,URL_antiga,URL_nova,Status_antigo,Status_novo,Acao,Erro
+Arezzo&Co,https://azzas2154.gupy.io,https://azzas2154.gupy.io,1,1,verified,
+AuroraCoop (Aurora Alimentos),https://auroracoop.gupy.io,https://auroracoop.gupy.io,1,1,verified,
+Unifique,https://vemserunifique.gupy.io,https://vemserunifique.gupy.io,1,1,verified,
+BB Seguridade,https://brasilseg.gupy.io,https://brasilseg.gupy.io,1,1,verified,
+Unimed (Sistema Nacional),https://unimednacional.gupy.io,https://unimednacional.gupy.io,1,1,verified,
+O Estado de S. Paulo,https://estadao.gupy.io,https://estadao.gupy.io,1,1,verified,
+Ame Digital,https://ame.gupy.io,https://ame.gupy.io,1,1,verified,
+Track&Field,https://tfcarreira.gupy.io,https://tfcarreira.gupy.io,1,1,verified,
+Hidrovias do Brasil,https://hidrovias.gupy.io,https://hidrovias.gupy.io,1,1,verified,
+Wiz Co,https://wiz.gupy.io,https://wiz.gupy.io,1,1,verified,
+Vindi,https://vindi.gupy.io,https://vindi.gupy.io,1,1,verified,
+Condor Super Center,https://condor.gupy.io,https://condor.gupy.io,1,1,verified,
+Coca-Cola Femsa,https://femsa.gupy.io,https://femsa.gupy.io,1,1,verified,
+Rede D Or,https://rededor.gupy.io,https://rededor.gupy.io,1,1,verified,
+Telefônica Brasil (Vivo),https://vivo.gupy.io,https://vivo.gupy.io,1,1,verified,
+Banco Industrial do Brasil,https://bib.gupy.io,https://bib.gupy.io,1,1,verified,
+Arteris,https://arteris.gupy.io,https://arteris.gupy.io,1,1,verified,
+Banco Digio,https://digio.gupy.io,https://digio.gupy.io,1,1,verified,
+77sol,https://77sol.gupy.io,https://77sol.gupy.io,1,1,verified,
+LinkedIn Brasil,https://linkedin.gupy.io,https://linkedin.gupy.io,1,1,verified,
+RBS,https://gruporbs.gupy.io,https://gruporbs.gupy.io,1,1,verified,
+Algar Tech Br,https://algar.gupy.io,https://algar.gupy.io,1,1,verified,
+Franq,https://franq.gupy.io,https://franq.gupy.io,1,1,verified,
+SPDM Hospital São Paulo,https://spdm.gupy.io,https://spdm.gupy.io,1,1,verified,
+Banco Topázio,https://bancotopazio.gupy.io,https://bancotopazio.gupy.io,1,1,verified,
+Grupo L'Occitane,https://sejaloccitane.gupy.io,https://sejaloccitane.gupy.io,1,1,verified,
+Grupo Marilan,https://marilan.gupy.io,https://marilan.gupy.io,1,1,verified,
+CCR,https://motiva.gupy.io,https://motiva.gupy.io,1,1,verified,
+Mutant,https://mutantbrvagas.gupy.io,https://mutantbrvagas.gupy.io,1,1,verified,
+Alloha Fibra,https://allohafibra.gupy.io,https://allohafibra.gupy.io,1,1,verified,
+Sicredi,https://sicredi.gupy.io,https://sicredi.gupy.io,1,1,verified,
+Mobit Tecnologia,https://mobit.gupy.io,https://mobit.gupy.io,1,1,verified,
+Tegma,https://tegma.gupy.io,https://tegma.gupy.io,1,1,verified,
+JHSF,https://jhsf.gupy.io,https://jhsf.gupy.io,1,1,verified,
+Unimed Maceió Oficial,https://unimedmaceio.gupy.io,https://unimedmaceio.gupy.io,1,1,verified,
+Bauducco,https://bauducco.gupy.io,https://bauducco.gupy.io,1,1,verified,
+Qualidados Engenharia,https://qualidados.gupy.io,https://qualidados.gupy.io,1,1,verified,
+CBA Alumínio,https://cba.gupy.io,https://cba.gupy.io,1,1,verified,
+Abakids,https://abakids.gupy.io,https://abakids.gupy.io,1,1,verified,
+Volkswagen do Brasil,https://vwbrasil.gupy.io,https://vwbrasil.gupy.io,1,1,verified,
+Hospital IGESP,https://www.vagas.com.br/vagas-de-igesp,https://www.vagas.com.br/vagas-de-igesp,1,1,verified,
+Energisa (Corp),https://grupoenergisa.gupy.io,https://grupoenergisa.gupy.io,1,1,verified,
+3cservices,https://3cservices.gupy.io,https://3cservices.gupy.io,1,1,verified,
+iPlace,https://iplace.gupy.io,https://iplace.gupy.io,1,1,verified,
+ANBIMA,https://anbima.gupy.io,https://anbima.gupy.io,1,1,verified,
+McDonalds (Corporativo),https://corporativomc.gupy.io,https://corporativomc.gupy.io,1,1,verified,
+Creditas,https://creditas.gupy.io,https://creditas.gupy.io,1,1,verified,
+Mercedes-Benz Caminhões & Ônibus (Externa),https://mercedes-benzcaminhoeseonibus.gupy.io,https://mercedes-benzcaminhoeseonibus.gupy.io,1,1,verified,
+Cocamar,https://cocamar.gupy.io,https://cocamar.gupy.io,1,1,verified,
+Pagaleve,https://pagaleve.gupy.io,https://pagaleve.gupy.io,1,1,verified,
+Mondelez Brasil,https://mondelez.gupy.io,https://mondelez.gupy.io,1,1,verified,
+Brisanet,https://brisanet.gupy.io,https://brisanet.gupy.io,1,1,verified,
+Softplan,https://softplan.gupy.io,https://softplan.gupy.io,1,1,verified,
+Cinemark,https://cinemark.gupy.io,https://cinemark.gupy.io,1,1,verified,
+CIEE SC,https://cieesc.gupy.io,https://cieesc.gupy.io,1,1,verified,
+Agrária,https://agraria.gupy.io,https://agraria.gupy.io,1,1,verified,
+Casa Di Conti,https://casadiconti.gupy.io,https://casadiconti.gupy.io,1,1,verified,
+Fortlev,https://fortlev.gupy.io,https://fortlev.gupy.io,1,1,verified,
+Unimed Belém Oficial,https://unimedbelem.gupy.io,https://unimedbelem.gupy.io,1,1,verified,
+Hospital Care,https://hospitalcare.gupy.io,https://hospitalcare.gupy.io,1,1,verified,
+Marisol,https://marisol.gupy.io,https://marisol.gupy.io,1,1,verified,
+Grupo Zaffari,https://grupozaffari.gupy.io,https://grupozaffari.gupy.io,1,1,verified,
+Scania Latin America,https://scania.gupy.io,https://scania.gupy.io,1,1,verified,
+Cocal,https://cocal.gupy.io,https://cocal.gupy.io,1,1,verified,
+Assaí Atacadista,https://assai.gupy.io,https://assai.gupy.io,1,1,verified,
+Votorantim Cimentos,https://votorantimcimentos.gupy.io,https://votorantimcimentos.gupy.io,1,1,verified,
+Grupo Bertolini,https://bertolini.gupy.io,https://bertolini.gupy.io,1,1,verified,
+Fast Shop,https://fastshop.gupy.io,https://fastshop.gupy.io,1,1,verified,
+DASA Programas de Entrada,https://dasaprogramasdeentrada.gupy.io,https://dasaprogramasdeentrada.gupy.io,1,1,verified,
+ArcelorMittal Tuper Brasil,https://tuper.gupy.io,https://tuper.gupy.io,1,1,verified,
+Cosan,https://cosan.gupy.io,https://cosan.gupy.io,1,1,verified,
+Shoulder,https://shoulder.gupy.io,https://shoulder.gupy.io,1,1,verified,
+Sem Parar,https://semparar.gupy.io,https://semparar.gupy.io,1,1,verified,
+Ecossistema ARGENTA,https://argenta.gupy.io,https://argenta.gupy.io,1,1,verified,
+Cury,https://cury.gupy.io,https://cury.gupy.io,1,1,verified,
+Credcrea (Ailos),https://credcrea.gupy.io,https://credcrea.gupy.io,1,1,verified,
+Alpargatas,https://alpargatas.gupy.io,https://alpargatas.gupy.io,1,1,verified,
+Vivo Digital,https://vivodigital.gupy.io,https://vivodigital.gupy.io,1,1,verified,
+FSG Centro Universitário,https://fsg.gupy.io,https://fsg.gupy.io,1,1,verified,
+CVC Corp,https://cvccorp.gupy.io,https://cvccorp.gupy.io,1,1,verified,
+Itaú,https://vemproitau.gupy.io,https://vemproitau.gupy.io,1,1,verified,
+3corptechnology,https://3corptechnology.gupy.io,https://3corptechnology.gupy.io,1,1,verified,
+Piracanjuba (Laticínios Bela Vista),https://piracanjuba.gupy.io,https://piracanjuba.gupy.io,1,1,verified,
+Positivo Tecnologia,https://positivo.gupy.io,https://positivo.gupy.io,1,1,verified,
+Fras-le,https://randoncorp.gupy.io,https://randoncorp.gupy.io,1,1,verified,
+Elgin,https://sejaelgin.gupy.io,https://sejaelgin.gupy.io,1,1,verified,
+DASA Tecnologia,https://dasatecnologia.gupy.io,https://dasatecnologia.gupy.io,1,1,verified,
+Cencosud Brasil,https://cencosudbrasil.gupy.io,https://cencosudbrasil.gupy.io,1,1,verified,
+LG Electronics do Brasil LTDA,https://lge.gupy.io,https://lge.gupy.io,1,1,verified,
+KMM,https://kmm.gupy.io,https://kmm.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Sanepar,https://site.sanepar.com.br/trabalhe-com-a-gente,https://site.sanepar.com.br/trabalhe-com-a-gente,1,1,verified,
+Kovi,https://kovi.gupy.io,https://kovi.gupy.io,1,1,verified,
+Spread,https://spread.gupy.io,https://spread.gupy.io,1,1,verified,
+UOL Compass,https://compass.gupy.io,https://compass.gupy.io,1,1,verified,
+Syn Prop & Tech,https://syn.gupy.io,https://syn.gupy.io,1,1,verified,
+Caju,https://caju.gupy.io,https://caju.gupy.io,1,1,verified,
+Beep Saúde,https://beepsaude.gupy.io,https://beepsaude.gupy.io,1,1,verified,
+Vila Nova Log,https://vilanova.gupy.io,https://vilanova.gupy.io,1,1,verified,
+Tenda,https://tenda.gupy.io,https://tenda.gupy.io,1,1,verified,
+Dotz,https://dotz.gupy.io,https://dotz.gupy.io,1,1,verified,
+Elo,https://vempraelo.gupy.io,https://vempraelo.gupy.io,1,1,verified,
+Afya Educacional,https://afya.gupy.io,https://afya.gupy.io,1,1,verified,
+Copersucar,https://copersucar.gupy.io,https://copersucar.gupy.io,1,1,verified,
+Unimed Cuiabá Oficial,https://unimedcuiaba.gupy.io,https://unimedcuiaba.gupy.io,1,1,verified,
+Korp ERP,https://korp.gupy.io,https://korp.gupy.io,1,1,verified,
+Mills,https://mills.gupy.io,https://mills.gupy.io,1,1,verified,
+Bemobi,https://bemobi.gupy.io,https://bemobi.gupy.io,1,1,verified,
+Rumo Logística,https://rumolog.gupy.io,https://rumolog.gupy.io,1,1,verified,
+Redepharma Brasil,https://redepharma.gupy.io,https://redepharma.gupy.io,1,1,verified,
+Bunge,https://bunge.gupy.io,https://bunge.gupy.io,1,1,verified,
+Embraer,https://embraer.gupy.io,https://embraer.gupy.io,1,1,verified,
+Grupo Boticário,https://grupoboticario.gupy.io,https://grupoboticario.gupy.io,1,1,verified,
+Spani Atacadista Var,https://spani.gupy.io,https://spani.gupy.io,1,1,verified,
+Stefanini,https://stefanini.gupy.io,https://stefanini.gupy.io,1,1,verified,
+Santa Casa da Bahia,https://santacasaba.gupy.io,https://santacasaba.gupy.io,1,1,verified,
+Henry Schein Brasil,https://henryschein.gupy.io,https://henryschein.gupy.io,1,1,verified,
+ICI Curitiba,https://ici.gupy.io,https://ici.gupy.io,1,1,verified,
+Fundação São Paulo (FUNDASP),https://fundasp.gupy.io,https://fundasp.gupy.io,1,1,verified,
+Renner Lojas Br,https://renner.gupy.io,https://renner.gupy.io,1,1,verified,
+Tigre,https://tigre.gupy.io,https://tigre.gupy.io,1,1,verified,
+Multilog,https://multilog.gupy.io,https://multilog.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Club Athletico Paranaense,https://athletico.gupy.io,https://athletico.gupy.io,1,1,verified,
+Unimed Campina Grande Oficial,https://unimedcampinagrande.gupy.io,https://unimedcampinagrande.gupy.io,1,1,verified,
+Itaú Social,https://itausocial.gupy.io,https://itausocial.gupy.io,1,1,verified,
+QCA,https://qca.gupy.io,https://qca.gupy.io,1,1,verified,
+HBR Realty,https://hbrrealty.gupy.io,https://hbrrealty.gupy.io,1,1,verified,
+Delivery Much,https://deliverymuch.gupy.io,https://deliverymuch.gupy.io,1,1,verified,
+Leve Saúde,https://levesaude.gupy.io,https://levesaude.gupy.io,1,1,verified,
+Coco Bambu,https://cocobambu.gupy.io,https://cocobambu.gupy.io,1,1,verified,
+Safra,https://venhasersafra.gupy.io,https://venhasersafra.gupy.io,1,1,verified,
+Usina Alta Mogiana,https://altamogiana.gupy.io,https://altamogiana.gupy.io,1,1,verified,
+Abaco,https://abaco.gupy.io,https://abaco.gupy.io,1,1,verified,
+Paschoalotto,https://paschoalotto.gupy.io,https://paschoalotto.gupy.io,1,1,verified,
+Lojas Renner S.A.,https://encantech.gupy.io,https://encantech.gupy.io,1,1,verified,
+Guanabara,https://guanabara.gupy.io,https://guanabara.gupy.io,1,1,verified,
+Supermercados Guanabara,https://supermercadosguanabara.gupy.io,https://supermercadosguanabara.gupy.io,1,1,verified,
+Brasilprev,https://brasilprev.gupy.io,https://brasilprev.gupy.io,1,1,verified,
+Cimed,https://cimed.gupy.io,https://cimed.gupy.io,1,1,verified,
+Globo,https://globo.gupy.io,https://globo.gupy.io,1,1,verified,
+Méliuz Brasil Tech,https://meliuz.gupy.io,https://meliuz.gupy.io,1,1,verified,
+BrasilAgro,https://brasilagro.gupy.io,https://brasilagro.gupy.io,1,1,verified,
+OLX Brasil,https://vemsergrupoolx.gupy.io,https://vemsergrupoolx.gupy.io,1,1,verified,
+Castrolanda,https://castrolanda.gupy.io,https://castrolanda.gupy.io,1,1,verified,
+Vibra Energia Brasil Br,https://vibra.gupy.io,https://vibra.gupy.io,1,1,verified,
+Hypera Pharma,https://hyperapharma.gupy.io,https://hyperapharma.gupy.io,1,1,verified,
+Randon,https://randon.gupy.io,https://randon.gupy.io,1,1,verified,
+DASA Assistencial,https://dasaassistencial.gupy.io,https://dasaassistencial.gupy.io,1,1,verified,
+Unicred,https://unicred.gupy.io,https://unicred.gupy.io,1,1,verified,
+DASA Atendimento,https://dasaatendimento.gupy.io,https://dasaatendimento.gupy.io,1,1,verified,
+Banco Rodobens,https://rodobenscarreiras.gupy.io,https://rodobenscarreiras.gupy.io,1,1,verified,
+Banco Fibra,https://bancofibra.gupy.io,https://bancofibra.gupy.io,1,1,verified,
+Cris Barros,https://crisbarros.gupy.io,https://crisbarros.gupy.io,1,1,verified,
+DASA Diversidade,https://diversidasa.gupy.io,https://diversidasa.gupy.io,1,1,verified,
+Genial Investimentos,https://genial.gupy.io,https://genial.gupy.io,1,1,verified,
+Americanas S.A.,https://americanas.gupy.io,https://americanas.gupy.io,1,1,verified,
+Vivara,https://vivara.gupy.io,https://vivara.gupy.io,1,1,verified,
+Banco ABC,https://abcbrasil.gupy.io,https://abcbrasil.gupy.io,1,1,verified,
+CSN,https://csn.gupy.io,https://csn.gupy.io,1,1,verified,
+Intelipost,https://intelipost.gupy.io,https://intelipost.gupy.io,1,1,verified,
+Youse,https://vagas-youse.gupy.io,https://vagas-youse.gupy.io,1,1,verified,
+Cruzeiro do Sul,https://cruzeirodosul.gupy.io,https://cruzeirodosul.gupy.io,1,1,verified,
+Caoa,https://caoa.gupy.io,https://caoa.gupy.io,1,1,verified,
+Auren Energia,https://aurenenergia.gupy.io,https://aurenenergia.gupy.io,1,1,verified,
+UOL Brasil Br,https://uol.gupy.io,https://uol.gupy.io,1,1,verified,
+Azul,https://voeazul.gupy.io,https://voeazul.gupy.io,1,1,verified,
+Centauro,https://centaurotalentos.gupy.io,https://centaurotalentos.gupy.io,1,1,verified,
+Record,https://recordtv.gupy.io,https://recordtv.gupy.io,1,1,verified,
+Gupy,https://vempra.gupy.io,https://vempra.gupy.io,1,1,verified,
+Cristália,https://cristalia.gupy.io,https://cristalia.gupy.io,1,1,verified,
+Honda,https://honda.gupy.io,https://honda.gupy.io,1,1,verified,
+Suzano,https://suzano.gupy.io,https://suzano.gupy.io,1,1,verified,
+Localiza,https://localiza.gupy.io,https://localiza.gupy.io,1,1,verified,
+DRUID Creative Gaming,https://druid.gupy.io,https://druid.gupy.io,1,1,verified,
+A3consultoria,https://a3consultoria.gupy.io,https://a3consultoria.gupy.io,1,1,verified,
+Valid,https://valid.gupy.io,https://valid.gupy.io,1,1,verified,
+JBS,https://grupojbs.gupy.io,https://grupojbs.gupy.io,1,1,verified,
+CVP (Caixa Vida e Previdência),https://caixavidaeprevidencia.gupy.io,https://caixavidaeprevidencia.gupy.io,1,1,verified,
+2comconsulting,https://2comconsulting.gupy.io,https://2comconsulting.gupy.io,1,1,verified,
+Tecnisa,https://tecnisa.gupy.io,https://tecnisa.gupy.io,1,1,verified,
+Unimed Brasil,https://unimed-brasil.gupy.io,https://unimed-brasil.gupy.io,1,1,verified,
+Grupo Nós,https://gruponos.gupy.io,https://gruponos.gupy.io,1,1,verified,
+Aramis,https://aramis.gupy.io,https://aramis.gupy.io,1,1,verified,
+M. Dias Branco,https://mdiasbranco.gupy.io,https://mdiasbranco.gupy.io,1,1,verified,
+Cruzeiro do Sul Educacional,https://cruzeirodosuleducacional.gupy.io,https://cruzeirodosuleducacional.gupy.io,1,1,verified,
+Unimed Piracicaba Oficial,https://unimedpiracicaba.gupy.io,https://unimedpiracicaba.gupy.io,1,1,verified,
+Dexco,https://dexco.gupy.io,https://dexco.gupy.io,1,1,verified,
+Hering,https://ciahering.gupy.io,https://ciahering.gupy.io,1,1,verified,
+C&A,https://cea.gupy.io,https://cea.gupy.io,1,1,verified,
+Farm Moda Br,https://farm.gupy.io,https://farm.gupy.io,1,1,verified,
+Petrobahia,https://petrobahia.gupy.io,https://petrobahia.gupy.io,1,1,verified,
+Aché,https://vagasache.gupy.io,https://vagasache.gupy.io,1,1,verified,
+Asaas,https://asaas.gupy.io,https://asaas.gupy.io,1,1,verified,
+Hospital Moinhos de Vento,https://hospitalmoinhos.gupy.io,https://hospitalmoinhos.gupy.io,1,1,verified,
+Monte Carlo Moda,https://montecarlo.gupy.io,https://montecarlo.gupy.io,1,1,verified,
+Nazária,https://nazaria.gupy.io,https://nazaria.gupy.io,1,1,verified,
+Viacredi,https://viacredi.gupy.io,https://viacredi.gupy.io,1,1,verified,
+Prio,https://prio.gupy.io,https://prio.gupy.io,1,1,verified,
+PremieRpet,https://premierpet.gupy.io,https://premierpet.gupy.io,1,1,verified,
+Decathlon,https://carreirasdecathlon.gupy.io,https://carreirasdecathlon.gupy.io,1,1,verified,
+AgroGalaxy,https://agrogalaxy.gupy.io,https://agrogalaxy.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+EZTEC,https://eztec.gupy.io,https://eztec.gupy.io,1,1,verified,
+DASA Corp,https://dasacorp.gupy.io,https://dasacorp.gupy.io,1,1,verified,
+Casa e Video Varejo,https://casaevideo.gupy.io,https://casaevideo.gupy.io,1,1,verified,
+RD Saúde Corporativo,https://rdsaude-corporativo.gupy.io,https://rdsaude-corporativo.gupy.io,1,1,verified,
+Cacau Show,https://cacaushow.gupy.io,https://cacaushow.gupy.io,1,1,verified,
+Orizon,https://orizon.gupy.io,https://orizon.gupy.io,1,1,verified,
+Tupy,https://tupy.gupy.io,https://tupy.gupy.io,1,1,verified,
+Rede,https://vemprarede.gupy.io,https://vemprarede.gupy.io,1,1,verified,
+Jequiti,https://jequiti.gupy.io,https://jequiti.gupy.io,1,1,verified,
+Andorinha Supermercados,https://andorinha.gupy.io,https://andorinha.gupy.io,1,1,verified,
+BMG,https://bmg.gupy.io,https://bmg.gupy.io,1,1,verified,
+GPA,https://corporacaogpa.gupy.io,https://corporacaogpa.gupy.io,1,1,verified,
+BHS,https://bhs.gupy.io,https://bhs.gupy.io,1,1,verified,
+Platlog,https://platlog.gupy.io,https://platlog.gupy.io,1,1,verified,
+Swift,https://swift.gupy.io,https://swift.gupy.io,1,1,verified,
+Livelo,https://livelo.gupy.io,https://livelo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+webedia,https://webedia.gupy.io,https://webedia.gupy.io,1,1,verified,
+Equatorial Energia,https://equatorialenergia.gupy.io,https://equatorialenergia.gupy.io,1,1,verified,
+Gupy Tech,https://tech-career.gupy.io,https://tech-career.gupy.io,1,1,verified,
+Helbor,https://helbor.gupy.io,https://helbor.gupy.io,1,1,verified,
+Camicado (Lojas Renner),https://lojasrenner.gupy.io,https://lojasrenner.gupy.io,1,1,verified,
+Animale Moda Br,https://animale.gupy.io,https://animale.gupy.io,1,1,verified,
+QUOD,https://vempraquod.gupy.io,https://vempraquod.gupy.io,1,1,verified,
+Wilson Sons,https://wilsonsons.gupy.io,https://wilsonsons.gupy.io,1,1,verified,
+Tokio Marine,https://tokiomarine.gupy.io,https://tokiomarine.gupy.io,1,1,verified,
+Vulcabras,https://vulcabras.gupy.io,https://vulcabras.gupy.io,1,1,verified,
+Enjoei,https://enjoei.gupy.io,https://enjoei.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Getnet,https://getnet.gupy.io,https://getnet.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+KRYPTUS,https://kryptus.gupy.io,https://kryptus.gupy.io,1,1,verified,
+Dafiti Tech Br,https://dafiti.gupy.io,https://dafiti.gupy.io,1,1,verified,
+Cyrela,https://cyrela.gupy.io,https://cyrela.gupy.io,1,1,verified,
+Veirano Advogados,https://veirano.gupy.io,https://veirano.gupy.io,1,1,verified,
+Granado,https://granado.gupy.io,https://granado.gupy.io,1,1,verified,
+Conta Simples,https://contasimples.gupy.io,https://contasimples.gupy.io,1,1,verified,
+Cortex,https://cortex.gupy.io,https://cortex.gupy.io,1,1,verified,
+ConectCar,https://conectcar.gupy.io,https://conectcar.gupy.io,1,1,verified,
+Itaú Cultural,https://itaucultural.gupy.io,https://itaucultural.gupy.io,1,1,verified,
+Taco,https://taco.gupy.io,https://taco.gupy.io,1,1,verified,
+Webmotors,https://webmotors.gupy.io,https://webmotors.gupy.io,1,1,verified,
+Grupo SEB,https://gruposeb.gupy.io,https://gruposeb.gupy.io,1,1,verified,
+Mitre Realty,https://mitrerealty.gupy.io,https://mitrerealty.gupy.io,1,1,verified,
+Ambev Tech,https://ambevtech.gupy.io,https://ambevtech.gupy.io,1,1,verified,
+Vibra Energia,https://vibraenergia.gupy.io,https://vibraenergia.gupy.io,1,1,verified,
+Ambipar,https://ambipar.gupy.io,https://ambipar.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Alupar,https://alupar.gupy.io,https://alupar.gupy.io,1,1,verified,
+Aegea,https://aegea.gupy.io,https://aegea.gupy.io,1,1,verified,
+LOUD,https://loud.gupy.io,https://loud.gupy.io,1,1,verified,
+3coracoes,https://3coracoes.gupy.io,https://3coracoes.gupy.io,1,1,verified,
+Roldão Atacadista,https://roldao.gupy.io,https://roldao.gupy.io,1,1,verified,
+Banco Sofisa,https://bancosofisa.gupy.io,https://bancosofisa.gupy.io,1,1,verified,
+PagSeguro,https://pagseguro.gupy.io,https://pagseguro.gupy.io,1,1,verified,
+Santa Casa BH,https://santacasabh.gupy.io,https://santacasabh.gupy.io,1,1,verified,
+Riachuelo,https://riachuelo.gupy.io,https://riachuelo.gupy.io,1,1,verified,
+Gamers Club,https://gamersclub.gupy.io,https://gamersclub.gupy.io,1,1,verified,
+Unimed Fortaleza,https://unimedfortaleza.gupy.io,https://unimedfortaleza.gupy.io,1,1,verified,
+Atlantica Hospitality,https://atlantica.gupy.io,https://atlantica.gupy.io,1,1,verified,
+CLAMED,https://clamed.gupy.io,https://clamed.gupy.io,1,1,verified,
+Coopercitrus,https://coopercitrus.gupy.io,https://coopercitrus.gupy.io,1,1,verified,
+Havan,https://havan.gupy.io,https://havan.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Nita Alimentos,https://nitaalimentos.gupy.io,https://nitaalimentos.gupy.io,1,1,verified,
+TranspoTech,https://transpotech.gupy.io,https://transpotech.gupy.io,1,1,verified,
+Omie,https://carreirasomie.gupy.io,https://carreirasomie.gupy.io,1,1,verified,
+RTE Rodonaves,https://rodonaves.gupy.io,https://rodonaves.gupy.io,1,1,verified,
+Gafisa,https://gafisa.gupy.io,https://gafisa.gupy.io,1,1,verified,
+Cogna,https://cogna.gupy.io,https://cogna.gupy.io,1,1,verified,
+Ipiranga,https://ipiranga.gupy.io,https://ipiranga.gupy.io,1,1,verified,
+Itaú - Carreiras Internas,https://carreirasinternasitau.gupy.io,https://carreirasinternasitau.gupy.io,1,1,verified,
+Maria Filó Moda Br,https://mariafilo.gupy.io,https://mariafilo.gupy.io,1,1,verified,
+Yduqs,https://yduqs.gupy.io,https://yduqs.gupy.io,1,1,verified,
+Porto,https://porto.gupy.io,https://porto.gupy.io,1,1,verified,
+Villela Brasil Bank,https://villelabrasilbank.gupy.io,https://villelabrasilbank.gupy.io,1,1,verified,
+Andrade Gutierrez,https://andradegutierrez.gupy.io,https://andradegutierrez.gupy.io,1,1,verified,
+Fundação Itaú,https://fundacaoitau.gupy.io,https://fundacaoitau.gupy.io,1,1,verified,
+GOL Linhas Aéreas,https://golcarreiras.gupy.io,https://golcarreiras.gupy.io,1,1,verified,
+Pottencial Seguradora,https://pottencial.gupy.io,https://pottencial.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Solar Coca-Cola,https://solarcocacola.gupy.io,https://solarcocacola.gupy.io,1,1,verified,
+Tahto Atendimento,https://tahto.gupy.io,https://tahto.gupy.io,1,1,verified,
+Petz,https://petz.gupy.io,https://petz.gupy.io,1,1,verified,
+Fundação Pedro Paes Mendonça,https://fppm.gupy.io,https://fppm.gupy.io,1,1,verified,
+Burger King (Zamp),https://zamp.gupy.io,https://zamp.gupy.io,1,1,verified,
+Ambev,https://ambev.gupy.io,https://ambev.gupy.io,1,1,verified,
+BMW Group Brasil,https://bmw.gupy.io,https://bmw.gupy.io,1,1,verified,
+Uello,https://uello.gupy.io,https://uello.gupy.io,1,1,verified,
+3tentos,https://3tentos.gupy.io,https://3tentos.gupy.io,1,1,verified,
+Unidas,https://unidas.gupy.io,https://unidas.gupy.io,1,1,verified,
+SLC Agrícola,https://slcagricola.gupy.io,https://slcagricola.gupy.io,1,1,verified,
+Coplana,https://coplana.gupy.io,https://coplana.gupy.io,1,1,verified,
+TruckPad,https://truckpad.gupy.io,https://truckpad.gupy.io,1,1,verified,
+Minerva Foods,https://minervafoods.gupy.io,https://minervafoods.gupy.io,1,1,verified,
+WEG,https://weg.gupy.io,https://weg.gupy.io,1,1,verified,
+Coca-Cola Femsa BR,https://cocacolafemsabr.gupy.io,https://cocacolafemsabr.gupy.io,1,1,verified,
+EcoRodovias,https://ecorodovias.gupy.io,https://ecorodovias.gupy.io,1,1,verified,
+Total Express,https://totalexpress.gupy.io,https://totalexpress.gupy.io,1,1,verified,
+Docket,https://docket.gupy.io,https://docket.gupy.io,1,1,verified,
+Unimed Campinas Oficial,https://unimedcampinas.gupy.io,https://unimedcampinas.gupy.io,1,1,verified,
+banQi,https://banqi.gupy.io,https://banqi.gupy.io,1,1,verified,
+Unimed Goiânia Oficial,https://unimedgoiania.gupy.io,https://unimedgoiania.gupy.io,1,1,verified,
+Raizen,https://genteraizen.gupy.io,https://genteraizen.gupy.io,1,1,verified,
+Eurofarma,https://eurofarma.gupy.io,https://eurofarma.gupy.io,1,1,verified,
+Movida,https://movida.gupy.io,https://movida.gupy.io,1,1,verified,
+ClearSale,https://clearsale.gupy.io,https://clearsale.gupy.io,1,1,verified,
+Unimed Teresina Oficial,https://unimedteresina.gupy.io,https://unimedteresina.gupy.io,1,1,verified,
+Fluency Academy,https://fluencyacademy.gupy.io,https://fluencyacademy.gupy.io,1,1,verified,
+Grupo Sabin,https://gruposabin.gupy.io,https://gruposabin.gupy.io,1,1,verified,
+PUC-SP,https://pucsp.gupy.io,https://pucsp.gupy.io,1,1,verified,
+Santa Maria Ind,https://santamaria.gupy.io,https://santamaria.gupy.io,1,1,verified,
+Grupo Soma,https://gruposoma.gupy.io,https://gruposoma.gupy.io,1,1,verified,
+Unimed Porto Alegre,https://unimedpoa.gupy.io,https://unimedpoa.gupy.io,1,1,verified,
+Le Biscuit Varejo,https://lebiscuit.gupy.io,https://lebiscuit.gupy.io,1,1,verified,
+Automob,https://automob.gupy.io,https://automob.gupy.io,1,1,verified,
+JSL,https://jsl.gupy.io,https://jsl.gupy.io,1,1,verified,
+Daycoval DayCambio,https://daycambio.gupy.io,https://daycambio.gupy.io,1,1,verified,
+Banco Mercantil,https://mercantil.gupy.io,https://mercantil.gupy.io,1,1,verified,
+4mk,https://4mk.gupy.io,https://4mk.gupy.io,1,1,verified,
+Energisa (Tecnologia),https://energisatech.gupy.io,https://energisatech.gupy.io,1,1,verified,
+Yamaha,https://yamaha.gupy.io,https://yamaha.gupy.io,1,1,verified,
+Banco Daycoval,https://bancodaycoval.gupy.io,https://bancodaycoval.gupy.io,1,1,verified,
+Usiminas,https://usiminas.gupy.io,https://usiminas.gupy.io,1,1,verified,
+CS Brasil,https://csbrasil.gupy.io,https://csbrasil.gupy.io,1,1,verified,
+Daycoval DayCred,https://daycred.gupy.io,https://daycred.gupy.io,1,1,verified,
+Lojas Ypê,https://carreirasype.gupy.io,https://carreirasype.gupy.io,1,1,verified,
+Armac,https://armac.gupy.io,https://armac.gupy.io,1,1,verified,
+Sami,https://oisami.gupy.io,https://oisami.gupy.io,1,1,verified,
+Vamos,https://vamos.gupy.io,https://vamos.gupy.io,1,1,verified,
+Aacd,https://aacd.gupy.io,https://aacd.gupy.io,1,1,verified,
+Efí Bank,https://sejaefi.gupy.io,https://sejaefi.gupy.io,1,1,verified,
+Red House International School,https://redhouse.gupy.io,https://redhouse.gupy.io,1,1,verified,
+Stark Bank,https://stark.gupy.io,https://stark.gupy.io,1,1,verified,
+Adidas Brasil,https://adidas.gupy.io,https://adidas.gupy.io,1,1,verified,
+Faber-Castell,https://fabercastell.gupy.io,https://fabercastell.gupy.io,1,1,verified,
+1Doc,https://1doc.gupy.io,https://1doc.gupy.io,1,1,verified,
+Aevo,https://aevo.gupy.io,https://aevo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Simpar,https://simpar.gupy.io,https://simpar.gupy.io,1,1,verified,
+AB InBev,https://job-boards.greenhouse.io/abinbev,https://job-boards.greenhouse.io/abinbev,1,1,verified,
+Accenture,https://www.accenture.com/br-pt/careers,https://www.accenture.com/br-pt/careers,1,1,verified,
+3R Petroleum,https://3rpetroleum.gupy.io,https://3rpetroleum.gupy.io,1,1,verified,
+99 (99Entrega),https://99app.com/carreiras,https://99app.com/carreiras,0,0,verified,HTTP 404 (Não Encontrado)
+Agibank,https://job-boards.greenhouse.io/agibank,https://job-boards.greenhouse.io/agibank,1,1,verified,
+3M,https://3m.wd1.myworkdayjobs.com/Search,https://3m.wd1.myworkdayjobs.com/Search,1,1,verified,
+ADP,https://jobs.adp.com,https://jobs.adp.com,1,1,verified,
+Agoda,https://careersatagoda.com/vacancies/?search&teams&locations,https://careersatagoda.com/vacancies/?search&teams&locations,1,1,verified,
+Accona,https://www.acciona.com.br/trabalhe-conosco,https://www.acciona.com.br/trabalhe-conosco,1,1,verified,
+Agilize,https://boards.greenhouse.io/agilize,https://boards.greenhouse.io/agilize,1,1,verified,
+Ailos Sistema,https://ailos.gupy.io,https://ailos.gupy.io,1,1,verified,
+Aiqfome,https://aiqfome.gupy.io,https://aiqfome.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Acer,https://career10.successfactors.com/career?company=acerincorp,https://career10.successfactors.com/career?company=acerincorp,1,1,verified,
+Adobe,https://adobe.wd5.myworkdayjobs.com/external_experienced,https://adobe.wd5.myworkdayjobs.com/external_experienced,1,1,verified,
+Alelo,https://alelo.inhire.app/vagas,https://alelo.inhire.app/vagas,1,1,verified,
+Airbnb,https://boards.greenhouse.io/airbnb,https://boards.greenhouse.io/airbnb,1,1,verified,
+Alliar,https://alliar.gupy.io,https://alliar.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Accor,https://careers.accor.com,https://careers.accor.com,1,1,verified,
+Allos,https://carreiras.gupy.io/allos,https://carreiras.gupy.io/allos,1,1,verified,
+Amaggi,https://carreiras.gupy.io/amaggi,https://carreiras.gupy.io/amaggi,1,1,verified,
+Alice,https://alice.inhire.app/vagas,https://alice.inhire.app/vagas,1,1,verified,
+Allied,https://allied.pandape.infojobs.com.br,https://allied.pandape.infojobs.com.br,1,1,verified,
+Amcham Brasil,https://amcham.gupy.io,https://amcham.gupy.io,1,1,verified,
+Alura,https://alun.inhire.app/alura/vagas,https://alun.inhire.app/alura/vagas,1,1,verified,
+American Airlines,https://jobs.aa.com,https://jobs.aa.com,1,1,verified,
+Agrale,https://www.agrale.com.br/pt/trabalhe-conosco,https://www.agrale.com.br/pt/trabalhe-conosco,1,1,verified,
+Amex,https://www.americanexpress.com/en-us/careers,https://www.americanexpress.com/en-us/careers,1,1,verified,
+Amil,https://career19.sapsf.com/careers?company=amilassist,https://career19.sapsf.com/careers?company=amilassist,1,1,verified,
+Ânima Educação,https://anima.gupy.io,https://anima.gupy.io,1,1,verified,
+American Express,https://aexp.eightfold.ai/careers,https://aexp.eightfold.ai/careers,1,1,verified,
+Air France-KLM,https://recrutement.airfrance.com,https://recrutement.airfrance.com,1,1,verified,
+Alibaba,https://talent.alibaba.com,https://talent.alibaba.com,1,1,verified,
+Anthropic,https://boards.greenhouse.io/anthropic,https://boards.greenhouse.io/anthropic,1,1,verified,
+Albert Einstein,https://www.einstein.br/carreiras,https://www.einstein.br/carreiras,1,1,verified,
+Activision Blizzard,https://careers.activisionblizzard.com,https://careers.activisionblizzard.com,1,1,verified,
+Arco Educação,https://boards.greenhouse.io/arcoeducacao,https://boards.greenhouse.io/arcoeducacao,1,1,verified,
+Apptite,https://apptite.gupy.io,https://apptite.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Apple,https://www.apple.com/careers/br,https://www.apple.com/careers/br,1,1,verified,
+Arcos Dorados (McDonald s),https://trabalheconosconamc.infojobs.com.br,https://trabalheconosconamc.infojobs.com.br,1,1,verified,
+AES Brasil,https://aes.wd1.myworkdayjobs.com/Careers,https://aes.wd1.myworkdayjobs.com/Careers,0,0,verified,HTTP 404 (Não Encontrado)
+Autodesk,https://www.autodesk.com/careers,https://www.autodesk.com/careers,0,1,verified,
+Atlassian,https://www.atlassian.com/company/careers,https://www.atlassian.com/company/careers,1,1,verified,
+Avanade,https://www.avanade.com/pt-br/career/search-jobs,https://www.avanade.com/pt-br/career/search-jobs,1,1,verified,
+Azos,https://azos.inhire.app/vagas,https://azos.inhire.app/vagas,1,1,verified,
+B3,https://b3.gupy.io,https://b3.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Azul Linhas Aéreas,https://azul.gupy.io,https://azul.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco ABC Brasil,https://bancoabc.gupy.io,https://bancoabc.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+AstraZeneca,https://astrazeneca.wd3.myworkdayjobs.com/Careers,https://astrazeneca.wd3.myworkdayjobs.com/Careers,1,1,verified,
+Banco BMG,https://bancobmg.gupy.io,https://bancobmg.gupy.io,1,1,verified,
+Banco Bradesco,https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco,https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco,1,1,verified,
+Alteryx,https://www.alteryx.com/careers,https://www.alteryx.com/careers,1,1,verified,
+Aztec,https://job-boards.eu.greenhouse.io/aztec,https://job-boards.eu.greenhouse.io/aztec,0,0,verified,HTTP 404 (Não Encontrado)
+Amazon,https://www.amazon.jobs,https://www.amazon.jobs,1,1,verified,
+Ball,https://jobs.ball.com/corp_packaging/search,https://jobs.ball.com/corp_packaging/search,1,1,verified,
+Banco do Brasil,https://www.bb.com.br/pbb/pagina-inicial/sobre-nos/carreiras-no-bb,https://www.bb.com.br/pbb/pagina-inicial/sobre-nos/carreiras-no-bb,1,1,verified,
+Banco Inter,https://carreiras.gupy.io/bancointer,https://carreiras.gupy.io/bancointer,1,1,verified,
+Banco Mercantil do Brasil,https://bancomercantil.gupy.io,https://bancomercantil.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco Original,https://original.gupy.io,https://original.gupy.io,1,1,verified,
+Bahema Educação,https://bahemaeducacao.com.br/trabalhe-conosco,https://bahemaeducacao.com.br/trabalhe-conosco,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='bahemaeducacao.com.br', port=443): Max retries exceeded with url: /trabalhe-conosco (Caused by NameResolutionError(""HTTPSConnection(host='bahemaeducacao.com.br', port=443): Failed to resolve 'bahemaeducacao.com.br' ([Errno -5] No address associated with hostname)""))"
+Banco Ourinvest,https://bancoourinvest.gupy.io,https://bancoourinvest.gupy.io,1,1,verified,
+Banco da Amazônia,https://www.bancoamazonia.com.br/index.php/o-banco/concursos-e-empregados,https://www.bancoamazonia.com.br/index.php/o-banco/concursos-e-empregados,1,1,verified,
+Banco Pan,https://boards.greenhouse.io/bancopan,https://boards.greenhouse.io/bancopan,1,1,verified,
+Mart Minas,https://martminas.com.br/trabalhe-conosco,https://martminas.com.br/trabalhe-conosco,1,1,verified,
+Banco Pine,https://bancopine.inhire.app/vagas,https://bancopine.inhire.app/vagas,1,1,verified,
+Banco Rendimento,https://rendimento.gupy.io,https://rendimento.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco Safra,https://safra.gupy.io,https://safra.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco Votorantim (banco BV),https://bv.gupy.io,https://bv.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco de Brasília (BRB),https://www.brb.com.br/concursos-e-processos-seletivos,https://www.brb.com.br/concursos-e-processos-seletivos,1,1,verified,
+Bandai Namco,https://www.bandainamcoent.com/careers,https://www.bandainamcoent.com/careers,1,1,verified,
+Banco do Nordeste,https://www.bnb.gov.br/concursos-e-selecoes,https://www.bnb.gov.br/concursos-e-selecoes,0,0,verified,HTTP 404 (Não Encontrado)
+Band,https://band.jobs.recrut.ai/#openings,https://band.jobs.recrut.ai/#openings,1,1,verified,
+Banco Paulista,https://bancopaulista.solides.jobs,https://bancopaulista.solides.jobs,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='bancopaulista.solides.jobs', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='bancopaulista.solides.jobs', port=443): Failed to resolve 'bancopaulista.solides.jobs' ([Errno -2] Name or service not known)""))"
+BASF,https://career5.successfactors.eu/career?company=C0000159936P,https://career5.successfactors.eu/career?company=C0000159936P,1,1,verified,
+Bacio di Latte,https://baciodilatte.com.br/carreiras,https://baciodilatte.com.br/carreiras,1,1,verified,
+Banco Inbursa,https://www.inbursa.com/BolsadeTrabajo,https://www.inbursa.com/BolsadeTrabajo,0,0,verified,HTTP 404 (Não Encontrado)
+Beyond 101,https://apply.workable.com/beyond-101,https://apply.workable.com/beyond-101,1,1,verified,
+Beleaf,https://www.beleaf.com.br/trabalhe-conosco,https://www.beleaf.com.br/trabalhe-conosco,1,1,verified,
+Biolab,https://biolabfarma.gupy.io,https://biolabfarma.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banco BV,https://jobs.lever.co/bv,https://jobs.lever.co/bv,1,1,verified,
+Belvo,https://belvo.com/careers,https://belvo.com/careers,1,1,verified,
+Bayer,https://bayer.eightfold.ai/careers,https://bayer.eightfold.ai/careers,1,1,verified,
+Blackberry,https://www.blackberry.com/us/en/company/careers,https://www.blackberry.com/us/en/company/careers,1,1,verified,
+Bitso,https://bitso.com/jobs,https://bitso.com/jobs,1,1,verified,
+BizCapital,https://bizcapital.gupy.io,https://bizcapital.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Blip,https://carreiras.gupy.io/blip,https://carreiras.gupy.io/blip,1,1,verified,
+BBC,https://careers.bbc.co.uk,https://careers.bbc.co.uk,1,1,verified,
+BoldMetrics,https://boldmetrics.com/careers,https://boldmetrics.com/careers,1,1,verified,
+Banestes,https://www.banestes.com.br/trabalhe-conosco,https://www.banestes.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Bom pra Crédito,https://bompracredito.gupy.io,https://bompracredito.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Banrisul,https://www.banrisul.com.br/concursos,https://www.banrisul.com.br/concursos,1,1,verified,
+Booking,https://jobs.booking.com/booking/jobs,https://jobs.booking.com/booking/jobs,1,1,verified,
+Box Delivery,https://boxdelivery.gupy.io,https://boxdelivery.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Booking.com,https://jobs.booking.com,https://jobs.booking.com,1,1,verified,
+Boulder Colorado,https://bouldercolorado.wd1.myworkdayjobs.com/en-US/External,https://bouldercolorado.wd1.myworkdayjobs.com/en-US/External,1,1,verified,
+Bradesco,https://banco.bradesco/trabalheconosco,https://banco.bradesco/trabalheconosco,1,1,verified,
+Bradesco Seguros,https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco,https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco,1,1,verified,
+Brastemp (Whirlpool),https://carreiras.gupy.io/whirlpool,https://carreiras.gupy.io/whirlpool,1,1,verified,
+Braspress,https://braspress.pandape.infojobs.com.br,https://braspress.pandape.infojobs.com.br,1,1,verified,
+Braskem,https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions,https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions,1,1,verified,
+Bosch Group,https://careers.smartrecruiters.com/BoschGroup,https://careers.smartrecruiters.com/BoschGroup,1,1,verified,
+BNY Mellon,https://bnymellon.eightfold.ai/careers,https://bnymellon.eightfold.ai/careers,0,0,verified,HTTP 404 (Não Encontrado)
+BRQ Digital Solutions,https://carreiras.gupy.io/brq,https://carreiras.gupy.io/brq,1,1,verified,
+Brinks Brasil,https://brinks.gupy.io,https://brinks.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Burger King,https://carreiras.gupy.io/burgerkingbrasil,https://carreiras.gupy.io/burgerkingbrasil,1,1,verified,
+Braze,https://job-boards.greenhouse.io/braze,https://job-boards.greenhouse.io/braze,1,1,verified,
+C&A Brasil,https://ceabrasil.gupy.io,https://ceabrasil.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+BTG Pactual,https://boards.greenhouse.io/btgpactual,https://boards.greenhouse.io/btgpactual,1,1,verified,
+C6 Bank,https://boards.greenhouse.io/c6bank,https://boards.greenhouse.io/c6bank,1,1,verified,
+Cabify,https://job-boards.greenhouse.io/cabify,https://job-boards.greenhouse.io/cabify,1,1,verified,
+Asus,https://www.asus.com/about-asus/careers,https://www.asus.com/about-asus/careers,1,1,verified,
+Buffer,https://journey.buffer.com,https://journey.buffer.com,1,1,verified,
+Caffeine Army,https://caffeinearmy.inhire.app,https://caffeinearmy.inhire.app,1,1,verified,
+Blau Farmacêutica,https://blau.com.br/carreiras,https://blau.com.br/carreiras,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='blau.comcarreiras', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='blau.comcarreiras', port=443): Failed to resolve 'blau.comcarreiras' ([Errno -2] Name or service not known)""))"
+Caixa Seguridade,https://caixaseguridade.gupy.io,https://caixaseguridade.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Camargo Corrêa,https://camargocorrea.gupy.io,https://camargocorrea.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Camil Alimentos,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list,https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=camilcombr&tenantdomain=camil.com.br#!/vacancies/list,1,1,verified,
+Canva,https://www.canva.com/careers,https://www.canva.com/careers,0,1,verified,
+Capco,https://boards.greenhouse.io/capco,https://boards.greenhouse.io/capco,1,1,verified,
+Capgemini,https://www.capgemini.com/br-pt/carreiras,https://www.capgemini.com/br-pt/carreiras,0,0,verified,HTTP 404 (Não Encontrado)
+Cargill,https://careers.cargill.com/en/search-jobs,https://careers.cargill.com/en/search-jobs,1,1,verified,
+CargoX,https://cargox.inhire.app/vagas,https://cargox.inhire.app/vagas,1,1,verified,
+Banco Semear,https://www.bancosemear.com.br/trabalhe-conosco,https://www.bancosemear.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Carrefour Brasil,https://carrefour.gupy.io,https://carrefour.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Carreira,https://carreira.inhire.com.br,https://carreira.inhire.com.br,1,1,verified,
+CD Projekt Red,https://www.cdprojektred.com/en/jobs,https://www.cdprojektred.com/en/jobs,1,1,verified,
+Caixa Econômica Federal,https://www.caixa.gov.br/sobre-a-caixa/trabalhe-na-caixa/concursos,https://www.caixa.gov.br/sobre-a-caixa/trabalhe-na-caixa/concursos,0,0,verified,HTTP 404 (Não Encontrado)
+ByteDance,https://jobs.bytedance.com/en,https://jobs.bytedance.com/en,1,1,verified,
+Celcoin,https://celcoin.inhire.app/vagas,https://celcoin.inhire.app/vagas,1,1,verified,
+Casan,https://www.casan.com.br/trabalhe-na-casan,https://www.casan.com.br/trabalhe-na-casan,1,1,verified,
+Cheftime,https://cheftime.gupy.io,https://cheftime.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+CI&T,https://jobs.lever.co/ciandt,https://jobs.lever.co/ciandt,1,1,verified,
+Cielo,https://cielo.inhire.app/vagas,https://cielo.inhire.app/vagas,1,1,verified,
+Cemig,https://www.cemig.com.br/carreiras,https://www.cemig.com.br/carreiras,1,1,verified,
+Citi,https://careers.citigroup.com,https://careers.citigroup.com,1,1,verified,
+Camil,https://camilalimentos.com.br/carreiras,https://camilalimentos.com.br/carreiras,1,1,verified,
+Cloudera,https://www.cloudera.com/careers.html,https://www.cloudera.com/careers.html,1,1,verified,
+CloudWalk,https://jobs.lever.co/cloudwalk,https://jobs.lever.co/cloudwalk,1,1,verified,
+Coamo Agroindustrial,https://carreiras.gupy.io/coamo,https://carreiras.gupy.io/coamo,1,1,verified,
+Cobasi,https://cobasi.pandape.infojobs.com.br,https://cobasi.pandape.infojobs.com.br,1,1,verified,
+Coca-Cola Company,https://coke.wd1.myworkdayjobs.com/coca-cola-careers,https://coke.wd1.myworkdayjobs.com/coca-cola-careers,1,1,verified,
+Bold Snacks,https://bold.net/trabalhe-conosco,https://bold.net/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Cisco,https://careers.cisco.com/global/en,https://careers.cisco.com/global/en,1,1,verified,
+Comercial Zaffari,https://czaffari.gupy.io,https://czaffari.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Contabilizei,https://carreiras.gupy.io/contabilizei,https://carreiras.gupy.io/contabilizei,1,1,verified,
+Conta Azul,https://contaazul.inhire.app,https://contaazul.inhire.app,1,1,verified,
+Cooxupé,https://carreiras.gupy.io/cooxupe,https://carreiras.gupy.io/cooxupe,1,1,verified,
+Colgate-Palmolive,https://jobs.colgate.com,https://jobs.colgate.com,1,1,verified,
+Coop,https://cooperativadeconsumo.pandape.infojobs.com.br,https://cooperativadeconsumo.pandape.infojobs.com.br,1,1,verified,
+Analytics,https://analytics.inhire.com.br,https://carreiras.gupy.io/analytics,1,1,fixed_url,"Erro de Conexão: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+Analytics-ss,https://analytics-ss.inhire.com.br,https://analytics-ss.inhire.com.br,1,0,verified,"Erro de Conexão: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+Copacol,https://copacol.com.br/trabalhe-conosco,https://copacol.com.br/trabalhe-conosco,1,1,verified,
+Cora,https://cora.inhire.app/vagas,https://cora.inhire.app/vagas,1,1,verified,
+Corel,https://www.corel.com/en/careers,https://www.corel.com/en/careers,1,1,verified,
+CPFL Energia,https://cpflenergia.gupy.io,https://cpflenergia.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+CrowdStrike,https://www.crowdstrike.com/careers,https://www.crowdstrike.com/careers,1,1,verified,
+Copasa,https://www.copasa.com.br/wps/portal/internet/trabalhe-na-copasa,https://www.copasa.com.br/wps/portal/internet/trabalhe-na-copasa,1,1,verified,
+Celesc,https://www.celesc.com.br/trabalhe-na-celesc,https://www.celesc.com.br/trabalhe-na-celesc,0,0,verified,HTTP 404 (Não Encontrado)
+Dasa,https://carreiras.gupy.io/dasa,https://carreiras.gupy.io/dasa,1,1,verified,
+Daki,https://daki.gupy.io,https://daki.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Coursera,https://about.coursera.org/careers,https://about.coursera.org/careers,1,1,verified,
+DataDog,https://careers.datadoghq.com/all-jobs,https://careers.datadoghq.com/all-jobs,1,1,verified,
+Caesb,https://www.caesb.df.gov.br/concursos.html,https://www.caesb.df.gov.br/concursos.html,0,0,verified,HTTP 404 (Não Encontrado)
+DataRobot,https://www.datarobot.com/careers,https://www.datarobot.com/careers,1,1,verified,
+Delta Air Lines,https://delta.avature.net/en_US/careers,https://delta.avature.net/en_US/careers,1,1,verified,
+Descomplica,https://carreiras.gupy.io/descomplica,https://carreiras.gupy.io/descomplica,1,1,verified,
+dbtLabs,https://job-boards.greenhouse.io/dbtlabsinc,https://job-boards.greenhouse.io/dbtlabsinc,1,1,verified,
+Deloitte,https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join,https://app.jobconvo.com/pt-br/careers/Deloitte/ddf2b2f5-cc30-4503-8ec8-458f9869e2ba/#join,1,1,verified,
+Desktop,https://desktop.gupy.io,https://desktop.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Dell,https://jobs.dell.com/en,https://jobs.dell.com/en,1,1,verified,
+Diferente,https://diferente.com.br/trabalhe-conosco,https://diferente.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Databricks,https://job-boards.greenhouse.io/databricks,https://job-boards.greenhouse.io/databricks,1,1,verified,
+dLocal,https://jobs.lever.co/dlocal,https://jobs.lever.co/dlocal,1,1,verified,
+Desinchá,https://desincha.com.br/pages/trabalhe-conosco,https://desincha.com.br/pages/trabalhe-conosco,1,1,verified,
+Direcional,https://direcional.gupy.io,https://direcional.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Copel,https://www.copel.com/site/trabalhe-na-copel,https://www.copel.com/site/trabalhe-na-copel,1,0,verified,HTTP 404 (Não Encontrado)
+Dock,https://dock.gupy.io,https://dock.gupy.io,1,1,verified,
+Docs,https://docs.inhire.com.br,https://docs.inhire.com.br,1,1,verified,
+Donorbox,https://job-boards.greenhouse.io/donorbox,https://job-boards.greenhouse.io/donorbox,1,1,verified,
+Domo,https://www.domo.com/company/careers,https://www.domo.com/company/careers,1,1,verified,
+Dr. Consulta,https://carreiras.gupy.io/drconsulta,https://carreiras.gupy.io/drconsulta,1,1,verified,
+DoorDash International,https://boards.greenhouse.io/doordashinternational,https://boards.greenhouse.io/doordashinternational,1,1,verified,
+Danone,https://ptapply-danone.icims.com/jobs/search,https://ptapply-danone.icims.com/jobs/search,0,0,verified,HTTP 405
+Droga Raia / Drogasil (RD Saúde),https://carreiras.gupy.io/rd,https://carreiras.gupy.io/rd,1,1,verified,
+Domino s Pizza,https://dominospizzabrasil.pandape.infojobs.com.br,https://dominospizzabrasil.pandape.infojobs.com.br,1,1,verified,
+DuckDuckGo,https://jobs.ashbyhq.com/duck-duck-go,https://jobs.ashbyhq.com/duck-duck-go,1,1,verified,
+Ebanx,https://boards.greenhouse.io/ebanx,https://boards.greenhouse.io/ebanx,1,1,verified,
+Duolingo,https://careers.duolingo.com,https://careers.duolingo.com,1,1,verified,
+Dropbox,https://dropbox.jobs,https://dropbox.jobs,1,1,verified,
+DiDi (99),https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479,https://careers-didiglobal.icims.com/jobs/search?ss=1&hashed=-625919479,0,0,verified,HTTP 405
+Eaton,https://eaton.eightfold.ai/careers,https://eaton.eightfold.ai/careers,1,1,verified,
+Edenred (Ticket),https://wd3.myworkdaysite.com/pt-BR/recruiting/edenpeople/Edenred_Careers,https://wd3.myworkdaysite.com/pt-BR/recruiting/edenpeople/Edenred_Careers,1,1,verified,
+Eightfold,https://pepsico.eightfold.ai/careers,https://pepsico.eightfold.ai/careers,1,1,verified,
+Eletrobras,https://eletrobras.gupy.io,https://eletrobras.gupy.io,1,1,verified,
+Eleva Educação,https://escolaseleva.gupy.io,https://escolaseleva.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+EDP Brasil,https://jobs.edp.com,https://jobs.edp.com,1,1,verified,
+Emirates,https://www.emiratesgroupcareers.com,https://www.emiratesgroupcareers.com,1,1,verified,
+EMS,https://ems.izirh.io,https://ems.izirh.io,1,1,verified,
+Eneva,https://eneva.gupy.io,https://eneva.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Electronic Arts,https://jobs.ea.com/en_US/careers,https://jobs.ea.com/en_US/careers,1,1,verified,
+Embaré,https://embare.com.br/trabalhe-conosco,https://embare.com.br/trabalhe-conosco,0,0,verified,HTTP 526
+Epic Games,https://www.epicgames.com/site/en-US/careers,https://www.epicgames.com/site/en-US/careers,1,1,verified,
+Ericsson,https://www.ericsson.com/en/careers,https://www.ericsson.com/en/careers,1,1,verified,
+Eternit,https://eternit.gupy.io,https://eternit.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Digibee,https://job-boards.greenhouse.io/digibeeinc,https://digibee.gupy.io,0,1,fixed_url,HTTP 404 (Não Encontrado)
+Epson,https://epson.com.br/carreiras,https://epson.com.br/carreiras,1,1,verified,
+Even,https://even.gupy.io,https://even.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Engie Brasil,https://jobs.engie.com,https://jobs.engie.com,1,1,verified,
+Expedia,https://careers.expediagroup.com,https://careers.expediagroup.com,1,1,verified,
+EA (Electronic Arts),https://www.ea.com/careers,https://www.ea.com/careers,1,1,verified,
+EY,https://www.ey.com/pt_br/careers,https://www.ey.com/pt_br/careers,1,1,verified,
+Eu Entrego,https://www.euentrego.com/entregador,https://www.euentrego.com/entregador,1,1,verified,
+ExxonMobil,https://jobs.exxonmobil.com,https://jobs.exxonmobil.com,1,1,verified,
+Fazenda Futuro (Future Farm),https://fazendafuturo.gupy.io,https://fazendafuturo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Feedz,https://feedz.inhire.app/vagas,https://feedz.inhire.app/vagas,1,1,verified,
+Fanatee,https://fanatee.com/#careers,https://fanatee.com/#careers,1,1,verified,
+Ferbasa,https://ferbasa.gupy.io,https://ferbasa.gupy.io,1,1,verified,
+FedEx,https://fedex.wd1.myworkdayjobs.com/FXE-EU_External,https://fedex.wd1.myworkdayjobs.com/FXE-EU_External,1,1,verified,
+FIAP,https://alura-fiap-pm3.inhire.app/vagas,https://alura-fiap-pm3.inhire.app/vagas,1,1,verified,
+Federação Paulista de Futebol,https://oportunidades.mindsight.com.br/fpf,https://oportunidades.mindsight.com.br/fpf,1,1,verified,
+Ferrero,https://www.ferrerocareers.com,https://www.ferrerocareers.com,1,1,verified,
+Flash,https://flash.inhire.app/vagas,https://flash.inhire.app/vagas,1,1,verified,
+Figma,https://boards.greenhouse.io/figma,https://boards.greenhouse.io/figma,1,1,verified,
+Fleury,https://grupofleury.gupy.io,https://grupofleury.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Folha da Manhã,https://folhadespaulo.gupy.io,https://folhadespaulo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Food to Save,https://foodtosave.gupy.io,https://foodtosave.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Blizzard,https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers,https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers,0,0,verified,HTTP 500
+FGV - Fundação Getulio Vargas,https://portal.fgv.br/trabalhe-conosco,https://portal.fgv.br/trabalhe-conosco,1,1,verified,
+Fortinet,https://www.fortinet.com/corporate/careers,https://www.fortinet.com/corporate/careers,1,1,verified,
+Ford,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions,1,1,verified,
+Fox Corporation,https://www.foxcareers.com,https://www.foxcareers.com,1,1,verified,
+Foxbit,https://foxbit.gupy.io,https://foxbit.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Frete.com,https://frete.gupy.io,https://frete.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Frooty,https://frooty.gupy.io,https://frooty.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Fretebras,https://fretebras.inhire.app/vagas,https://fretebras.inhire.app/vagas,1,1,verified,
+Gazin,https://gazin.gupy.io,https://gazin.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Fundação Bradesco,https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco,https://bradesco.csod.com/ux/ats/careersite/2/home?c=bradesco,1,1,verified,
+Garena,https://careers.garena.com/global/careers,https://careers.garena.com/global/careers,1,1,verified,
+Ceg (Naturgy),https://www.naturgy.com.br/trabalhe-conosco,https://www.naturgy.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Facchini,https://facchini.com.br/trabalhe-conosco,https://facchini.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+GE (General Electric),https://jobs.gecareers.com,https://jobs.gecareers.com,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='jobs.gecareers.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='jobs.gecareers.com', port=443): Failed to resolve 'jobs.gecareers.com' ([Errno -2] Name or service not known)""))"
+Four Seasons Hotels,https://fourseasons.wd3.myworkdayjobs.com/Search,https://fourseasons.wd3.myworkdayjobs.com/Search,1,1,verified,
+General Motors,https://search-careers.gm.com,https://search-careers.gm.com,1,1,verified,
+GE Vernova,https://careers.gevernova.com/global/en/search-results,https://careers.gevernova.com/global/en/search-results,1,1,verified,
+Geru,https://open-co.gupy.io,https://open-co.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+BRF,https://brf.com/talentos,https://brf.com/talentos,0,0,verified,HTTP 404 (Não Encontrado)
+Gigster,https://virtasant.teamtailor.com,https://virtasant.teamtailor.com,1,1,verified,
+Giross,https://giross.gupy.io,https://giross.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Gerador,https://gerador.inhire.com.br,https://gerador.inhire.com.br,1,1,verified,
+GFT Tecnologia,https://career5.successfactors.eu/careers?company=gfttechnol,https://career5.successfactors.eu/careers?company=gfttechnol,1,1,verified,
+GE Aerospace,https://careers.geaerospace.com/global/en/search-results,https://careers.geaerospace.com/global/en/search-results,1,1,verified,
+GitHub,https://github.com/about/careers,https://github.com/about/careers,1,1,verified,
+GoPro,https://gopro.com/en/us/careers,https://gopro.com/en/us/careers,1,1,verified,
+Frimesa,https://www.frimesa.com.br/pt/trabalhe-conosco,https://www.frimesa.com.br/pt/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Gorila,https://carreiras.gupy.io/gorila,https://carreiras.gupy.io/gorila,1,1,verified,
+GM Financial,https://careers.gmfinancial.com/jobs,https://careers.gmfinancial.com/jobs,1,1,verified,
+Granero,https://granero.gupy.io,https://granero.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Google,https://www.google.com/about/careers/applications/jobs/results,https://www.google.com/about/careers/applications/jobs/results,1,1,verified,
+Greenhouse,https://job-boards.greenhouse.io/greenhouse,https://job-boards.greenhouse.io/greenhouse,1,1,verified,
+Grendene,https://grendene.gupy.io,https://grendene.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Cagece,https://www.cagece.com.br/institucional/concursos-e-selecoes,https://www.cagece.com.br/institucional/concursos-e-selecoes,0,0,verified,HTTP 404 (Não Encontrado)
+Grammarly,https://www.grammarly.com/jobs,https://www.grammarly.com/jobs,1,1,verified,
+Grupo Casas Bahia,https://carreiras.gupy.io/grupocasasbahia,https://carreiras.gupy.io/grupocasasbahia,1,1,verified,
+Gringo,https://gringo.inhire.app/vagas,https://gringo.inhire.app/vagas,1,1,verified,
+Grupo Carrefour,https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br,https://corporativo-grupocarrefourbrasil.pandape.infojobs.com.br,1,1,verified,
+Grupo Águia Branca,https://grupoaguiabranca.gupy.io,https://grupoaguiabranca.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Grupo Habib's,https://grupohabibs.pandape.infojobs.com.br,https://grupohabibs.pandape.infojobs.com.br,1,1,verified,
+Grupo Gontijo,https://gontijo.gupy.io,https://gontijo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Grupo Muffato,https://grupomuffatovagas.gupy.io,https://grupomuffatovagas.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Grupo Despegar (Decolar.com),https://jobs.lever.co/despegar,https://jobs.lever.co/despegar,1,1,verified,
+Grupo NC,https://gruponc.gupy.io,https://gruponc.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Grupo Mateus,https://grupomateus.gupy.io,https://grupomateus.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Habib s,https://carreiras.gupy.io/habibs,https://carreiras.gupy.io/habibs,1,1,verified,
+Grupo RV,https://gruporv.pandape.infojobs.com.br,https://gruporv.pandape.infojobs.com.br,1,1,verified,
+Grupo Silvio Santos,https://gruposilviosantos.gupy.io,https://gruposilviosantos.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+GitHub Inc,https://globalcareers-githubinc.icims.com/jobs,https://globalcareers-githubinc.icims.com/jobs,0,0,verified,HTTP 405
+Hapvida NotreDame Intermédica,https://hapvidandi.pandape.infojobs.com.br,https://hapvidandi.pandape.infojobs.com.br,1,1,verified,
+Hashdex,https://hashdex.gupy.io,https://hashdex.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+HDI Seguros,https://hdiseguros.gupy.io,https://hdiseguros.gupy.io,1,1,verified,
+Hootsuite,https://careers.hootsuite.com,https://careers.hootsuite.com,1,1,verified,
+Gupy Tecnologia,https://gupy.gupy.io,https://gupy.gupy.io,1,1,verified,
+Hinode,https://hinode.gupy.io,https://hinode.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Hopper,https://www.hopper.com/careers,https://www.hopper.com/careers,1,1,verified,
+Grupo Primo,https://jobs.quickin.io/grupo-primo/jobs,https://jobs.quickin.io/grupo-primo/jobs,1,1,verified,
+Hospital Sírio-Libanês,https://career19.sapsf.com/careers?company=sociedad02,https://career19.sapsf.com/careers?company=sociedad02,1,1,verified,
+Hotmart,https://boards.eu.greenhouse.io/hotmartcareersbr,https://boards.eu.greenhouse.io/hotmartcareersbr,1,1,verified,
+Hyatt,https://careers.hyatt.com,https://careers.hyatt.com,1,1,verified,
+GE Healthcare,https://careers.gehealthcare.com,https://careers.gehealthcare.com,1,1,verified,
+HubSpot,https://www.hubspot.com/careers,https://www.hubspot.com/careers,1,1,verified,
+Icatu Seguros,https://icatuseguros.gupy.io,https://icatuseguros.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+IBM,https://www.ibm.com/br-pt/careers,https://www.ibm.com/br-pt/careers,1,1,verified,
+Gerdau,https://career19.sapsf.com/careers?company=gerdauacos,https://career19.sapsf.com/careers?company=gerdauacos,1,1,verified,
+Ilegra,https://vagas.ilegra.com,https://vagas.ilegra.com,1,1,verified,
+ICIMS,https://careers.icims.com/careers-home/jobs,https://careers.icims.com/careers-home/jobs,1,1,verified,
+Iguatemi,https://iguatemi.gupy.io,https://iguatemi.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+ília,https://boards.greenhouse.io/ilia,https://boards.greenhouse.io/ilia,1,1,verified,
+Infracommerce,https://infracommerce.gupy.io,https://infracommerce.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Inkrypton,https://inkrypton.inhire.com.br,https://inkrypton.inhire.com.br,0,0,verified,HTTP 404 (Não Encontrado)
+Intera,https://vagasbyintera.inhire.app/vagas,https://vagasbyintera.inhire.app/vagas,1,1,verified,
+Inter,https://boards.greenhouse.io/inter,https://boards.greenhouse.io/inter,1,1,verified,
+Involves,https://involves.inhire.app/vagas,https://involves.inhire.app/vagas,1,1,verified,
+Irani Papel e Embalagem,https://irani.gupy.io,https://irani.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+HBO (Warner Bros. Discovery),https://careers.wbd.com/global/en,https://careers.wbd.com/global/en,1,1,verified,
+Isa CTEEP,https://isacteep.gupy.io,https://isacteep.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Itambé,https://itambe.gupy.io,https://itambe.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Intel,https://jobs.intel.com,https://jobs.intel.com,1,1,verified,
+Itapemirim (Nova Itapemirim),https://novaitapemirim.gupy.io,https://novaitapemirim.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Itaú Unibanco,https://itau.gupy.io,https://itau.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Hyland,https://careers-hyland.icims.com/jobs/search?ss=1&hashed=-435679902,https://careers-hyland.icims.com/jobs/search?ss=1&hashed=-435679902,0,0,verified,HTTP 405
+Iugu,https://iugu.inhire.app/vagas,https://iugu.inhire.app/vagas,1,1,verified,
+João Fortes,https://joaofortes.gupy.io,https://joaofortes.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Johnson & Johnson,https://www.careers.jnj.com,https://www.careers.jnj.com,1,1,verified,
+IQVIA,https://jobs.iqvia.com/en/search-jobs,https://jobs.iqvia.com/en/search-jobs,1,1,verified,
+JPMorgan Chase,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions,1,1,verified,
+Jungle,https://jungle.gupy.io,https://jungle.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+JusBrasil,https://boards.greenhouse.io/jusbrasil,https://boards.greenhouse.io/jusbrasil,1,1,verified,
+Kalunga,https://kalunga.pandape.infojobs.com.br,https://kalunga.pandape.infojobs.com.br,1,1,verified,
+Kangu,https://kangu.gupy.io,https://kangu.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Kanastra,https://kanastra.inhire.app/vagas,https://kanastra.inhire.app/vagas,1,1,verified,
+Heineken,https://careers.theheinekencompany.com/Brazil/search,https://careers.theheinekencompany.com/Brazil/search,1,1,verified,
+Kavak,https://kavakcom.pandape.infojobs.com.br,https://kavakcom.pandape.infojobs.com.br,1,1,verified,
+JD.com,https://corporate.jd.com/careers,https://corporate.jd.com/careers,1,1,verified,
+Hilton,https://jobs.hilton.com,https://jobs.hilton.com,1,1,verified,
+Khan Academy,https://www.khanacademy.org/about/careers,https://www.khanacademy.org/about/careers,1,1,verified,
+Kepler Weber,https://keplerweber.gupy.io,https://keplerweber.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Kiwify,https://kiwify.inhire.app/vagas,https://kiwify.inhire.app/vagas,1,1,verified,
+ITV,https://www.itvjobs.com,https://www.itvjobs.com,1,1,verified,
+Keyrus,https://jobs.keyrus.com.br/jobs,https://jobs.keyrus.com.br/jobs,1,1,verified,
+Klabin,https://klabin.inhire.app/vagas,https://klabin.inhire.app/vagas,1,1,verified,
+John Deere,https://johndeere.eightfold.ai/careers,https://johndeere.eightfold.ai/careers,1,1,verified,
+Kora Saúde,https://korasaude.gupy.io,https://korasaude.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+KPMG Brasil,https://carreira.inhire.com.br/carreiras/kpmg,https://carreira.inhire.com.br/carreiras/kpmg,1,1,verified,
+KPMG,https://kpmg.com/br/pt/home/carreiras.html,https://kpmg.com/br/pt/home/carreiras.html,1,1,verified,
+Kimberly-Clark,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL,https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL,1,1,verified,
+Lalamove Brasil,https://lalamove.gupy.io,https://lalamove.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Kaspersky,https://careers.kaspersky.com,https://careers.kaspersky.com,1,1,verified,
+Electrolux,https://career.electroluxgroup.com,https://career.electroluxgroup.com,1,1,verified,Sucesso (Timeout / Proteção Bot)
+Kraft Heinz,https://careers.kraftheinz.com/job-search-results,https://careers.kraftheinz.com/job-search-results,1,1,verified,
+Kwan,https://kwan.com/careers/#jobpost,https://kwan.com/careers/#jobpost,1,1,verified,
+Launchpad Technologies,https://job-boards.greenhouse.io/launchpadtechnologiesinc,https://job-boards.greenhouse.io/launchpadtechnologiesinc,1,1,verified,
+Lar Cooperativa,https://www.lar.ind.br/trabalhe-conosco,https://www.lar.ind.br/trabalhe-conosco,1,1,verified,
+Lavvi,https://lavvi.gupy.io,https://lavvi.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Leroy Merlin,https://carreiras.leroymerlin.com.br,https://carreiras.leroymerlin.com.br,1,1,verified,
+Levo,https://levo.gupy.io,https://levo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Letrus,https://letrus.inhire.app/vagas,https://letrus.inhire.app/vagas,1,1,verified,
+Liberty Seguros,https://libertyseguros.gupy.io,https://libertyseguros.gupy.io,1,1,verified,
+Libbs,https://libbs.gupy.io,https://libbs.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Linx,https://carreiras.gupy.io/linx,https://carreiras.gupy.io/linx,1,1,verified,
+Lenovo,https://jobs.lenovo.com,https://jobs.lenovo.com,1,1,verified,
+LEGO,https://lego.wd103.myworkdayjobs.com/LEGO_External,https://lego.wd103.myworkdayjobs.com/LEGO_External,1,1,verified,
+Liv Up,https://livup.gupy.io,https://livup.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+LinkedIn,https://careers.linkedin.com,https://careers.linkedin.com,1,1,verified,
+Live Nation,https://www.livenationentertainment.com/careers,https://www.livenationentertainment.com/careers,1,1,verified,
+Local Frio,https://localfrio.gupy.io,https://localfrio.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Locaweb,https://locaweb.gupy.io,https://locaweb.gupy.io,1,1,verified,
+LevelUp,https://trampos.co/level-up,https://trampos.co/level-up,1,1,verified,
+Loggi,https://apply.workable.com/loggi,https://apply.workable.com/loggi,1,1,verified,
+Loggi Tecnologia,https://loggi.gupy.io,https://loggi.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Log Commercial Properties,https://log.gupy.io,https://log.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Loft,https://loft.teamtailor.com/jobs,https://loft.teamtailor.com/jobs,1,1,verified,
+Login Logística,https://login.gupy.io,https://login.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Logitech,https://www.logitech.com/careers,https://www.logitech.com/careers,1,1,verified,
+Loews Hotels,https://www.loewshotels.com/careers,https://www.loewshotels.com/careers,1,1,verified,
+MadeiraMadeira,https://carreiras.gupy.io/madeiramadeira,https://carreiras.gupy.io/madeiramadeira,1,1,verified,
+Madero,https://carreiras.gupy.io/madero,https://carreiras.gupy.io/madero,1,1,verified,
+Magalu,https://magazineluiza.inhire.app,https://magazineluiza.inhire.app,1,1,verified,
+Lojas Quero-Quero,https://www.queroquero.com.br/trabalhe-conosco,https://www.queroquero.com.br/trabalhe-conosco,1,1,verified,
+LG,https://www.lg.com/global/careers,https://www.lg.com/global/careers,1,1,verified,
+Magnetis,https://magnetis.gupy.io,https://magnetis.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Mais Mu,https://maismu.gupy.io,https://maismu.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Light,https://www.light.com.br/grupo-light/Trabalhe-na-Light/default.aspx,https://www.light.com.br/grupo-light/Trabalhe-na-Light/default.aspx,1,1,verified,
+Marcopolo,https://www.marcopolo.com.br/carreiras,https://www.marcopolo.com.br/carreiras,1,1,verified,
+Marisa,https://carreiras.gupy.io/marisa,https://carreiras.gupy.io/marisa,1,1,verified,
+Magazine Luiza,https://99jobs.com/magazine-luiza,https://99jobs.com/magazine-luiza,1,1,verified,
+Mapfre Brasil,https://www.mapfre.com.br/trabalhe-na-mapfre,https://www.mapfre.com.br/trabalhe-na-mapfre,0,0,verified,HTTP 404 (Não Encontrado)
+Embasa,https://www.embasa.ba.gov.br/institucional/concursos,https://www.embasa.ba.gov.br/institucional/concursos,1,0,verified,"Erro de Conexão: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+Lufthansa,https://www.lufthansagroup.careers,https://www.lufthansagroup.careers,1,1,verified,
+Mash,https://mash.pandape.infojobs.com.br,https://mash.pandape.infojobs.com.br,1,1,verified,
+Martins Atacado Var,https://martins.gupy.io,https://martins.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Mater Dei,https://materdei.gupy.io,https://materdei.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Melhor Envio,https://melhorenvio.gupy.io,https://melhorenvio.gupy.io,1,1,verified,
+Marriott International,https://jobs.marriott.com,https://jobs.marriott.com,1,1,verified,
+Melhoramentos,https://melhoramentos.gupy.io,https://melhoramentos.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Lojas Cem,https://www.lojascem.com.br/trabalhe-conosco,https://www.lojascem.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Mastercard,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers,https://mastercard.wd1.myworkdayjobs.com/CorporateCareers,1,1,verified,
+Meliuz,https://meliuz.inhire.app/vagas,https://meliuz.inhire.app/vagas,1,1,verified,
+Melnick,https://melnick.gupy.io,https://melnick.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Mercado Bitcoin,https://mercadobitcoin.inhire.app/vagas,https://mercadobitcoin.inhire.app/vagas,1,1,verified,
+Mercedes-Benz Brasil,https://mercedes-benz.gupy.io,https://mercedes-benz.gupy.io,1,1,verified,
+Isaac,https://boards.greenhouse.io/isaac,https://boards.greenhouse.io/isaac,1,1,verified,
+iFood,https://job-boards.greenhouse.io/ifoodcarreiras,https://job-boards.greenhouse.io/ifoodcarreiras,1,1,verified,
+Metha (antiga OAS),https://metha.gupy.io,https://metha.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Microsoft,https://careers.microsoft.com,https://careers.microsoft.com,1,1,verified,
+Mercado Livre,https://mercadolibre.eightfold.ai/careers,https://mercadolibre.eightfold.ai/careers,1,1,verified,
+Mimic,https://mimic.gupy.io,https://mimic.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Marfrig,https://www.marfrig.com.br/pt/trabalhe-conosco,https://www.marfrig.com.br/pt/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+Mineirao Atacarejo,https://mineirao.gupy.io,https://mineirao.gupy.io,1,1,verified,
+Mindbody,https://co.mindbodyonline.com/careers/opportunities,https://co.mindbodyonline.com/careers/opportunities,1,1,verified,
+MJV,https://mjv.inhire.app/vagas,https://mjv.inhire.app/vagas,1,1,verified,
+Mobly,https://mobly.gupy.io,https://mobly.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Librelato,https://www.librelato.com.br/trabalhe-conosco,https://www.librelato.com.br/trabalhe-conosco,1,1,verified,
+Mombora,https://mombora.gupy.io,https://mombora.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Mottu,https://mottu.inhire.app,https://mottu.inhire.app,1,1,verified,
+Moura Dubeux,https://mouradubeux.gupy.io,https://mouradubeux.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Mondial Eletrodomésticos,https://selecaogrupomk.vagas.solides.com.br,https://selecaogrupomk.vagas.solides.com.br,1,1,verified,
+Multiplan,https://multiplan.gupy.io,https://multiplan.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Méliuz,https://meliuz.greenhouse.io,https://meliuz.greenhouse.io,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='meliuz.greenhouse.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='meliuz.greenhouse.io', port=443): Failed to resolve 'meliuz.greenhouse.io' ([Errno -2] Name or service not known)""))"
+MasterClass,https://boards.greenhouse.io/masterclass,https://boards.greenhouse.io/masterclass,1,1,verified,
+MRV,https://www.mrv.com.br/trabalhe-conosco,https://www.mrv.com.br/trabalhe-conosco,0,0,verified,HTTP 404 (Não Encontrado)
+NBCUniversal,https://www.nbcunicareers.com,https://www.nbcunicareers.com,1,1,verified,
+Neoenergia,https://carreiras.gupy.io/neoenergia,https://carreiras.gupy.io/neoenergia,1,1,verified,
+Motorola Solutions,https://motorolasolutions.wd5.myworkdayjobs.com/Careers,https://motorolasolutions.wd5.myworkdayjobs.com/Careers,1,1,verified,
+Mondelez Internacional,https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External,https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External,1,1,verified,
+Neogrid,https://neogrid.gupy.io,https://neogrid.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Netflix,https://jobs.netflix.com,https://jobs.netflix.com,1,1,verified,
+Michelin,https://michelinhr.wd3.myworkdayjobs.com/Michelin,https://michelinhr.wd3.myworkdayjobs.com/Michelin,1,1,verified,
+Nadara,https://nadara.wd3.myworkdayjobs.com/External,https://nadara.wd3.myworkdayjobs.com/External,1,1,verified,
+Neon,https://jobs.lever.co/neon,https://jobs.lever.co/neon,1,1,verified,
+New,https://new.inhire.com.br,https://new.inhire.com.br,1,1,verified,
+Nomad,https://carreiras.gupy.io/nomad,https://carreiras.gupy.io/nomad,1,1,verified,
+Notion,https://jobs.ashbyhq.com/notion,https://jobs.ashbyhq.com/notion,1,1,verified,
+Nomad Global,https://apply.workable.com/nomadglobal,https://apply.workable.com/nomadglobal,1,1,verified,
+Nissan,https://www.nissan.com.br/trabalhe-conosco.html,https://www.nissan.com.br/trabalhe-conosco.html,1,1,verified,
+NovaDAX,https://novadax.gupy.io,https://novadax.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Novo,https://novo.inhire.com.br,https://novo.inhire.com.br,1,1,verified,
+NTT Data,https://careers.emeal.nttdata.com/s/jobs?language=pt_BR,https://careers.emeal.nttdata.com/s/jobs?language=pt_BR,1,1,verified,Sucesso (Bloqueio SSL / Proteção Bot)
+Novonor (Odebrecht),https://novonor.gupy.io,https://novonor.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Nubank,https://boards.greenhouse.io/nubank,https://boards.greenhouse.io/nubank,1,1,verified,
+Nestlé,https://jobdetails.nestle.com,https://jobdetails.nestle.com,1,1,verified,
+Nude.,https://nude.gupy.io,https://nude.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Natura&CO (Avon + The Body Shop),https://avon.wd5.myworkdayjobs.com/NaturaCarreiras,https://avon.wd5.myworkdayjobs.com/NaturaCarreiras,1,1,verified,
+Oakberry,https://oakberry.gupy.io,https://oakberry.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+OdontoPrev,https://odontoprev.gupy.io,https://odontoprev.gupy.io,1,1,verified,
+Nubank (Nu Holdings),https://nubank.greenhouse.io,https://nubank.greenhouse.io,1,1,verified,
+Odous de Deus,https://odousdedeus.gupy.io,https://odousdedeus.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+OEC,https://oec.gupy.io,https://oec.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Meituan,https://zhaopin.meituan.com/en,https://zhaopin.meituan.com/en,1,1,verified,
+MRS Logística,https://www.mrs.com.br/trabalhe-conosco,https://www.mrs.com.br/trabalhe-conosco,1,1,verified,
+Olist,https://olist.inhire.app/vagas,https://olist.inhire.app/vagas,1,1,verified,
+Olga Ri,https://olgari.gupy.io,https://olgari.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Oncoclínicas,https://oncoclinicas.gupy.io,https://oncoclinicas.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Netbr,https://careers.smartrecruiters.com/Netbr,https://careers.smartrecruiters.com/Netbr,1,1,verified,
+Open Co,https://carreiras.gupy.io/openco,https://carreiras.gupy.io/openco,1,1,verified,
+Outback (Bloomin Brands),https://carreiras.gupy.io/bloominbrands,https://carreiras.gupy.io/bloominbrands,1,1,verified,
+Órama Investimentos,https://orama.gupy.io,https://orama.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+PagBank,https://carreiras.gupy.io/pagbank,https://carreiras.gupy.io/pagbank,1,1,verified,
+Pacaembu Construtora,https://pacaembu.gupy.io,https://pacaembu.gupy.io,1,1,verified,
+Pagar.me,https://pagarme.gupy.io,https://pagarme.gupy.io,1,1,verified,
+Pague Menos,https://paguemenos.gupy.io,https://paguemenos.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Panvel (Dimed),https://panvel.gupy.io,https://panvel.gupy.io,1,1,verified,
+ONR – Registro de Imóveis Eletrônico,https://jobs.quickin.io/registradores/jobs,https://jobs.quickin.io/registradores/jobs,1,1,verified,
+Oracle,https://www.oracle.com/careers,https://www.oracle.com/careers,1,1,verified,
+OEC (Odebrecht),https://oec-eng.com/trabalhe-conosco,https://oec-eng.com/trabalhe-conosco,1,1,verified,
+OXXO,https://oxxo.eightfold.ai/careers,https://oxxo.eightfold.ai/careers,1,1,verified,
+Payclip,https://payclip.bamboohr.com/careers,https://payclip.bamboohr.com/careers,1,1,verified,
+Neurotech,https://neurotech.jobs.recrut.ai/#openings,https://neurotech.jobs.recrut.ai/#openings,0,0,verified,HTTP 404 (Não Encontrado)
+Paraná Banco,https://jobs.quickin.io/paranabanco/jobs,https://jobs.quickin.io/paranabanco/jobs,1,1,verified,
+Pernambucanas,https://vemprafamilia-pernambucanas.cliqx.com.br,https://vemprafamilia-pernambucanas.cliqx.com.br,1,1,verified,
+PepsiCo,https://www.pepsicojobs.com/main,https://www.pepsicojobs.com/main,1,1,verified,
+Paypal,https://paypal.eightfold.ai/careers,https://paypal.eightfold.ai/careers,1,1,verified,
+PagBank (PagSeguro),https://pagbank.greenhouse.io,https://pagbank.greenhouse.io,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='pagbank.greenhouse.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='pagbank.greenhouse.io', port=443): Failed to resolve 'pagbank.greenhouse.io' ([Errno -2] Name or service not known)""))"
+Pismo,https://pismo.gupy.io,https://pismo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Petlove,https://petlove.jobs.recrut.ai,https://petlove.jobs.recrut.ai,1,1,verified,
+Pfizer,https://pfizer.wd1.myworkdayjobs.com/PfizerCareers,https://pfizer.wd1.myworkdayjobs.com/PfizerCareers,1,1,verified,
+Plano & Plano,https://planoeplano.gupy.io,https://planoeplano.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+PlayDelivery,https://playdelivery.gupy.io,https://playdelivery.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Polishop,https://polishop.gupy.io,https://polishop.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Petrobras,https://petrobras.com.br/pt/quem-somos/carreiras,https://petrobras.com.br/pt/quem-somos/carreiras,1,1,verified,
+Positive Brands,https://positivebrands.gupy.io,https://positivebrands.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Pravaler,https://pravaler.gupy.io,https://pravaler.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Pipefy,https://app.pipefy.com/organizations/28/interfaces/445e5dd7-d23f-4299-8777-9280272d015d/pages/83bf9609-eb1c-4f7c-8103-c6cc2170aeb0,https://app.pipefy.com/organizations/28/interfaces/445e5dd7-d23f-4299-8777-9280272d015d/pages/83bf9609-eb1c-4f7c-8103-c6cc2170aeb0,1,1,verified,
+P&G,https://www.pgcareers.com/br/en,https://www.pgcareers.com/br/en,1,1,verified,
+OYO Rooms,https://www.oyorooms.com/careers,https://www.oyorooms.com/careers,1,1,verified,
+Prosegur Brasil,https://prosegur.gupy.io,https://prosegur.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Prevent Senior,https://www.preventsenior.com.br/trabalhe-conosco,https://www.preventsenior.com.br/trabalhe-conosco,1,1,verified,
+Protege,https://protege.gupy.io,https://protege.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Proton,https://job-boards.eu.greenhouse.io/proton,https://job-boards.eu.greenhouse.io/proton,1,1,verified,
+Qlik,https://www.qlik.com/us/company/careers,https://www.qlik.com/us/company/careers,1,1,verified,
+QI Tech,https://qitech.inhire.app,https://qitech.inhire.app,1,1,verified,
+Pleo,https://boards.greenhouse.io/pleo,https://boards.greenhouse.io/pleo,1,1,verified,
+Quinto Andar,https://job-boards.greenhouse.io/quintoandar,https://job-boards.greenhouse.io/quintoandar,1,1,verified,
+Qualicorp,https://qualicorp.gupy.io,https://qualicorp.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Queiroz Galvão,https://queirozgalvao.gupy.io,https://queirozgalvao.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Rabobank,https://www.rabobank.com/careers,https://www.rabobank.com/careers,1,1,verified,
+PwC Portugal,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal,1,1,verified,
+Rapiddo,https://rapiddo.gupy.io,https://rapiddo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Raízs,https://raizs.gupy.io,https://raizs.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Real Expresso,https://realexpresso.gupy.io,https://realexpresso.gupy.io,1,1,verified,
+PwC Global,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers,1,1,verified,
+PicPay,https://boards.greenhouse.io/picpay,https://boards.greenhouse.io/picpay,0,0,verified,HTTP 500
+RecargaPay,https://apply.workable.com/recargapay,https://apply.workable.com/recargapay,1,1,verified,
+Click Entregas,https://clickentregas.com/trabalhe-conosco,https://clickentregas.com/trabalhe-conosco,1,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='clickentregas.com', port=443): Max retries exceeded with url: /trabalhe-conosco (Caused by NameResolutionError(""HTTPSConnection(host='clickentregas.com', port=443): Failed to resolve 'clickentregas.com' ([Errno -3] Temporary failure in name resolution)""))"
+Qatar Airways,https://careers.qatarairways.com/global/en,https://careers.qatarairways.com/global/en,1,1,verified,
+Remotecom,https://job-boards.greenhouse.io/remotecom,https://job-boards.greenhouse.io/remotecom,1,1,verified,
+Rebel,https://rebel.gupy.io,https://rebel.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Riot Games,https://www.riotgames.com/pt-br/trabalhe-conosco#job-list,https://www.riotgames.com/pt-br/trabalhe-conosco#job-list,1,1,verified,
+Rappi,https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs,https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs,1,1,verified,
+Rockstar Games,https://www.rockstargames.com/careers/openings,https://www.rockstargames.com/careers/openings,1,1,verified,
+Razer,https://razer.wd3.myworkdayjobs.com/Careers,https://razer.wd3.myworkdayjobs.com/Careers,1,1,verified,
+Romi,https://romi.gupy.io,https://romi.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Rippling,https://ats.rippling.com/careers-quartile/jobs,https://ats.rippling.com/careers-quartile/jobs,1,1,verified,
+Ryanair,https://careers.ryanair.com/jobs,https://careers.ryanair.com/jobs,1,1,verified,
+Rossi Residencial,https://rossiresidencial.gupy.io,https://rossiresidencial.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Rumo,https://rumo.gupy.io,https://rumo.empregare.com/pt-br,0,1,fixed_url,HTTP 404 (Não Encontrado)
+Sabesp,https://carreiras.gupy.io/sabesp,https://carreiras.gupy.io/sabesp,1,1,verified,
+Roche,https://roche.wd3.myworkdayjobs.com/roche-ext,https://roche.wd3.myworkdayjobs.com/roche-ext,1,1,verified,
+Salesforce,https://www.salesforce.com/company/careers,https://www.salesforce.com/company/careers,1,1,verified,
+Rede DOr São Luiz,https://www.vagas.com.br/vagas-de-rededor,https://www.vagas.com.br/vagas-de-rededor,1,1,verified,
+Santander,https://www.santander.com.br/hotsite/carreiras,https://www.santander.com.br/hotsite/carreiras,1,1,verified,
+Santander Brasil,https://santander.gupy.io,https://santander.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Santos Brasil,https://santosbrasil.gupy.io,https://santosbrasil.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+São Martinho,https://saomartinho.gupy.io,https://saomartinho.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,1,1,verified,
+SBT,https://carreiras.gupy.io/sbt,https://carreiras.gupy.io/sbt,1,1,verified,
+Sanofi,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers,https://sanofi.wd3.myworkdayjobs.com/SanofiCareers,1,1,verified,
+Schulz,https://schulz.gupy.io,https://schulz.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Red Bull,https://jobs.redbull.com/br-pt,https://jobs.redbull.com/br-pt,1,1,verified,
+Senior Sistemas,https://carreiras.gupy.io/senior,https://carreiras.gupy.io/senior,1,1,verified,
+Saneago,https://www.saneago.com.br/concursos,https://www.saneago.com.br/concursos,1,1,verified,
+Sebrae,https://sebrae.com.br,https://sebrae.com.br,1,1,verified,
+Senac,https://www.senac.br,https://www.senac.br,1,1,verified,
+Shape Digital,https://shapedigital.inhire.app/vagas,https://shapedigital.inhire.app/vagas,1,1,verified,
+Shell,https://carreiras.gupy.io/shell,https://carreiras.gupy.io/shell,1,1,verified,
+Ser Educacional,https://sereducacional.gupy.io,https://sereducacional.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+SAP,https://jobs.sap.com,https://jobs.sap.com,1,1,verified,
+Siemens,https://carreiras.gupy.io/siemens,https://carreiras.gupy.io/siemens,1,1,verified,
+Semantix,https://jobs.quickin.io/semantix/jobs,https://jobs.quickin.io/semantix/jobs,1,1,verified,
+Sensor Tower,https://jobs.lever.co/sensortower,https://jobs.lever.co/sensortower,0,0,verified,HTTP 404 (Não Encontrado)
+Siemens Healthineers,https://carreiras.gupy.io/siemens-healthineers,https://carreiras.gupy.io/siemens-healthineers,1,1,verified,
+Shipp,https://shipp.gupy.io,https://shipp.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Sinch,https://apply.workable.com/sinch,https://apply.workable.com/sinch,1,1,verified,
+Smart Fit,https://smartfit.gupy.io,https://smartfit.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Smart Kitchens,https://smartkitchens.gupy.io,https://smartkitchens.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Serasa Experian,https://careers.smartrecruiters.com/experian,https://careers.smartrecruiters.com/experian,1,1,verified,
+Sode,https://sode.gupy.io,https://sode.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Sodexo,https://sodexobeneficios.gupy.io,https://sodexobeneficios.gupy.io,1,1,verified,
+Savegnago,https://savegnago.recrut.ai,https://savegnago.recrut.ai,0,0,verified,"Erro de Conexão: HTTPSConnectionPool(host='savegnago.recrut.ai', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='savegnago.recrut.ai', port=443): Failed to resolve 'savegnago.recrut.ai' ([Errno -2] Name or service not known)""))"
+Sólides,https://vagas.solides.com.br,https://vagas.solides.com.br,1,1,verified,
+Singapore Airlines,https://www.singaporeair.com/en_UK/sg/careers,https://www.singaporeair.com/en_UK/sg/careers,1,1,verified,
+Sodexo (Pluxee Brasil),https://pluxee.gupy.io,https://pluxee.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Sony Interactive Entertainment Global,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal,https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal,1,1,verified,
+Sony Music,https://boards.greenhouse.io/sonymusicentertainment,https://boards.greenhouse.io/sonymusicentertainment,1,1,verified,
+Sourcegraph,https://boards.greenhouse.io/sourcegraph91,https://boards.greenhouse.io/sourcegraph91,1,1,verified,
+QuintoAndar,https://boards.greenhouse.io/quintoandar,https://boards.greenhouse.io/quintoandar,1,1,verified,
+Stellantis,https://careers.stellantis.com,https://careers.stellantis.com,1,1,verified,
+Sony Global,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers,https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers,1,1,verified,
+Speedbird Aero,https://speedbird.gupy.io,https://speedbird.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Spotify,https://www.lifeatspotify.com,https://www.lifeatspotify.com,1,1,verified,
+Stone,https://stone.gupy.io,https://stone.gupy.io,1,1,verified,
+SONDA,https://career8.successfactors.com/career?company=SONDAP,https://career8.successfactors.com/career?company=SONDAP,1,1,verified,
+Superdigital,https://superdigital.gupy.io,https://superdigital.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Supermercados BH,https://supermercadosbh.gupy.io,https://supermercadosbh.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Shopee,https://careers.shopee.com.br/jobs,https://careers.shopee.com.br/jobs,1,1,verified,
+Swap,https://swap.gupy.io,https://swap.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Swile,https://jobs.lever.co/swile,https://jobs.lever.co/swile,1,1,verified,
+Swile Brasil,https://swile.workable.com,https://swile.workable.com,1,1,verified,
+Sympla,https://sympla.inhire.app/vagas,https://sympla.inhire.app/vagas,1,1,verified,
+Sirio-Libanes,https://www.hospitalsiriolibanes.org.br/trabalhe-conosco,https://www.hospitalsiriolibanes.org.br/trabalhe-conosco,1,1,verified,
+TakeBlip,https://job-boards.greenhouse.io/blip-global,https://job-boards.greenhouse.io/blip-global,1,1,verified,
+Super Nosso,https://supernosso.recrut.ai,https://supernosso.recrut.ai,1,1,verified,
+Supportiv,https://supportiv.bamboohr.com/careers,https://supportiv.bamboohr.com/careers,1,1,verified,
+Taesa,https://taesa.gupy.io,https://taesa.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Tembici,https://carreiras.gupy.io/tembici,https://carreiras.gupy.io/tembici,1,1,verified,
+Mackenzie,https://mackenzie.br/trabalhe-conosco,https://mackenzie.br/trabalhe-conosco,1,1,verified,
+ThoughtWorks,https://www.thoughtworks.com/careers/jobs,https://www.thoughtworks.com/careers/jobs,1,1,verified,
+Telus Digital BR,https://telusdigital.com/careers,https://telusdigital.com/careers,1,1,verified,
+The New,https://thenew.gupy.io,https://thenew.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Terra Santa,https://terrasanta.gupy.io,https://terrasanta.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Ticket (Edenred Brasil),https://edenred.gupy.io,https://edenred.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Totvs,https://carreiras.gupy.io/totvs,https://carreiras.gupy.io/totvs,1,1,verified,
+TIM Brasil,https://tim.gupy.io,https://tim.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Toyota,https://carreiras.gupy.io/toyota,https://carreiras.gupy.io/toyota,1,1,verified,
+Team Liquid,https://careers.teamliquid.com/#jobs,https://careers.teamliquid.com/#jobs,1,1,verified,
+TIVIT,https://talent.gupy.io/tivit,https://talent.gupy.io/tivit,0,0,verified,HTTP 404 (Não Encontrado)
+Tramontina,https://tramontina.gupy.io,https://tramontina.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+RD Station,https://boards.greenhouse.io/rdstation,https://boards.greenhouse.io/rdstation,1,1,verified,
+Tractian,https://careers.tractian.com/jobs,https://careers.tractian.com/jobs,1,1,verified,
+Tok&Stok,https://tokstok.pandape.infojobs.com.br,https://tokstok.pandape.infojobs.com.br,1,1,verified,
+Toyota Brasil,https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC,https://toyota.wd503.myworkdayjobs.com/pt-BR/TLAC,1,1,verified,
+Traz Pra Mim,https://trazpramim.gupy.io,https://trazpramim.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Trigg,https://trigg.gupy.io,https://trigg.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Trisul,https://trisul.gupy.io,https://trisul.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Triunfo Participações,https://triunfo.gupy.io,https://triunfo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Trybe,https://betrybe.inhire.app/vagas,https://betrybe.inhire.app/vagas,1,1,verified,
+Ubisoft,https://www.ubisoft.com/en-us/company/careers,https://www.ubisoft.com/en-us/company/careers,1,1,verified,
+TransUnion,https://transunion.wd5.myworkdayjobs.com/TransUnion,https://transunion.wd5.myworkdayjobs.com/TransUnion,1,1,verified,
+Telhanorte,https://www.vagas.com.br/vagas-de-telhanorte,https://www.vagas.com.br/vagas-de-telhanorte,1,1,verified,
+Uber Brasil,https://www.uber.com/br/pt/careers,https://www.uber.com/br/pt/careers,1,1,verified,
+Ultrapar,https://ultrapar.gupy.io,https://ultrapar.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Unilever,https://careers.unilever.com/en/search-jobs,https://careers.unilever.com/en/search-jobs,1,1,verified,
+Transperfect Gaming,https://gaming.transperfect.com/careers,https://gaming.transperfect.com/careers,1,1,verified,
+União Química,https://uniaoquimica.gupy.io,https://uniaoquimica.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Unico,https://unicotech.inhire.app/vagas,https://unicotech.inhire.app/vagas,1,1,verified,
+Sopra Steria,https://careers.soprasteria.co.uk/uk/en/job-search,https://careers.soprasteria.co.uk/uk/en/job-search,1,1,verified,
+Unipar Carbocloro,https://unipar.gupy.io,https://unipar.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Vale,https://carreiras.gupy.io/vale,https://carreiras.gupy.io/vale,1,1,verified,
+Vagas.com,https://vagas.gupy.io,https://vagas.gupy.io,1,1,verified,
+Vasta Educação,https://vastaeducacao.gupy.io,https://vastaeducacao.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Visa,https://carreiras.gupy.io/visa,https://carreiras.gupy.io/visa,1,1,verified,
+UP Brasil,https://upbrasil.pandape.infojobs.com.br,https://upbrasil.pandape.infojobs.com.br,1,1,verified,
+Verde Campo,https://verdecampo.gupy.io,https://verdecampo.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Vinta,https://vinta.inhire.app/vagas,https://vinta.inhire.app/vagas,1,1,verified,
+Volkswagen,https://carreiras.gupy.io/volkswagen,https://carreiras.gupy.io/volkswagen,1,1,verified,
+Transport NSW,https://jobs.transport.nsw.gov.au/search,https://jobs.transport.nsw.gov.au/search,1,1,verified,
+Viver,https://viver.gupy.io,https://viver.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Vitru,https://vitru.gupy.io,https://vitru.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Veeva,https://veeva.com/careers,https://veeva.com/careers,1,1,verified,
+VLI Logística,https://vli.gupy.io,https://vli.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+VTEX,https://job-boards.greenhouse.io/vtex,https://job-boards.greenhouse.io/vtex,1,1,verified,
+Votorantim S.A.,https://votorantim.gupy.io,https://votorantim.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+VR Benefícios,https://vr.gupy.io,https://vr.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+United Airlines,https://careers.united.com,https://careers.united.com,1,1,verified,
+Volvo,https://www.volvogroup.com/en/careers.html,https://www.volvogroup.com/en/careers.html,1,1,verified,
+Veloe,https://vagas.veloe.com.br/jobs,https://vagas.veloe.com.br/jobs,0,0,verified,HTTP 404 (Não Encontrado)
+Wellhub (GymPass),https://boards.greenhouse.io/gympass,https://boards.greenhouse.io/gympass,1,1,verified,
+Warren,https://warren.gupy.io,https://warren.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Westwing,https://westwing.gupy.io,https://westwing.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Wildlife Studios,https://boards.greenhouse.io/wildlifestudios,https://boards.greenhouse.io/wildlifestudios,1,1,verified,
+will bank,https://willbank.inhire.app/vagas,https://willbank.inhire.app/vagas,1,1,verified,
+Volvo Infor,https://career55.sapsf.eu/careers?company=volvoinfor,https://career55.sapsf.eu/careers?company=volvoinfor,1,1,verified,
+Warner Bros. Discovery,https://careers.wbd.com/hbo-jobs,https://careers.wbd.com/hbo-jobs,1,1,verified,
+WeWork,https://wework.wd1.myworkdayjobs.com/WeWork,https://wework.wd1.myworkdayjobs.com/WeWork,1,1,verified,
+WillowTree,https://willowtreeapps.com/careers,https://willowtreeapps.com/careers,1,1,verified,
+WEX,https://wexinc.wd5.myworkdayjobs.com/WEXInc,https://wexinc.wd5.myworkdayjobs.com/WEXInc,1,1,verified,
+XP Banco,https://xpinvestimentos.gupy.io,https://xpinvestimentos.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Welocalize,https://jobs.lever.co/welocalize,https://jobs.lever.co/welocalize,0,0,verified,HTTP 404 (Não Encontrado)
+Wilhelmsen,https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen,https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen,1,1,verified,
+Zé Delivery,https://carreiras.gupy.io/zedelivery,https://carreiras.gupy.io/zedelivery,1,1,verified,
+Yorgus,https://yorgus.gupy.io,https://yorgus.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+Zaffari,https://zaffari.gupy.io,https://zaffari.gupy.io,0,0,verified,HTTP 404 (Não Encontrado)
+XP Inc,https://boards.greenhouse.io/xpinc,https://boards.greenhouse.io/xpinc,1,1,verified,
+T4F - Time for Fun,https://t4f.vagas.solides.com.br,https://t4f.vagas.solides.com.br,1,1,verified,
+Zenir,https://zenir.gupy.io,https://zenir.gupy.io,1,1,verified,
+Claro Brasil,https://carreiras.gupy.io/claro,https://carreiras.gupy.io/claro,1,1,verified,
+Zup Innovation,https://job-boards.greenhouse.io/zupinnovation,https://job-boards.greenhouse.io/zupinnovation,1,1,verified,
+Reserva,https://reserva.gupy.io,https://reserva.gupy.io,1,1,verified,
+V.tal,https://vtal.gupy.io,https://vtal.gupy.io,1,1,verified,
+Atacadão,https://carreiras.gupy.io/atacadao,https://carreiras.gupy.io/atacadao,1,1,verified,
+Via Varejo,https://viavarejo.gupy.io,https://viavarejo.gupy.io,1,1,verified,
+Xometry,https://job-boards.greenhouse.io/xometry,https://job-boards.greenhouse.io/xometry,1,1,verified,
+Zendesk,https://www.zendesk.com.br/company/careers,https://www.zendesk.com.br/company/careers,1,1,verified,
+Zoom,https://careers.zoom.us/home,https://careers.zoom.us/home,1,1,verified,
+ZF Friedrich,https://career5.successfactors.eu/careers?company=zffriedric,https://career5.successfactors.eu/careers?company=zffriedric,1,1,verified,
+T-Systems Brasil,https://www.t-systems.com/br/pt/carreiras,https://www.t-systems.com/br/pt/carreiras,1,1,verified,
+Paramount,https://careers.paramount.com,https://careers.paramount.com,1,1,verified,Sucesso (Timeout / Proteção Bot)
+Passbolt,https://passbolt.inhire.com.br,https://passbolt.inhire.com.br,1,1,verified,Sucesso (Timeout / Proteção Bot)
+Wordpress-proxy,https://wordpress-proxy.inhire.com.br,https://wordpress-proxy.inhire.com.br,1,0,verified,"Erro de Conexão: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+VR,https://www.portalsinergyrh.com.br/Portal/MeuPortal/MeuPortal?empresa=1581&master=0#suaNovoCarreira,https://www.portalsinergyrh.com.br/Portal/MeuPortal/MeuPortal?empresa=1581&master=0#suaNovoCarreira,0,0,verified,Erro de Conexão: Exceeded 30 redirects.

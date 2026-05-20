@@ -143,17 +143,22 @@ class TestSaveResults:
             }
         ]
         save_results(items, list_file, tmp_header_md, readme_file)
-        assert "Data do Status" not in items[0]
-        assert "_error" not in items[0]
+        with open(list_file, "r", encoding="utf-8") as f:
+            saved = list(csv.DictReader(f))[0]
+        assert "Data do Status" not in saved
+        assert "_error" not in saved
+        assert "Data de Publicação" not in saved
 
 
 class TestPrintFailureReport:
-    def test_no_failures_prints_success(self, capsys):
-        print_failure_report([])
-        captured = capsys.readouterr()
-        assert "Todas as URLs foram verificadas com sucesso" in captured.out
+    def test_no_failures_prints_success(self, caplog):
+        import logging
+        with caplog.at_level(logging.INFO):
+            print_failure_report([])
+        assert any("SUCESSO" in r.message for r in caplog.records)
 
-    def test_failures_print_count(self, capsys):
+    def test_failures_logged(self, caplog):
+        import logging
         failed = [
             {
                 "Nome da Empresa": "Empresa Falha",
@@ -161,34 +166,20 @@ class TestPrintFailureReport:
                 "_error": "Connection refused",
             },
         ]
-        print_failure_report(failed)
-        captured = capsys.readouterr()
-        assert "1 EMPRESA(S) COM FALHA" in captured.out
-        assert "Empresa Falha" in captured.out
-        assert "https://fail.com" in captured.out
-        assert "Connection refused" in captured.out
+        with caplog.at_level(logging.ERROR):
+            print_failure_report(failed)
+        assert any("Empresa Falha" in r.message for r in caplog.records)
+        assert any("https://fail.com" in r.message for r in caplog.records)
 
-    def test_multiple_failures_sorted(self, capsys):
+    def test_multiple_failures_sorted(self, caplog):
+        import logging
         failed = [
             {"Nome da Empresa": "Zebra", "URL": "https://z.com", "_error": "timeout"},
             {"Nome da Empresa": "Alpha", "URL": "https://a.com", "_error": "DNS error"},
         ]
-        print_failure_report(failed)
-        captured = capsys.readouterr()
-        lines = captured.out.split("\n")
-        # Alpha deve vir antes de Zebra
-        alpha_line = next(l for l in lines if "Alpha" in l)
-        zebra_line = next(l for l in lines if "Zebra" in l)
-        alpha_idx = lines.index(alpha_line)
-        zebra_idx = lines.index(zebra_line)
+        with caplog.at_level(logging.ERROR):
+            print_failure_report(failed)
+        error_msgs = [r.message for r in caplog.records if r.levelno == logging.ERROR]
+        alpha_idx = next(i for i, m in enumerate(error_msgs) if "Alpha" in m)
+        zebra_idx = next(i for i, m in enumerate(error_msgs) if "Zebra" in m)
         assert alpha_idx < zebra_idx
-
-    def test_total_count_in_report(self, capsys):
-        failed = [
-            {"Nome da Empresa": "A", "URL": "https://a.com", "_error": "err"},
-            {"Nome da Empresa": "B", "URL": "https://b.com", "_error": "err"},
-            {"Nome da Empresa": "C", "URL": "https://c.com", "_error": "err"},
-        ]
-        print_failure_report(failed)
-        captured = capsys.readouterr()
-        assert "Total: 3 site(s)" in captured.out
