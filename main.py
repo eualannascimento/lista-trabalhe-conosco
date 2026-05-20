@@ -23,7 +23,6 @@ FIELDNAMES = [
     "Segmento da Empresa",
     "Plataforma",
     "URL",
-    "Data de Publicação",
 ]
 
 logger = logging.getLogger(__name__)
@@ -125,16 +124,11 @@ def verify_urls(values):
 
 def sort_and_deduplicate(values):
     """
-    Ordena itens primeiro por 'Data de Publicação' (descendente), 
-    depois alfabeticamente por nome da empresa, e remove duplicatas de URL.
+    Ordena alfabeticamente por nome da empresa e remove duplicatas de URL.
     Retorna (itens_unicos, itens_duplicados).
     """
     def sort_key(x):
-        date_str = x.get("Data de Publicação", "")
-        # Empty dates go to the bottom. For descending order, we invert the date comparison by using an empty string for missing
-        date_sort = date_str if date_str else "0000-00-00"
-        name_sort = unidecode(x["Nome da Empresa"].lower())
-        return (-float(date_sort.replace('-', '')), name_sort)
+        return unidecode(x["Nome da Empresa"].lower())
 
     sorted_values = sorted(values, key=sort_key)
 
@@ -168,6 +162,7 @@ def save_results(values, list_file_path, header_file_path, readme_file_path):
     for item in values:
         clean_item = item.copy()
         clean_item.pop("Data do Status", None)
+        clean_item.pop("Data de Publicação", None)
         clean_item.pop("_error", None)
         to_save.append(clean_item)
 

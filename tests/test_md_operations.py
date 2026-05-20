@@ -15,15 +15,26 @@ class TestGenerateMarkdownTable:
         result = generate_markdown_table(data)
         assert "| [Empresa X](https://x.com/jobs) |" in result
 
+    def test_includes_segment_and_platform(self):
+        data = [
+            {
+                "Nome da Empresa": "Empresa X",
+                "URL": "https://x.com/jobs",
+                "Segmento da Empresa": "Tecnologia",
+                "Plataforma": "Gupy",
+            }
+        ]
+        result = generate_markdown_table(data)
+        assert "| Tecnologia | Gupy |" in result
+
     def test_multiple_rows(self):
         data = [
-            {"Nome da Empresa": "A", "URL": "https://a.com"},
-            {"Nome da Empresa": "B", "URL": "https://b.com"},
-            {"Nome da Empresa": "C", "URL": "https://c.com"},
+            {"Nome da Empresa": "A", "URL": "https://a.com", "Segmento da Empresa": "Saúde", "Plataforma": "Gupy"},
+            {"Nome da Empresa": "B", "URL": "https://b.com", "Segmento da Empresa": "Saúde", "Plataforma": "Gupy"},
+            {"Nome da Empresa": "C", "URL": "https://c.com", "Segmento da Empresa": "Saúde", "Plataforma": "Gupy"},
         ]
         result = generate_markdown_table(data)
         lines = result.strip().split("\n")
-        # header + separator + 3 data rows
         assert len(lines) == 5
 
     def test_empty_data(self):

@@ -30,12 +30,6 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Github Checkout
-        uses: actions/checkout@v3
-
-      - name: Update Metadata (Publication Dates)
-        run: python scripts/update_metadata.py
-
       - name: Build README.md
         run: python main.py
 
