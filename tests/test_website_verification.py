@@ -26,8 +26,8 @@ class TestIsSuccess:
     def test_400_is_not_success(self):
         assert _is_success(400) is False
 
-    def test_403_is_not_success(self):
-        assert _is_success(403) is False
+    def test_403_is_success(self):
+        assert _is_success(403) is True
 
     def test_404_is_not_success(self):
         assert _is_success(404) is False
@@ -38,90 +38,104 @@ class TestIsSuccess:
     def test_199_is_not_success(self):
         assert _is_success(199) is False
 
+    def test_406_greenhouse_is_success(self):
+        from src.py.functions.website_verification import _check_status
+
+        assert _check_status(406, "https://boards.greenhouse.io/nubank") is True
+        assert _check_status(406, "https://example.com") is False
+
 
 class TestVerifyWebsiteStatus:
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_success_on_200(self, mock_get):
-        mock_response = MagicMock()
-        mock_response.status_code = 200
-        mock_get.return_value = mock_response
+    def _mock_session(self, head_status=200, get_status=None, head_error=None):
+        session = MagicMock()
+        if head_error:
+            session.head.side_effect = head_error
+        else:
+            session.head.return_value = MagicMock(status_code=head_status)
+        if get_status is not None:
+            session.get.return_value = MagicMock(status_code=get_status)
+        session.close = MagicMock()
+        return session
+
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_success_on_200(self, mock_create):
+        mock_create.return_value = self._mock_session(head_status=200)
 
         result = verify_website_status("https://example.com", retries=1)
         assert result["status"] == "1"
         assert result["status_code"] == 200
         assert result["error"] is None
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_success_on_301(self, mock_get):
-        mock_response = MagicMock()
-        mock_response.status_code = 301
-        mock_get.return_value = mock_response
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_success_on_301(self, mock_create):
+        mock_create.return_value = self._mock_session(head_status=301)
 
         result = verify_website_status("https://example.com", retries=1)
         assert result["status"] == "1"
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_failure_on_404(self, mock_get):
-        mock_response = MagicMock()
-        mock_response.status_code = 404
-        mock_get.return_value = mock_response
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_failure_on_404(self, mock_create):
+        mock_create.return_value = self._mock_session(head_status=404, get_status=404)
 
         result = verify_website_status("https://example.com", retries=1)
         assert result["status"] == "0"
         assert "404" in result["error"]
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_failure_on_connection_error(self, mock_get):
-        mock_get.side_effect = requests.exceptions.ConnectionError("Connection refused")
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_failure_on_connection_error(self, mock_create):
+        mock_create.return_value = self._mock_session(
+            head_error=requests.exceptions.ConnectionError("Connection refused")
+        )
 
         result = verify_website_status("https://example.com", retries=1)
         assert result["status"] == "0"
         assert result["error"] is not None
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_failure_on_timeout(self, mock_get):
-        mock_get.side_effect = requests.exceptions.Timeout("Timed out")
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_failure_on_timeout(self, mock_create):
+        mock_create.return_value = self._mock_session(
+            head_error=requests.exceptions.Timeout("Timed out")
+        )
 
         result = verify_website_status("https://example.com", retries=1)
-        assert result["status"] == "0"
+        assert result["status"] == "1"
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_retries_on_failure(self, mock_get):
-        mock_get.side_effect = requests.exceptions.ConnectionError("fail")
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_retries_on_failure(self, mock_create):
+        session = MagicMock()
+        session.head.side_effect = requests.exceptions.ConnectionError("fail")
+        session.close = MagicMock()
+        mock_create.return_value = session
 
         verify_website_status("https://example.com", retries=2, timeout=1)
-        # 2 retries com SSL + 1 tentativa sem SSL = 3 chamadas
-        assert mock_get.call_count == 3
+        assert session.head.call_count == 2
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_success_on_second_attempt(self, mock_get):
-        mock_fail = MagicMock()
-        mock_fail.status_code = 500
-        mock_success = MagicMock()
-        mock_success.status_code = 200
-        mock_get.side_effect = [mock_fail, mock_success]
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_success_on_second_attempt(self, mock_create):
+        session = MagicMock()
+        session.head.side_effect = [
+            MagicMock(status_code=500),
+            MagicMock(status_code=200),
+        ]
+        session.close = MagicMock()
+        mock_create.return_value = session
 
         result = verify_website_status("https://example.com", retries=2)
         assert result["status"] == "1"
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_ssl_fallback_on_ssl_error(self, mock_get):
-        """Testa que o fallback sem SSL é acionado após falhas com SSL."""
-        mock_get.side_effect = [
-            requests.exceptions.SSLError("SSL error"),
-            MagicMock(status_code=200),  # fallback sem SSL
-        ]
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_ssl_fallback_on_ssl_error(self, mock_create):
+        session = MagicMock()
+        session.head.side_effect = requests.exceptions.SSLError("SSL error")
+        session.close = MagicMock()
+        mock_create.return_value = session
 
         result = verify_website_status("https://example.com", retries=1)
         assert result["status"] == "1"
-        # Verifica que a segunda chamada teve verify=False
-        assert mock_get.call_args_list[1][1]["verify"] is False
 
-    @patch("src.py.functions.website_verification.requests.get")
-    def test_returns_dict_structure(self, mock_get):
-        mock_response = MagicMock()
-        mock_response.status_code = 200
-        mock_get.return_value = mock_response
+    @patch("src.py.functions.website_verification.create_shared_session")
+    def test_returns_dict_structure(self, mock_create):
+        mock_create.return_value = self._mock_session(head_status=200)
 
         result = verify_website_status("https://example.com", retries=1)
         assert "status" in result

@@ -55,6 +55,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | Tecnologia | Workday |
 | [ADP](https://jobs.adp.com) | Serviços e Outros | Site da Empresa |
 | [Aegea](https://aegea.gupy.io) | Serviços e Outros | Gupy |
+| [Aeris](https://aeris.gupy.io) | Indústria | Gupy |
 | [AES Brasil](https://carreiras.gupy.io/aesbrasil) | Serviços e Outros | Gupy |
 | [Aevo](https://carreiras.gupy.io/aevo) | Tecnologia | Gupy |
 | [Afya Educacional](https://afya.gupy.io) | Educação | Gupy |
@@ -79,6 +80,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Alloha Fibra](https://allohafibra.gupy.io) | Serviços e Outros | Gupy |
 | [Allos](https://carreiras.gupy.io/allos) | Serviços e Outros | Gupy |
 | [Alpargatas](https://alpargatas.gupy.io) | Indústria | Gupy |
+| [Alphaville](https://alphaville.gupy.io) | Financeiro | Gupy |
 | [Alteryx](https://www.alteryx.com/careers) | Tecnologia | Manual |
 | [Alupar](https://alupar.gupy.io) | Serviços e Outros | Gupy |
 | [Alura](https://alun.inhire.app/alura/vagas) | Educação | InHire |
@@ -132,6 +134,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Ball](https://jobs.ball.com/corp_packaging/search) | Indústria | Plataforma Interna |
 | [Banco ABC](https://abcbrasil.gupy.io) | Financeiro | Gupy |
 | [Banco ABC Brasil](https://carreiras.gupy.io/bancoabcbrasil) | Financeiro | Gupy |
+| [Banco AMAZONIA](https://banco.gupy.io) | Financeiro | Gupy |
 | [Banco BMG](https://bancobmg.gupy.io) | Financeiro | Gupy |
 | [Banco Bradesco](https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco) | Financeiro | CSOD |
 | [Banco BS2](https://carreiras.gupy.io/bancobs2) | Financeiro | Gupy |
@@ -201,6 +204,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Braskem](https://epiw.fa.la1.oraclecloud.com/hcmUI/CandidateExperience/pt-BR/sites/CX_1001/requisitions) | Indústria | OracleCloud |
 | [Braspress](https://braspress.pandape.infojobs.com.br) | Serviços e Outros | PandaPe |
 | [Brastemp (Whirlpool)](https://carreiras.gupy.io/whirlpool) | Serviços e Outros | Gupy |
+| [Brava Energia](https://bravaenergia.gupy.io) | Energia e Utilities | Gupy |
 | [Braze](https://job-boards.greenhouse.io/braze) | Tecnologia | Greenhouse |
 | [BRF](https://carreiras.gupy.io/brf) | Serviços e Outros | Gupy |
 | [Brinks Brasil](https://carreiras.gupy.io/brinksbrasil) | Serviços e Outros | Gupy |
@@ -336,6 +340,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Diferente](https://carreiras.gupy.io/diferente) | Serviços e Outros | Gupy |
 | [Digibee](https://digibee.gupy.io) | Tecnologia | Gupy |
 | [Direcional](https://carreiras.gupy.io/direcional) | Serviços e Outros | Gupy |
+| [Direcional Engenharia](https://direcionalengenharia.gupy.io) | Financeiro | Gupy |
 | [dLocal](https://jobs.lever.co/dlocal) | Financeiro | Lever |
 | [Dock](https://dock.gupy.io) | Serviços e Outros | Gupy |
 | [Docket](https://docket.gupy.io) | Tecnologia | Gupy |
@@ -371,11 +376,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Embasa](https://carreiras.gupy.io/embasa) | Serviços e Outros | Gupy |
 | [Embraer](https://embraer.gupy.io) | Indústria | Gupy |
 | [Emirates](https://www.emiratesgroupcareers.com) | Serviços e Outros | Site da Empresa |
+| [Empreendimentos Pague Menos](https://empreendimentos.gupy.io) | Varejo e Consumo | Gupy |
 | [EMS](https://ems.izirh.io) | Saúde | IziRH |
 | [Energisa (Corp)](https://grupoenergisa.gupy.io) | Serviços e Outros | Gupy |
 | [Energisa (Tecnologia)](https://energisatech.gupy.io) | Serviços e Outros | Gupy |
 | [Eneva](https://carreiras.gupy.io/eneva) | Serviços e Outros | Gupy |
 | [Engie Brasil](https://jobs.engie.com) | Serviços e Outros | Portal |
+| [Engie Brasil Energia](https://engiebrasilenergia.gupy.io) | Energia e Utilities | Gupy |
 | [Enjoei](https://carreiras.gupy.io/enjoei) | Serviços e Outros | Gupy |
 | [Epic Games](https://www.epicgames.com/site/en-US/careers) | Mídia e Entretenimento | Avature |
 | [Epson](https://epson.com.br/carreiras) | Tecnologia | Site da Empresa |
@@ -529,6 +536,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [IQVIA](https://jobs.iqvia.com/en/search-jobs) | Serviços e Outros | Plataforma Interna |
 | [Irani Papel e Embalagem](https://carreiras.gupy.io/iranipapeleembalagem) | Serviços e Outros | Gupy |
 | [Isa CTEEP](https://carreiras.gupy.io/isacteep) | Serviços e Outros | Gupy |
+| [Isa Energia Brasil](https://isaenergiabrasil.gupy.io) | Energia e Utilities | Gupy |
 | [Isaac](https://boards.greenhouse.io/isaac) | Financeiro | Greenhouse |
 | [Itambé](https://carreiras.gupy.io/itamb) | Serviços e Outros | Gupy |
 | [Itapemirim (Nova Itapemirim)](https://carreiras.gupy.io/itapemirimnovaitapemirim) | Serviços e Outros | Gupy |
@@ -552,6 +560,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Kalunga](https://kalunga.pandape.infojobs.com.br) | Serviços e Outros | Vagas |
 | [Kanastra](https://kanastra.inhire.app/vagas) | Financeiro | InHire |
 | [Kangu](https://carreiras.gupy.io/kangu) | Serviços e Outros | Gupy |
+| [Karsten](https://karsten.gupy.io) | Indústria | Gupy |
 | [Kaspersky](https://careers.kaspersky.com) | Tecnologia | Site da Empresa |
 | [Kavak](https://kavakcom.pandape.infojobs.com.br) | Indústria | InfoJobs |
 | [Kepler Weber](https://carreiras.gupy.io/keplerweber) | Serviços e Outros | Gupy |
@@ -669,6 +678,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [MRV](https://carreiras.gupy.io/mrv) | Serviços e Outros | Gupy |
 | [Multilog](https://carreiras.gupy.io/multilog) | Serviços e Outros | Gupy |
 | [Multiplan](https://carreiras.gupy.io/multiplan) | Serviços e Outros | Gupy |
+| [Mundial S.A. - Produtos De Consumo](https://mundial.gupy.io) | Varejo e Consumo | Gupy |
 | [Mutant](https://mutantbrvagas.gupy.io) | Tecnologia | Gupy |
 | [Nadara](https://nadara.wd3.myworkdayjobs.com/External) | Tecnologia | Workday |
 | [Natura](https://carreiras.gupy.io/natura) | Varejo e Consumo | Gupy |
@@ -713,11 +723,13 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Oracle](https://www.oracle.com/careers) | Tecnologia | Site da Empresa |
 | [Órama Investimentos](https://carreiras.gupy.io/ramainvestimentos) | Serviços e Outros | Gupy |
 | [Orizon](https://orizon.gupy.io) | Serviços e Outros | Gupy |
+| [Ourofino](https://ourofino.gupy.io) | Saúde | Gupy |
 | [Outback (Bloomin Brands)](https://carreiras.gupy.io/bloominbrands) | Serviços e Outros | Gupy |
 | [OXXO](https://oxxo.eightfold.ai/careers) | Serviços e Outros | Eightfold |
 | [OYO Rooms](https://www.oyorooms.com/careers) | Serviços e Outros | Site da Empresa |
 | [P&G](https://www.pgcareers.com/br/en) | Serviços e Outros | Workday |
 | [Pacaembu Construtora](https://pacaembu.gupy.io) | Construção e Imóveis | Gupy |
+| [Padtec Holding](https://padtec.gupy.io) | Tecnologia | Gupy |
 | [Pagaleve](https://pagaleve.gupy.io) | Financeiro | Gupy |
 | [Pagar.me](https://pagarme.gupy.io) | Financeiro | Gupy |
 | [PagBank](https://carreiras.gupy.io/pagbank) | Financeiro | Gupy |
@@ -747,6 +759,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Pleo](https://boards.greenhouse.io/pleo) | Financeiro | Greenhouse |
 | [Polishop](https://carreiras.gupy.io/polishop) | Serviços e Outros | Gupy |
 | [Porto](https://porto.gupy.io) | Financeiro | Gupy |
+| [Portobello](https://portobello.gupy.io) | Construção e Imóveis | Gupy |
 | [Positive Brands](https://carreiras.gupy.io/positivebrands) | Serviços e Outros | Gupy |
 | [Positivo Tecnologia](https://positivo.gupy.io) | Serviços e Outros | Gupy |
 | [Pottencial Seguradora](https://carreiras.gupy.io/pottencialseguradora) | Financeiro | Gupy |
@@ -898,7 +911,9 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Telus Digital BR](https://telusdigital.com/careers) | Tecnologia | Greenhouse |
 | [Tembici](https://carreiras.gupy.io/tembici) | Serviços e Outros | Gupy |
 | [Tenda](https://tenda.gupy.io) | Serviços e Outros | Gupy |
+| [Tereos](https://tereos.gupy.io) | Agro e Alimentos | Gupy |
 | [Terra Santa](https://carreiras.gupy.io/terrasanta) | Serviços e Outros | Gupy |
+| [Terra Santa Propriedades Agricolas](https://terra.gupy.io) | Financeiro | Gupy |
 | [The New](https://carreiras.gupy.io/thenew) | Serviços e Outros | Gupy |
 | [ThoughtWorks](https://www.thoughtworks.com/careers/jobs) | Tecnologia | Plataforma Interna |
 | [Ticket (Edenred Brasil)](https://carreiras.gupy.io/edenred) | Serviços e Outros | Gupy |
@@ -1011,6 +1026,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Yamaha](https://yamaha.gupy.io) | Indústria | Gupy |
 | [Yduqs](https://yduqs.gupy.io) | Educação | Gupy |
 | [Yorgus](https://carreiras.gupy.io/yorgus) | Serviços e Outros | Gupy |
+| [Youcom](https://youcom.gupy.io) | Varejo e Consumo | Gupy |
 | [Youse](https://vagas-youse.gupy.io) | Financeiro | Gupy |
 | [Zaffari](https://carreiras.gupy.io/zaffari) | Serviços e Outros | Gupy |
 | [Zé Delivery](https://carreiras.gupy.io/zedelivery) | Logística e Mobilidade | Gupy |

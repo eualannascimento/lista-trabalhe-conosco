@@ -17,6 +17,7 @@ sys.path.insert(0, ROOT)
 
 from scripts.segment_macro_map import to_macro
 from src.py.functions.df_operations import clean_url
+from src.py.functions.portal_verification import verify_portal_has_jobs
 from src.py.functions.website_verification import (
     create_shared_session,
     verify_website_status,
@@ -232,8 +233,13 @@ def detect_platform(url: str) -> str:
     return "Site da Empresa"
 
 
-def verify_url(session, url: str) -> bool:
-    return verify_website_status(session, clean_url(url))["status"] == "1"
+def verify_url(session, url: str, strong: bool = True) -> bool:
+    url = clean_url(url)
+    if verify_website_status(session, url)["status"] != "1":
+        return False
+    if strong:
+        return verify_portal_has_jobs(url, session)
+    return True
 
 
 def resolve_url(session, name: str, candidates: list[str]) -> str | None:
