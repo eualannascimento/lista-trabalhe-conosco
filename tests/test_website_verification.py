@@ -38,11 +38,17 @@ class TestIsSuccess:
     def test_199_is_not_success(self):
         assert _is_success(199) is False
 
-    def test_406_greenhouse_is_success(self):
+    def test_406_is_success(self):
         from src.py.functions.website_verification import _check_status
 
+        # 406 é tratado como proteção anti-bot (WAF), portanto considerado válido
         assert _check_status(406, "https://boards.greenhouse.io/nubank") is True
-        assert _check_status(406, "https://example.com") is False
+        assert _check_status(406, "https://example.com") is True
+
+    def test_429_is_success(self):
+        from src.py.functions.website_verification import _check_status
+
+        assert _check_status(429, "https://example.com") is True
 
 
 class TestVerifyWebsiteStatus:

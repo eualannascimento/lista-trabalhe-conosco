@@ -44,10 +44,9 @@ def create_shared_session():
     return session
 
 def _check_status(status_code, url: str = ""):
-    if 200 <= status_code < 400 or status_code == 403 or status_code == 408:
-        return True
-    # Greenhouse costuma responder 406 a bots em GET; HEAD em job-boards costuma 200
-    if status_code == 406 and "greenhouse.io" in (url or "").lower():
+    # 403/406/408/429 são respostas típicas de proteção anti-bot (WAF/Cloudflare)
+    # e não indicam que a página de carreiras não exista.
+    if 200 <= status_code < 400 or status_code in (403, 406, 408, 429):
         return True
     return False
 
@@ -103,10 +102,10 @@ def verify_website_status(session, url=None, timeout=DEFAULT_TIMEOUT, retries=MA
                             return out
                     except:
                         pass
+                # Muitos sites (SPAs / WAF) respondem 404 a HEAD mas 200 a GET.
+                # Por isso, deixamos o fluxo cair no fallback de GET abaixo.
                 last_error = f"HTTP {response.status_code} (Não Encontrado)"
-                # Se for 404, não adianta tentar GET
-                continue
-                
+
             # 2. Fallback para GET se o HEAD for bloqueado explicitamente (405/Bot block bizarro)
             response = session.get(url, timeout=timeout, allow_redirects=True, verify=True)
             if _check_status(response.status_code, url):
