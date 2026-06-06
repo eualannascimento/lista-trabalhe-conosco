@@ -134,6 +134,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Banco Original,Financeiro,Gupy,https://original.gupy.io
 1,2023-05-04,Banco Ourinvest,Financeiro,Gupy,https://bancoourinvest.gupy.io
 1,2023-02-26,Banco Pan,Financeiro,Greenhouse,https://boards.greenhouse.io/bancopan
+1,2026-06-06,Banco Pan,Financeiro,Greenhouse,https://job-boards.greenhouse.io/bancopan
 1,2026-02-19,Banco Paulista,Financeiro,Gupy,https://carreiras.gupy.io/bancopaulista
 1,2025-12-26,Banco Pine,Financeiro,InHire,https://bancopine.inhire.app/vagas
 1,2026-02-19,Banco Rendimento,Financeiro,Gupy,https://carreiras.gupy.io/bancorendimento
@@ -620,7 +621,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Kwan,Tecnologia,Plataforma Interna,https://kwan.com/careers/#jobpost
 1,2026-02-19,Lalamove Brasil,Serviços e Outros,Gupy,https://carreiras.gupy.io/lalamovebrasil
 1,2026-02-19,Lar Cooperativa,Serviços e Outros,Vagas,https://www.lar.ind.br/trabalhe-conosco
-0,2026-06-05,LATAM Airlines,Logística e Mobilidade,Site da Empresa,https://www.latamairlines.com/br/pt/trabalhe-conosco
+1,2026-06-05,LATAM Airlines,Logística e Mobilidade,Site da Empresa,https://www.latamairlines.com/br/pt/trabalhe-conosco
 1,2025-03-18,Launchpad Technologies,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/launchpadtechnologiesinc
 1,2026-02-19,Lavvi,Serviços e Outros,Gupy,https://carreiras.gupy.io/lavvi
 1,2026-02-20,Le Biscuit Varejo,Varejo e Consumo,Gupy,https://lebiscuit.gupy.io
@@ -664,6 +665,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,M. Dias Branco,Serviços e Outros,Gupy,https://mdiasbranco.gupy.io
 1,2026-02-19,Mackenzie,Educação,Site da Empresa,https://mackenzie.br/trabalhe-conosco
 1,2026-02-19,MadeiraMadeira,Serviços e Outros,Gupy,https://carreiras.gupy.io/madeiramadeira
+1,2026-06-06,MadeiraMadeira,Varejo e Consumo,Site da Empresa,https://www.madeiramadeira.com.br/landing/carreiras
 1,2026-02-19,Madero,Serviços e Outros,Gupy,https://carreiras.gupy.io/madero
 1,2026-02-19,Magalu,Serviços e Outros,InHire,https://magazineluiza.inhire.app
 1,2026-02-19,Magazine Luiza,Serviços e Outros,Vagas,https://99jobs.com/magazine-luiza
@@ -712,6 +714,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,MOB,Serviços e Outros,TeamTailor,https://mob.teamtailor.com
 1,2026-02-20,Mobit Tecnologia,Serviços e Outros,Gupy,https://mobit.gupy.io
 1,2026-02-19,Mobly,Serviços e Outros,Gupy,https://carreiras.gupy.io/mobly
+1,2026-06-06,Mobly,Varejo e Consumo,PandaPe,https://mobly.pandape.infojobs.com.br
 1,2026-02-19,Mombora,Serviços e Outros,Gupy,https://carreiras.gupy.io/mombora
 1,2026-02-20,Mondelez Brasil,Serviços e Outros,Gupy,https://mondelez.gupy.io
 1,2025-03-18,Mondelez Internacional,Financeiro,Workday,https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External
@@ -800,6 +803,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,PepsiCo,Serviços e Outros,Kenexa,https://www.pepsicojobs.com/main
 1,2026-06-06,PepsiCo Brasil,Agro e Alimentos,Site da Empresa,https://www.pepsicojobs.com
 1,2025-01-23,Pernambucanas,Serviços e Outros,CLIQQ,https://vemprafamilia-pernambucanas.cliqx.com.br
+1,2026-06-06,Pernambucanas,Varejo e Consumo,Site da Empresa,https://www.pernambucanas.com.br/trabalhe-conosco
 1,2026-05-21,Pernod Ricard Brasil,Serviços e Outros,Gupy,https://pernodricardbrasil.gupy.io
 1,2026-02-19,Petlove,Serviços e Outros,Recrut.ai,https://petlove.jobs.recrut.ai
 1,2026-02-19,Petrobahia,Energia e Utilities,Gupy,https://petrobahia.gupy.io
@@ -835,7 +839,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Proton,Tecnologia,Greenhouse,https://job-boards.eu.greenhouse.io/proton
 1,2025-01-23,PUC-SP,Educação,Gupy,https://pucsp.gupy.io
 1,2025-01-23,PwC Global,Serviços e Outros,Workday,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers
-1,2025-01-23,PwC Portugal,Serviços e Outros,CSOD,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal
+0,2025-01-23,PwC Portugal,Serviços e Outros,CSOD,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal
 1,2026-02-19,Qatar Airways,Serviços e Outros,Site da Empresa,https://careers.qatarairways.com/global/en
 1,2026-02-20,QCA,Serviços e Outros,Gupy,https://qca.gupy.io
 1,2026-02-19,QI Tech,Financeiro,InHire,https://qitech.inhire.app

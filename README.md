@@ -164,6 +164,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [Banco Original](https://original.gupy.io) | Financeiro | Gupy |
 | [Banco Ourinvest](https://bancoourinvest.gupy.io) | Financeiro | Gupy |
 | [Banco Pan](https://boards.greenhouse.io/bancopan) | Financeiro | Greenhouse |
+| [Banco Pan](https://job-boards.greenhouse.io/bancopan) | Financeiro | Greenhouse |
 | [Banco Paulista](https://carreiras.gupy.io/bancopaulista) | Financeiro | Gupy |
 | [Banco Pine](https://bancopine.inhire.app/vagas) | Financeiro | InHire |
 | [Banco Rendimento](https://carreiras.gupy.io/bancorendimento) | Financeiro | Gupy |
@@ -694,6 +695,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [M. Dias Branco](https://mdiasbranco.gupy.io) | Serviços e Outros | Gupy |
 | [Mackenzie](https://mackenzie.br/trabalhe-conosco) | Educação | Site da Empresa |
 | [MadeiraMadeira](https://carreiras.gupy.io/madeiramadeira) | Serviços e Outros | Gupy |
+| [MadeiraMadeira](https://www.madeiramadeira.com.br/landing/carreiras) | Varejo e Consumo | Site da Empresa |
 | [Madero](https://carreiras.gupy.io/madero) | Serviços e Outros | Gupy |
 | [Magalu](https://magazineluiza.inhire.app) | Serviços e Outros | InHire |
 | [Magazine Luiza](https://99jobs.com/magazine-luiza) | Serviços e Outros | Vagas |
@@ -742,6 +744,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [MOB](https://mob.teamtailor.com) | Serviços e Outros | TeamTailor |
 | [Mobit Tecnologia](https://mobit.gupy.io) | Serviços e Outros | Gupy |
 | [Mobly](https://carreiras.gupy.io/mobly) | Serviços e Outros | Gupy |
+| [Mobly](https://mobly.pandape.infojobs.com.br) | Varejo e Consumo | PandaPe |
 | [Mombora](https://carreiras.gupy.io/mombora) | Serviços e Outros | Gupy |
 | [Mondelez Brasil](https://mondelez.gupy.io) | Serviços e Outros | Gupy |
 | [Mondelez Internacional](https://wd3.myworkdaysite.com/en-US/recruiting/mdlz/External) | Financeiro | Workday |
@@ -830,6 +833,7 @@ Essa tabela contém somente o nome da empresa com link para o site, visando faci
 | [PepsiCo](https://www.pepsicojobs.com/main) | Serviços e Outros | Kenexa |
 | [PepsiCo Brasil](https://www.pepsicojobs.com) | Agro e Alimentos | Site da Empresa |
 | [Pernambucanas](https://vemprafamilia-pernambucanas.cliqx.com.br) | Serviços e Outros | CLIQQ |
+| [Pernambucanas](https://www.pernambucanas.com.br/trabalhe-conosco) | Varejo e Consumo | Site da Empresa |
 | [Pernod Ricard Brasil](https://pernodricardbrasil.gupy.io) | Serviços e Outros | Gupy |
 | [Petlove](https://petlove.jobs.recrut.ai) | Serviços e Outros | Recrut.ai |
 | [Petrobahia](https://petrobahia.gupy.io) | Energia e Utilities | Gupy |
