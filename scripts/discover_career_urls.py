@@ -78,7 +78,11 @@ def save_cache(cache):
 
 def load_known_url_map() -> dict[str, list[str]]:
     out: dict[str, list[str]] = {}
-    for filename in ("known_career_urls.yaml", "b3_slug_aliases.yaml"):
+    for filename in (
+        "known_career_urls.yaml",
+        "global_startups_career_urls.yaml",
+        "b3_slug_aliases.yaml",
+    ):
         path = ROOT / "data/seeds" / filename
         if not path.exists():
             continue
