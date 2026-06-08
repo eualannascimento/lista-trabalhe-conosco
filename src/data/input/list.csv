@@ -568,7 +568,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Involves,Serviços e Outros,InHire,https://involves.inhire.app/vagas
 1,2025-01-20,Ipiranga,Serviços e Outros,Gupy,https://ipiranga.gupy.io
 1,2026-02-20,iPlace,Serviços e Outros,Gupy,https://iplace.gupy.io
-1,2026-05-21,IPSEN,Saúde,TeamTailor,https://ipsen.teamtailor.com
+0,2026-05-21,IPSEN,Saúde,TeamTailor,https://ipsen.teamtailor.com
 1,2025-01-20,IQVIA,Serviços e Outros,Plataforma Interna,https://jobs.iqvia.com/en/search-jobs
 1,2026-02-19,Irani Papel e Embalagem,Serviços e Outros,Gupy,https://carreiras.gupy.io/iranipapeleembalagem
 1,2026-02-19,Isa CTEEP,Serviços e Outros,Gupy,https://carreiras.gupy.io/isacteep
@@ -835,7 +835,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-01-20,Proton,Tecnologia,Greenhouse,https://job-boards.eu.greenhouse.io/proton
 1,2025-01-23,PUC-SP,Educação,Gupy,https://pucsp.gupy.io
 1,2025-01-23,PwC Global,Serviços e Outros,Workday,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers
-0,2025-01-23,PwC Portugal,Serviços e Outros,CSOD,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal
+1,2025-01-23,PwC Portugal,Serviços e Outros,CSOD,https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal
 1,2026-02-19,Qatar Airways,Serviços e Outros,Site da Empresa,https://careers.qatarairways.com/global/en
 1,2026-02-20,QCA,Serviços e Outros,Gupy,https://qca.gupy.io
 1,2026-02-19,QI Tech,Financeiro,InHire,https://qitech.inhire.app
