@@ -108,7 +108,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2025-03-18,Aztec,Tecnologia,Gupy,https://carreiras.gupy.io/aztec
 1,2026-02-19,Azul,Serviços e Outros,Gupy,https://voeazul.gupy.io
 1,2026-02-19,B3,Financeiro,Gupy,https://carreiras.gupy.io/b3
-1,2026-02-19,Bacio di Latte,Serviços e Outros,Vagas,https://baciodilatte.com.br/carreiras
+1,2026-02-19,Bacio di Latte,Serviços e Outros,Site da Empresa,https://baciodilatte.com.br/carreira-bacio-di-latte/
 1,2026-02-19,Bahema Educação,Educação,Gupy,https://carreiras.gupy.io/bahemaeducao
 1,2025-01-23,Ball,Indústria,Plataforma Interna,https://jobs.ball.com/corp_packaging/search
 1,2023-02-26,Banco ABC,Financeiro,Gupy,https://abcbrasil.gupy.io
@@ -794,7 +794,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Paramount,Serviços e Outros,Workday,https://careers.paramount.com
 1,2025-01-23,Paraná Banco,Financeiro,Quickin,https://jobs.quickin.io/paranabanco/jobs
 1,2023-02-26,Paschoalotto,Serviços e Outros,Gupy,https://paschoalotto.gupy.io
-1,2026-02-22,Passbolt,Tecnologia,InHire,https://passbolt.inhire.com.br
+1,2026-02-22,Passbolt,Tecnologia,Site da Empresa,https://careers.passbolt.com/openings
 1,2025-01-20,Payclip,Financeiro,Plataforma Interna,https://payclip.bamboohr.com/careers
 1,2025-01-23,Paypal,Financeiro,Eightfold,https://paypal.eightfold.ai/careers
 1,2026-02-19,PepsiCo,Serviços e Outros,Kenexa,https://www.pepsicojobs.com/main
@@ -868,7 +868,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Rede DOr São Luiz,Saúde,Vagas,https://www.vagas.com.br/vagas-de-rededor
 1,2026-02-20,Redepharma Brasil,Serviços e Outros,Gupy,https://redepharma.gupy.io
 1,2025-03-18,Remotecom,Tecnologia,Greenhouse,https://job-boards.greenhouse.io/remotecom
-1,2026-05-21,Renault,Indústria,TeamTailor,https://renault.teamtailor.com
+1,2026-05-21,Renault,Indústria,Workday,https://alliancewd.wd3.myworkdayjobs.com/pt-BR/renault-group-careers
 1,2026-02-20,Renner Lojas Br,Varejo e Consumo,Gupy,https://renner.gupy.io
 1,2026-05-21,Reprograma,Educação,Gupy,https://reprograma.gupy.io
 1,2026-05-20,Reserva,Serviços e Outros,Gupy,https://reserva.gupy.io
