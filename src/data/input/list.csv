@@ -159,7 +159,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Bemobi,Tecnologia,Gupy,https://bemobi.gupy.io
 1,2025-03-18,Beyond 101,Tecnologia,Workable,https://apply.workable.com/beyond-101
 1,2026-02-19,BHS,Tecnologia,Gupy,https://bhs.gupy.io
-1,2026-05-21,Bibi,Serviços e Outros,TeamTailor,https://bibi.teamtailor.com
+0,2026-05-21,Bibi,Serviços e Outros,TeamTailor,https://bibi.teamtailor.com
 1,2026-05-21,Big Ben,Saúde,Gupy,https://bigben.gupy.io
 1,2026-02-19,Biolab,Saúde,Gupy,https://carreiras.gupy.io/biolab
 1,2026-05-21,Biotrop,Serviços e Outros,Gupy,https://biotrop.gupy.io
@@ -280,7 +280,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-05-21,Colliers,Serviços e Outros,Gupy,https://colliers.gupy.io
 1,2026-02-19,Comercial Zaffari,Serviços e Outros,Gupy,https://carreiras.gupy.io/comercialzaffari
 1,2026-05-21,Compass UOL,Tecnologia,Gupy,https://compassuol.gupy.io
-1,2026-06-05,Concentrix,Serviços e Outros,Site da Empresa,https://jobs.concentrix.com
+0,2026-06-05,Concentrix,Serviços e Outros,Site da Empresa,https://jobs.concentrix.com
 1,2026-02-19,Condor Super Center,Serviços e Outros,Gupy,https://condor.gupy.io
 1,2026-05-21,Conductor,Tecnologia,Gupy,https://conductor.gupy.io
 1,2026-02-19,ConectCar,Serviços e Outros,Gupy,https://conectcar.gupy.io
@@ -527,7 +527,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-20,Henry Schein Brasil,Saúde,Gupy,https://henryschein.gupy.io
 1,2023-02-26,Hering,Serviços e Outros,Gupy,https://ciahering.gupy.io
 1,2026-05-21,Heringer,Serviços e Outros,Gupy,https://heringer.gupy.io
-1,2026-05-21,Hewlett Packard Enterprise,Tecnologia,TeamTailor,https://hewlettpackardenterprise.teamtailor.com
+0,2026-05-21,Hewlett Packard Enterprise,Tecnologia,TeamTailor,https://hewlettpackardenterprise.teamtailor.com
 1,2026-02-19,Hidrovias do Brasil,Serviços e Outros,Gupy,https://hidrovias.gupy.io
 1,2026-02-19,Hilton,Serviços e Outros,Site da Empresa,https://jobs.hilton.com
 1,2026-02-19,Hinode,Serviços e Outros,Gupy,https://carreiras.gupy.io/hinode
@@ -984,7 +984,7 @@ Status da URL,Data de Entrada,Nome da Empresa,Segmento da Empresa,Plataforma,URL
 1,2026-02-19,Tecnisa,Serviços e Outros,Gupy,https://tecnisa.gupy.io
 1,2026-02-19,Tegma,Serviços e Outros,Gupy,https://tegma.gupy.io
 1,2026-02-19,Telefônica Brasil (Vivo),Energia e Utilities,Gupy,https://vivo.gupy.io
-1,2026-05-21,Teleperformance,Serviços e Outros,TeamTailor,https://teleperformance.teamtailor.com
+0,2026-05-21,Teleperformance,Serviços e Outros,TeamTailor,https://teleperformance.teamtailor.com
 1,2026-02-20,Telhanorte,Serviços e Outros,Vagas,https://www.vagas.com.br/vagas-de-telhanorte
 1,2025-03-22,Telus Digital BR,Tecnologia,Greenhouse,https://telusdigital.com/careers
 1,2026-02-19,Tembici,Serviços e Outros,Gupy,https://carreiras.gupy.io/tembici
