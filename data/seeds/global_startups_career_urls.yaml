@@ -1,0 +1,68 @@
+# === Startups globais / remote-friendly (seed separado) ===
+# Fonte: lista curada (jun/2026) — Ashby, Lever, Greenhouse, Workable, YC
+# Critério: HTTP 200 + portal com vagas ativas (sem exigência de operação BR)
+# Não misturar com known_career_urls.yaml (empresas grandes BR)
+
+companies:
+# --- Tecnologia ---
+- name: AirGarage
+  macro: Tecnologia
+  urls:
+  - https://www.airgarage.com/careers
+  - https://jobs.ashbyhq.com/airgarage
+- name: ChartHop
+  macro: Tecnologia
+  urls:
+  - https://www.charthop.com/careers
+  - https://jobs.ashbyhq.com/charthop
+- name: Crux
+  macro: Tecnologia
+  urls:
+  - https://www.cruxclimate.com/careers
+- name: Doxel.ai
+  macro: Tecnologia
+  urls:
+  - https://www.doxel.ai/careers
+- name: EngFlow
+  macro: Tecnologia
+  urls:
+  - https://www.engflow.com/company/careers
+- name: Flow Blockchain
+  macro: Tecnologia
+  urls:
+  - https://flow.com/careers
+- name: Gensyn
+  macro: Tecnologia
+  urls:
+  - https://boards.greenhouse.io/gensyn
+  - https://www.gensyn.ai/careers
+- name: Infinite Athlete
+  macro: Tecnologia
+  urls:
+  - https://infiniteathlete.ai/careers
+- name: Kaizen Labs
+  macro: Tecnologia
+  urls:
+  - https://www.kaizenlabs.co/careers
+- name: Knownwell
+  macro: Tecnologia
+  urls:
+  - https://www.knownwell.co/careers
+
+# --- Saúde ---
+- name: Bold
+  macro: Saúde
+  urls:
+  - https://www.agebold.com/careers
+  - https://boards.greenhouse.io/bold
+
+# --- Mídia e Entretenimento ---
+- name: Everyrealm
+  macro: Mídia e Entretenimento
+  urls:
+  - https://www.everyrealm.com/careers
+  - https://apply.workable.com/everyrealm
+- name: Gym Class
+  macro: Mídia e Entretenimento
+  urls:
+  - https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs
